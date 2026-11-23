@@ -17,7 +17,9 @@ Identificador de la licitación: `INAP-050-AS-2023-000277-PEA`
 
 La [captura del PCAP](evidencias/ej01_configuracion-sobre_20261123-1951.png) acredita el sobre único guardado. Chrome recibió el lanzador JNLP al pulsar «Simular presentación». Sigue pendiente abrirlo con Java Web Start y comprobar la vista del licitador.
 
-Se creó el expediente con CPV 79419000, 28.452,10 € sin IVA y 34.427,04 € con IVA, cuatro meses de ejecución, tres criterios automáticos de 49, 25 y 26 puntos y un sobre único con declaración responsable y los documentos de oferta. El plazo publicado vence el 28/11/2026 a las 20:00. Pendiente contrastar la acreditación de solvencia de los apartados 4.2 y 4.3 del Anexo I y el resultado del simulador.
+Se creó el expediente con CPV 79419000, 28.452,10 € sin IVA y 34.427,04 € con IVA, cuatro meses de ejecución, tres criterios automáticos de 49, 25 y 26 puntos y un sobre único con declaración responsable y los documentos de oferta. El plazo publicado vence el 28/11/2026 a las 20:00.
+
+En **PCAP → Condiciones de admisión de candidatos → Requisitos previos de participación** se guardaron y comprobaron los dos umbrales del Anexo I. La solvencia económica exige **28.452,10 €** de cifra anual de negocio en el ejercicio de mayor volumen de los tres últimos concluidos. La técnica exige **19.916,47 €** en servicios similares en el año de mayor ejecución de los tres últimos. Las descripciones remiten a los apartados 4.2 y 4.3 del PCAP. La columna «Acreditación» de los dos registros quedó «Sin definir». Los documentos exigidos se detallan en el PCAP y en el [inventario del sobre](documentos/borrador-oferta.md).
 
 **Texto para el Campus:**
 ```
