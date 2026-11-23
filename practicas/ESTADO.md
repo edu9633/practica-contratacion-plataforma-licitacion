@@ -30,9 +30,10 @@ El usuario indica que el Campus cierra el 23/11/2026. Los plazos posteriores que
 Recalcular el plazo del abierto a partir de la fecha efectiva de publicación.
 
 ## Pasos que necesitan al usuario
-- Operadores económicos: completar el CAPTCHA de alta de las cuentas de formación o facilitar acceso a cuentas de formación ya activas. La primera oferta debe presentarse antes del 28/11/2026 a las 20:00.
+- **Campus INAP.** Entregar el [contrato menor](00-contrato-menor/ENTREGA.md) con el texto y las evidencias que ya están preparados.
+- **Operadores económicos.** En la zona Empresas de preproducción, completar el CAPTCHA de alta de una cuenta de formación para el simplificado. Para las dos ofertas del abierto se necesitan dos cuentas de formación. También sirven cuentas ya activas. El plazo de oferta del simplificado termina el 28/11/2026 a las 20:00 en la Plataforma de formación.
 - Mesa del módulo 2: la incorporación está autorizada. El alta de presidencia y vocalías exige los identificadores de los usuarios de formación que ocuparán esos cargos.
-- Ofertas, sesiones y firmas que exijan certificado: facilitar el certificado de pruebas y las utilidades requeridas, o realizar esos pasos desde un equipo preparado.
+- **Firma en preproducción.** Facilitar el certificado de pruebas de los tutores por un canal privado o realizar la firma desde un equipo con las utilidades del curso. La primera firma pendiente es la oferta del simplificado. Los [modelos y el detalle del sobre](02-abierto-simplificado/documentos/borrador-oferta.md) están en el repositorio.
 
 ## Diario
 - 23/11/2026. Contrato menor `INAP-050-CM-2026-01` publicado a las 16:40. Evidencia del órgano de contratación guardada. El usuario confirmó la referencia CNMC 230278 para el abierto.
@@ -48,3 +49,4 @@ Recalcular el plazo del abierto a partir de la fecha efectiva de publicación.
 - 23/11/2026. Se intentó enviar y firmar la convocatoria del simplificado. La Plataforma mostró «No se pudo conectar con AutoFirma» y la sesión permaneció en estado «Creada».
 - 23/11/2026. La planificación del abierto muestra cinco actos. Se fijó provisionalmente la apertura administrativa el 30/11/2026 y se creó la sesión `INAP-050-AB-M5-ADMIN` a las 11:00. La Plataforma impidió incorporar el acto porque el sobre aún no está publicado.
 - 23/11/2026. Verificados al reabrir el abierto la presentación electrónica, la mesa asignada, la duración de 36 meses, la solvencia, los cinco criterios y los documentos de los tres sobres. Capturas de criterios y sobres archivadas. Sigue pendiente la comprobación desde el simulador.
+- 23/11/2026. Descargados y comprobados los modelos oficiales de adscripción de medios (IX) y declaración responsable (X) para el sobre único del simplificado. Modelos archivados en el repositorio. La oferta sigue pendiente de cumplimentación con el operador, acreditaciones, firma y envío.
