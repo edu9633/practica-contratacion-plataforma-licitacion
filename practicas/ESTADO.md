@@ -7,7 +7,7 @@ Estados: ⬜ pendiente · 🔄 en curso · ✅ listo para entregar · 📤 entre
 | Requisito | — | Órgano de asistencia del módulo 2 (mesa + secretario) | 🔄 | — | Mesa y rol Secretario visibles. Pendiente comprobar miembros. |
 | Requisito | — | ≥2 operadores económicos ficticios | ⬜ | — | |
 | Requisito | — | Certificado de pruebas + AutoFirma + Java en el navegador del agente | ⛔ | — | No se encontró certificado personal vigente con clave privada en el almacén del usuario, AutoFirma en la ruta estándar ni Java en PATH. |
-| 00 Contrato menor | 1 | Crear, publicar y verificar (OC y vista pública) | 🔄 | INAP-050-CM-2026-01 | Adjudicación publicada y visible como órgano de contratación. Falta la vista sin sesión de Organismos. |
+| 00 Contrato menor | 1 | Crear, publicar y verificar (OC y vista pública) | ✅ | INAP-050-CM-2026-01 | Adjudicación visible como órgano de contratación y en el buscador público sin sesión de Organismos. Texto y evidencias en `ENTREGA.md`. |
 | 01 Abierto | 1 | Configuración (M3) | 🔄 | — | PCAP, PPT y memoria de CNMC 230278 descargados. Pendiente crear el expediente. |
 | 01 Abierto | 2 | Anuncio de licitación DOUE/BOE, pliegos, memoria (M4) | ⬜ | | |
 | 01 Abierto | 3 | Pregunta/respuesta + ofertas (M4) | ⬜ | | |
@@ -26,9 +26,9 @@ Estados: ⬜ pendiente · 🔄 en curso · ✅ listo para entregar · 📤 entre
 | 02 Simplificado | | | |
 
 ## Pasos que necesitan al usuario
-- Vista pública del contrato menor: abrir el entorno de formación en incógnito e introducir solo la autenticación HTTP del entorno.
 - Ofertas, sesiones y firmas que exijan certificado: facilitar el certificado de pruebas y las utilidades requeridas, o realizar esos pasos desde un equipo preparado.
 
 ## Diario
 - 23/11/2026. Contrato menor `INAP-050-CM-2026-01` publicado a las 16:40. Evidencia del órgano de contratación guardada. El usuario confirmó la referencia CNMC 230278 para el abierto.
 - 23/11/2026. Descargados los documentos de referencia del abierto y del simplificado. Se perdió el control de la pestaña de formación durante la preparación. Antes de seguir, recuperar la sesión de Organismos y comprobar los miembros de la mesa de contratación.
+- 23/11/2026. Verificada y documentada la vista pública del contrato menor. La sesión anónima del entorno funciona. El control de la pestaña autenticada de Chrome sigue sin estar disponible.
