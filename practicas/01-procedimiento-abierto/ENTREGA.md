@@ -23,8 +23,8 @@ Perfil de contratante: `OC_INAP_26_AVAN_SEPT_050`
 - Se registraron la solvencia de 110.443,94 € y 51.540,50 €, los criterios de 8, 36, 5, 47 y 4 puntos, y los tres sobres del PCAP. Se verificó el guardado de los tres sobres. Falta revisar el resultado del simulador.
 **Texto para el Campus:**
 ```
-Perfil de contratante: 
-Identificador de la licitación: 
+Perfil de contratante: OC_INAP_26_AVAN_SEPT_050
+Identificador de la licitación: INAP-050-AB-230278
 ```
 
 ## Ejercicio 2 — Convocatoria (M4)

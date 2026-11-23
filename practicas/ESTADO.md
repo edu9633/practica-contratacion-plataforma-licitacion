@@ -8,13 +8,13 @@ Estados: ⬜ pendiente · 🔄 en curso · ✅ listo para entregar · 📤 entre
 | Requisito | — | ≥2 operadores económicos ficticios | ⛔ | — | El alta de Empresas exige introducir manualmente los caracteres de un CAPTCHA. No se crearon cuentas. |
 | Requisito | — | Certificado de pruebas + AutoFirma + Java en el navegador del agente | ⛔ | — | No se encontró certificado personal vigente con clave privada en el almacén del usuario, AutoFirma en la ruta estándar ni Java en PATH. |
 | 00 Contrato menor | 1 | Crear, publicar y verificar (OC y vista pública) | ✅ | INAP-050-CM-2026-01 | Adjudicación visible como órgano de contratación y en el buscador público sin sesión de Organismos. Texto y evidencias en `ENTREGA.md`. |
-| 01 Abierto | 1 | Configuración (M3) | 🔄 | INAP-050-AB-230278 | Verificado el guardado de los tres sobres y de los enlaces de PCAP y PPT. El simulador no dejó visible el contenido. |
+| 01 Abierto | 1 | Configuración (M3) | 🔄 | INAP-050-AB-230278 | Verificado el guardado de los tres sobres y de los enlaces de PCAP y PPT. Falta ejecutar el simulador Java Web Start. |
 | 01 Abierto | 2 | Anuncio de licitación DOUE/BOE, pliegos, memoria (M4) | ⛔ | INAP-050-AB-230278 | Validación de Plataforma sin errores. El servicio DOUE falló al generar la previsualización. La convocatoria no se ha publicado. |
 | 01 Abierto | 3 | Pregunta/respuesta + ofertas (M4) | ⬜ | | |
 | 01 Abierto | 4 | Sesiones, apertura, subsanación, valoración, propuesta (M5) | ⛔ | INAP-050-AB-230278 | Tras recibir ofertas y vencer el plazo, se requiere completar la mesa y disponer de certificado de pruebas. |
 | 01 Abierto | 5 | Requerimiento, adjudicación, firma, formalización (M6) | ⬜ | | |
 | 01 Abierto | 6 | Modificación de contrato (M6) | ⬜ | | |
-| 02 Simplificado | 1 | Configuración (M3) | 🔄 | INAP-050-AS-2023-000277-PEA | Expediente creado. Mesa, duración, tres criterios y sobre único con documentación cargados. Pendiente revisar el simulador y contrastar los requisitos con el pliego. |
+| 02 Simplificado | 1 | Configuración (M3) | 🔄 | INAP-050-AS-2023-000277-PEA | Mesa, duración, tres criterios y sobre único con documentación cargados. Chrome recibió el lanzador JNLP, pero el simulador no se abrió. |
 | 02 Simplificado | 2 | Anuncio de licitación y pliegos + oferta (M4) | ⛔ | INAP-050-AS-2023-000277-PEA | Convocatoria y pliegos publicados y verificados en público con el PCAP, PPT y anexos III y IV. Queda presentar la oferta con un operador registrado y certificado de pruebas. |
 | 02 Simplificado | 3 | Apertura, valoración, propuesta + acto adicional (M5) | ⛔ | INAP-050-AS-2023-000277-PEA | Tras recibir ofertas y vencer el plazo, se requiere completar la mesa y disponer de certificado de pruebas. |
 | 02 Simplificado | 4 | Resolución (M6) — **opcional** | ⬜ | | |
@@ -40,3 +40,4 @@ Recalcular el plazo del abierto a partir de la fecha efectiva de publicación.
 - 23/11/2026. Recuperado el acceso en el navegador integrado. Enlazados los pliegos oficiales en ambos expedientes y los anexos III y IV del simplificado. Convocatoria y pliegos del simplificado publicados a las 19:17 y 19:18 y verificados sin iniciar sesión. El abierto superó la validación de Plataforma, pero falló la previsualización del DOUE.
 - 23/11/2026. Un nuevo intento confirmó la incidencia del DOUE. El formulario de alta de operadores económicos exige CAPTCHA.
 - 23/11/2026. Preparado el Anexo III del simplificado con un precio de prueba y el inventario de documentos para el sobre único. Preparados la pregunta y respuesta y los datos de dos ofertas de prueba del abierto, incluida la subsanación prevista. Los borradores quedan pendientes de firma y envío.
+- 23/11/2026. Verificada la descarga del lanzador JNLP de la herramienta de simulación en Chrome. No se encontró un lanzador Java Web Start instalado. Guardada la captura del sobre único. Las configuraciones del módulo 3 figuran sin envío en el Campus.

@@ -15,12 +15,14 @@ Identificador de la licitación: `INAP-050-AS-2023-000277-PEA`
 - [ ] Requisitos, criterios y sobre(s) según el pliego
 - [ ] Simulador revisado (captura)
 
+La [captura del PCAP](evidencias/ej01_configuracion-sobre_20261123-1951.png) acredita el sobre único guardado. Chrome recibió el lanzador JNLP al pulsar «Simular presentación». Sigue pendiente abrirlo con Java Web Start y comprobar la vista del licitador.
+
 Se creó el expediente con CPV 79419000, 28.452,10 € sin IVA y 34.427,04 € con IVA, cuatro meses de ejecución, tres criterios automáticos de 49, 25 y 26 puntos y un sobre único con declaración responsable y los documentos de oferta. El plazo publicado vence el 28/11/2026 a las 20:00. Pendiente contrastar la acreditación de solvencia de los apartados 4.2 y 4.3 del Anexo I y el resultado del simulador.
 
 **Texto para el Campus:**
 ```
-Órgano de contratación: 
-Identificador de la licitación: 
+Órgano de contratación: OC_INAP_26_AVAN_SEPT_050
+Identificador de la licitación: INAP-050-AS-2023-000277-PEA
 ```
 
 ## Ejercicio 2 — Convocatoria (M4)
