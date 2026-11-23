@@ -21,6 +21,8 @@ Se creó el expediente con CPV 79419000, 28.452,10 € sin IVA y 34.427,04 € c
 
 En **PCAP → Condiciones de admisión de candidatos → Requisitos previos de participación** se guardaron y comprobaron los dos umbrales del Anexo I. La solvencia económica exige **28.452,10 €** de cifra anual de negocio en el ejercicio de mayor volumen de los tres últimos concluidos. La técnica exige **19.916,47 €** en servicios similares en el año de mayor ejecución de los tres últimos. Las descripciones remiten a los apartados 4.2 y 4.3 del PCAP. La columna «Acreditación» de los dos registros quedó «Sin definir». Los documentos exigidos se detallan en el PCAP y en el [inventario del sobre](documentos/borrador-oferta.md).
 
+En **Sobre único → Contenido del sobre** se confirmó la declaración responsable asociada a los cuatro requisitos de capacidad y las entradas para los anexos III, IV y IX y la inscripción registral. Se guardaron y comprobaron al reabrir los textos de ayuda del Anexo IX (tres perfiles, incluida la coordinación, y acreditaciones mínimas) y del registro (certificado o acuse previo al cierre con la declaración exigida). También figura una entrada genérica «Oferta económica» junto al Anexo III específico. Queda pendiente comprobar cómo la presenta el simulador.
+
 **Texto para el Campus:**
 ```
 Órgano de contratación: OC_INAP_26_AVAN_SEPT_050
