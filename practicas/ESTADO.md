@@ -16,7 +16,7 @@ Estados: ⬜ pendiente · 🔄 en curso · ✅ listo para entregar · 📤 entre
 | 01 Abierto | 6 | Modificación de contrato (M6) | ⬜ | | |
 | 02 Simplificado | 1 | Configuración (M3) | 🔄 | INAP-050-AS-2023-000277-PEA | Mesa, duración, tres criterios y sobre único con documentación cargados. Chrome recibió el lanzador JNLP, pero el simulador no se abrió. |
 | 02 Simplificado | 2 | Anuncio de licitación y pliegos + oferta (M4) | ⛔ | INAP-050-AS-2023-000277-PEA | Convocatoria y pliegos publicados y verificados en público con el PCAP, PPT y anexos III y IV. Queda presentar la oferta con un operador registrado y certificado de pruebas. |
-| 02 Simplificado | 3 | Apertura, valoración, propuesta + acto adicional (M5) | ⛔ | INAP-050-AS-2023-000277-PEA | Tras recibir ofertas y vencer el plazo, se requiere completar la mesa y disponer de certificado de pruebas. |
+| 02 Simplificado | 3 | Apertura, valoración, propuesta + acto adicional (M5) | 🔄 | INAP-050-AS-2023-000277-PEA | Sesión `INAP-050-AS-M5-20261130` creada para el 30/11/2026 a las 13:00. Cuatro actos en agenda. Pendiente convocar y celebrar, con ofertas, mesa completa y certificado. |
 | 02 Simplificado | 4 | Resolución (M6) — **opcional** | ⬜ | | |
 
 ## Plazos de presentación de ofertas
@@ -41,3 +41,4 @@ Recalcular el plazo del abierto a partir de la fecha efectiva de publicación.
 - 23/11/2026. Un nuevo intento confirmó la incidencia del DOUE. El formulario de alta de operadores económicos exige CAPTCHA.
 - 23/11/2026. Preparado el Anexo III del simplificado con un precio de prueba y el inventario de documentos para el sobre único. Preparados la pregunta y respuesta y los datos de dos ofertas de prueba del abierto, incluida la subsanación prevista. Los borradores quedan pendientes de firma y envío.
 - 23/11/2026. Verificada la descarga del lanzador JNLP de la herramienta de simulación en Chrome. No se encontró un lanzador Java Web Start instalado. Guardada la captura del sobre único. Las configuraciones del módulo 3 figuran sin envío en el Campus.
+- 23/11/2026. Creada y verificada como secretario la sesión `INAP-050-AS-M5-20261130` del simplificado. Agenda guardada con apertura, valoración, ruegos y preguntas y propuesta de adjudicación. La sesión no está convocada y los cuatro actos figuran como no celebrados.
