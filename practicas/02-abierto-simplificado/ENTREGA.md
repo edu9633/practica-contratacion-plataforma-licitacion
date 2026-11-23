@@ -1,17 +1,21 @@
 # Práctica 02 — Procedimiento abierto simplificado (obligatorio hasta el ejercicio 3)
 
 Enunciado: `enunciados/02_abierto-simplificado.txt` · Referencia: expediente 2023/000277-PEA de la Diputación Provincial de Sevilla
-Pliegos descargados en `documentos/`: [ ] PCAP [ ] PPT [ ] anexos
-Número de sobres: único (adm. + cuantificables automáticamente) / dos
+Pliegos descargados en `documentos/`: PCAP, PPT, anexos III y IV y memoria justificativa.
 
-Identificador de la licitación: 
-Órgano de contratación: 
+Número de sobres: uno, de documentación administrativa y criterios cuantificables automáticamente.
+
+Identificador de la licitación: `INAP-050-AS-2023-000277-PEA`
+
+Órgano de contratación: `OC_INAP_26_AVAN_SEPT_050`
 
 ## Ejercicio 1 — Configuración (M3)
 - [ ] Procedimiento Abierto simplificado con los datos del pliego
-- [ ] «Electrónica a través de la Plataforma» + mesa del módulo 2
+- [x] «Electrónica a través de la Plataforma» y mesa del módulo 2 asignada. Pendiente completar su composición para las sesiones.
 - [ ] Requisitos, criterios y sobre(s) según el pliego
 - [ ] Simulador revisado (captura)
+
+Se creó el expediente con CPV 79419000, 28.452,10 € sin IVA y 34.427,04 € con IVA, cuatro meses de ejecución, tres criterios automáticos de 49, 25 y 26 puntos y un sobre único con declaración responsable y los documentos de oferta. Se fijó un plazo provisional del 27/11/2026 a las 14:00. Pendiente contrastar la acreditación de solvencia de los apartados 4.2 y 4.3 del Anexo I y el resultado del simulador.
 
 **Texto para el Campus:**
 ```

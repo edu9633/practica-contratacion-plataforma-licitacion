@@ -1,15 +1,16 @@
 # Práctica 01 — Procedimiento abierto (obligatorio en todas sus fases)
 
 Enunciado: `enunciados/01_procedimiento-abierto_v-<versión>.txt` (versión en `../datos-comunes.md`)
-Pliegos de referencia descargados en `documentos/`: [ ] PCAP [ ] PPT [ ] anexos
+Pliegos de referencia descargados en `documentos/`: PCAP, PPT y memoria justificativa.
 
-Identificador de la licitación: 
-Perfil de contratante: 
+Identificador de la licitación: `INAP-050-AB-230278`
+
+Perfil de contratante: `OC_INAP_26_AVAN_SEPT_050`
 
 ## Ejercicio 1 — Configuración (M3)
 - [ ] Datos básicos del expediente según el pliego (objeto, CPV, presupuesto, valor estimado, lotes, duración)
-- [ ] Presentación «Electrónica a través de la Plataforma»
-- [ ] Mesa: órgano de asistencia del módulo 2
+- [x] Presentación «Electrónica a través de la Plataforma»
+- [x] Mesa asignada: órgano de asistencia del módulo 2. Pendiente completar su composición para las sesiones.
 - [ ] Requisitos de participación (solvencia, etc.)
 - [ ] Criterios de adjudicación con ponderaciones del pliego
 - [ ] Sobres electrónicos según el pliego
@@ -17,6 +18,9 @@ Perfil de contratante:
 - [ ] Simulador de presentación revisado y coherente con el pliego (captura)
 
 **Supuestos:**
+
+- Se creó el expediente con CPV 72320000, 182.551,95 € sin IVA, 220.887,86 € con IVA y 304.253,25 € de valor estimado. Se cargaron 36 meses de ejecución y el plazo provisional del 27/11/2026 a las 14:00.
+- Se registraron la solvencia de 110.443,94 € y 51.540,50 €, los criterios de 8, 36, 5, 47 y 4 puntos, y los tres sobres del PCAP. Falta verificar el guardado global y el resultado del simulador antes de dar el ejercicio por listo.
 **Texto para el Campus:**
 ```
 Perfil de contratante: 

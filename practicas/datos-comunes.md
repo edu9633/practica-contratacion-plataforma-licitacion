@@ -8,9 +8,8 @@
 
 ## Órgano de asistencia (mesa) — módulo 2
 - Nombre: `mesa de contratación del OC_INAP_26_AVAN_SEPT_050`
-- Miembros y cargos:
-- Usuario secretario: _(solo el nombre, sin contraseña)_
-- ¿Verificado en la Plataforma? El selector de contexto muestra la mesa y el rol Secretario. Pendiente comprobar miembros.
+- Miembros y cargos: un usuario asignado como secretario. Presidencia, vocalía de intervención y vocalía de servicios jurídicos están vacantes.
+- ¿Verificado en la Plataforma? Sí. Mesa activa. Composición comprobada en Administración → Gestión de Órganos de Asistencia → Usuarios.
 
 ## Operadores económicos ficticios
 | Nº | Razón social | Correo maildrop | Uso previsto |
