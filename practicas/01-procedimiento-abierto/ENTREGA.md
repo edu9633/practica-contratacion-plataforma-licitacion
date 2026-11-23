@@ -48,6 +48,7 @@ Identificador de la licitación:
 ```
 
 ## Ejercicio 3 — Pregunta/respuesta y ofertas (M4)
+- [x] Preparados los dos anexos económicos y las dos memorias técnicas en PDF, con el modelo administrativo del Anexo VIII. [Documentos y reparto por sobres](documentos/borradores-m4.md).
 - [ ] Pregunta hecha por un operador económico
 - [ ] Pregunta respondida y publicada
 - [ ] Oferta presentada por OE1 (justificante)

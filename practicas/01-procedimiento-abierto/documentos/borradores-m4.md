@@ -21,8 +21,8 @@ Los principales están por debajo de 182.551,95 €. El límite de mejoras del 0
 
 ## Contenido por archivo
 
-1. **Administrativo.** DEUC y declaración responsable del Anexo VIII. Preparar la oferta B con el DEUC firmado y el Anexo VIII inicialmente omitido para practicar la subsanación. Conservar el Anexo VIII de la oferta B para aportarlo cuando se solicite.
-2. **Técnico.** La memoria de prueba puede organizarse en cinco tareas, siguiendo los máximos del apartado 12.2.1. Validar la carga y el registro de datos, analizar su coherencia, contrastar sistemas, actualizar listados y preparar estadísticas. Describir responsables, controles de acceso, revisión de incidencias y evidencias de aceptación. Para las mejoras, proponer un inventario digital de expedientes y una actualización de las estadísticas con definiciones reproducibles. Mantener separada la información económica.
-3. **Automático.** Usar una copia del Anexo II del PCAP por licitador, con su precio, IVA y mejora social de la tabla. Completar los datos de los operadores de formación y firmar.
+1. **Administrativo.** DEUC y [modelo del Anexo VIII](modelo-anexo-viii-declaracion-complementaria.pdf), extraído de las páginas 97 a 99 del PCAP. Cumplimentar los datos y las declaraciones que correspondan a cada operador. El apartado 1 del modelo no aplica a este expediente, como indica la portada del PCAP. Para practicar la subsanación, presentar inicialmente el DEUC de B y reservar su Anexo VIII para cuando se solicite.
+2. **Técnico.** [Memoria A](borrador-memoria-tecnica-oferta-a.pdf) y [memoria B](borrador-memoria-tecnica-oferta-b.pdf). Ambas siguen el apartado 6 del PPT y cubren las cinco tareas y cinco mejoras técnicas. Completar la identificación del operador en la versión que corresponda antes de firmar.
+3. **Automático.** [Anexo II de A](borrador-anexo-ii-oferta-a.pdf) y [Anexo II de B](borrador-anexo-ii-oferta-b.pdf), sobre el modelo de las páginas 90 y 91 del PCAP. Cada PDF lleva su precio, IVA, total e importe de mejora en seguridad y salud. Completar los datos del licitador, el objeto, el expediente de formación y la firma.
 
 El envío sigue pendiente de una convocatoria publicada, dos operadores de formación registrados y un certificado válido para firmar.
