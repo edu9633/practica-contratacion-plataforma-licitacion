@@ -2,6 +2,8 @@
 
 Estados: ⬜ pendiente · 🔄 en curso · ✅ listo para entregar · 📤 entregado (lo marca el usuario) · ⛔ bloqueado
 
+El usuario indica que el Campus cierra el 23/11/2026. Los plazos posteriores que figuran más abajo corresponden a la Plataforma de formación y no amplían el plazo del Campus.
+
 | Práctica | Ej. | Descripción | Estado | ID licitación | Notas |
 |---|---|---|---|---|---|
 | Requisito | — | Órgano de asistencia del módulo 2 (mesa + secretario) | ⛔ | — | Mesa activa. Único miembro asignado: secretario. Presidencia y vocalías necesarias vacantes. |
@@ -45,3 +47,4 @@ Recalcular el plazo del abierto a partir de la fecha efectiva de publicación.
 - 23/11/2026. Se comprobó que la memoria justificativa seguía sin archivo seleccionado. Se guardó y reabrió el borrador de convocatoria del simplificado, con el lugar, el horario y el orden del día. La convocatoria no se ha enviado.
 - 23/11/2026. Se intentó enviar y firmar la convocatoria del simplificado. La Plataforma mostró «No se pudo conectar con AutoFirma» y la sesión permaneció en estado «Creada».
 - 23/11/2026. La planificación del abierto muestra cinco actos. Se fijó provisionalmente la apertura administrativa el 30/11/2026 y se creó la sesión `INAP-050-AB-M5-ADMIN` a las 11:00. La Plataforma impidió incorporar el acto porque el sobre aún no está publicado.
+- 23/11/2026. Verificados al reabrir el abierto la presentación electrónica, la mesa asignada, la duración de 36 meses, la solvencia, los cinco criterios y los documentos de los tres sobres. Capturas de criterios y sobres archivadas. Sigue pendiente la comprobación desde el simulador.

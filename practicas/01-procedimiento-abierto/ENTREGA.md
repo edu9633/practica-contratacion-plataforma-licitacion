@@ -11,9 +11,9 @@ Perfil de contratante: `OC_INAP_26_AVAN_SEPT_050`
 - [ ] Datos básicos del expediente según el pliego (objeto, CPV, presupuesto, valor estimado, lotes, duración)
 - [x] Presentación «Electrónica a través de la Plataforma»
 - [x] Mesa asignada: órgano de asistencia del módulo 2. Pendiente completar su composición para las sesiones.
-- [ ] Requisitos de participación (solvencia, etc.)
-- [ ] Criterios de adjudicación con ponderaciones del pliego
-- [ ] Sobres electrónicos según el pliego
+- [x] Capacidad, solvencia económica (110.443,94 €) y técnica (51.540,50 €) comprobadas al reabrir el expediente.
+- [x] Cinco criterios con las ponderaciones del pliego: 8, 36 y 5 puntos de juicio de valor, y 47 y 4 automáticos. [Captura](evidencias/ej01_criterios-verificados_20261123.png).
+- [x] Tres sobres guardados y comprobados desde el PCAP: administrativo (declaración y Anexo VIII), técnico (proposición técnica) y automático (Anexo II). [Captura](evidencias/ej01_sobres-verificados_20261123.png).
 - [ ] Fecha de presentación futura y próxima
 - [ ] Simulador de presentación revisado y coherente con el pliego (captura)
 
