@@ -60,6 +60,9 @@ Identificador de la licitación:
 ```
 
 ## Ejercicio 4 — Selección de licitadores (M5)
+
+- [x] Sesión provisional `INAP-050-AB-M5-ADMIN` creada para el 30/11/2026 a las 11:00. [Evidencia](evidencias/ej04_sesion-provisional_20261123.png).
+- [ ] Incorporar el acto de apertura y calificación administrativa. La Plataforma exige publicar el sobre antes de incorporarlo. Revisar el horario una vez fijado el plazo efectivo de ofertas.
 - [ ] Sesiones creadas y convocadas con el usuario secretario
 - [ ] Miembros marcados como presentes
 - [ ] Acto de apertura y calificación administrativa (un licitador admitido provisionalmente)

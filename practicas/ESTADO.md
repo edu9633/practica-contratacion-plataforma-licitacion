@@ -11,7 +11,7 @@ Estados: ⬜ pendiente · 🔄 en curso · ✅ listo para entregar · 📤 entre
 | 01 Abierto | 1 | Configuración (M3) | 🔄 | INAP-050-AB-230278 | Verificado el guardado de los tres sobres y de los enlaces de PCAP y PPT. Falta ejecutar el simulador Java Web Start. |
 | 01 Abierto | 2 | Anuncio de licitación DOUE/BOE, pliegos, memoria (M4) | ⛔ | INAP-050-AB-230278 | Validación de Plataforma sin errores. El servicio DOUE falló al generar la previsualización. La convocatoria no se ha publicado. |
 | 01 Abierto | 3 | Pregunta/respuesta + ofertas (M4) | ⬜ | | |
-| 01 Abierto | 4 | Sesiones, apertura, subsanación, valoración, propuesta (M5) | ⛔ | INAP-050-AB-230278 | Tras recibir ofertas y vencer el plazo, se requiere completar la mesa y disponer de certificado de pruebas. |
+| 01 Abierto | 4 | Sesiones, apertura, subsanación, valoración, propuesta (M5) | ⛔ | INAP-050-AB-230278 | Sesión provisional `INAP-050-AB-M5-ADMIN` creada. La Plataforma exige publicar los sobres antes de incorporar el acto de apertura. Revisar la fecha tras publicar la licitación. |
 | 01 Abierto | 5 | Requerimiento, adjudicación, firma, formalización (M6) | ⬜ | | |
 | 01 Abierto | 6 | Modificación de contrato (M6) | ⬜ | | |
 | 02 Simplificado | 1 | Configuración (M3) | 🔄 | INAP-050-AS-2023-000277-PEA | Mesa, duración, tres criterios y sobre único con documentación cargados. Chrome recibió el lanzador JNLP, pero el simulador no se abrió. |
@@ -44,3 +44,4 @@ Recalcular el plazo del abierto a partir de la fecha efectiva de publicación.
 - 23/11/2026. Creada y verificada como secretario la sesión `INAP-050-AS-M5-20261130` del simplificado. Agenda guardada con apertura, valoración, ruegos y preguntas y propuesta de adjudicación. La sesión no está convocada y los cuatro actos figuran como no celebrados.
 - 23/11/2026. Se comprobó que la memoria justificativa seguía sin archivo seleccionado. Se guardó y reabrió el borrador de convocatoria del simplificado, con el lugar, el horario y el orden del día. La convocatoria no se ha enviado.
 - 23/11/2026. Se intentó enviar y firmar la convocatoria del simplificado. La Plataforma mostró «No se pudo conectar con AutoFirma» y la sesión permaneció en estado «Creada».
+- 23/11/2026. La planificación del abierto muestra cinco actos. Se fijó provisionalmente la apertura administrativa el 30/11/2026 y se creó la sesión `INAP-050-AB-M5-ADMIN` a las 11:00. La Plataforma impidió incorporar el acto porque el sobre aún no está publicado.
