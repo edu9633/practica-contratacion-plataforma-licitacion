@@ -8,15 +8,15 @@ El usuario indica que el Campus cierra el 23/11/2026. Los plazos posteriores que
 |---|---|---|---|---|---|
 | Requisito | — | Órgano de asistencia del módulo 2 (mesa + secretario) | ⛔ | — | Mesa activa. Único miembro asignado: secretario. Presidencia y vocalías necesarias vacantes. |
 | Requisito | — | ≥2 operadores económicos ficticios | ⛔ | — | El alta de Empresas exige introducir manualmente los caracteres de un CAPTCHA. No se crearon cuentas. |
-| Requisito | — | Certificado de pruebas + AutoFirma + Java en el navegador del agente | ⛔ | — | No se encontró certificado personal vigente con clave privada en el almacén del usuario, AutoFirma en la ruta estándar ni Java en PATH. |
+| Requisito | — | Certificado de pruebas + AutoFirma + Java en el navegador del agente | ⛔ | — | Sin certificado personal vigente con clave privada ni AutoFirma en la ruta estándar. Temurin 8 e IcedTea-Web portátiles arrancan, pero el simulador queda en la carga de los recursos. |
 | 00 Contrato menor | 1 | Crear, publicar y verificar (OC y vista pública) | ✅ | INAP-050-CM-2026-01 | Adjudicación visible como órgano de contratación y en el buscador público sin sesión de Organismos. Texto y evidencias en `ENTREGA.md`. |
-| 01 Abierto | 1 | Configuración (M3) | 🔄 | INAP-050-AB-230278 | Verificado el guardado de los tres sobres y de los enlaces de PCAP y PPT. Falta ejecutar el simulador Java Web Start. |
+| 01 Abierto | 1 | Configuración (M3) | 🔄 | INAP-050-AB-230278 | Verificado el guardado de los tres sobres y de los enlaces de PCAP y PPT. El lanzador portátil se inicia. La vista de sobres del simulador sigue sin abrirse. |
 | 01 Abierto | 2 | Anuncio de licitación DOUE/BOE, pliegos, memoria (M4) | ⛔ | INAP-050-AB-230278 | Validación de Plataforma sin errores. El servicio DOUE falló al generar la previsualización. La convocatoria no se ha publicado. |
-| 01 Abierto | 3 | Pregunta/respuesta + ofertas (M4) | ⬜ | | |
+| 01 Abierto | 3 | Pregunta/respuesta + ofertas (M4) | ⛔ | INAP-050-AB-230278 | Pregunta, respuesta y ofertas de prueba preparadas. Falta publicar la convocatoria y disponer de operadores registrados. |
 | 01 Abierto | 4 | Sesiones, apertura, subsanación, valoración, propuesta (M5) | ⛔ | INAP-050-AB-230278 | Sesión provisional `INAP-050-AB-M5-ADMIN` creada. La Plataforma exige publicar los sobres antes de incorporar el acto de apertura. Revisar la fecha tras publicar la licitación. |
 | 01 Abierto | 5 | Requerimiento, adjudicación, firma, formalización (M6) | ⛔ | INAP-050-AB-230278 | Texto del requerimiento preparado. El envío exige una propuesta de adjudicación aceptada. |
 | 01 Abierto | 6 | Modificación de contrato (M6) | ⛔ | INAP-050-AB-230278 | Datos del caso de prueba preparados. El anuncio necesita un contrato formalizado. |
-| 02 Simplificado | 1 | Configuración (M3) | 🔄 | INAP-050-AS-2023-000277-PEA | Mesa, duración, tres criterios y sobre único con documentación cargados. Chrome recibió el lanzador JNLP, pero el simulador no se abrió. |
+| 02 Simplificado | 1 | Configuración (M3) | 🔄 | INAP-050-AS-2023-000277-PEA | Mesa, duración, tres criterios y sobre único con documentación cargados. El lanzador portátil se inicia. La vista del sobre en el simulador sigue sin abrirse. |
 | 02 Simplificado | 2 | Anuncio de licitación y pliegos + oferta (M4) | ⛔ | INAP-050-AS-2023-000277-PEA | Convocatoria y pliegos publicados y verificados en público con el PCAP, PPT y anexos III y IV. Queda presentar la oferta con un operador registrado y certificado de pruebas. |
 | 02 Simplificado | 3 | Apertura, valoración, propuesta + acto adicional (M5) | ⛔ | INAP-050-AS-2023-000277-PEA | Sesión `INAP-050-AS-M5-20261130` creada para el 30/11/2026 a las 13:00, con cuatro actos en agenda y texto de convocatoria guardado. El intento de envío falló en la conexión con AutoFirma. |
 | 02 Simplificado | 4 | Resolución (M6) — **opcional** | ⬜ | | |
