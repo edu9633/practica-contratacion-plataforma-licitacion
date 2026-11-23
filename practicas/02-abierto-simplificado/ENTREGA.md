@@ -31,6 +31,8 @@ Se comprobó sin iniciar sesión que ambos anuncios son visibles y que el anunci
 
 - [ ] Al menos una oferta presentada con un operador propio — fin de plazo: 
 
+[Borrador de oferta y documentación del sobre](documentos/borrador-oferta.md).
+
 **Texto para el Campus:**
 ```
 Órgano de contratación: 
