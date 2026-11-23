@@ -43,6 +43,7 @@ Identificador de la licitación:
 
 ## Ejercicio 3 — Selección de licitadores (M5)
 - [x] Sesión `INAP-050-AS-M5-20261130` creada para el 30/11/2026 a las 13:00, después del cierre de ofertas. Se verificaron en el orden del día la apertura y valoración del sobre único, ruegos y preguntas y propuesta de adjudicación. [Evidencia](evidencias/ej03_sesion-creada_20261123.png).
+- [x] Texto de convocatoria guardado y verificado al volver a abrir la pestaña. La sesión sigue en estado «Creada» y la convocatoria está pendiente de envío.
 - [ ] Apertura de criterios cuantificables automáticamente (art. 159) + valoración (o la secuencia de dos sobres)
 - [ ] Propuesta de adjudicación
 - [ ] Acto adicional: ruegos y preguntas / comunicación genérica / aprobación del acta
