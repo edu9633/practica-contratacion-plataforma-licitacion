@@ -5,7 +5,7 @@ Estados: ⬜ pendiente · 🔄 en curso · ✅ listo para entregar · 📤 entre
 | Práctica | Ej. | Descripción | Estado | ID licitación | Notas |
 |---|---|---|---|---|---|
 | Requisito | — | Órgano de asistencia del módulo 2 (mesa + secretario) | ⛔ | — | Mesa activa. Único miembro asignado: secretario. Presidencia y vocalías necesarias vacantes. |
-| Requisito | — | ≥2 operadores económicos ficticios | ⬜ | — | |
+| Requisito | — | ≥2 operadores económicos ficticios | ⛔ | — | El alta de Empresas exige introducir manualmente los caracteres de un CAPTCHA. No se crearon cuentas. |
 | Requisito | — | Certificado de pruebas + AutoFirma + Java en el navegador del agente | ⛔ | — | No se encontró certificado personal vigente con clave privada en el almacén del usuario, AutoFirma en la ruta estándar ni Java en PATH. |
 | 00 Contrato menor | 1 | Crear, publicar y verificar (OC y vista pública) | ✅ | INAP-050-CM-2026-01 | Adjudicación visible como órgano de contratación y en el buscador público sin sesión de Organismos. Texto y evidencias en `ENTREGA.md`. |
 | 01 Abierto | 1 | Configuración (M3) | 🔄 | INAP-050-AB-230278 | Verificado el guardado de los tres sobres y de los enlaces de PCAP y PPT. El simulador no dejó visible el contenido. |
@@ -15,7 +15,7 @@ Estados: ⬜ pendiente · 🔄 en curso · ✅ listo para entregar · 📤 entre
 | 01 Abierto | 5 | Requerimiento, adjudicación, firma, formalización (M6) | ⬜ | | |
 | 01 Abierto | 6 | Modificación de contrato (M6) | ⬜ | | |
 | 02 Simplificado | 1 | Configuración (M3) | 🔄 | INAP-050-AS-2023-000277-PEA | Expediente creado. Mesa, duración, tres criterios y sobre único con documentación cargados. Pendiente revisar el simulador y contrastar los requisitos con el pliego. |
-| 02 Simplificado | 2 | Anuncio de licitación y pliegos + oferta (M4) | 🔄 | INAP-050-AS-2023-000277-PEA | Convocatoria y pliegos publicados y verificados en público con el PCAP, PPT y anexos III y IV. Queda la oferta. |
+| 02 Simplificado | 2 | Anuncio de licitación y pliegos + oferta (M4) | ⛔ | INAP-050-AS-2023-000277-PEA | Convocatoria y pliegos publicados y verificados en público con el PCAP, PPT y anexos III y IV. Queda presentar la oferta con un operador registrado y certificado de pruebas. |
 | 02 Simplificado | 3 | Apertura, valoración, propuesta + acto adicional (M5) | ⛔ | INAP-050-AS-2023-000277-PEA | Tras recibir ofertas y vencer el plazo, se requiere completar la mesa y disponer de certificado de pruebas. |
 | 02 Simplificado | 4 | Resolución (M6) — **opcional** | ⬜ | | |
 
@@ -28,6 +28,7 @@ Estados: ⬜ pendiente · 🔄 en curso · ✅ listo para entregar · 📤 entre
 Recalcular el plazo del abierto a partir de la fecha efectiva de publicación.
 
 ## Pasos que necesitan al usuario
+- Operadores económicos: completar el CAPTCHA de alta de las cuentas de formación o facilitar acceso a cuentas de formación ya activas. La primera oferta debe presentarse antes del 28/11/2026 a las 20:00.
 - Mesa del módulo 2: la incorporación está autorizada. El alta de presidencia y vocalías exige los identificadores de los usuarios de formación que ocuparán esos cargos.
 - Ofertas, sesiones y firmas que exijan certificado: facilitar el certificado de pruebas y las utilidades requeridas, o realizar esos pasos desde un equipo preparado.
 
@@ -37,3 +38,4 @@ Recalcular el plazo del abierto a partir de la fecha efectiva de publicación.
 - 23/11/2026. Verificada y documentada la vista pública del contrato menor. La sesión anónima del entorno funciona. El control de la pestaña autenticada de Chrome sigue sin estar disponible.
 - 23/11/2026. Recuperado el acceso de Organismos. Creados los expedientes del abierto y el simplificado. Se verificó que la mesa activa solo tiene al secretario. El control de Chrome se interrumpió en el selector de archivos al intentar adjuntar el PCAP del abierto. La carga, el simulador y la publicación de ambos expedientes siguen pendientes de confirmación.
 - 23/11/2026. Recuperado el acceso en el navegador integrado. Enlazados los pliegos oficiales en ambos expedientes y los anexos III y IV del simplificado. Convocatoria y pliegos del simplificado publicados a las 19:17 y 19:18 y verificados sin iniciar sesión. El abierto superó la validación de Plataforma, pero falló la previsualización del DOUE.
+- 23/11/2026. Un nuevo intento confirmó la incidencia del DOUE. El formulario de alta de operadores económicos exige CAPTCHA.
