@@ -74,6 +74,24 @@ Identificador de la licitación:
 - [ ] Comunicación genérica (aclaración de la oferta técnica u oferta anormalmente baja)
 - [ ] Acta gestionada de al menos una sesión
 
+**Cálculo de prueba para contrastar la valoración**
+
+Los siguientes resultados corresponden a los [borradores A y B](documentos/borradores-m4.md). Se supone que ambas ofertas se presentan y se admiten, que B subsana el Anexo VIII y que ambas obtienen al menos 29,40 puntos en la valoración técnica. El cálculo queda pendiente de comprobar contra las ofertas y puntuaciones registradas en la Plataforma.
+
+| Oferta | Precio sin IVA | Puntos de precio (máx. 47) | Mejora de seguridad y salud sin IVA | Puntos de mejora (máx. 4) | Subtotal automático |
+|---|---:|---:|---:|---:|---:|
+| A | 180.000,00 € | 46,61 | 250,00 € | 3,33 | 49,94 |
+| B | 178.500,00 € | 47,00 | 300,00 € | 4,00 | 51,00 |
+
+- **Precio (§12.2.2 del PCAP).** Aplicar `47 × (1 − (precio ofertado − 178.500) / 178.500)`, con suelo de 0. La referencia es el menor precio admitido sin anormalidad.
+- **Mejora social (§12.2.2).** Aplicar `4 × importe de la mejora / 300`, redondeado a dos decimales. La referencia es el mayor importe admitido para esta mejora.
+- **Anormalidad (§12.5.B).** Si se admiten ambas ofertas de dos operadores independientes, la media es 179.250,00 €. Incluso el umbral más alto (75 % de la media, 134.437,50 €) queda por debajo de ambos precios. Para el acto adicional se prepara una aclaración técnica.
+- **Resultado global (§12.3).** Sumar la valoración técnica al precio y a la mejora social, conservando la precisión del cálculo de precio hasta redondear el total a dos decimales. La puntuación técnica todavía debe introducirse en el acto correspondiente antes de decidir la clasificación.
+
+**Texto para la solicitud de aclaración técnica a A**
+
+> En el apartado 3.4 de la memoria técnica se indica que se registrarán las exclusiones, las unidades y las diferencias pendientes en la conciliación de datos. Indique qué campos del registro propuesto permiten identificar la consulta de origen y quién valida el cierre de cada diferencia. La aclaración debe referirse al método ya descrito en la oferta presentada.
+
 **Texto para el Campus:**
 ```
 Perfil de contratante: 
