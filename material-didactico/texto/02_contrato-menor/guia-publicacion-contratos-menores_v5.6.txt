@@ -1,0 +1,775 @@
+                      Guía de Publicación:
+                        Contratos Menores
+
+
+
+
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+                                                                           Versión: 5.6
+
+                                                                      Fecha: 26/11/2024
+Edita:
+© Ministerio de Hacienda y Función Pública
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+El presente documento está bajo la licencia Creative Commons Reconocimiento - No
+Comercial - Compartir Igual versión 4.0 España.
+Usted es libre de:
+- Copiar, distribuir y comunicar públicamente la obra
+- Hacer obras derivadas
+Bajo las condiciones siguientes:
+- Reconocimiento. Debe reconocer los créditos de la obra de la manera especificada por el
+autor o el licenciador (pero no de una manera que sugiera que tiene su apoyo o apoyan el
+uso que hace de su obra).
+- No Comercial: Se permite que terceros copien, distribuyan, exhiban y ejecuten la obra
+licenciada —y obras derivadas basadas en ella— pero sólo para fines no comerciales.
+- Compartir bajo la misma licencia. Si altera o transforma esta obra, o genera una obra
+derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta
+obra.
+Alguna de estas condiciones puede no aplicarse si se obtiene el permiso del titular de los
+derechos de autor
+Nada en esta licencia menoscaba o restringe los derechos morales del autor.
+Esto es un resumen legible por humanos del texto legal (la licencia completa) disponible en:
+
+https://creativecommons.
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                      Pág. 2 de 29
+INDICE
+
+
+1.     OBJETO DE ESTA GUÍA .............................................................................................................. 5
+2.     GUÍAS PARA LOS ÓRGANOS DE CONTRATACIÓN ................................................................. 6
+3.  DESCRIPCIÓN DE UN CONTRATO MENOR EN LA PLATAFORMA DE CONTRATACIÓN
+DEL SECTOR PÚBLICO ........................................................................................................................ 8
+     3.1      PASO 1 - CREAR UN EXPEDIENTE PARA UN CONTRATO MENOR ................................................... 8
+     3.2      PASO 2 - INTRODUCIR EL PLAZO DE EJECUCIÓN DEL CONTRATO ................................................ 10
+     3.3      PASO 3 – INFORMACIÓN DE LAS CLÁUSULAS ADMINISTRATIVAS EN LA PESTAÑA PCAP ............... 14
+     3.4      PASO 4 - ALTA DE LA EMPRESA ADJUDICATARIA........................................................................ 14
+     3.5      PASO 5 - ADMISIÓN DE LA EMPRESA ADJUDICATARIA ................................................................ 16
+     3.6      PASO 6 - CONFIGURACIÓN DE LA RESOLUCIÓN ........................................................................ 18
+     3.7      PASO 7 - PUBLICACIÓN DEL ANUNCIO DE ADJUDICACIÓN........................................................... 23
+     3.8      PASO 8 – BÚSQUEDA DE LOS CONTRATOS MENORES CREADOS ................................................. 25
+4.     VISUALIZACIÓN DE CONTRATOS MENORES ......................................................................... 25
+     4.1      VISUALIZACIÓN DE CONTRATOS MENORES ASOCIADOS A UN PERFIL DE CONTRATANTE .............. 27
+5.     OTRAS SITUACIONES ................................................................................................................ 28
+     5.1      RECTIFICAR EL ANUNCIO PUBLICADO ....................................................................................... 28
+     5.2      ANULAR EL ANUNCIO PUBLICADO ............................................................................................. 29
+6.     CARGA AUTOMÁTICA DE CONTRATOS MENORES .............................................................. 29
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                                                         Pág. 3 de 29
+CAMBIOS DE LA VERSIÓN
+
+
+Se cambia el logo de la portada y la cabecera.
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6    Pág. 4 de 29
+1. Objeto de esta guía
+El objetivo de este documento es guiar a los usuarios del Órgano de Contratación (OC) en el
+proceso de publicación de un contrato menor. No es necesario estar familiarizado con el uso
+de la Plataforma de Contratación del Sector Público (a partir de ahora La Plataforma o
+PLACSP) para seguir esta guía.
+
+El primer apartado describe de manera general el proceso para publicar un contrato menor,
+enumerando los pasos a seguir para a continuación desarrollar cada uno de ellos.
+
+Los contratos menores presentan algunas singularidades en cuanto a la vista y publicación
+de anuncios que se tratarán en el apartado 3. Visualización de Contratos Menores.
+
+Es poco probable que se den situaciones en que sea necesario realizar otras acciones
+distintas de las indicadas en los apartados anteriores, no obstante, en el último apartado se
+plantean una serie de situaciones que pudieran darse como por ejemplo rectificar un error en
+un anuncio publicado.
+
+Se recomienda haber leído previamente las siguientes guías:
+
+   Guía general para órganos de contratación
+   Guía de Publicación del resultado de la licitación
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                Pág. 5 de 29
+2. Guías para los órganos de contratación
+La utilización de los servicios ofrecidos por la Plataforma de Contratación del Sector Público
+a los órganos de contratación se explica en un compendio de guías editadas por la Dirección
+General del Patrimonio del Estado.
+
+   Guía general para órganos de contratación
+
+    Describe los aspectos generales de la aplicación para los órganos de contratación,
+    incluyendo los servicios que se ofrecen, las pautas generales de navegación, el acceso e
+    identificación de los usuarios, y la gestión de las licitaciones del órgano.
+
+   Guía de administración de órganos de contratación
+
+    Describe las funcionalidades de las que disponen los administradores de los órganos de
+    contratación para gestionar sus usuarios, la información y documentos de carácter general
+    publicados en el perfil del contratante, reasignación de expedientes entre usuarios, archivo
+    de licitaciones, y desbloqueo de licitaciones.
+
+   Guía de Publicación de la convocatoria de licitación
+
+    Explica cómo se publican los anuncios de información previa, anuncios de licitación y
+    pliegos en el perfil del contratante. Además, también se explica cómo se pueden enviar
+    estos anuncios al Boletín Oficial del Estado y al Diario Oficial de la Unión Europea a través
+    del servicio que ofrece la Plataforma. También se explica cómo se pueden rectificar y
+    anular anuncios publicados.
+
+   Guía de gestión, admisión y exclusión de licitadores
+
+    Describe cómo dar de alta los licitadores que participan en un procedimiento de
+    adjudicación, así como la forma de indicar si han sido admitidos o excluidos en el
+    procedimiento, o si tienen que subsanar alguna documentación.
+
+   Guía de Publicación del resultado de la licitación
+
+    Explica cómo se publican los anuncios de adjudicación, formalización resultado desierto,
+    renuncia, y desistimiento.
+
+    También describe cómo enviar al BOE el anuncio de formalización, y al DOUE los
+    anuncios de formalización, transparencia previa voluntaria, desierto, renuncia y
+    desistimiento.
+
+   Guía de Publicación de contratos menores
+
+    Explica cómo publicar la información sobre los contratos menores en el perfil de
+    contratante.
+
+   Guía de Publicación de anuncios de modificación de contrato
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                    Pág. 6 de 29
+    Explicar cómo publicar anuncios sobre modificaciones de contrato en la Plataforma de
+    Contratación del Sector Público.
+
+   Guía de Rectificación y anulación de anuncios
+
+    Explica cómo rectificar y anular anuncios publicados en el perfil del contratante, en el
+    Boletín Oficial del Estado o en Diario Oficial de la Unión Europea.
+
+   Guía de Publicación de documentos relativos a una licitación
+
+    Explica cómo publicar en el perfil del contratante documentos relativos a una licitación que
+    no se corresponden con ninguno de los anuncios identificados en las restantes guías como
+    Actos públicos informativos o de apertura de ofertas, Composición de la mesa de
+    contratación,    Composición del comité de expertos, Suspensión del procedimiento,
+    Levantamiento de la suspensión del procedimiento, Mantenimiento de los efectos del
+    contrato, Declaración de nulidad.
+
+
+   Guía de Envío de comunicaciones a los licitadores
+
+    Explica cómo enviar los distintos tipos de comunicaciones electrónicas a partir de la
+    información introducida en el expediente. Los tipos de comunicaciones que se pueden
+    enviar a través de la Plataforma son la de admisión y exclusión de licitadores, invitación
+    a presentar proposición, solicitud de oferta, invitación a tomar parte en el diálogo,
+    invitación durante la fase de diálogo, invitación/solicitud a presentar oferta final,
+    requerimiento de documentación al licitador mejor clasificado, y notificación de
+    adjudicación. También se pueden enviar comunicaciones genéricas como la solicitud de
+    aclaración, la justificación de oferta anormalmente baja, la solicitud de información
+    adicional o la firma del contrato de formalización.
+
+   Guía de Gestión de preguntas de los licitadores
+
+    Explica cómo los órganos de contratación pueden hacer uso de la funcionalidad de
+    gestión de las preguntas que realizan los licitadores a través del perfil del contratante en
+    la Plataforma de Contratación del Sector Público.
+
+   Guía de consulta de datos administrativos
+
+    Explica cómo realizar consultas a registros de la Administración para verificar información
+    sobre los licitadores presentados: consulta al Registro Oficial de Licitadores y Empresas
+    Clasificadas del Estado, certificados de cumplimiento de obligaciones con la Agencia
+    Tributaria y la Seguridad Social, Servicio de Verificación de Datos de Identidad, consulta
+    a la Caja General de Depósitos.
+
+   Guía de uso de los servicios de licitación electrónica
+
+Explica cómo articular procedimientos mediante licitación electrónica para que los licitadores
+puedan presentar sus ofertas de forma electrónica a través de la Plataforma de Contratación
+del Sector Público.
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                    Pág. 7 de 29
+3. Descripción de un Contrato Menor en la Plataforma de
+   Contratación del Sector Público
+Los contratos serán tratados en la Plataforma como un expediente más, pero con un nuevo
+tipo de procedimiento: “Contrato Menor”.
+
+Al definir este tipo de procedimiento se generará un Espacio Virtual de Licitación como el
+habitual, pero con ciertas peculiaridades:
+    - No estará habilitada la publicación de anuncios previos
+    - No estará disponible la funcionalidad de Diarios Oficiales
+    - Los datos obligatorios se reducen considerablemente. Sólo será necesario introducir
+        los datos básicos que definen el expediente, el plazo de ejecución del contrato, el
+        adjudicatario, el importe de adjudicación, el número de ofertas recibidas y la fecha de
+        adjudicación.
+    - En los contratos menores sólo es necesario publicar el anuncio de adjudicación, por lo
+        tanto, no es necesario publicar el anuncio de licitación.
+
+Los contratos menores tendrán una visualización restringida en la Plataforma de tal manera,
+que sólo son visibles si se buscan específicamente. Ver el apartado 3 Visualización de
+Contratos Menores.
+
+Para proceder a la publicación de un contrato menor debe acceder a la plataforma con un
+usuario que tenga permiso para crear licitaciones y publicar anuncios, es decir, un publicador.
+A continuación, se enumeran los pasos a seguir:
+Paso 1 - Crear un expediente para un contrato Menor
+Paso 2 - Introducir el plazo de ejecución del contrato
+Paso 3 - Alta de la empresa adjudicataria
+Paso 4 - Admisión/Exclusión de la empresa adjudicataria
+Paso 5 - Configuración de la Resolución
+Paso 6 - Publicación del anuncio de adjudicación.
+
+Los pasos anteriores se detallan en los siguientes apartados.
+
+3.1    Paso 1 - Crear un expediente para un contrato Menor
+
+Para introducir un Contrato menor se debe crear un Espacio Virtual de Licitación donde se
+especifique que el tipo de Procedimiento es “Contrato Menor”.
+
+Se deben seguir los siguientes pasos:
+   1. Acceder a la pestaña de Licitaciones:
+   2. Pulsar en Búsqueda.
+   3. Pulsar en Nuevo.
+
+La siguiente imagen representa estos tres pasos anteriores:
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                  Pág. 8 de 29
+Ilustración: Nuevo expediente
+
+En este punto aparece una pantalla para crear el expediente.
+
+
+
+
+Ilustración: Creación de expediente
+
+    4. Se deben introducir como mínimo los datos señalados en la siguiente imagen y que
+       son los siguientes:
+          - Contrato SARA/Umbral y, si aplica, la directiva de aplicación.
+          - Expediente: Identificador del expediente. Debe ser único en el órgano de
+              contratación.
+          - Tipo y subtipo de contrato. El subtipo de contrato dependerá del tipo de
+              contrato.
+          - Objeto del contrato: Breve descripción del contrato.
+          - Procedimiento de contratación: “Contrato Menor”.
+
+
+
+Guía de Publicación de Contratos Menores v5.6                           Pág. 9 de 29
+              -   Presupuesto base de la licitación con impuestos y sin impuestos.
+              -   País y código NUTs del lugar de ejecución que por defecto tiene la información
+                  de la dirección del órgano de contratación,
+
+
+
+
+Ilustración: Creación expediente contrato menor
+
+      5. A continuación, pulsar “Aceptar”.
+
+
+Como resultado de esta acción aparecerá el Espacio Virtual de la Licitación, que es el conjunto
+de pantallas que La Plataforma proporciona para trabajar con cada licitación.
+
+
+
+
+Ilustración: Enlace a expediente
+
+Pulsando en “Expediente” podrá acceder en cualquier momento a los datos que acaba de
+introducir.
+3.2     Paso 2 - Introducir el plazo de ejecución del contrato
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                   Pág. 10 de 29
+El plazo de ejecución del contrato es un dato obligatorio que debe introducirse. Para ello deben
+seguirse los siguientes pasos:
+
+1 – Situarse en la pestaña “PCAP” pulsando en el nombre de la pestaña:
+
+
+
+
+Ilustración: Seleccionar pestaña PCAP
+
+
+
+2- Desplegar el apartado “Condiciones de Ejecución” y dentro de él “plazo de Ejecución”:
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                  Pág. 11 de 29
+Ilustración: Condiciones de ejecución -> Plazo de ejecución
+
+3 – Seleccione en primer lugar la “Fecha final” o “Duración” del contrato.
+
+3.1 - Si selecciona “Fecha Final” debe además indicar la “Fecha inicio”.
+
+
+
+
+Ilustración: Plazo de ejecución
+
+Puede introducir la fecha manualmente con el formato dd-mm-aaaa o pulsar en el icono del
+calendario como ayuda para seleccionarlo (busque el mes y a continuación seleccione el día).
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                Pág. 12 de 29
+Ilustración: Introducción fecha final
+
+Para la introducción de la fecha de inicio se procede del mismo modo.
+
+3.2 - Si selecciona “Duración”, la “Fecha inicio” es opcional. La duración se expresa en años,
+meses o días.
+
+
+
+
+Ilustración: Introducción duración
+–
+
+4 – Pulse “Guardar Licitación”.
+
+
+
+
+Ilustración: Guardar licitación
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                Pág. 13 de 29
+3.3       Paso 3 – Información de las cláusulas Administrativas en la pestaña
+          PCAP
+
+En el apartado información sobre cláusulas administrativas de la pestaña PCAP es donde
+podremos seleccionar la opción de asignar la licitación a los fondos europeos asociados al
+plan de recuperación u otros. Para ello deberemos seleccionar:
+
+          Financiación europea: Si
+          Fuente de financiación europea: Se seleccionará el tipo de ayuda o fondo
+           correspondiente. En este ejemplo hemos elegido: Asociado al Plan de Recuperación,
+           Transformación y Resiliencia.
+          Programas UE-Localizador: Es un texto libre a rellenar con un código localizador que
+           deberá conocer el órgano de gestión.
+          Formula de revisión de precios: Es un texto libre, que no tiene que ver con la
+           financiación europea.
+
+
+
+
+Ilustración: Información estructurada
+
+
+
+Tras ello guardar le licitación.
+
+
+
+3.4       Paso 4 - Alta de la empresa adjudicataria
+
+A continuación se introduce la empresa adjudicataria. Para ello siga los pasos siguientes:
+
+1 – Sitúese en pestaña “Licitadores”:
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                  Pág. 14 de 29
+Ilustración: Seleccionar pestaña Licitadores
+
+
+
+2 – Pulse “Nuevo Licitador”.
+
+
+
+
+Ilustración: Botón nuevo licitador
+
+3 – Introduzca el nombre de la empresa y su identificador. A continuación pulse “Aceptar
+Licitador”.
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                           Pág. 15 de 29
+Ilustración: Crear nuevo licitador
+
+4- Pulse “Guardar Licitación”.
+
+
+
+
+Ilustración: Guardar licitación
+
+3.5    Paso 5 - Admisión de la empresa adjudicataria
+
+Se procede a admitir a la empresa:
+
+1 – Sitúese en la pestaña “Admisión/Exclusión”:
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6          Pág. 16 de 29
+Ilustración: Seleccionar pestaña Admisión/Exclusión
+
+2- Seleccione el nombre de la empresa que va a admitir:
+
+
+
+
+Ilustración: Selección de empresa
+
+
+3 - Admita a la empresa, marcando “Admitir” y a continuación pulse “Guardar”.
+
+
+
+
+Ilustración: Admisión de empresa
+
+4 – Pulse “Guardar Licitación”:
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                              Pág. 17 de 29
+Ilustración: Guardar licitación
+
+
+3.6    Paso 6 - Configuración de la Resolución
+
+A continuación se va a resolver la licitación. Siga los siguientes pasos:
+
+1 – Sitúese en la pestaña “Resolución”:
+
+
+
+
+Ilustración: Seleccionar pestaña Resolución
+
+2- Pulse en el objeto del contrato:
+
+
+
+
+Ilustración: Selección objeto del contrato
+
+3 – Se abrirá una nueva ventana donde se introducirá la fecha de la adjudicación, el nombre
+de la empresa adjudicataria, el importe del contrato y el número de ofertas recibidas:
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                               Pág. 18 de 29
+3.1 – Introduzca la fecha de adjudicación del contrato. Para ello, despliegue el apartado “Datos
+del acuerdo de la resolución” e introduzca la fecha del acuerdo. El dato puede introducirse
+directamente con formato dd-mm-aaaa o pulsar en el icono del calendario.
+
+
+
+
+Ilustración: Datos del acuerdo de resolución -> Fecha del acuerdo
+
+3.2 - Introduzca el nombre de la empresa y los importes del contrato. Para ello, despliegue el
+apartado “Selección de Licitadores”.
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                  Pág. 19 de 29
+Ilustración: Selección de licitadores
+
+Pulse sobre el nombre de la empresa adjudicataria en el cajetín “Admitidos”. Se activará el
+botón Añadir.
+
+
+
+
+Ilustración: Selección de empresa
+
+
+Se abrirá una nueva ventana donde se introducen los importes de adjudicación sin y con
+impuestos. También deberá informar si el adjudicatario es una PYME.
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                              Pág. 20 de 29
+Ilustración: Selección de importes
+
+
+Una vez introducidos los datos pulse en Guardar.
+
+La empresa estará ahora en el cajetín de “Licitadores Seleccionados”:
+
+
+
+
+Ilustración: Licitadores seleccionados
+
+3.3. Introduzca el número de ofertas recibidas. Para ello despliegue el apartado “Datos de
+adjudicación”.
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                             Pág. 21 de 29
+Ilustración: Datos de adjudicación
+4 – Pulse Aceptar.
+
+
+
+
+Ilustración: Aceptar adjudicación
+
+
+5 – Pulse “Guardar Licitación”.
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6   Pág. 22 de 29
+Ilustración: Guardar licitación
+
+
+
+3.7    Paso 7 - Publicación del anuncio de Adjudicación.
+
+Para que un contrato menor quede resuelto únicamente es necesario publicar el anuncio de
+Adjudicación. En los contratos menores sólo es necesario publicar el anuncio de
+Adjudicación, por lo tanto no es necesario publicar el anuncio de licitación.
+
+Siga los siguientes pasos:
+
+1 – Sitúese en la Pestaña “Resumen Licitación”:
+
+
+
+
+Ilustración: Seleccionar pestaña Resumen licitación
+
+2 – Compruebe los datos que va a publicar seleccionando la opción “Previsualizar” y a
+continuación “Aceptar” del apartado con título Adjudicación. Tendrá acceso a un documento
+similar al anuncio que se publicará.
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                            Pág. 23 de 29
+Ilustración: Previsualización anuncio de adjudicación
+
+
+3 – Una vez comprobados los datos publique el anuncio seleccionado “Publicar y aceptar”
+también en el apartado Adjudicación. Siga las instrucciones de las pantallas siguientes
+hasta finalizar el proceso
+
+
+
+
+Ilustración: Publicar anuncio de adjudicación
+
+Puede verificar que se ha publicado el anuncio comprobando en el apartado Adjudicación
+que figura la fecha y hora de la publicación en la Plataforma y en la columna “Ver documentos”
+puede acceder al anuncio publicado. Observe también que el estado de la licitación es
+“Resolución”:
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                Pág. 24 de 29
+Ilustración: Anuncio de adjudicación publicado
+
+3.8     Paso 8 – Búsqueda de los contratos menores creados
+
+Cuando se accede como usuario de un órgano de contratación, es posible buscar aquellos
+contratos menores sobre los que se tiene acceso. Para buscar dichos contratos menores, es
+necesario seguir los siguientes pasos:
+
+   1. Pulsar en el menú Licitaciones.
+   2. Escoger la opción de Búsqueda.
+   3. Se proporciona un buscador que permite buscar entre las distintas licitaciones y
+      contratos menores. Sin embargo, para poder buscar en los contratos menores, es
+      necesario que se elija de forma explícita que el tipo de procedimiento es “Contrato
+      menor”, ya que por defecto no se busca en este tipo de contratos.
+
+
+
+
+Ilustración: Búsqueda de contratos menores
+
+4. Visualización de contratos menores
+Para realizar búsquedas de Contratos Menores se deben seguir los siguientes pasos:
+
+      1. Acceder a la pestaña de Licitaciones
+      2. Pulsar en Búsqueda
+      3 Seleccionar Contratos Menores
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                            Pág. 25 de 29
+Ilustración: Selección contratos menores
+
+    4    Se muestra un buscador que permite buscar contratos menores en función de distintos
+         criterios. Por defecto, se ha establecido una búsqueda de los contratos menores
+         adjudicados en los últimos tres meses, aunque estos valores pueden modificarse y
+         ampliar o reducir el rango de fechas.
+
+
+
+
+Ilustración: Formulario de búsqueda de contratos menores
+    4. Pulsar “Buscar”
+       La siguiente imagen muestra los resultados obtenidos tras realizar una búsqueda de
+       contratos menores.
+
+
+
+
+Ilustración: Resultado de la búsqueda
+
+
+
+Guía de Publicación de Contratos Menores v5.6                               Pág. 26 de 29
+4.1    Visualización de Contratos Menores asociados a un perfil de contratante
+
+Otra posibilidad que ofrece la Plataforma de Contratación del Sector Público es realizar una
+búsqueda entre los contratos menores asociados a un perfil de contratante.
+
+Para poder visualizar los contratos menores de un perfil de contratante, y realizar una
+búsqueda entre ellos, es necesario seguir los siguientes pasos:
+
+   1. Acceder a la pestaña Perfil Contratante.
+   2. Mediante el buscador que se proporciona, buscar el perfil de contratante deseado.
+   3. Pulsar sobre el nombre del perfil de contratante sobre el que se quieren visualizar sus
+      contratos menores.
+
+
+
+
+Ilustración: Selección del perfil de contratante
+
+   4. Pulsar en la pestaña Contratos menores. Por defecto, se muestran los contratos
+      menores adjudicados en los últimos 3 meses y ordenados por adjudicatario. Estos
+      criterios se pueden modificar y complementar haciendo uso de las características que
+      proporciona el buscador en esta página.
+
+
+
+
+Ilustración: Selección pestaña contratos menores
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                Pág. 27 de 29
+5. Otras situaciones
+
+5.1    Rectificar el anuncio publicado
+La Plataforma permite rectificar o corregir información incluida en los anuncios. Al rectificar
+un anuncio la plataforma publica otro nuevo con toda la información, señalándose los
+cambios con respecto al anuncio anterior.
+
+Para rectificar un contrato menor debe corregir el dato en el mismo apartado donde se
+introdujo y proceder a la rectificación del anuncio en la pestaña “Resumen Licitación”. El
+procedimiento será similar al de la primera publicación:
+
+Primero previsualizar el anuncio para comprobar los cambios:
+
+
+
+
+Ilustración: Previsualización anuncio de adjudicación
+
+Para a continuación rectificarlo.
+
+
+
+
+Ilustración: Publicación rectificación anuncio de adjudicación
+
+Puede verificar que se ha publicado el anuncio comprobando en el apartado “Adjudicación”
+figura la fecha y hora de la publicación en la Plataforma y en la columna “Ver documentos”
+puede acceder al anuncio publicado.
+
+Si precisa más información consulte el apartado Rectificación de Anuncios de la Guía de
+Anulación y Rectificación de Anuncios.
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                   Pág. 28 de 29
+5.2    Anular el anuncio publicado
+
+Únicamente se anulan anuncios cuando es el propio anuncio el que no debiera haberse
+publicado o el anuncio publicado contiene datos que no pueden rectificarse siguiendo las
+instrucciones del apartado anterior.
+
+La anulación del anuncio se realiza en la pestaña “Resumen Licitación” seleccionando la
+opción Anular e indicando la razón por la que el anuncio se anula:
+
+
+
+
+Ilustración: Anulación anuncio de adjudicación
+
+Si precisa más información consulte el apartado Anulación de Anuncios de la Guía de
+Anulación y Rectificación de Anuncios.
+
+6. Carga automática de contratos menores
+La Plataforma de Contratación del Sector Público posibilita a los órganos de contratación dos
+interfaces: una interfaz a través de la página web donde el usuario accede e introduce los
+datos directamente y a través de la interfaz sistémica. La interfaz sistémica (o B2B) consiste
+en la conexión mediante servicios web de los sistemas de información de los órganos de
+contratación (gestores de expediente) con la Plataforma de Contratación del Sector Público
+para intercambiar datos.
+
+La publicación de los contratos menores puede llevarse a cabo por cualquiera de los dos
+interfaces. A través de integración sistémica se puede automatizar la publicación de contratos
+menores. Para ello deben realizar un desarrollo informático.
+
+Podrán encontrar información sobre Integración sistémica en el apartado “Información”, y
+dentro de él en “Interacción Sistémica (B2B) – Servicios Web asociados al perfil de
+contratante”:   https://contrataciondelestado.es/wps/portal/servicioswebPLACSP.       en  el
+apartado Guía de utilización de los servicios web que ofrece la Plataforma de Contratación
+del Sector Público se encuentra una guía específica para la publicación de contratos menores
+mediante Web Services.
+
+
+
+
+Guía de Publicación de Contratos Menores v5.6                                Pág. 29 de 29
+

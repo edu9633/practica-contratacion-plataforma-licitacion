@@ -1,0 +1,415 @@
+       Guía de Publicación de documentos
+            relativos a una licitación
+
+
+
+
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+                                                                          Versión: 5.03
+
+                                                                      Fecha: 26/11/2024
+Edita:
+© Ministerio de Hacienda y Función Pública
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+El presente documento está bajo la licencia Creative Commons Reconocimiento - No
+Comercial - Compartir Igual versión 4.0 España.
+Usted es libre de:
+- Copiar, distribuir y comunicar públicamente la obra
+- Hacer obras derivadas
+Bajo las condiciones siguientes:
+- Reconocimiento. Debe reconocer los créditos de la obra de la manera especificada por el
+autor o el licenciador (pero no de una manera que sugiera que tiene su apoyo o apoyan el
+uso que hace de su obra).
+- No Comercial: Se permite que terceros copien, distribuyan, exhiban y ejecuten la obra
+licenciada —y obras derivadas basadas en ella— pero sólo para fines no comerciales.
+- Compartir bajo la misma licencia. Si altera o transforma esta obra, o genera una obra
+derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta
+obra.
+Alguna de estas condiciones puede no aplicarse si se obtiene el permiso del titular de los
+derechos de autor
+Nada en esta licencia menoscaba o restringe los derechos morales del autor.
+Esto es un resumen legible por humanos del texto legal (la licencia completa) disponible en:
+
+https://creativecommons.
+
+
+
+
+Guía de Publicación: de documentos relativos a una licitación v.5.03
+INDICE
+
+
+
+
+1.         OBJETIVO DE ESTA GUÍA ......................................................................................... 5
+2.         GUÍAS PARA LOS ÓRGANOS DE CONTRATACIÓN ................................................ 6
+3.         PUBLICACIÓN DE DOCUMENTOS ............................................................................ 8
+     3.1        A NIVEL DE PERFIL DE CONTRATANTE........................................................................................ 8
+     3.2        A NIVEL DE UNA LICITACIÓN EN CONCRETO ................................................................................. 9
+4.         ANULACIÓN DE DOCUMENTOS GENERALES DE UNA LICITACIÓN ....................13
+
+
+
+
+Guía de Publicación: de documentos relativos a una licitación v.5.03
+CAMBIOS DE LA VERSIÓN
+
+Se cambia el logo de la portada y la cabecera.
+
+
+
+
+Guía de Publicación: de documentos relativos a una licitación v.5.03
+1. Objetivo de esta guía
+Este documento explica a los órganos de contratación cómo publicar documentos relativos a
+una licitación en el perfil del contratante, como Actos públicos informativos ó de apertura de
+ofertas, Composición de la mesa de contratación, Composición del comité de expertos,
+Suspensión del procedimiento, Levantamiento de la suspensión del procedimiento,
+Mantenimiento de los efectos del contrato, Declaración de nulidad.
+
+Se trata de la publicación de documentos distintos de los anuncios, cuya gestión se explica
+en otras guías de usuario:
+
+     -    Guía de publicación de la convocatoria de licitación: Anuncio de Información Previa,
+          Anuncio de Licitación y Pliegos
+
+     -    Guía de publicación del resultado del procedimiento: Anuncio de Adjudicación, y
+          Anuncio de Formalización, Anuncio de Renuncia, Anuncio de Desistimiento
+
+     -    Guía de Publicación de modificaciones de contrato: Anuncio de Modificación de
+          Contrato
+
+     -    Guía de Publicación de Contratos Menores. Anuncio de Adjudicación de Contratos
+          Menores
+
+
+
+
+Guía de Publicación: de documentos relativos a una licitación v.5.03
+2. Guías para los órganos de contratación
+La utilización de los servicios ofrecidos por la Plataforma de Contratación del Sector Público
+a los órganos de contratación se explica en un compendio de guías editadas por la Dirección
+General del Patrimonio del Estado.
+
+    Guía general para órganos de contratación
+
+     Describe los aspectos generales de la aplicación para los órganos de contratación,
+     incluyendo los servicios que se ofrecen, las pautas generales de navegación, el acceso e
+     identificación de los usuarios, y la gestión de las licitaciones del órgano.
+
+    Guía de administración de órganos de contratación
+
+     Describe las funcionalidades de las que disponen los administradores de los órganos de
+     contratación para gestionar sus usuarios, la información y documentos de carácter
+     general publicados en el perfil del contratante, reasignación de expedientes entre
+     usuarios, archivo de licitaciones, y desbloqueo de licitaciones.
+
+    Guía de Publicación de la convocatoria de licitación
+
+     Explica cómo se publican los anuncios de información previa, anuncios de licitación y
+     pliegos en el perfil del contratante. Además, también se explica cómo se pueden enviar
+     estos anuncios al Boletín Oficial del Estado y al Diario Oficial de la Unión Europea a
+     través del servicio que ofrece la Plataforma. También se explica cómo se pueden
+     rectificar y anular anuncios publicados.
+
+    Guía de gestión, admisión y exclusión de licitadores
+
+    Describe cómo dar de alta los licitadores que participan en un procedimiento de
+    adjudicación, así como la forma de indicar si han sido admitidos o excluidos en el
+    procedimiento, o si tienen que subsanar alguna documentación.
+
+    Guía de Publicación del resultado de la licitación
+
+     Explica cómo se publican los anuncios de adjudicación, formalización resultado desierto,
+     renuncia, y desistimiento.
+
+     También describe cómo enviar al BOE el anuncio de formalización, y al DOUE los
+     anuncios de formalización, transparencia previa voluntaria, desierto, renuncia y
+     desistimiento.
+
+    Guía de Publicación de contratos menores
+
+     Explica cómo publicar la información sobre los contratos menores en el perfil de
+     contratante.
+
+    Guía de Publicación de anuncios de modificación de contrato
+
+     Explicar cómo publicar anuncios sobre modificaciones de contrato en la Plataforma de
+     Contratación del Sector Público.
+
+
+Guía de Publicación: de documentos relativos a una licitación v.5.03
+    Guía de Rectificación y anulación de anuncios
+
+     Explica cómo rectificar y anular anuncios publicados en el perfil del contratante, en el
+     Boletín Oficial del Estado o en Diario Oficial de la Unión Europea.
+
+    Guía de Publicación de documentos relativos a una licitación
+
+    Explica cómo publicar en el perfil del contratante documentos relativos a una licitación
+    que no se corresponden con ninguno de los anuncios identificados en las restantes guías
+    como Actos públicos informativos ó de apertura de ofertas, Composición de la mesa de
+    contratación,    Composición del comité de expertos, Suspensión del procedimiento,
+    Levantamiento de la suspensión del procedimiento, Mantenimiento de los efectos del
+    contrato, Declaración de nulidad.
+
+
+    Guía de Envío de comunicaciones a los licitadores
+
+    Explica cómo enviar los distintos tipos de comunicaciones electrónicas a partir de la
+    información introducida en el expediente. Los tipos de comunicaciones que se pueden
+    enviar a través de la Plataforma son la de admisión y exclusión de licitadores,
+    invitación a presentar proposición, solicitud de oferta, invitación a tomar parte en
+    el diálogo, invitación durante la fase de diálogo, invitación/solicitud a presentar
+    oferta final, requerimiento de documentación al licitador mejor clasificado, y
+    notificación de adjudicación. También se pueden enviar comunicaciones genéricas
+    como la solicitud de aclaración, la justificación de oferta anormalmente baja, la solicitud
+    de información adicional o la firma del contrato de formalización.
+
+    Guía de Gestión de preguntas de los licitadores
+
+    Explica cómo los órganos de contratación pueden hacer uso de la funcionalidad de
+    gestión de las preguntas que realizan los licitadores a través del perfil del contratante en
+    la Plataforma de Contratación del Sector Público.
+
+    Guía de consulta de datos administrativos
+
+     Explica cómo realizar consultas a registros de la Administración para verificar
+     información sobre los licitadores presentados: consulta al Registro Oficial de Licitadores
+     y Empresas Clasificadas del Estado, certificados de cumplimiento de obligaciones con la
+     Agencia Tributaria y la Seguridad Social, Servicio de Verificación de Datos de Identidad,
+     consulta a la Caja General de Depósitos.
+
+    Guía de uso de los servicios de licitación electrónica
+
+     Explica cómo articular procedimientos mediante licitación electrónica para que los
+     licitadores puedan presentar sus ofertas de forma electrónica a través de la Plataforma
+     de Contratación del Sector Público.
+
+
+
+
+Guía de Publicación: de documentos relativos a una licitación v.5.03
+3. Publicación de documentos
+Esta funcionalidad le permite al órgano de contratación publicar documentos en la
+Plataforma que serán visibles por las empresas registradas y por los usuarios visitantes
+anónimos. Existen dos ámbitos a nivel de publicación de estos documentos generales: A
+nivel del Perfil Contratante y a nivel de una licitación en concreto. En los dos siguientes
+puntos se explicará cada uno de ellos.
+
+3.1     A nivel de Perfil de Contratante
+Los usuarios con roles de Responsable del Órgano de Contratación (ROC) y Administrador
+del Órgano de Contratación (AOC) pueden publicar documentos en el perfil del contratante
+que no están asociados a un expediente de contratación concreto, sino que pertenecen al
+OC en general.
+
+
+
+
+Ilustración: Documentos publicados en el perfil del contratante de un órgano de contratación
+
+Esta funcionalidad permite a los órganos de contratación incluir cualquier información que
+consideren de utilidad, tal como previsiones de compras futuras, normas internas de
+contratación, instrucciones generales, composición de mesas de contratación permanentes,
+etc.
+
+Además, todos estos documentos que se publiquen en el perfil del contratante se pueden
+clasificar por epígrafes ayudando así a mantener ordenada la documentación accesible en el
+perfil del contratante, y facilitando su búsqueda a los operadores económicos.
+
+La gestión de estos documentos se explica en la “Guía de Administración”.
+
+
+
+
+Guía de Publicación: de documentos relativos a una licitación v.5.03
+3.2       A nivel de una licitación en concreto
+
+La Plataforma permite publicar un conjunto de documentos estructurados (información
+organizada en campos de datos) que facilitan la búsqueda de información a los interesados,
+y permite el envío de la información a otros medios de publicación como el Boletín Oficial del
+Estado (BOE), o el Diario Oficial de la Unión Europea (DOUE).
+
+Además, los órganos de contratación pueden poner a disposición de los licitadores
+documentos anexos a los pliegos, y actas anexas a los anuncios de adjudicación.
+
+Sin embargo, existen ocasiones en las que existe la necesidad de publicar determinados
+documentos relativos a una licitación, pero no vinculados a la publicación de los anuncios y
+pliegos.
+
+Para ello, esta funcionalidad permite publicar otros documentos sin necesidad de republicar
+pliegos y anuncios.
+
+Se han definido un conjunto de documentos tipo, que pueden aparecer a lo largo del ciclo de
+vida de una licitación, tales como:
+
+          Actos públicos informativos ó de apertura de ofertas
+          Composición de la mesa de contratación
+          Composición del comité de expertos
+          Suspensión del procedimiento
+          Levantamiento de la suspensión del procedimiento
+          Mantenimiento de los efectos del contrato
+          Declaración de nulidad
+          Acuerdo de iniciación del expediente
+          Memoria justificativa
+          Informe de insuficiencia de medios
+          Documento de aprobación del expediente
+          Acta del órgano de asistencia
+          Informe de valoración de los criterios de adjudicación cuantificables mediante juicio
+           de valor
+          Informe sobre las ofertas incursas en presunción de anormalidad
+          Composición del jurado del concurso de proyectos
+
+
+Además de éstos, se incluye la posibilidad de que el órgano de contratación publique otro
+tipo de documentos mediante la opción:
+
+              Otros documentos.
+
+3.2.1      Publicación de documentos generales de una licitación
+
+
+Para publicar documentos relacionados con la licitación hay que situarse en la pestaña
+Resumen Licitación, donde existe un apartado bajo el epígrafe “Otros Documentos Publicados“.
+
+
+
+
+Guía de Publicación: de documentos relativos a una licitación v.5.03
+En esta sección aparece un listado desplegable con el tipo de documento que se desea
+publicar. Cuando el tipo de documento que se quiere publicar no coincide con los tipos
+predefinidos, se deberá utilizar el tipo “Otros documentos”.
+
+
+
+
+Ilustración: Desplegable con los posibles tipos de documentos que se pueden publicar. Observar el valor
+“Otros documentos” que permitirá personalizar los documentos a subir
+
+
+
+Para publicar un documento lo primero que debe hacer es elegir el tipo de documento
+(Columna “Nombre”) que desea publicar. A continuación en el desplegable de la columna
+“Acciones debe seleccionar “adjuntar” y pulsar “Aceptar”.
+
+En este momento emergerá una nueva ventana donde elegir el documento deseado
+mediante la pulsación del botón “Examinar”. Una vez elegido el documento debe pulsar
+“Anexar” y si todo es correcto pulse “Aceptar”.
+
+
+
+
+Ilustración: Se ha elegido el documento a publicar (izquierda) y posteriormente (derecha) se ha anexado
+el documento
+
+Una vez que el documento se haya “Aceptado” la ventana desaparece volviendo el control
+a la pestaña Resumen. Se puede observar una nueva línea incluida bajo la tabla “Otros
+Documentos Publicados“ que se corresponde con el nuevo documento que acabamos de
+anexar.
+
+El siguiente paso es publicar dicho documento: Para ello debemos elegir “publicar” de las
+opciones disponibles (“previsualizar”, “Eliminar” y “publicar”) en el desplegable bajo la columna
+“Acciones”. Una vez seleccionado la opción de “publicar” debemos pulsar “Aceptar”.
+
+
+
+
+Guía de Publicación: de documentos relativos a una licitación v.5.03
+Ilustración: Documento preparado ser publicado (arriba). Detalle del documento publicado y la
+posibilidad de incluir más documentos (abajo)
+
+En el momento en que publiquemos el documento, la fecha de publicación aparece bajo la
+columna “Publicación en plataforma” y en la columna “Ver documentos” aparece el enlace “Ver”,
+que permite la visualización del documento publicado y el enlace “Sello de Tiempo” que permite
+acreditar de manera fehaciente el momento en que dicho documento fue publicado.
+
+Tras la publicación el documento estará a disposición de los usuarios que visiten la
+Plataforma y que accedan al detalle de esa licitación en cuestión.
+
+Notas:
+
+-    Para que cualquier documento publicado en “Otros documentos publicados” sea visible por los usuarios
+     que visiten la Plataforma, es imprescindible que exista, al menos, publicado el Anuncio Previo, de Licitación
+     o de Adjudicación.
+
+Un caso particular de la publicación de este tipo de documentos asociados a una licitación,
+es la elección en el desplegable del tipo “Otros documentos”. Esta opción se usa para publicar
+documentos que no se corresponden con ninguno de los tipificados mostrados en el
+desplegable. Para publicar “Otros documentos” debemos elegir del desplegable la opción “Otros
+documentos”. En ese momento se habilita un cuadro de texto donde insertar el “ Nombre” que
+vamos a dar a ese documento.
+
+El siguiente paso es adjuntar el documento tal y como hemos hecho para el caso general:
+Elegimos el documento (“Examinar”), anexamos (“Anexar”) y aceptamos (“Aceptar”).
+
+
+
+
+Ilustración: Creación de un documento personalizado del tipo “Otros documentos”
+
+En este momento el documento queda a disposición del usuario del OC para ser publicado.
+Procedemos igual que en el caso anterior: Seleccionamos de la lista de la columna
+“Acciones” la opción de “publicar” y pulsamos “Aceptar”.
+
+
+
+
+Ilustración: Publicación del documento personalizado del tipo “Otros documentos”. Vemos como hay
+otras dos opciones aparte de “publicar”: “previsualizar” y “Eliminar”
+
+
+
+
+Guía de Publicación: de documentos relativos a una licitación v.5.03
+El usuario que visite la Plataforma y acceda al detalle de una licitación, tendrá una visión
+global de todos los documentos que han sido publicados para dicha licitación: De los
+anuncios publicados de todo tipo y además de los documentos publicados a nivel de la
+licitación en concreto.
+
+NOTA: Se recomienda que cada uno de los ficheros anexados no supere un tamaño
+máximo de 50 MB. También que el conjunto de ficheros anexados no supere un tamaño de
+200 MB. En cuanto al número de ficheros anexados se recomienda no anexar más de 10
+ficheros.
+
+
+
+
+Guía de Publicación: de documentos relativos a una licitación v.5.03
+4. Anulación de documentos generales de una licitación
+La Plataforma permite también la anulación de documentos asociados a una licitación, la
+cual no provoca modificación alguna en el estado del procedimiento, como sí sucede en el
+caso de anulación de anuncios.
+
+Para publicar la anulación de un documento de esta naturaleza se debe seleccionar “Anular”
+en la columna “Acciones” y pulsar, seguidamente, el enlace Aceptar, todo ello desde la
+pestaña “Resumen”.
+
+
+
+
+Ilustración: Anulación de un documento publicado en una licitación
+
+Después de confirmar la anulación del documento, éste se ubicará en el área “Otros
+Documentos Anulados”, con indicación de fecha de publicación de anulación en plataforma,
+sello de tiempo y posibilidad de acceso al contenido original.
+
+Una vez anulado un documento de esta sección, en la parte publica del expediente no
+quedará rastro alguno del documento, es decir, no se genera un histórico de rectificaciones
+o anulaciones de este tipo de documentos.
+
+
+
+
+Guía de Publicación: de documentos relativos a una licitación v.5.03
+

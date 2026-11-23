@@ -1,0 +1,471 @@
+                      Guía de Publicación:
+                  Modificación de Contrato
+
+
+
+
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+                                                                            Versión:5.0
+
+                                                                      Fecha: 19/02/2016
+INDICE
+
+
+1.     OBJETO DE ESTA GUÍA ................................................. ¡ERROR! MARCADOR NO DEFINIDO.
+2. PUBLICACIÓN DE MODIFICACIÓN DE CONTRATO EN LA PLATAFORMA DE
+CONTRATACIÓN DEL SECTOR PÚBLICO .......................................................................................... 7
+     2.1      PASO 1 - CONFIGURACIÓN DE LOS DATOS .................................................................................. 7
+     2.2      PASO 2 - PUBLICACIÓN DEL ANUNCIO DE MODIFICACIÓN DEL CONTRATO .................................... 15
+3.     VISUALIZACIÓN DE LA MODIFICACIÓN DEL CONTRATO .................................................... 18
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 2 de 22
+1. Objeto de esta guía
+Las modificaciones de contrato se plasman en la Plataforma de Contratación del Sector
+Público (a partir de ahora la Plataforma o PLACSP) como un tipo nuevo de anuncio cuya
+información se introduce en el espacio de trabajo de la licitación.
+
+El objetivo de este documento es guiar a los usuarios del Órgano de Contratación (OC) en el
+proceso de publicación de una modificación de contrato.
+
+Se recomienda haber leído previamente las siguientes guías:
+
+
+    Guía general para órganos de contratación
+    Guía de Publicación del resultado de la licitación
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 3 de 22
+2. Guías para los órganos de contratación
+La utilización de los servicios ofrecidos por la Plataforma de Contratación del Sector Público
+a los órganos de contratación se explica en un compendio de guías editadas por la Dirección
+General del Patrimonio del Estado.
+
+    Guía general para órganos de contratación
+
+     Describe los aspectos generales de la aplicación para los órganos de contratación,
+     incluyendo los servicios que se ofrecen, las pautas generales de navegación, el acceso e
+     identificación de los usuarios, y la gestión de las licitaciones del órgano.
+
+    Guía de administración de órganos de contratación
+
+     Describe las funcionalidades de las que disponen los administradores de los órganos de
+     contratación para gestionar sus usuarios, la información y documentos de carácter
+     general publicados en el perfil del contratante, reasignación de expedientes entre
+     usuarios, archivo de licitaciones, y desbloqueo de licitaciones.
+
+    Guía de Publicación de la convocatoria de licitación
+
+     Explica cómo se publican los anuncios de información previa, anuncios de licitación y
+     pliegos en el perfil del contratante. Además, también se explica cómo se pueden enviar
+     estos anuncios al Boletín Oficial del Estado y al Diario Oficial de la Unión Europea a
+     través del servicio que ofrece la Plataforma. También se explica cómo se pueden
+     rectificar y anular anuncios publicados.
+
+    Guía de gestión, admisión y exclusión de licitadores
+
+     Describe cómo dar de alta los licitadores que participan en un procedimiento de
+     adjudicación, así como la forma de indicar si han sido admitidos o excluidos en el
+     procedimiento, o si tienen que subsanar alguna documentación.
+
+    Guía de Publicación del resultado de la licitación
+
+     Explica cómo se publican los anuncios de adjudicación, formalización resultado desierto,
+     renuncia, y desistimiento.
+
+     También describe cómo enviar al BOE el anuncio de formalización, y al DOUE los
+     anuncios de formalización, transparencia previa voluntaria, desierto, renuncia y
+     desistimiento.
+
+    Guía de Publicación de contratos menores
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 4 de 22
+     Explica cómo publicar la información sobre los contratos menores en el perfil de
+     contratante.
+
+    Guía de Publicación de anuncios de modificación de contrato
+
+     Explicar cómo publicar anuncios sobre modificaciones de contrato en la Plataforma de
+     Contratación del Sector Público.
+
+    Guía de Rectificación y anulación de anuncios
+
+     Explica cómo rectificar y anular anuncios publicados en el perfil del contratante, en el
+     Boletín Oficial del Estado o en Diario Oficial de la Unión Europea.
+
+    Guía de Publicación de documentos relativos a una licitación
+
+
+     Explica cómo publicar en el perfil del contratante documentos relativos a una licitación
+     que no se corresponden con ninguno de los anuncios identificados en la restantes guías
+     como Actos públicos informativos ó de apertura de ofertas, Composición de la mesa de
+     contratación,    Composición del comité de expertos, Suspensión del procedimiento,
+     Levantamiento de la suspensión del procedimiento, Mantenimiento de los efectos del
+     contrato, Declaración de nulidad.
+
+    Guía de Envío de comunicaciones a los licitadores
+
+     Explica cómo enviar los distintos tipos de comunicaciones electrónicas a partir de la
+     información introducida en el expediente. Los tipos de comunicaciones que se pueden
+     enviar a través de la Plataforma son la de admisión y exclusión de licitadores,
+     invitación a presentar proposición, solicitud de oferta, invitación a tomar parte en
+     el diálogo, invitación durante la fase de diálogo, invitación/solicitud a presentar
+     oferta final, requerimiento de documentación al licitador mejor clasificado, y
+     notificación de adjudicación.
+
+    Guía de Gestión de preguntas de los licitadores
+
+
+     Explica cómo los órganos de contratación pueden hacer uso de la funcionalidad de
+     gestión de las preguntas que realizan los licitadores a través del perfil del contratante en
+     la Plataforma de Contratación del Sector Público.
+
+    Guía de consulta de datos administrativos
+
+     Explica cómo realizar consultas a registros de la Administración para verificar
+     información sobre los licitadores presentados: consulta al Registro Oficial de Licitadores
+     y Empresas Clasificadas del Estado, certificados de cumplimiento de obligaciones con la
+     Agencia Tributaria y la Seguridad Social, Servicio de Verificación de Datos de Identidad,
+     consulta a la Caja General de Depósitos.
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 5 de 22
+    Guía de uso de los servicios de licitación electrónica
+
+     Explica cómo articular procedimientos mediante licitación electrónica para que los
+     licitadores puedan presentar sus ofertas de forma electrónica a través de la Plataforma
+     de Contratación del Sector Público.
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 6 de 22
+3. Publicación de Modificación de Contrato en la
+   Plataforma de Contratación del Sector Público
+Las modificaciones de contrato se tratan en la Plataforma como un nuevo tipo de anuncio
+cuyos datos se introducen a través en la pestaña “Modificaciones del contrato” en el espacio
+de trabajo de la licitación. La publicación de los anuncios se realiza, como viene siendo
+habitual con el resto de anuncios, en la pestaña “Resumen Licitación”.
+
+Para publicar la modificación de un contrato es imprescindible que se haya publicado
+previamente la resolución de la licitación. En este contexto, un contrato se entiende como
+una asociación biunívoca con una adjudicación:
+
+          En las licitaciones sin lotes un contrato se corresponde con una adjudicación a una
+           empresa.
+
+          En las licitaciones con lotes un contrato se corresponde con una adjudicación de un
+           lote a una empresa. Por ejemplo, si hay dos lotes y cada uno se adjudica a la misma
+           empresa se considera que se trata de dos contratos distintos.
+
+Cada contrato puede sufrir una o más modificaciones. Cada una de estas modificaciones se
+traducirá en un nuevo anuncio que podrá a su vez ser rectificado o anulado.
+
+En una modificación de un contrato se indicarán los siguientes datos:
+               Número de modificación.
+               Fecha de la modificación.
+               Incremento o decremento del importe del contrato.
+               Importe total tras la modificación.
+               Incremento o decremento de la duración del contrato.
+               Duración total tras la modificación.
+               Descripción, para cualquier aclaración u observación.
+               Documento adicional.
+
+
+Para proceder a la publicación de una modificación de contrato se deben seguir los
+siguientes pasos:
+Paso 1 - Configuración de los datos
+Paso 2 - Publicación del anuncio
+
+Estos pasos se detallan en los siguientes apartados.
+
+3.1       Paso 1 - Configuración de los datos
+
+Una vez haya accedido a la licitación:
+
+Paso 1.1 - Navegue a la pestaña “Modificaciones del contrato”.
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 7 de 22
+Pulse sobre el nombre de la pestaña “Modificaciones del contrato”
+
+
+
+
+Una vez aquí, se visualiza una tabla con el epígrafe “Contratos adjudicados” similar a la
+que se muestra en la pestaña “Formalización”. Se mostrarán tantas filas como contratos
+adjudicados.
+
+La siguiente imagen muestra la información en una licitación sin lotes y con un único
+adjudicatario:
+
+
+
+
+Los datos que se muestran en la tabla “Contratos adjudicados” son los siguientes:
+
+                    ELEMENTO                                                  DESCRIPCIÓN
+
+       Número de Contrato                               Identificador asociado al contrato
+
+       Descripción                                      Objeto del Contrato
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0     Pág. 8 de 22
+       Adjudicatario                                    Nombre de la empresa a la que se ha adjudicado el contrato
+
+       Importe                                          Importe sin impuestos de adjudicación inicial
+
+                                                        Fecha en la que el contrató se formalizó indicada en la
+       Fecha de formalización
+                                                        pestaña “Formalización”.
+
+
+En los expedientes con lotes, la tabla “Contratos Adjudicados” es ligeramente distinta: se
+incluye una columna que hace referencia al número de lote y la columna descripción se
+corresponde con la del lote en lugar de la del expediente.
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0     Pág. 9 de 22
+Los datos que se muestran en la tabla son los siguientes:
+
+                    ELEMENTO                                                 DESCRIPCIÓN
+
+       Número de Contrato                               Identificador asociado al contrato
+
+       N Lote                                           Número del lote
+
+       Descripción                                      Objeto del Contrato del lote
+
+       Adjudicatario                                    Nombre de la empresa a la que se ha adjudicado el lote
+
+       Importe                                          Importe sin impuestos de adjudicación inicial
+
+                                                        Fecha en la que el contrató se formalizó indicada en la
+       Fecha de formalización
+                                                        pestaña Formalización.
+
+
+Se puede apreciar en la última imagen, que el lote número 2 no tiene un número de contrato
+asociado puesto que no se indicó al formalizar el contrato.
+
+Paso 1.2 - Seleccione el contrato sobre el que se va a publicar la modificación
+
+Pulse en la columna “Descripción” del contrato sobre el que quiera indicar una modificación.
+
+Por ejemplo, en el caso del expediente sin lotes, se pulsaría en “Compra de paquetes SW”,
+es decir, el objeto del contrato:
+
+
+
+
+En el caso con lotes, se pulsaría en “Viseras de seguridad” si se va a publicar una
+modificación del contrato con la empresa “Empresa 1” sobre el lote “1”:
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0    Pág. 10 de 22
+En ambos casos se mostrará una sección denominada “Modificaciones del contrato” y que
+inicialmente estará vacía:
+
+
+
+
+El Número de Contrato proviene del indicado en la formalización. Será un dato requerido si
+no se introdujo anteriormente.
+
+La tabla que aparece es un resumen de las modificaciones introducidas y mostrará los
+siguientes datos:
+                    ELEMENTO                                                 DESCRIPCIÓN
+
+       Número de Modificación                           Número asignado a la modificación
+
+       Modificación de la Duración                      Incremento/decremento de la duración del contrato
+
+                                                        Incremento/decremento del importe sin impuestos del
+       Modificación del Importe
+                                                        contrato
+
+       Fecha de Modificación                            Fecha en que se ha realizado la modificación
+
+                                                        Indica si el anuncio asociado a la modificación se ha
+       Publicado
+                                                        publicado o no
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0    Pág. 11 de 22
+Paso 1.3 - Introduzca los datos de la modificación.
+
+Pulse “Nuevo” para crear una modificación del contrato.
+
+
+
+
+Se abrirá una nueva sección para introducir los datos de la modificación:
+
+
+
+
+Los datos a introducir para la modificación son los siguientes:
+
+                    ELEMENTO                                                DESCRIPCIÓN
+
+       Número de Modificación                           Número asignado a la modificación.
+
+                                                        Fecha en que se ha realizado la modificación.
+       Fecha de Modificación                            Dispone de un calendario que le ayudará en la introducción
+                                                        de los datos.
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0    Pág. 12 de 22
+                                                        Sección para introducir el incremento/decremento de los
+                                                        importes con y sin impuestos y el importe total de los
+                                                        mismos tras la modificación. Los decrementos se introducen
+                                                        con números negativos.
+
+       Modificación del Importe                         Una vez introducido el incremento/decremento de los
+                                                        importes con y sin impuestos, el botón “Recalcular” sugerirá
+                                                        los importes tras la modificación basados en los valores
+                                                        iniciales y modificaciones anteriores pero recuerde que
+                                                        DEBE REVISAR Y CORREGIR LOS VALORES
+                                                        SUGERIDOS si no son los correctos.
+
+                                                        Sección para introducir el incremento/decremento la
+                                                        duración y la duración tras la modificación. Los decrementos
+       Modificación de la Duración                      se introducen con números negativos.
+                                                        La duración se expresa en términos de años, meses o días.
+
+                                                        Sección para introducir una descripción de la modificación y
+       Información adicional.
+                                                        un documento adicional.
+
+
+Al introducir los datos de la modificación serán obligatorios:
+     Número de modificación
+     Fecha de modificación (que debe ser anterior a la fecha actual)
+     Al menos uno de los siguientes:
+            o Modificación del importe del contrato e importe total tras la modificación, sin
+                impuestos y con impuestos.
+            o Modificación de la duración del contrato y duración total tras la modificación
+            o Descripción
+
+Después de introducir los datos pulse “Aceptar”:
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0    Pág. 13 de 22
+La lista de modificaciones reflejará la modificación introducida:
+
+
+
+
+Para borrar una modificación de contrato pulse en “Eliminar”. Sólo es posible borrar la
+modificación introducida si aún no ha sido publicada.
+
+Paso 1.4 - Guarde los datos
+
+Proceda a consolidar la información pulsando “Aceptar”
+
+
+
+
+Y guarde la Licitación pulsando “Guardar Licitación”:
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 14 de 22
+3.2     Paso 2 - Publicación del anuncio de modificación del contrato
+
+Paso 2.1 - Sitúese en la Pestaña “Resumen Licitación”
+
+
+
+
+Paso2.2 – Compruebe los datos que va a publicar.
+
+Los anuncios de modificaciones de contrato se disponen en el apartado “Modificaciones”.
+Seleccionando en este apartado la opción “Previsualizar” y pulsando “Aceptar” tendrá
+acceso a un documento similar al anuncio que se publicará.
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 15 de 22
+Paso 3 – Publicar el anuncio
+
+Una vez comprobados los datos publique el anuncio seleccionado “Publicar” y pulsando
+“Aceptar” en el apartado “Modificaciones”:
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 16 de 22
+Puede comprobar que ha publicado el anuncio verificando en la columna “Publicación en
+Plataforma” que aparece la fecha y que en la columna “Ver documentos” tiene acceso al
+anuncio publicado:
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 17 de 22
+4. Visualización de la Modificación del Contrato
+Al ser un anuncio más, es posible buscar licitaciones por este criterio en la pestaña
+“Formulario Búsqueda”.
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 18 de 22
+En Búsqueda avanzada
+
+
+
+
+Selección Tipo de Anuncio
+
+
+
+
+En la siguiente imagen se ha resaltado el anuncio de modificación de contrato en el detalle
+de una licitación:
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 19 de 22
+A continuación se muestra el anuncio publicado en formato PDF:
+
+
+
+
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 20 de 22
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 21 de 22
+Guía de Publicación de Modificación de Contrato v.5.0   Pág. 22 de 22
+

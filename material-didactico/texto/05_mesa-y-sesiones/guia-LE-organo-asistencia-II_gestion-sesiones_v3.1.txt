@@ -1,0 +1,1726 @@
+     Guía de Servicios de Licitación
+ Electrónica para Órganos de Asistencia
+         II: Gestión de Sesiones
+
+
+
+
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+                                                                      Versión: 3.1
+
+                                                                      7 Abril 2022
+ÍNDICE
+1.     INTRODUCCIÓN ............................................................................................................................ 3
+2.     ACCESO Y DESCRIPCIÓN DEL ENTORNO DE TRABAJO ....................................................... 4
+3.     CREACIÓN DE SESIONES ........................................................................................................... 7
+     3.1        PESTAÑA SESIONES ................................................................................................................. 7
+     3.2        PESTAÑA PLANIFICACIÓN ........................................................................................................ 10
+     3.3        OTRAS TAREAS DE GESTIÓN DE SESIONES .............................................................................. 13
+     3.3.1      BÚSQUEDA DE SESIONES ........................................................................................................ 13
+     3.3.2      MODIFICACIÓN DE SESIONES .................................................................................................. 15
+     3.3.3      ELIMINACIÓN DE SESIONES ..................................................................................................... 15
+4.     AGENDA CONSOLIDADA .......................................................................................................... 16
+     4.1        NAVEGACIÓN POR LA AGENDA................................................................................................. 16
+     4.2        CONFIGURACIÓN DE LA AGENDA.............................................................................................. 18
+     4.3        ACCESO A LAS SESIONES ........................................................................................................ 19
+     4.3.1      SESIONES EN ESTADO CREADA ............................................................................................... 19
+     4.3.2      SESIONES EN ESTADO CONVOCADA......................................................................................... 19
+     4.3.3      SESIONES EN ESTADO CONSTITUIDA........................................................................................ 20
+     4.3.4      SESIONES EN ESTADO FINALIZADA........................................................................................... 20
+     4.4        NAVEGAR POR DISTINTOS ÓRGANOS DE ASISTENCIA ................................................................ 20
+5.     GESTIÓN DE ACTOS .................................................................................................................. 21
+     5.1        CREACIÓN DE ACTOS .............................................................................................................. 21
+     5.2        ASIGNACIÓN DE ACTOS ........................................................................................................... 33
+     5.3        OTRAS TAREAS DE GESTIÓN DE ACTOS ................................................................................... 36
+     5.4        ESTADO DE LOS ACTOS ........................................................................................................... 37
+6.     CONVOCATORIA ........................................................................................................................ 38
+     6.1        ENVÍO DE LA CONVOCATORIA .................................................................................................. 38
+     6.2        ANULACIÓN DE LA CONVOCATORIA .......................................................................................... 44
+     6.3        REPLANIFICACIÓN DE LA CONVOCATORIA................................................................................. 45
+7.     ANEXO I: COPIA ELECTRÓNICA .............................................................................................. 46
+     7.1        DOCUMENTOS PDF ................................................................................................................ 47
+     7.2        ARCHIVOS CON FORMATO DISTINTO A PDF .............................................................................. 47
+     7.3        VERIFICACIÓN Y DESCARGA DE LAS COPIAS ELECTRÓNICAS ..................................................... 48
+8.     GLOSARIO DE TÉRMINOS ......................................................................................................... 49
+9.     CONTÁCTENOS .......................................................................................................................... 49
+10.          ANEXO I: INSTALACIÓN DE AUTOFIRMA ........................................................................... 49
+     10.1       INSTALACIÓN DE AUTOFIRMA ................................................................................................... 49
+     10.2       CONFIGURACIÓN DE AUTOFIRMA ............................................................................................. 54
+     10.3       ERRORES DE AUTOFIRMA ....................................................................................................... 55
+     10.4       SELECCIÓN DEL CERTIFICADO USANDO FIREFOX ...................................................................... 56
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1                                              Pág. 2 de 57
+1. INTRODUCCIÓN
+
+Esta guía se centra en la gestión de las sesiones de los Órganos de Asistencia haciendo uso
+de los servicios de Licitación Electrónica que la Plataforma de Contratación del Sector Público
+pone a disposición de los organismos públicos.
+
+Las sesiones constituyen el eje principal de actuación de los Órganos de Asistencia,
+convirtiéndolos en los organismos competentes para valorar las ofertas, asistiendo al órgano
+de contratación en el marco de un procedimiento de contratación pública.
+
+Para la celebración de las sesiones es preciso realizar un conjunto de tareas previas, cuya
+ejecución es independiente del medio, físico o electrónico. En el caso que nos ocupa, medio
+electrónico, la gestión de sesiones se materializa a través de los servicios de Licitación
+Electrónica de la Plataforma.
+
+Básicamente, los servicios de Licitación Electrónica permiten la preparación y presentación
+de ofertas telemáticamente por el licitador, la custodia electrónica de las mismas por el sistema
+y la apertura y evaluación electrónica de la documentación por los miembros del órgano de
+asistencia.
+
+Como se puede analizar a lo largo de este documento, los servicios de Licitación Electrónica
+de la Plataforma de Contratación del Sector Público adaptan la casuística de los Órganos de
+Asistencia al mundo virtual e incluyen la creación, planificación, convocatoria de las sesiones
+o la gestión de los actos de que se componen. Comprende, además, la funcionalidad de
+Agenda del Órgano con el fin de facilitar la administración de las sesiones.
+
+En concreto, en la presente guía, se documenta cómo el usuario del órgano de asistencia,
+básicamente el secretario o su ayudante llamado gestor OA, realiza la gestión de sesiones en
+el mundo electrónico, a través de los servicios que ofrece la Plataforma de Contratación del
+Sector Público. Para ello, se aborda en primer lugar la creación de las sesiones, para más
+adelante describir la agenda y, por último, ver la funcionalidad de la convocatoria
+
+Finalmente, recordarle que tiene a su disposición la “Guía de Servicios de Licitación
+Electrónica para Órgano de Asistencia I: Gestión de Órganos de Asistencia”, para conocer lo
+relativo a las funciones que puede realizar cada uno de los usuarios del órgano de asistencia.
+
+Es importante resaltar que, para la gestión de las sesiones es preciso cumplir unos requisitos
+técnicos adicionales a los habituales que exige la Plataforma de Contratación del Sector
+Público (usuario registrado, conexión a Internet, uso de un navegador), al menos en el equipo
+del Secretario, que son:
+
+     1. Instalar la versión de Autofirma correspondiente a la configuración de su equipo:
+        https://firmaelectronica.gob.es/Home/Descargas.html
+
+     2. Certificado electrónico reconocido por la Administración General del Estado (@firma),
+        al menos para el Secretario. Para verificar que su certificado electrónico es válido, por
+        favor, navegue a https://valide.redsara.es/ escoja la opción Validar Certificado y siga
+        las instrucciones.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 3 de 57
+2. Acceso y descripción del entorno de trabajo
+
+Para acceder a los servicios destinados al órgano de asistencia, el usuario ha de estar dado
+de alta en alguno de ellos (para más información sobre cómo gestionar un órgano de
+asistencia consulte, la “Guía de Servicios de Licitación Electrónica para Órgano de Asistencia
+I: Gestión de Órganos de Asistencia”).
+
+Si el usuario perteneciera a uno o varios órganos de asistencia o contratación, deberá prestar
+atención al contexto en el cual está operando. Para consultar y cambiar el contexto el
+usuario selecciona el organismo en el menú superior lateral derecho, tal y como se muestra
+en la Ilustración: Cambio de Contexto.
+
+
+
+
+Ilustración: Cambio de Contexto
+
+Una vez cambie el contexto, en el caso de ser un órgano de asistencia, la pantalla que se
+muestra es la plasmada en la Ilustración: Inicio de sesión como usuario del Órgano de
+Asistencia.
+
+
+
+
+Ilustración: Inicio de sesión como usuario del Órgano de Asistencia
+
+Como se puede apreciar, para la gestión de las sesiones de los Órganos de Asistencia, se
+deberá pulsar la pestaña “Gestión de sesiones”. Una vez se accede, se muestra por defecto
+la pantalla “sesiones en curso” de la Ilustración: pantalla de inicio gestión de sesiones.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 4 de 57
+Ilustración: pantalla de inicio gestión de sesiones
+
+Gestión de Sesiones se divide en cuatro pestañas en las que se podrán realizar diversas
+consultas y acciones. A continuación, se hace un resumen de las acciones que se pueden
+llevar a cabo en cada una de esas pestañas. En los apartados posteriores se detalla cada una
+de ellas.
+
+          Sesiones en Curso: permite que el miembro de la mesa visualice de forma inmediata
+           lo que está pendiente o más próximo a suceder. Contiene las sesiones convocadas
+           para el mismo día, así como aquellas que están suspendidas o constituidas
+           (Ilustración: Sesiones en Curso y Suspendidas). Esta información está disponible para
+           todos los miembros del Órgano de Asistencia.
+
+
+
+
+           Ilustración: Sesiones en Curso y Suspendidas
+
+          Agenda Consolidada: La agenda constituye una herramienta esencial para gestionar
+           sesiones. Muestra un resumen de la lista de sesiones con los actos planificados y
+           pendientes de planificar entre otras cuestiones (Ilustración: Pestaña Agenda). Su
+           estudio se desarrolla en el apartado específico.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 5 de 57
+                        Sesiones
+
+
+
+
+                OA a los que
+                se pertenece
+
+
+           Ilustración: Pestaña Agenda
+
+          Planificación: La pestaña planificación permite buscar tanto aquellos eventos que
+           tienen una fecha fijada como los que no la tienen, y crear una sesión a partir de ellos
+           (Ilustración: Pestaña Planificación).
+
+
+
+
+           Ilustración: Pestaña Planificación
+
+          Sesiones: La pestaña Sesiones permite crear las sesiones e incorporar los actos más
+           adelante, o bien buscar aquellas sesiones ya creadas para completar su configuración
+           (Ilustración: Pestaña Sesiones) o, simplemente, para visualizarlas. Tanto en el
+           apartado Creación de Sesiones como en de Gestión de Actos se amplía la
+           información al respecto.
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 6 de 57
+           Ilustración: Pestaña Sesiones
+
+3. Creación de sesiones
+La creación de las sesiones supone la actividad básica de la gestión, requisito imprescindible
+para la celebración de sesiones en el mundo electrónico. Es efectuada por el secretario/a o el
+usuario gestor OA e incluye dos bloques de información: los datos básicos y el orden del día
+
+La creación de una sesión se puede realizar de dos formas diferentes:
+
+          Desde la pestaña Sesiones:
+
+
+           Ilustración: Creación de sesiones desde pestaña Sesiones
+
+
+          Desde la pestaña Planificación
+
+
+
+           Ilustración: Creación de sesiones desde pestaña Planificación
+
+
+3.1       Pestaña Sesiones
+La creación de sesiones desde la pestaña Sesiones está indicada para cuando no hay una
+fecha fijada para los actos, asignándose de forma más flexible. La fecha que se establezca
+para la sesión será la que hereden de forma automática los actos que conformen el orden del
+día. En primer lugar, se introducen los datos básicos y, posteriormente, se confecciona el
+orden del día.
+
+Cuando se pulsa sobre la pestaña Sesiones, aparece la siguiente pantalla (Ilustración: Crear
+Sesión).
+
+
+
+
+Ilustración: Crear Sesión
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 7 de 57
+Para crear la nueva sesión, se ha de pulsar sobre el botón “Crear Sesión”. El sistema
+automáticamente muestra el formulario de la Ilustración: Formulario crear Sesión, donde se
+han de rellenar los datos básicos de la sesión.
+
+
+
+
+Ilustración: Formulario crear Sesión
+
+Datos básicos
+
+          Identificador de la sesión: se puede introducir cualquier valor que ayude a la
+           identificación de la misma (Ilustración: identificador de Sesión). Este valor ha de ser
+           único por órgano de asistencia, con objeto de que la sesión se identifique de forma
+           unívoca.
+
+
+           Ilustración: identificador de Sesión
+
+          Fecha y hora: Se puede introducir de forma directa (Ilustración: fecha de la sesión
+           introducida directamente) o empleando el icono         calendario gráfico de la izquierda
+           tal y como se muestra en la Ilustración: fecha de la sesión usando el calendario gráfico.
+
+
+           Ilustración: fecha de la sesión introducida directamente
+
+
+
+
+           Ilustración: fecha de la sesión usando el calendario gráfico
+
+          Estado: este campo se actualiza automáticamente según se van realizando acciones
+           en relación con la sesión concreta (Ilustración: Estado de la Sesión). Puede contener
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1     Pág. 8 de 57
+           diferentes valores como creada, convocada, en sesión o suspendida. En la guía de
+           “Celebración de sesiones” se analiza las características de cada uno de estos estados
+
+
+           Ilustración: Estado de la Sesión
+
+          Descripción de la sesión: en este campo el secretario introduce una descripción más
+           amplia de la sesión (Ilustración: descripción de la sesión).
+
+
+
+
+           Ilustración: descripción de la sesión
+
+Por último, se incluyen los datos relevantes en referencia a la ubicación, tal y como se puede
+ver en la Ilustración: información relativa a la ubicación de la sesión:
+     Lugar de celebración.
+     Calle.
+     Código Postal.
+     Población.
+
+
+
+
+           Ilustración: información relativa a la ubicación de la sesión
+
+Una vez creada la sesión (Ilustración: sesión creada con datos básicos), al registrarse sus
+datos básicos y pulsar Aceptar, se muestra la pantalla de la Ilustración: pantalla para
+incorporar actos a una sesión creada, para incorporar los actos que forman parte del Orden
+del día.
+
+
+
+
+Ilustración: sesión creada con datos básicos
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 9 de 57
+Ilustración: pantalla para incorporar actos a una sesión creada
+
+Para ello, se ha de hacer clic en el botón incorporar que aparece en la Ilustración: pantalla
+para incorporar actos a una sesión creada .
+Los actos que se pueden incorporar pueden ser de dos tipos (Ilustración: pantalla para buscar
+actos predefinidos y crear nuevos actos):
+     Aquellos ya predefinidos por el mero hecho de haberse configurado una licitación
+       electrónica en la Plataforma y siempre en relación con los sobres de la oferta. Por
+       ejemplo, apertura o calificación del sobre administrativo. Estos actos los crea
+       automáticamente el sistema al definir el publicador un sobre.Aquellos que no han sido
+       predefinidos por el sistema, por ejemplo, una subsanación, la aprobación de un acta o
+       una propuesta de adjudicación, entre otros.
+
+
+
+
+Ilustración: pantalla para buscar actos predefinidos y crear nuevos actos
+
+En el apartado de gestión de Actos se amplía la información sobre la creación de los mismos
+y su incorporación a la sesión.
+
+3.2     Pestaña Planificación
+La creación de sesiones mediante la pestaña planificación permite la creación de las mismas
+a partir de la agrupación de actos (Ilustración: pantalla de planificación de actos). Se obliga a
+que el conjunto de actos que van a formar la sesión tengan la misma fecha, de manera que,
+para agrupar eventos con una determinada fecha y eventos sin fecha, estos últimos han de
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 10 de 57
+tomar la fecha de los primeros. Si los actos tienen fechas fijadas distintas el sistema devolverá
+un mensaje de advertencia.
+
+
+
+
+Ilustración: pantalla de planificación de actos
+
+Una vez se buscan los actos de acuerdo al criterio de filtro que sea oportuno, se seleccionan
+aquellos actos que van a constituir el orden del día en la sesión.
+
+Los criterios de filtro posibles son:
+    Órgano de contratación: nombre del órgano de contratación.
+    Tipo de contrato: servicios, obras, suministros, etc.
+    Tipo de acto: apertura, valoración, propuesta de adjudicación, etc.
+    Procedimiento: abierto, restringido, negociado sin publicidad, etc.
+    Expediente: número de expediente.
+    Objeto del contrato.
+
+NOTA: recuerde que en aquellos campos que sean de texto libre y, por tanto, no haya que seleccionar
+una opción de una lista de valores, no tiene que introducir la totalidad del texto y puede hacer uso de
+caracteres comodín. Por ejemplo, si quiere buscar los actos relacionados con procedimientos de la
+Dirección General de Patrimonio del Estado, debe teclear, por ejemplo, en el nombre del órgano de
+contratación el valor %Patrimon%.
+
+Antes de pulsar el botón “Crear sesión actos seleccionados”, si alguno de los actos no tiene
+fecha se ha de fijar la fecha de los mismos. Para ello, se seleccionará aquellos actos sin fecha
+que sean susceptibles de ser incorporados a la sesión y se pulsará el botón “Fijar fecha actos
+seleccionados” tal y como se puede apreciar en la pantalla de la Ilustración: pantalla de
+incorporación a sesión de actos planificados.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1      Pág. 11 de 57
+Ilustración: pantalla de incorporación a sesión de actos planificados
+
+A continuación, se muestra el formulario de la Ilustración: pantalla para fijar fecha a actos
+
+
+
+
+Ilustración: pantalla para fijar fecha a actos
+
+Una vez fijada la fecha, se pueden seleccionar los diferentes actos debiendo tener todos ellos
+la misma fecha (Ilustración: pantalla de incorporación a sesión de actos planificados con
+misma fecha).
+
+
+
+
+           Ilustración: pantalla de incorporación a sesión de actos planificados con misma fecha
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1          Pág. 12 de 57
+Una vez se haya seleccionado “crear sesión actos seleccionados” el sistema mostrará los
+datos de la sesión y el conjunto de actos que constituyen el orden del día.
+
+NOTA: recuerde que en el caso en que cree la sesión a partir del orden del día (actos), la fecha de la
+sesión será la de éstos. Por el contrario, si primero crea la sesión registrando sus datos básicos (entre
+ellos la fecha), y después crea el orden del día, la fecha de los actos se actualizará en todo caso
+tomando la de la sesión.
+
+
+3.3     Otras tareas de Gestión de Sesiones
+Además de la creación, otras tareas que incluye la gestión de sesiones son:
+    Búsqueda de sesiones.
+    Modificación de sesiones.
+    Anulación / eliminación de sesiones.
+
+3.3.1 Búsqueda de Sesiones
+La Búsqueda de Sesiones sirve para localizar una o varias sesiones que cumplen unos
+criterios determinados, como un rango de fecha o un estado concreto. La búsqueda de
+sesiones es requisito para realizar otras tareas de gestión como la modificación, la eliminación
+de la sesión o, incluso, el envío de la convocatoria.
+
+Para la búsqueda de sesiones, navegue a la pestaña “Sesiones”, y escoja una de las dos
+posibilidades de búsqueda que se ofrece, cada una de ellas con sus correspondientes criterios
+de filtro:
+     Por sesión (Ilustración: criterios de filtro para la Búsqueda por Sesión), con los filtros:
+               o Fecha desde / Fecha hasta.
+               o Nombre de la sesión.
+               o Estado de la sesión.
+     Por licitación (Ilustración: criterios de filtro para la Búsqueda por licitación), con los
+         filtros:
+               o Fecha desde / Fecha hasta.
+               o Órgano de Contratación.
+               o Tipo de contrato.
+               o Tipo de acto.
+               o Licitación o número de expediente.
+               o Objeto del contrato.
+
+
+
+
+Ilustración: criterios de filtro para la Búsqueda por Sesión
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1        Pág. 13 de 57
+Ilustración: criterios de filtro para la Búsqueda por licitación
+
+El resultado de la búsqueda devuelve diferente información en virtud de si se ha empleado
+uno u otro tipo de búsqueda.
+
+En la búsqueda por sesión se obtiene la siguiente información (Ilustración: resultado de la
+Búsqueda por sesión):
+    Fecha de sesión.
+    Identificador de sesión (si se pulsa el enlace navega al detalle de la sesión).
+    Descripción de la sesión.
+    Estado de la sesión.
+
+
+
+
+Ilustración: resultado de la Búsqueda por sesión
+
+
+En la búsqueda por licitación se obtiene la siguiente información (Ilustración: resultado de la
+Búsqueda por licitación):
+    Órgano de contratación.
+    Licitación o número de expediente.
+    Lote/Categoría
+    Tipo de acto.
+    Fecha de la sesión.
+    Identificador de sesión (si se pulsa el enlace navega al detalle de la sesión).
+    Estado de la sesión.
+    Tipo de contrato.
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 14 de 57
+          Tipo de procedimiento.
+
+
+
+
+Ilustración: resultado de la Búsqueda por licitación
+
+
+3.3.2 Modificación de Sesiones
+Las sesiones se pueden modificar, tanto sus datos básicos como el orden del día, no obstante,
+se ha de cumplir la siguiente premisa: la sesión ha de estar en estado Creada.
+
+Si la sesión se encuentra convocada, deberá anular la convocatoria y realizar el cambio o
+efectuar una replanificación. En cualquiera de los estados restantes (constituida, suspendida
+o finalizada) no se puede proceder a su modificación. No obstante, sí se pueden incorporar
+nuevos actos al orden del día, salvo que se encuentre Finalizada.
+
+NOTA: recuerde que si ha modificado una sesión ya convocada mediante la anulación de la
+convocatoria, deberá volver a enviar la misma para que los miembros del órgano de asistencia
+conozcan las modificaciones.
+
+
+3.3.3 Eliminación de Sesiones
+Las sesiones también se pueden eliminar, sin embargo, también es preciso cumplir una serie
+de premisas. La más importante de ellas tiene que ver con el estado, de tal forma que sólo se
+pueden eliminar sesiones que estén en estado Creada.
+
+Si la sesión ya ha sido convocada, al igual que ocurre con la modificación, deberá anular la
+convocatoria y, posteriormente, eliminar la sesión.
+Para proceder a la anulación o eliminación, en primer lugar, debe localizar la sesión y, una
+vez situado en el detalle de la misma (Ilustración: anulación de la sesión) pulsar el botón
+Anular Sesión.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 15 de 57
+Ilustración: anulación de la sesión
+
+La Plataforma muestra un mensaje de confirmación, antes de eliminar definitivamente la
+sesión (Ilustración: mensaje de confirmación de la anulación).
+
+
+
+
+Ilustración: mensaje de confirmación de la anulación
+
+
+4. Agenda Consolidada
+
+La agenda constituye una herramienta visual para gestionar sesiones, teniendo en cuenta que
+permite:
+
+          Mostrar las tareas y sesiones que están planificadas para una fecha determinada.
+          Navegar a sesiones concretas sin necesidad de usar el buscador.
+          Navegar por sesiones de diferentes órganos.
+          Ayudar a planificar la carga de trabajo de los órganos.
+          Analizar aquellos actos o tareas pendientes de planificar.
+          En sesiones convocadas, permite el reenvío de la convocatoria, la anulación de la
+           convocatoria y la replanificación de la sesión.
+
+4.1       Navegación por la Agenda
+Para navegar a la Agenda, deberá pulsar la pestaña Agenda en el menú de usuario / miembro
+de órgano de asistencia (Ilustración: navegación a la Agenda).
+
+
+
+
+Ilustración: navegación a la Agenda
+
+A continuación, se muestra la pantalla de la agenda consolidada.
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 16 de 57
+Ilustración: Agenda
+
+La agenda es visible por todos los miembros del órgano de asistencia. Permite visualizar
+fácilmente las sesiones dividiéndose en:
+
+          Un primer segmento con un menú de navegación para escoger entre visualizar la
+           agenda por mes, semana, día y la agenda en formato lista de detalles (Ilustración:
+           Lista de detalles de la Agenda)
+          Un segundo segmento donde se visualizan las diferentes sesiones de los distintos
+           órganos a los que se pertenece el usuario. Ofrece información sobre los actos y los
+           estados de las sesiones, así como diferentes opciones dependiendo del estado de la
+           sesión elegida.
+          Un tercer segmento donde se visualizan los diferentes órganos de asistencia.
+           Desmarcando/marcando los mismos se pueden visualizar todas las sesiones o solo
+           las asociadas a los órganos seleccionados.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 17 de 57
+Ilustración: Lista de detalles de la Agenda
+
+NOTA: Cabe destacar que las tareas planificadas se convierten en actos cuando se integran en el
+orden del día de una sesión concreta. Las sesiones se componen de los actos que configuran el orden
+del día. Todos ellos tienen que tener la misma fecha.
+
+NOTA: En una misma sesión pueden coexistir distintos tipos de actos de diferentes procedimientos de
+contratación e, incluso, de órganos de contratación diversos.
+
+
+4.2     Configuración de la Agenda
+
+Las actuales funcionalidades de la Agenda permiten disponer en una misma pantalla de las
+sesiones de los diferentes Órganos de Asistencia de los que sea usuario (1). También se
+dispone de la posibilidad de solo mostrar las sesiones del Órgano u Órganos de Asistencia
+marcando/desmarcando las casillas de verificación de los diferentes Órganos (2).
+
+
+
+
+Ilustración: Vista global de la Agenda
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 18 de 57
+4.3       Acceso a las sesiones
+
+Desde la Agenda se podrá acceder a las sesiones, independientemente de su estado,
+pulsando sobre los segmentos contenidos en los recuadros del calendario. Los diferentes
+estados son:
+
+      -    Creada
+      -    Convocada
+      -    Constituida
+      -    Finalizada
+4.3.1 Sesiones en estado Creada
+
+Si la sesión está en estado creada, y pulsa sobre el segmento, encontrará los actos que han
+sido ya incorporados en la sesión, un enlace a la sesión y un icono con la forma “>>“.
+
+
+
+
+Ilustración: Vista en Agenda de una sesión creada
+
+Este icono se corresponde con la acción “Lanzar Convocatoria”:
+
+
+
+
+Ilustración: Acceso directo a Convocatoria
+
+4.3.2 Sesiones en estado Convocada
+
+Si la sesión está en estado convocada, y pulsa sobre el segmento encontrará los actos que
+han sido ya incorporados en la sesión, un enlace a la sesión y una serie de iconos.
+
+
+
+
+Ilustración: Vista en Agenda de una sesión convocada
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 19 de 57
+Estos iconos permiten gestionar la convocatoria de la sesión desde la agenda.
+   - El primer icono (>>) tiene asociada la funcionalidad de reenvío de la convocatoria. Al
+        pulsarlo, aparecerá el cuadro diálogo para volver a enviar la convocatoria sin modificar.
+   - El segundo icono (X) permite la anulación de la convocatoria mediante un cuadro
+        diálogo que realiza el envío de dicha anulación con opción a motivarla.
+   - El último icono (calendario) es un acceso rápido a la pestaña de convocatoria de la
+        sesión, permitiendo gestionar completamente la convocatoria desde la agenda,
+        incluyendo la replanificación de la misma.
+
+4.3.3 Sesiones en estado Constituida
+
+Si la sesión está en estado constituida, y pulsa sobre el segmento, encontrará los actos que
+han sido ya incorporados en la sesión y un enlace a la sesión que le llevará a continuarla o
+reiniciarla.
+
+
+
+
+Ilustración: Vista en Agenda de una sesión constituida
+
+
+4.3.4 Sesiones en estado Finalizada
+Si la sesión está en estado finalizada, y pulsa sobre el segmento, encontrará los actos que
+han sido ya incorporados en la sesión y un enlace a la sesión que le llevará a la orden del día
+de la sesión.
+
+
+
+
+Ilustración: Vista en Agenda de una sesión finalizada
+
+
+4.4     Navegar por distintos Órganos de Asistencia
+Si se quiere navegar a una sesión de un órgano de asistencia diferente al que esté en ese
+momento activo, el sistema lo indicará como si de un cambio de rol se tratara.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 20 de 57
+Ilustración: Vista en Agenda del cambio de órgano de asistencia
+
+
+5. Gestión de actos
+Los actos constituyen el conjunto de tareas que conforman el orden del día de una sesión. Su
+naturaleza es diversa, así, existen actos de distinta índole:
+    Actos relacionados con sobres: Apertura, calificación, evaluación, subsanaciones.
+    Actos relacionados con sesiones concretas: Aprobación de actas.
+    Actos relacionados con procedimientos: Propuesta de adjudicación.
+    Otros actos: ruegos y preguntas, aprobación de inicio de expediente, etc.
+
+También, los actos se pueden clasificar en función de su origen:
+    Actos predefinidos: aquellos que crea automáticamente la Plataforma cuando el
+      usuario del órgano de contratación configura los sobres.
+    Actos no predefinidos: los que precisan una creación explícita por el usuario del órgano
+      de asistencia.
+
+La Gestión es realizada por el Secretario (o el Presidente) o, en su defecto, por un gestor del
+Órgano de Asistencia, y contiene el conjunto de acciones que se puede realizar en torno a
+ellos:
+     Creación de los actos.
+     Asignación de actos.
+     Modificación de actos.
+     Eliminación de actos del orden del día.
+
+El acto está vinculado a la sesión, por lo que determinadas acciones sobre los actos
+dependerán de su pertenencia a una sesión, y del estado en que se encuentre ésta. Por
+ejemplo, no se podrá eliminar un acto si la sesión está finalizada.
+
+NOTA: El órgano de asistencia también podrá crear actos y sesiones que no correspondan a
+procedimientos electrónicos, no obstante, sólo a efectos de planificar el trabajo.
+
+
+5.1     Creación de actos
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 21 de 57
+La Plataforma permite la creación manual de cualquiera de los distintos tipos de actos que
+existen, sin embargo, en la práctica, no se crearán aquellos actos, que como las aperturas y
+calificaciones / evaluaciones, tienen un origen automático (actos predefinidos).
+
+Para la creación de actos, navegue a la sesión concreta, pulse Incorporar y, a continuación,
+pulse Crear Nuevo Acto (Ilustración: búsqueda de actos predefinidos y crear nuevos actos).
+
+
+
+
+Ilustración: búsqueda de actos predefinidos y crear nuevos actos
+
+La creación de un acto requiere la introducción, en todo caso, de la siguiente información:
+    Descripción.
+    Tipo de acto: se escoge un valor de una lista predefinida (Ilustración: creación de
+       nuevos actos).
+    Un conjunto de datos adicionales que dependerán del tipo de acto.
+
+
+
+
+Ilustración: creación de nuevos actos
+
+A continuación, se indica la información adicional que hay que introducir en función del tipo
+de acto:
+
+Acto de Aprobación de acta
+Se debe seleccionar la sesión correspondiente (Ilustración: datos adicionales para el acto de
+aprobación de acta).
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 22 de 57
+Ilustración: datos adicionales para el acto de aprobación de acta
+Se puede seleccionar la sesión actual o se pulsa Buscar Sesión, habilitándose una ventana
+para la localización de la misma (Ilustración: pantalla para buscar la sesión sobre la que se
+tiene que aprobar el acta) con los parámetros:
+
+          Fecha desde / Fecha Hasta.
+          Nombre o Identificador de la sesión.
+          Estado.
+
+
+
+
+Ilustración: pantalla para buscar la sesión sobre la que se tiene que aprobar el acta
+
+Se muestra el conjunto de sesiones que cumplen los criterios de filtro. Seleccione la sesión
+correspondiente y pulse asignar (Ilustración: Asignación de la sesión).
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1        Pág. 23 de 57
+Ilustración: Asignación de la sesión
+
+Para finalizar la creación del acto, y su incorporación a la sesión correspondiente, pulse el
+botón Crear (Ilustración: acto de aprobación de acta creado).
+
+
+
+
+Ilustración: acto de aprobación de acta creado
+
+Acto de Propuesta de adjudicación
+Se debe seleccionar el procedimiento correspondiente (Ilustración: datos adicionales para el
+acto de propuesta de adjudicación), para lo que pulsará Buscar Licitación.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 24 de 57
+Ilustración: datos adicionales para el acto de propuesta de adjudicación
+
+Se muestra una ventana con dos posibles campos de filtro (Ilustración: criterios de filtro):
+    Órgano de contratación.
+    Licitación (número de expediente).
+
+
+
+
+Ilustración: criterios de filtro
+
+Al aplicar los filtros, se muestra el conjunto de licitaciones posibles. Habrá que seleccionar
+una de ellas y pulsar Asignar (Ilustración: asignar licitación para la propuesta de
+adjudicación).
+
+
+
+
+Ilustración: asignar licitación para la propuesta de adjudicación
+
+Para finalizar la creación del acto, y su incorporación a la sesión correspondiente, pulse el
+botón Crear (Ilustración: creación definitiva del acto de propuesta de adjudicación).
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 25 de 57
+Ilustración: creación definitiva del acto de propuesta de adjudicación
+
+Acto de Subsanación
+La creación de este caso exige la introducción de la licitación, pero también del sobre para el
+que se va a exigir subsanación (Ilustración: datos adicionales para el acto de subsanación).
+
+
+
+
+Ilustración: datos adicionales para el acto de subsanación
+
+
+Para localizar la licitación, la Plataforma habilita los siguientes campos de filtro (Ilustración:
+criterios de filtro):
+
+          Órgano de contratación.
+          Licitación (número de expediente).
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 26 de 57
+Ilustración: criterios de filtro
+
+El resto de pasos es similar a lo expuesto para la propuesta de adjudicación.
+
+Acto de Subsanación de Firma
+La creación de este tipo de acto requiere la selección de la licitación y del sobre del que se ha
+solicitado la subsanación de la firma (Ilustración: datos adicionales para el acto de
+subsanación de firma).
+
+
+
+
+Ilustración: datos adicionales para el acto de subsanación de firma
+
+Para localizar la licitación, la Plataforma habilita los siguientes campos de filtro (Ilustración:
+criterios de filtro):
+
+          Órgano de contratación.
+          Licitación (número de expediente).
+
+
+
+
+Ilustración: criterios de filtro
+
+El resto de pasos es similar a lo expuesto para la propuesta de adjudicación.
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 27 de 57
+Acto de Solicitud de Aclaración
+La creación de este caso exige la introducción de la licitación, pero también del sobre que se
+ha solicitado para la aclaración (Ilustración: datos adicionales para el acto de solicitud de
+aclaración). Esto es importante ya que pueden existir varias solicitudes de aclaración con
+diferentes sobres. Por ejemplo, en licitaciones con lotes podría haber sobres diferenciados
+por lotes.
+
+
+
+
+Ilustración: datos adicionales para el acto de solicitud de aclaración
+
+Para localizar la licitación, la Plataforma habilita los siguientes campos de filtro (Ilustración:
+criterios de filtro):
+      Órgano de contratación.
+      Licitación (número de expediente).
+
+
+
+
+Ilustración: criterios de filtro
+
+El resto de pasos es similar a lo expuesto para la propuesta de adjudicación.
+
+Acto de Justificación de Oferta Anormalmente Baja
+La creación de este caso exige la introducción de la licitación, pero también del sobre que se
+ha solicitado para la justificación (Ilustración: datos adicionales para el acto de justificación de
+oferta anormalmente baja). Esto es importante ya que pueden existir varias justificaciones con
+diferentes sobres. Por ejemplo, en licitaciones con lotes podría haber sobres diferenciados
+por lotes.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1    Pág. 28 de 57
+Ilustración: datos adicionales para el acto de justificación de oferta anormalmente baja
+
+Para localizar la licitación, la Plataforma habilita los siguientes campos de filtro (Ilustración:
+criterios de filtro):
+
+          Órgano de contratación.
+          Licitación (número de expediente).
+
+
+
+
+Ilustración: criterios de filtro
+
+El resto de pasos es similar a lo expuesto para la propuesta de adjudicación.
+
+Acto de Comunicación Otros/Solicitud de Información Adicional
+La creación de este caso exige la introducción de la licitación pero también del sobre que se
+incluyó al efectuar la comunicación(Ilustración: datos adicionales para el acto de
+Comunicación otros/Solicitud de información adicional). Esto es importante ya que pueden
+existir varias comunicaciones con diferentes sobres. Por ejemplo, en licitaciones con lotes
+podría haber sobres diferenciados por lotes.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1           Pág. 29 de 57
+Ilustración: datos adicionales para el acto de Comunicación otros/Solicitud de información adicional
+
+Para localizar la licitación, la Plataforma habilita los siguientes campos de filtro (Ilustración:
+criterios de filtro):
+
+          Órgano de contratación.
+          Licitación (número de expediente).
+
+
+
+
+Ilustración: criterios de filtro
+
+El resto de pasos es similar a lo expuesto para la propuesta de adjudicación.
+
+Acto Mejor valorado – Requerimiento de documentación
+Se debe seleccionar el procedimiento correspondiente (Ilustración: creación del acto Mejor
+valorado – requerimiento de documentación), para lo que pulsará Buscar Licitación.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1        Pág. 30 de 57
+Ilustración: creación del acto Mejor valorado – requerimiento de documentación
+
+Se muestra una ventana con dos posibles campos de filtro (Ilustración: criterios de filtro):
+    Órgano de contratación.
+    Licitación (número de expediente).
+
+
+
+
+Ilustración: criterios de filtro
+
+Al aplicar los filtros, se muestra el conjunto de licitaciones posibles. Habrá que seleccionar
+una de ellas y pulsar Asignar (Ilustración: Asociar licitación).
+
+
+
+
+Ilustración: Asociar licitación
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 31 de 57
+Para finalizar la creación del acto, y su incorporación a la sesión correspondiente, pulse el
+botón Crear (Ilustración: Asociar licitación).
+
+Acto Apertura de Requerimiento de documentación
+Se debe seleccionar el procedimiento correspondiente (Ilustración: Creación del acto de
+Apertura de requerimiento de documentación), para lo que pulsará Buscar Licitación.
+Después se selecciona el sobre correspondiente al requerimiento.
+
+
+
+
+Ilustración: Creación del acto de Apertura de requerimiento de documentación
+
+Se muestra una ventana con dos posibles campos de filtro (Ilustración: criterios de filtro):
+    Órgano de contratación.
+    Licitación (número de expediente).
+
+
+
+
+Ilustración: criterios de filtro
+
+Al aplicar los filtros, se muestra el conjunto de licitaciones posibles. Habrá que seleccionar
+una de ellas y pulsar Asignar (Ilustración: Asignar licitación).
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 32 de 57
+Ilustración: Asignar licitación
+
+Tras esto seleccione el sobre de requerimiento que envió.
+
+Para finalizar la creación del acto, y su incorporación a la sesión correspondiente, pulse el
+botón Crear (Ilustración: Asignar licitación).
+
+Acto Otros
+Bajo el identificador Otros, se incluyen los restantes actos que no están personalizados en la
+Plataforma, por ejemplo, ruegos y preguntas, aprobación de inicio de expedientes, prorrogas,
+etc. (Ilustración: datos adicionales del tipo de acto Otros).
+
+
+
+
+Ilustración: datos adicionales del tipo de acto Otros
+
+El usuario puede describir la naturaleza del acto en el campo Descripción. Por defecto, el
+sistema muestra en la parte inferior la sesión a la que pertenece este acto.
+
+5.2     Asignación de actos
+Como ya se ha indicado anteriormente, existen actos predefinidos que nunca tienen origen
+manual, sino que han sido creados automáticamente por la Plataforma cuando el usuario del
+órgano de contratación configura los sobres.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 33 de 57
+Los actos de este tipo, para su incorporación en el orden del día, se asignan a la sesión
+correspondiente. Ahora bien si, por ejemplo, se hubiese finalizado por error un acto de
+apertura de sobre (predefinido por la Plataforma) sin proceder a su apertura, la Plataforma
+permite crearlo exnovo.
+
+Para la asignación de actos, navegue a la sesión concreta, pulse Incorporar y, a continuación
+localice los actos que quiere incluir en el orden del día de una sesión concreta.
+
+Para buscar los actos ya predefinidos, puede emplear diversos campos de filtro (Ilustración:
+criterios de filtro para asignar actos):
+      Cabe destacar la posibilidad de filtrar actos con y sin fecha. Como ya se ha
+         mencionado, los actos que constan de una fecha, ésta ha sido fijada al definir el evento
+         de apertura del sobre correspondiente en el momento de configuración del
+         procedimiento por el Órgano de Contratación.
+      Órgano de contratación: nombre del órgano de contratación.
+      Tipo de contrato: servicios, obras, suministros, etc.
+      Tipo de acto: apertura, valoración, propuesta de adjudicación, etc.
+      Licitación: número de expediente.
+      Objeto del contrato.
+
+NOTA: recuerde que aquellos campos que sean de texto libre y, por tanto, no haya que seleccionar
+una opción de una lista de valores, no tiene que introducir la totalidad del texto y puede hacer uso de
+caracteres comodín. Por ejemplo, si quiere buscar los actos relacionados con procedimientos de la
+Dirección General de Patrimonio del Estado, puede registrar en el nombre del órgano de contratación,
+por ejemplo, el valor %Patrimon%.
+
+
+
+
+Ilustración: criterios de filtro para asignar actos
+
+Si se pulsa el botón “Buscar”, el sistema lista el conjunto de actos (Ilustración: Listado de los
+actos predefinidos) que cumplan con los criterios de filtro que se hayan informado en la parte
+superior de la pantalla. Por el contrario, si se pulsa Limpiar, se eliminan todos los criterios
+que se hubieran introducido hasta el momento.
+
+A continuación, se detallan cada una de las columnas resultado de la búsqueda (Ilustración:
+Listado de los actos predefinidos):
+     Seleccionar: casilla para activar el acto con objeto de incorporarlo a un orden del día.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1      Pág. 34 de 57
+          Fecha: se refiere a la fecha programada para el acto. Esta columna es susceptible de
+           ordenación. Los actos predefinidos podrán tener o no fecha, que se le habrá asignado
+           en la configuración de la licitación.
+          Descripción: que incluye, a su vez:
+            Número de expediente.
+            Objeto del contrato.
+            Órgano de contratación.
+            Tipo de acto.
+
+
+
+
+Ilustración: Listado de los actos predefinidos
+
+Se seleccionan aquellos actos que se quieran añadir a la sesión y se pulsa el botón asignar
+(Ilustración: Asignación de actos).
+
+
+
+
+Ilustración: Asignación de actos
+
+NOTA: la asignación de un conjunto de actos para un orden del día exige que todos ellos tengan la
+misma fecha. Recuerde que si uno o varios de los que quiere asignar no tiene fecha, deberá fijarla tal
+y como se ha indicado en la Ilustración: pantalla de incorporación a sesión de actos planificados
+y la Ilustración: pantalla para fijar fecha a actos.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1     Pág. 35 de 57
+Una vez asignados los actos, el sistema los incluye dentro de la sesión tal y como se puede
+ver en la Ilustración: sesión con el orden del día.
+
+
+
+
+Ilustración: sesión con el orden del día
+
+Si fuera necesario, se pueden ordenar los actos, cambiando el número de orden y pulsando
+en el botón “Actualizar Ordenación”.
+
+
+
+
+Ilustración: sesión con el orden del día actualizado
+
+NOTA: Es importante recordar que:
+   Los actos predefinidos no se crean por el usuario del órgano de asistencia, es el sistema quien
+      automáticamente realiza la creación al detectar la configuración del sobre por el publicador. No
+      obstante, si por cualquier razón el órgano de asistencia finalizara la sesión sin celebrarlos, o
+      los finalizara por error, el secretario o el gestor (también el Presidente) pueden crearlos
+      mediante la funcionalidad de Crear actos que ya se ha visto dentro del orden del día de una
+      sesión.
+   Los actos no predefinidos, tienen que ser creados manualmente por el usuario o miembro del
+      órgano de asistencia.
+   Los actos predefinidos se incorporan al orden del día de una sesión mediante la asignación.
+      Los actos no predefinidos lo hacen mediante su creación en el contexto de una sesión.
+   Si se indica una fecha de apertura del sobre en la configuración de la licitación, ese evento se
+      mostrará en la Agenda como tarea pendiente de planificar.
+   S no se indica fecha de apertura, se mostrará únicamente en Planificación.
+
+
+5.3     Otras tareas de Gestión de Actos
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1     Pág. 36 de 57
+Los actos, además de crearse (actos no predefinidos) y asignarse (actos predefinidos) pueden
+ser modificados o eliminados del orden del día siempre que no hayan sido celebrados.
+
+Los actos predefinidos sólo pueden ser modificados en la configuración de la licitación. Por
+ejemplo, el usuario del órgano de contratación puede modificar la fecha de apertura del sobre
+de la oferta económica y proceder a la rectificación del anuncio de licitación y los pliegos. Ese
+cambio se traslada a la gestión de sesiones (consulte la “Guía de Publicación del Órgano de
+Contratación”).
+
+Los actos no predefinidos pueden ser modificados sólo si el acto está asignado a un orden
+del día de una sesión en estado Creada. En este caso, navegue a la sesión, y al contenido
+del acto accediendo desde el orden del día al identificador de sesión (Ilustración: acceso al
+acto para modificar su contenido). Proceda a realizar los cambios.
+
+
+
+
+Ilustración: acceso al acto para modificar su contenido
+
+Para eliminar un acto, deberá situarse en el orden del día (Ilustración: acceso al acto para
+modificar su contenido) y pulsar el icono                            .
+
+La eliminación de un acto se caracteriza porque:
+
+          Si el acto es predefinido, se desvincula del orden del día, pero se puede planificar para
+           otra sesión, quedando como tarea pendiente.
+          Si el acto es no predefinido se elimina definitivamente.
+
+5.4       Estado de los actos
+Los actos tienen un estado propio que dependerá indirectamente del estado de la sesión. En
+función del estado que tenga un acto, como ya se ha indicado, se podrán realizar unas tareas
+de gestión determinadas. Los estados son los siguientes:
+
+          No celebrado: Cuando se crea el acto y se incorpora al orden del día, por defecto, se
+           establece este estado.
+          En celebración: Actos que han comenzado y que se encuentran en fase de desarrollo
+          Finalizado: El acto una vez celebrado, ha terminado y así se registra en la sesión
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1    Pág. 37 de 57
+6. Convocatoria
+6.1     Envío de la Convocatoria
+La convocatoria es el medio documental a través del cual los miembros del órgano de
+asistencia reciben información sobre la sesión a la que han sido invitados. El envío de la
+convocatoria es un requisito para la posterior celebración de la sesión.
+
+Para realizar la convocatoria navegue a Gestión de Sesiones >> Sesiones (localizar una
+concreta) >> Pestaña Convocatoria (Ilustración: pestaña convocatoria).
+
+
+
+
+Ilustración: pestaña convocatoria
+
+Para generar una convocatoria es imprescindible:
+    Incluir los destinatarios: por defecto se marcan los miembros titulares. Estos pueden
+       ser seleccionados o deseleccionados mediante los botones de selección laterales.
+
+
+
+
+           Ilustración: selección de convocados
+
+          NOTA: recuerde que en la gestión del órgano de asistencia han podido incluir direcciones
+          genéricas correspondientes a la Intervención y a los Servicios Jurídicos. Esas direcciones
+          genéricas vendrán marcadas por defecto.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1    Pág. 38 de 57
+          Firmar la convocatoria: el Secretario, el Presidente o ambos (cofirma) han de firmar la
+           convocatoria para que pueda ser enviada. El gestor del OA, también puede realizar
+           esa labor.
+
+Opcionalmente, la convocatoria puede incluir:
+    Un texto (Ilustración: pestaña convocatoria).
+    El anexo de un documento.
+    Añadir participantes que no formen parte de la mesa.
+
+
+
+
+Ilustración: texto adicional de la convocatoria
+
+Para anexar un documento, pulse el botón Anexar (Ilustración: selección y anexo del
+documento), lo que habilita una ventana para subir el documento.
+
+Localice el documento mediante el botón Seleccionar y pulse Anexar para que se proceda a
+la incorporación física del documento.
+
+NOTA: recuerde que ha de evitar el uso de caracteres especiales o espacios en el nombre del fichero.
+
+
+
+
+Ilustración: selección y anexo del documento
+
+Para añadir un nuevo participante, pulse el botón Nuevo participante e introduzca sus datos
+(Ilustración: datos para registrar un nuevo participante).
+
+
+
+
+Ilustración: datos para registrar un nuevo participante
+
+Una vez realizados los pasos anteriores, tiene dos alternativas:
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1    Pág. 39 de 57
+          Guardar la información de la convocatoria: se guardan todos los datos que se hayan
+           registrado hasta el momento, posponiéndose el proceso de envío de la misma para un
+           momento posterior.
+
+          Envío de la convocatoria: se pulsa el botón Enviar, lo que habilita una ventana de
+           previsualización de la convocatoria, con los datos de los convocados y el texto de la
+           convocatoria y los anexos, si los hubiere (Ilustración: pre-visualización de la
+           convocatoria).
+
+
+
+
+Ilustración: pre-visualización de la convocatoria
+
+Pulse el botón continuar para proceder a la firma y el envío de la convocatoria (Ilustración:
+Firma de la convocatoria).
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 40 de 57
+Ilustración: Firma de la convocatoria
+
+La firma de la convocatoria es un requisito indispensable para su generación. Puede ser
+realizada por el secretario, el presidente o ambos.
+
+
+
+
+Ilustración: Firmas de la convocatoria
+
+La convocatoria se firma con la aplicación deAutofirma
+
+
+
+
+Ilustración: Logo de Autofirm@
+
+
+Se debe seleccionar el certificado para la firma
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 41 de 57
+Ilustración: Selección de certificado para la firma
+
+
+Junto con el documento original de la convocatoria, se genera el documento firmado en
+formato pdf (Ilustración: documento original y documento firmado en formato xml). Para poder
+visualizar las firmas de la convocatoria deberá acceder al documento mediante el programa
+Adober Acrobat Reader, o bien, generar y descargar la copia electrónica.
+
+
+
+
+Ilustración: documento original y documento firmado en formato xml
+
+Una vez firmada, ya está en disposición de enviar la convocatoria. Para ello, pulse el botón
+“enviar convocatoria” (Ilustración: envío de convocatoria tras su firma).
+
+
+
+
+Ilustración: envío de convocatoria tras su firma
+
+El aviso de la convocatoria llega a los participantes a través del correo electrónico (Ilustración:
+correo de aviso de convocatoria).
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 42 de 57
+Ilustración: correo de aviso de convocatoria
+
+Desde el primer enlace del correo que se muestra en la imagen anterior puede descargarse
+la copia electrónica del documento de la convocatoria. El Anexo I contiene información
+extendida sobre la funcionalidad de copia electrónica. La verificación de la integridad y
+autenticidad del documento puede realizarse desde el apartado Verificar CSV de la PLACSP.
+
+Los miembros de la mesa pueden consultar el contenido de la convocatoria de dos formas
+diferentes:
+     Pulsando el enlace de la Ilustración: correo de aviso de convocatoria, que descarga el
+        contenido de la misma.
+     Entrando como usuarios registrados y buscando la sesión.
+
+Si han accedido a la Plataforma para consultar la sesión, pueden efectuar la validación de la
+firma, para comprobar que quien firma la convocatoria es quien dice ser. Para ello, se pulsa
+el enlace Validar Firma documento (Ilustración: Enlace a la validación de la firma e identidad
+del firmante) de la pestaña Convocatoria, lo que permite obtener la identidad del firmante y
+comprobar que su firma es válida (Ilustración: Validez de la firma e identidad del firmante).
+
+
+
+
+Ilustración: Enlace a la validación de la firma e identidad del firmante
+
+
+
+
+Ilustración: Validez de la firma e identidad del firmante
+
+Una vez enviada, se puede comprobar quién ha leído la convocatoria en la pestaña
+Convocatoria (Ilustración: control de envío y lectura de convocatoria). También, el histórico
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 43 de 57
+de todas las convocatorias enviadas (Ilustración: Enlace a la validación de la firma e identidad
+del firmante).
+
+
+
+
+Ilustración: control de envío y lectura de convocatoria
+
+Los miembros del Órgano de Asistencia convocados podrán confirmar su asistencia mediante
+un enlace enviado en el mensaje de convocatoria. Al acceder a dicho enlace, el gestor del
+órgano recibirá el mensaje de confirmación.
+
+
+
+
+Ilustración: mensaje de confirmación enviado al Gestor del OA
+
+Por otro lado, la confirmación de asistencia quedará reflejada en la pestaña “Convocatoria”
+mediante el valor “Confirmada” en la columna Asistencia.
+
+
+
+
+Ilustración: control de la confirmación de asistencia accediendo a la PLACSP.
+
+
+6.2     Anulación de la Convocatoria
+La convocatoria ya enviada se puede anular, por ejemplo, porque la sesión se ha
+desconvocado y es preciso comunicarlo a los miembros de la mesa que han sido convocados.
+
+La anulación de la convocatoria es, pues, un requisito necesario para anular la sesión.
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 44 de 57
+Para la anulación de la convocatoria, localice la misma y navegue a la pestaña Convocatoria.
+A continuación, pulse el botón Anular (Ilustración: anular convocatoria).
+
+
+
+
+Ilustración: anular convocatoria
+
+El aviso de la anulación de la convocatoria es recibido por los convocados a través del correo
+electrónico. De igual modo que la convocatoria, se puede consultar el contenido a través del
+correo electrónico o accediendo como usuario registrado en la Plataforma.
+
+La anulación de la convocatoria exige firma electrónica.
+
+Además de la información relativa al orden del día y participantes, cuando se realiza la
+anulación se puede incluir un motivo (Ilustración: inclusión de un motivo de anulación).
+
+
+
+
+Ilustración: inclusión de un motivo de anulación
+
+
+6.3      Replanificación de la Convocatoria
+Las convocatorias pueden ser objeto de modificación sin que eso precise una anulación. Por
+ejemplo, puede haberse producido una alteración en el orden del día o un cambio de fecha
+de celebración de sesión.
+
+Para informar de estos cambios a los asistentes a la sesión, una vez que esta ya ha sido
+convocada, se emplea la funcionalidad de replanificar (Ilustración: botón de replanificar).
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 45 de 57
+Ilustración: botón de replanificar
+
+Los cambios que se quieran informar deberán realizarse en la definición de sesión, con la
+salvedad de la fecha de celebración de la sesión, que puede modificarse tanto en la
+información referida como en la previsualización de la replanificación (Ilustración: nueva fecha
+de convocatoria).
+
+
+
+
+Ilustración: nueva fecha de convocatoria
+
+
+7. Anexo I: Copia Electrónica
+
+En la Plataforma el fichero firmado se constituye como un archivo en formato XAdES o PAdES,
+que permiten la interoperabilidad. No obstante, el formato XAdES tiene como inconveniente
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 46 de 57
+principal el no ser legible para un humano. Por esta razón, la Plataforma dispone de un servicio
+de validación de firma, que permite comprobar la identidad del firmante de la documentación,
+sin embargo, ese servicio está disponible únicamente para los usuarios registrados, por lo que
+si un tercero ajeno a la Plataforma precisa gestionar documentación firmada, generada o
+enviada haciendo uso de sus servicios, se dificulta en gran medida esta tarea. Por ello, se ha
+incluido la copia electrónica, que permite visualizar en un solo documento el contenido original
+junto con la identidad del firmante de manera legible.
+
+En ciertos puntos de la PLACSP es posible descargar una copia electrónica de diferentes
+documentos. El tratamiento de los citados documentos, como veremos a continuación, difiere
+dependiendo de si su formato original es pdf o no.
+7.1       Documentos PDF
+
+La copia íntegra de un documento PDF tiene tres características (Ilustración: Copia electrónica íntegra
+de acta):
+
+      -    Distintivo de Copia electrónica integra (arriba a la derecha).
+      -    Firmas del documento (lateral izquierdo).
+      -    Código seguro de verificación (CSV).
+
+
+
+
+Ilustración: Copia electrónica íntegra de acta
+
+NOTA: Cuando el documento tenga más 4 firmantes, contendrá en la primera página la información de
+3 de ellos y un aviso de que el resto están disponibles en la última página.
+7.2       Archivos con formato distinto a PDF
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1      Pág. 47 de 57
+Cuando el formato del documento o documentos es distinto de PDF, entonces lo que la
+PLACSP hace es empaquetar este fichero/os en un archivador ZIP. La estructura del
+archivador es la que se muestra en la Ilustración: Copia electrónica de un documento.
+
+
+
+
+Ilustración: Copia electrónica de un documento
+
+El archivador contiene tres ficheros:
+
+      1. El primero, que en la imagen del ejemplo tiene extensión ‘md’, es el fichero original.
+      2. El siguiente, tiene extensión ‘txt’, contiene el código CSV.
+      3. El último, con extensión ‘xsig’, contiene las firmas.
+7.3     Verificación y Descarga de las Copias Electrónicas
+
+Para verificar la integridad y autenticidad de los documentos y proceder a su descarga a partir
+de una copia electrónica lo hacemos desde el apartado “Verificar CSV” de la PLACSP
+(Ilustración: Verificar CSV).
+
+
+
+
+Ilustración: Verificar CSV
+
+Se inserta el código CSV, los caracteres que se ven en la imagen y se pulsa el botón ‘Validar’.
+Esto nos lleva a la pantalla de la Ilustración: Descarga de documento.
+
+
+
+
+Ilustración: Descarga de documento
+
+Desde aquí tenemos tres opciones, una por cada botón verde:
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 48 de 57
+          ‘Ver documento original’: Descarga el documento original.
+          ‘Descargar documento ENI’: Descarga los metadatos del fichero según la Norma
+           Técnica de Interoperabilidad’ de documento electrónico.
+          ‘Descargar copia electrónica’: Descarga la copia electrónica.
+
+
+8. GLOSARIO DE TÉRMINOS
+
+                                                        GLOSARIO DE TÉRMINOS
+
+  Plataforma           Plataforma de contratación del Sector Público http://contrataciondelestado.es/
+  PLACSP
+                       Órgano de Contratación.
+  OC
+                       Operador económico.
+  OE
+                       Firma Electrónica Avanzada PDF
+  PADES
+                       Portable Document Format
+  PDF
+                       Extensible Markup Language (Lenguaje de marcas extensible).
+  XML
+                       Firma Electrónica Avanzada XML
+  XAdES
+
+
+
+9. CONTÁCTENOS
+Para más información sobre la Plataforma de Contratación del Sector Público por favor,
+diríjase a la siguiente dirección de correo:
+
+                            licitacionEorganismos@hacienda.gob.es
+
+
+
+
+10. ANEXO I: INSTALACIÓN DE AUTOFIRMA
+10.1 Instalación de Autofirma
+
+Asegúrese de que tiene instalada la última versión de Autofirma (actualmente 1.7.2).
+
+La aplicación Autofirma puede descargarse desde este portal de Internet de la Administración:
+https://firmaelectronica.gob.es/Home/Descargas.html.
+
+Existen una versión de 32 bits y una de 64 bits, debe seleccionar la que se corresponda con
+su sistema.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1                   Pág. 49 de 57
+Ilustración. Configuración Sistema
+
+Los pasos de la instalación son:
+
+          Cuando pregunte si permitimos modificar… Pulsar “Si”
+          Abre la pantalla de inicio de instalación de Autofirma. Pulsar en “Siguiente”
+
+
+
+
+Ilustración. Comienzo Instalación Autofirma
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1    Pág. 50 de 57
+          Aceptar el acuerdo de licencia
+Ilustración. Aceptación Acuerdo de Licencia
+
+
+
+
+          Selección de lugar de instalación
+Ilustración. Lugar de Instalación
+
+
+
+          Opciones avanzadas. No se modifican
+
+
+
+
+Ilustración. Opciones Avanzadas
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 51 de 57
+          Instalación de Autofirma
+
+
+
+
+Ilustración. Instalación Autofirma
+
+          Instalación Completada
+
+
+
+
+Ilustración. Instalación Completada
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 52 de 57
+          Terminar instalación
+
+
+
+
+Ilustración. Terminar
+
+Para más información sobre la instalación de Autofirma puede consultar:
+
+https://administracionelectronica.gob.es/ctt/resources/Soluciones/138/Descargas/AF-
+manual-instalacion-usuarios-ES.pdf?idIniciativa=138&idElemento=11402
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 53 de 57
+10.2 Configuración de Autofirma
+
+Si se utiliza Autofirma en un PC conectado a una red local (LAN) que utiliza un servidor proxy
+para salir a internet, tiene que configurar su aplicación de Autofirma de esta manera.
+
+Se abre Autofirma desde el escritorio. Se selecciona la opción “Herramientas” y
+“Preferencias”.
+
+
+
+
+Ilustración. Herramientas Autofirma
+
+En la pestaña “General”, se pulsa configurar proxy. Y se selecciona la opción “Usar la
+configuración proxy del sistema” y “Aceptar”.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 54 de 57
+Ilustración. Configuración Proxy
+
+Se pulsa Aceptar y se cierra Autofirma
+
+Para más información sobre la instalación y configuración de Autofirma puede consultar:
+
+https://administracionelectronica.gob.es/ctt/resources/Soluciones/138/Descargas/AF-
+manual-instalacion-y-gestion-ES.pdf?idIniciativa=138&idElemento=5996
+
+
+
+10.3 Errores de Autofirma
+
+Los errores devueltos por Autofirma son aquellos cuyo código empieza por “SAF”, como en el
+ejemplo de la ilustración.
+
+
+
+
+Ilustración. Error de Autofirma
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 55 de 57
+10.4 Selección del certificado usando Firefox
+
+En el navegador Firefox, cuando se abre Autofirma, aparece la lista de certificados vacía,
+aunque tengas instalados los certificados en el ordenador. Para que aparezcan, hay que
+pinchar en el segundo icono y seleccionar “Almacén de claves del sistema”.
+
+
+
+
+Ilustración. Almacén de certificados de Firefox vacío.
+
+
+
+
+Ilustración. Selección del Almacén de claves del sistema.
+
+Ya aparecerán todos los certificados instalados.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 56 de 57
+Ilustración. Certificados instalados.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OA II: Gestión de Sesiones v3.1   Pág. 57 de 57
+

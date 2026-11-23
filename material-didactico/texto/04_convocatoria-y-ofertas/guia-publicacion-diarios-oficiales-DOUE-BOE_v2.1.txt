@@ -1,0 +1,1171 @@
+      Guía de Publicación de anuncios en
+               Diarios Oficiales
+
+
+
+
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+                                                                           Versión: 2.1
+
+                                                                      Fecha: 26/11/2024
+Edita:
+© Ministerio de Hacienda y Función Pública
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+El presente documento está bajo la licencia Creative Commons Reconocimiento - No
+Comercial - Compartir Igual versión 4.0 España.
+Usted es libre de:
+- Copiar, distribuir y comunicar públicamente la obra
+- Hacer obras derivadas
+Bajo las condiciones siguientes:
+- Reconocimiento. Debe reconocer los créditos de la obra de la manera especificada por el
+autor o el licenciador (pero no de una manera que sugiera que tiene su apoyo o apoyan el
+uso que hace de su obra).
+- No Comercial: Se permite que terceros copien, distribuyan, exhiban y ejecuten la obra
+licenciada —y obras derivadas basadas en ella— pero sólo para fines no comerciales.
+- Compartir bajo la misma licencia. Si altera o transforma esta obra, o genera una obra
+derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta
+obra.
+Alguna de estas condiciones puede no aplicarse si se obtiene el permiso del titular de los
+derechos de autor
+Nada en esta licencia menoscaba o restringe los derechos morales del autor.
+Esto es un resumen legible por humanos del texto legal (la licencia completa) disponible en:
+
+https://creativecommons.
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                          Pág. 2 de 33
+INDICE
+
+
+
+
+1         OBJETO DE ESTA GUÍA ............................................................................................................. 5
+2         GUÍAS PARA LOS ÓRGANOS DE CONTRATACIÓN ............................................................... 6
+3         PUBLICIDAD EN OTROS MEDIOS DISTINTOS DEL PERFIL DEL CONTRATANTE.............. 8
+4         ENVÍO DE ANUNCIOS AL BOLETÍN OFICIAL DEL ESTADO .................................................. 9
+    4.1        ENVÍO SIMULTÁNEO A LA PUBLICACIÓN EN EL PERFIL DEL CONTRATANTE...................................... 9
+    4.2        ENVÍO POSTERIOR A LA PUBLICACIÓN EN EL PERFIL DEL CONTRATANTE ..................................... 10
+    4.3        PAGO Y CONFIRMACIÓN .......................................................................................................... 10
+5         ENVÍO DE ANUNCIOS AL DIARIO OFICIAL DE LA UNIÓN EUROPEA ................................ 16
+    5.1        DESCRIPCIÓN GENERAL DEL ENVÍO AL DIARIO OFICIAL DE LA UNIÓN EUROPEA .......................... 16
+       5.1.1       Anuncio de información previa (anuncio en perfil) ................................................ 16
+       5.1.2       Anuncio de información previa con reducción de plazos ...................................... 16
+       5.1.3       Anuncio de licitación .............................................................................................. 17
+       5.1.4       Anuncio de adjudicación ........................................................................................ 18
+       5.1.5       Anuncio de formalización ....................................................................................... 20
+       5.1.6 Anuncio de modificación de contrato ..................................................................... 21
+    5.2     FUNCIONAMIENTO EN LA PLATAFORMA DE CONTRATACIÓN DEL SECTOR PÚBLICO ..................... 22
+       5.2.1       Previsualización de los anuncios que se remitirán a DOUE ................................. 22
+       5.2.2       Remisión de anuncio a DOUE con publicación inmediata .................................... 23
+       5.2.3       Remisión de anuncio a DOUE con publicación diferida ........................................ 24
+       5.2.4       Rectificación de un anuncio ................................................................................... 26
+       5.2.5       Anulación de un anuncio ....................................................................................... 26
+       5.2.6       Anuncio Publicado en DOUE a través de las aplicaciones de la Oficina de Publicaciones
+                   28
+       5.2.7 Errores en la remisión de anuncios ....................................................................... 29
+    5.3     CONTACTO CON LA OFICINA DE PUBLICACIONES ...................................................................... 30
+6         INFORMACIÓN SOBRE LA PUBLICACIÓN EN OTROS MEDIOS ......................................... 31
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                                                                  Pág. 3 de 33
+CAMBIOS DE LA VERSIÓN
+
+Se cambia el logo de la portada y la cabecera.
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1   Pág. 4 de 33
+1 Objeto de esta guía
+
+Este documento explica a los usuarios de los órganos de contratación cómo enviar los
+anuncios electrónicamente a través de la Plataforma de Contratación al Boletín Oficial del
+Estado y al Diario Oficial de la Unión Europea.
+
+También se explica cómo introducir información sobre la publicación de los anuncios en otros
+medios, como diarios oficiales, sitios web, prensa, etc.
+
+Se recomienda haber leído previamente las guías sobre publicación de anuncios:
+
+        Guía de Publicación de la convocatoria de licitación
+
+        Guía de Publicación del resultado de la licitación
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                    Pág. 5 de 33
+2 Guías para los órganos de contratación
+La utilización de los servicios ofrecidos por la Plataforma de Contratación del Sector Público
+a los órganos de contratación se explica en un compendio de guías editadas por la Dirección
+General del Patrimonio del Estado.
+
+   Guía general para órganos de contratación
+    Describe los aspectos generales de la aplicación para los órganos de contratación,
+    incluyendo los servicios que se ofrecen, las pautas generales de navegación, el acceso e
+    identificación de los usuarios, y la gestión de las licitaciones del órgano.
+
+   Guía de administración de órganos de contratación
+    Describe las funcionalidades de las que disponen los administradores de los órganos de
+    contratación para gestionar sus usuarios, la información y documentos de carácter general
+    publicados en el perfil del contratante, reasignación de expedientes entre usuarios, archivo
+    de licitaciones, y desbloqueo de licitaciones.
+
+   Guía de Publicación de la convocatoria de licitación
+    Explica cómo se publican los anuncios de información previa, anuncios de licitación y
+    pliegos en el perfil del contratante. Además, también se explica cómo se pueden enviar
+    estos anuncios al Boletín Oficial del Estado y al Diario Oficial de la Unión Europea a través
+    del servicio que ofrece la Plataforma. También se explica cómo se pueden rectificar y
+    anular anuncios publicados.
+
+   Guía de gestión, admisión y exclusión de licitadores
+    Describe cómo dar de alta los licitadores que participan en un procedimiento de
+    adjudicación, así como la forma de indicar si han sido admitidos o excluidos en el
+    procedimiento, o si tienen que subsanar alguna documentación.
+   Guía de Publicación del resultado de la licitación
+    Explica cómo se publican los anuncios de adjudicación, formalización resultado desierto,
+    renuncia, y desistimiento.
+
+    También describe cómo enviar al BOE el anuncio de formalización, y al DOUE los
+    anuncios de formalización, transparencia previa voluntaria, desierto, renuncia y
+    desistimiento.
+
+   Guía de Publicación de contratos menores
+    Explica cómo publicar la información sobre los contratos menores en el perfil de
+    contratante.
+
+   Guía de Publicación de anuncios de modificación de contrato
+    Explicar cómo publicar anuncios sobre modificaciones de contrato en la Plataforma de
+    Contratación del Sector Público.
+
+   Guía de Rectificación y anulación de anuncios
+    Explica cómo rectificar y anular anuncios publicados en el perfil del contratante, en el
+    Boletín Oficial del Estado o en Diario Oficial de la Unión Europea.
+
+   Guía de Publicación de anuncios en Diarios Oficiales
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                        Pág. 6 de 33
+    Explica cómo introducir información sobre la publicación de anuncios en otros medios, y
+    cómo enviar anuncios electrónicamente al Boletín Oficial del Estado y al Diario Oficial de
+    la Unión Europea directamente a través de la Plataforma.
+
+   Guía de Publicación de documentos relativos a una licitación
+    Explica cómo publicar en el perfil del contratante documentos relativos a una licitación
+    que no se corresponden con ninguno de los anuncios identificados en las restantes guías
+    como Actos públicos informativos o de apertura de ofertas, Composición de la mesa de
+    contratación, Composición del comité de expertos, Suspensión del procedimiento,
+    Levantamiento de la suspensión del procedimiento, Mantenimiento de los efectos del
+    contrato, Declaración de nulidad.
+
+   Guía de Envío de comunicaciones a los licitadores
+    Explica cómo enviar los distintos tipos de comunicaciones electrónicas a partir de la
+    información introducida en el expediente. Los tipos de comunicaciones que se pueden
+    enviar a través de la Plataforma son la de admisión y exclusión de licitadores,
+    invitación a presentar proposición, solicitud de oferta, invitación a tomar parte en
+    el diálogo, invitación durante la fase de diálogo, invitación/solicitud a presentar
+    oferta final, requerimiento de documentación al licitador mejor clasificado, y
+    notificación de adjudicación. También se pueden enviar comunicaciones genéricas
+    como la solicitud de aclaración, la justificación de oferta anormalmente baja, la solicitud
+    de información adicional o la firma del contrato de formalización.
+
+   Guía de Gestión de preguntas de los licitadores
+    Explica cómo los órganos de contratación pueden hacer uso de la funcionalidad de
+    gestión de las preguntas que realizan los licitadores a través del perfil del contratante en
+    la Plataforma de Contratación del Sector Público.
+
+   Guía de consulta de datos administrativos
+    Explica cómo realizar consultas a registros de la Administración para verificar información
+    sobre los licitadores presentados: consulta al Registro Oficial de Licitadores y Empresas
+    Clasificadas del Estado, certificados de cumplimiento de obligaciones con la Agencia
+    Tributaria y la Seguridad Social, Servicio de Verificación de Datos de Identidad, consulta
+    a la Caja General de Depósitos.
+
+   Guía de uso de los servicios de licitación electrónica
+    Explica cómo articular procedimientos mediante licitación electrónica para que los
+    licitadores puedan presentar sus ofertas de forma electrónica a través de la Plataforma de
+    Contratación del Sector Público.
+
+   Guía de Convocatoria de licitaciones basadas en un acuerdo marco
+    Este documento detalla cómo configurar una licitación basada en un Acuerdo Marco tanto
+    de forma manual como electrónica. También se incluye la nueva funcionalidad de
+    recuperación automática de licitadores adjudicatarios del establecimiento del Acuerdo
+    Marco y el envío de la invitación a licitar.
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                        Pág. 7 de 33
+3 Publicidad en otros medios distintos del perfil del
+  contratante
+Cuando el usuario selecciona la acción de “Previsualizar” o “Publicar” un anuncio en la
+pestaña “Resumen”, la Plataforma le ofrece la opción de indicar información sobre la
+publicación del anuncio equivalente en otros medios como diarios oficiales (BOE, DOUE,
+Boletines de la Comunidad Autónoma, o provinciales), páginas web, prensa, etc.
+
+También se ofrece la posibilidad de enviar el anuncio al Boletín Oficial del Estado y al Diario
+Oficial de la Unión Europea electrónicamente a través de la Plataforma.
+
+
+
+
+Ilustración: Se va a previsualizar la publicación del Anuncio de Licitación
+
+La siguiente pantalla permite indicar si se desea enviar el anuncio a los distintos diarios
+oficiales (BOE y/o DOUE) o bien si estos anuncios ya han sido enviados o publicados.
+
+
+
+
+Ilustración: Publicación anuncio de licitación
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                      Pág. 8 de 33
+4 Envío de anuncios al Boletín Oficial del Estado
+El usuario puede indicar que desea enviar el anuncio al Boletín Oficial del Estado en el mismo
+momento en que se ordena la publicación en el perfil del contratante, o con posterioridad.
+
+La Plataforma permite el envío anuncios correspondientes a los siguientes Formularios de
+anuncios en Sección V (Anuncios)
+
+A) Contratación del Sector Público.
+
+               Sección V.A. Modelo de anuncio para la licitación de los contratos.
+               Sección V.A. Modelo de anuncio de formalización de contratos.
+               Sección V.A. Modelo general para otros anuncios (corrección de errores)
+
+El anuncio se envía en el mismo formato XML que se publica en la Plataforma, y el BOE extrae
+la información que debe aparecer en los campos de los que consta el formulario
+correspondiente. El pie de firma de los anuncios se compone con el nombre, los apellidos y el
+cargo del responsable (usuario con rol ROC) dado de alta en el perfil de contratante.
+
+Nota: Las licitaciones correspondientes a contratos de tipo Patrimonial no son susceptibles de
+publicación en el BOE
+
+Nota: En el caso de procedimientos Basados en Acuerdo Marco, que se formalizan con la
+adjudicación, el anuncio que se envía al BOE es el de adjudicación siempre que apliquen las
+directivas 2014/24/UE y 2014/25/UE.
+4.1    Envío simultáneo a la publicación en el perfil del contratante
+
+Es posible realizar el envío del anuncio al Boletín Oficial del Estado de forma simultánea a la
+publicación en el perfil del contratante. Se deberá marcar la casilla correspondiente:
+
+
+
+
+Ilustración: Envío simultaneo al BOE
+
+Si se indica que el anuncio también se desea enviar al DOUE, como la publicación a nivel
+nacional no se debe realizar antes de que se publique en el Diario Oficial o hasta transcurridas
+48 horas desde el acuse de recepción por el mismo, en este caso no se permite marcar el
+envío como urgente.
+
+Una vez realizada la acción de publicar se mostrará el resultado del envío al Boletín Oficial
+del Estado, con un enlace a la Extranet del BOE que permite realizar el pago y confirmación
+(ver apartado 4.3)
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                       Pág. 9 de 33
+Ilustración: Resultado de la publicación
+
+
+4.2    Envío posterior a la publicación en el perfil del contratante
+
+También es posible ordenar el envío del anuncio al Boletín Oficial del Estado tras haber
+realizado la acción de publicar el anuncio en el perfil del contratante. En este caso, en la
+columna “Publicación BOE” de la línea en la que se encuentra el anuncio se mostrará un
+enlace Publicar en el BOE.
+
+
+
+
+Ilustración: Resumen de licitación
+
+Pulsando sobre este enlace se mostrará un área en el que se permite realizar la acción de
+enviar el anuncio al BOE:
+
+
+
+
+Ilustración: Envío anuncio al BOE
+
+
+
+4.3    Pago y confirmación
+
+Los anuncios de licitación requieren el pago de las correspondientes tasas para que se haga
+efectiva su publicación. También se requiere el pago de tasas cuando el envío del anuncio es
+urgente para cualquier tipo de anuncio.
+
+El pago de la tasa se podrá realizar presencialmente en alguna de las oficinas de cualquiera
+de las entidades financieras colaboradoras con la Administración en la recaudación de
+ingresos tributarios o bien de forma telemática. Las entidades colaboradoras en el pago de
+tasas se mostrarán en la sede electrónica del BOE al cumplimentar el documento 791. El pago
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                   Pág. 10 de 33
+de la tasa por publicación de anuncios a través de una entidad colaboradora generará
+un Número de Referencia Completo (NRC) que certifica el pago efectivo de la tasa.
+
+Una vez enviado el anuncio al BOE en la pestaña “Resumen”, en la columna “Publicación
+BOE” aparece un enlace “Pendiente de confirmar”
+
+
+
+
+Ilustración: Anuncio de Licitación enviado al DOUE y posibilidad mediante el enlace “Pendiente de
+Confirmar” de hacer la autoliquidación del BOE.
+
+Al pulsar sobre el enlace se despliega un área con detalles sobre el envío del anuncio:
+
+
+              Nombre del Diario: Diario Oficial BOE.
+              Número de Anuncio: año-xxxxxx.
+              Si el envío es Urgente:
+              Evento: indica la última acción realizada. Si no se ha realizado ninguna, se
+               muestra “no aplica” N/A.
+              Estado: indica el estado de la acción ejecutada.
+              Fecha: indica la fecha en la que se ha producido el evento.
+
+Tras enviar el anuncio se habilita el enlace “Enlace a la Autoliquidación” cuya pulsación permite la
+previsualización del anuncio que se va a publicar en el BOE, impresión del documento de
+autoliquidación o la realización del pago del anuncio.
+
+
+
+
+     Ilustración: Enlace autoliquidación
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                         Pág. 11 de 33
+     Si está de acuerdo con el contenido del anuncio y el importe deberá pulsar en el botón
+     “Aceptar”
+
+
+
+
+Ilustración: Autoliquidación
+
+Donde se le dará a elegir entre el “Pago telemático” o el “Pago presencial”
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                     Pág. 12 de 33
+Ilustración: Selección modo de pago
+
+Pago telemático
+
+El pago telemático se realiza a través de la pasarela de pago de al AEAT. El BOE redirigirá la
+solicitud de pago a una página de la Oficina Virtual de la AEAT. En esa página encontrará un
+formulario en el que deberá completar la forma de pago (con cargo en cuenta o con tarjeta.
+
+Requiere el uso de certificado electrónico y la ejecución de controles Active X ó Applet Java
+
+Pago presencial
+
+Para proceder a pago presencial deberá:
+
+              -    Introducir los datos sobre la forma de pago
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                     Pág. 13 de 33
+Ilustración: Preparación pago presencial
+
+              -    Imprimir la liquidación. Deberá imprimir dos ejemplares del modelo 791, uno
+                   para la entidad colaboradora y otro para el interesado
+
+              -    Pagar el modelo 791 en cualquier oficina de las entidades colaboradoras que
+                   se señalan en la web del BOE cuando se elige esta forma de pago. Deberá
+                   pedir en el momento del pago que el banco registre en el documento 791
+                   del interesado el Número de Registro Completo (NRC) justificativo del
+                   pago.
+
+              -    Comunicar          NRC       al      BOE        en      “Actualizar           NRC”
+                   (https://extranet.boe.es/anuncios/actualizar_nrc.php)
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                        Pág. 14 de 33
+A continuación, y una vez que el BOE confirme el pago, la Plataforma actualizará el estado
+del anuncio.
+
+
+
+
+Ilustración: Detalle cuando se envió y el estado de pago
+
+Una vez que se produce la publicación efectiva en el BOE, la Plataforma actualiza el estado
+del anuncio a “Publicado” (en la columna “Publicación BOE” del resumen) detallando la fecha
+de publicación y añadiendo el “Enlace al Diario Oficial” que permite acceder al anuncio publicado.
+
+
+
+
+Ilustración: Enlace a la publicación del anuncio en el BOE
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                        Pág. 15 de 33
+5 Envío de anuncios al Diario Oficial de la Unión Europea
+
+5.1       Descripción general del envío al Diario Oficial de la Unión Europea
+
+Para cada expediente en función si se aplica o no una Directiva de Contratación existirá o no
+la posibilidad de enviar la información pertinente al Diario Oficial de la Unión Europea (DOUE)
+para cada una de las posibles publicaciones del expediente. Todos estos casos están
+definidos en el Reglamento 2019/1780.
+
+Los anuncios que permite publicar la plataforma son:
+
+          Anuncio de información previa (anuncio en perfil)
+          Anuncio de licitación
+          Anuncio de adjudicación
+          Anunció de formalización / desierto / renuncia / desistimiento
+          Anuncio de modificación
+
+5.1.1 Anuncio de información previa (anuncio en perfil de contratante)
+
+Para expedientes de la directiva 2014/24/EU sobre contratación pública se podrá remitir al
+DOUE y se corresponderá con el subtipo 1 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/25/EU relativa a la contratación por entidades que
+operan en los sectores del agua, energía, transporte y servicios postales (Sectores
+Especiales) se podrá remitir al DOUE y se corresponderá con el subtipo 2 del reglamento
+2019/1780.
+
+Para expedientes de la directiva 2009/81/CE relativa a la adjudicación de contratos de
+suministros, servicios, y obras en el ámbito de la defensa y la seguridad general se podrá
+remitir al DOUE y se corresponderá con el subtipo 3 del reglamento 2019/1780.
+
+En todos los casos el anuncio se publica inmediatamente en Plataforma.
+
+La Oficina de Publicaciones podrá informar al Órgano de Contratación vía correo
+electrónico de que el anuncio no será publicado debido a un error formal (idioma no
+oficial, datos incoherentes o repetidos, etc.). Sera responsabilidad del Órgano de
+Contratación tomar las medidas oportunas.
+
+En todos los casos si se produce un error en el envío del anuncio a DOUE no se
+publicará el anuncio de licitación en la Plataforma.
+
+5.1.2 Anuncio de información previa con reducción de plazos
+
+Para expedientes de la directiva 2014/24/EU sobre contratación pública se podrá remitir al
+DOUE y se corresponderá con el subtipo 7 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/25/EU relativa a la contratación por entidades que
+operan en los sectores del agua, energía, transporte y servicios postales (Sectores
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                     Pág. 16 de 33
+Especiales) se podrá remitir al DOUE y se corresponderá con el subtipo 8 del reglamento
+2019/1780.
+
+Para expedientes de la directiva 2009/81/CE relativa a la adjudicación de contratos de
+suministros, servicios, y obras en el ámbito de la defensa y la seguridad general se podrá
+remitir al DOUE y se corresponderá con el subtipo 9 del reglamento 2019/1780.
+
+La publicación del anuncio en Plataforma no será inmediata. Una vez enviado el anuncio
+a DOUE el expediente queda bloqueado hasta su publicación en DOUE o hasta que
+hayan transcurrido 48 horas de su envío a DOUE según marcan las Directrices de la
+Contratación Pública. Una vez transcurrido este tiempo se publicará en la Plataforma y
+el expediente se quedará desbloqueado.
+
+La oficina de Publicaciones podrá informar vía correo electrónico al Órgano de
+Contratación que el anuncio no será publicado por un error de tipo formal (idioma no
+oficial, datos incoherentes o repetidos, etc.). Sera responsabilidad del Órgano de
+Contratación tomar las medidas oportunas.
+
+En todos los casos si se produce un error en el envío del anuncio a DOUE no se
+publicará el anuncio de información previa con reducción de plazos en la Plataforma.
+
+
+
+5.1.3 Anuncio de licitación
+
+El anuncio de licitación no se podrá remitir a DOUE en el caso de expedientes en los que no
+sea de aplicación alguna Directiva de Contratación.
+
+Para expedientes de la directiva 2014/23/EU relativa a la adjudicación de contratos de
+concesión con CPV de tipo general se podrá remitir al DOUE y se corresponderá con el
+subtipo 19 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/23/EU relativa a la adjudicación de contratos de
+concesión con CPV perteneciente a servicios especiales (Anexo IV de la ley 9/2017) se podrá
+remitir al DOUE y se corresponderá con el subtipo 14 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/24/EU sobre contratación pública con CPV de tipo
+general se podrá remitir al DOUE y se corresponderá con el subtipo 16 del reglamento
+2019/1780.
+
+Para expedientes de la directiva 2014/24/EU sobre contratación pública con CPV
+perteneciente a servicios especiales (Anexo IV de la ley 9/2017) se podrá remitir al DOUE y
+se corresponderá con el subtipo 20 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/25/EU relativa a la contratación por entidades que
+operan en los sectores del agua, energía, transporte y servicios postales (Sectores
+Especiales) con CPV de tipo general se podrá remitir al DOUE y se corresponderá con el
+subtipo 17 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/25/EU relativa a la contratación por entidades que
+operan en los sectores del agua, energía, transporte y servicios postales (Sectores
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                  Pág. 17 de 33
+Especiales) con CPV de servicios especiales (Anexo I del RDL 3/2020) se podrá remitir al
+DOUE y se corresponderá con el subtipo 21 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2009/81/CE relativa a la adjudicación de contratos de
+suministros, servicios, y obras en el ámbito de la defensa y la seguridad general se podrá
+remitir al DOUE y se corresponderá con el subtipo 18 del reglamento 2019/1780.
+
+La publicación del anuncio en Plataforma no será inmediata. Una vez enviado el anuncio
+a DOUE el expediente queda bloqueado hasta su publicación en DOUE o hasta que
+hayan transcurrido 48 horas de su envío a DOUE según marcan las Directrices de la
+Contratación Pública. Una vez transcurrido este tiempo se publicará en la Plataforma y
+el expediente se quedará desbloqueado.
+
+La oficina de Publicaciones podrá informar vía correo electrónico al Órgano de
+Contratación que el anuncio no será publicado por un error de tipo formal (idioma no
+oficial, datos incoherentes o repetidos, etc.). Sera responsabilidad del Órgano de
+Contratación tomar las medidas oportunas.
+
+En todos los casos si se produce un error en el envío del anuncio a DOUE no se
+publicará el anuncio de licitación en la Plataforma.
+
+5.1.4 Anuncio de adjudicación
+
+5.1.4.1 Modelos anuncios de adjudicación
+
+A continuación, se detallan los formularios de envío a DOUE para los casos en los que se
+permite la remisión del anuncio de adjudicación.
+
+Para expedientes de la directiva 2014/23/EU relativa a la adjudicación de contratos de
+concesión con CPV de tipo general se podrá remitir al DOUE y se corresponderá con el
+subtipo 32 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/23/EU relativa a la adjudicación de contratos de
+concesión con CPV perteneciente a servicios especiales (Anexo IV de la ley 9/2017) se podrá
+remitir al DOUE y se corresponderá con el subtipo 35 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/24/EU sobre contratación pública con CPV de tipo
+general se podrá remitir al DOUE y se corresponderá con el subtipo 29 del reglamento
+2019/1780.
+
+Para expedientes de la directiva 2014/24/EU sobre contratación pública con CPV
+perteneciente a servicios especiales (Anexo IV de la ley 9/2017) se podrá remitir al DOUE y
+se corresponderá con el subtipo 33 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/25/EU relativa a la contratación por entidades que
+operan en los sectores del agua, energía, transporte y servicios postales (Sectores
+Especiales) con CPV de tipo general se podrá remitir al DOUE y se corresponderá con el
+subtipo 30 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/25/EU relativa a la contratación por entidades que
+operan en los sectores del agua, energía, transporte y servicios postales (Sectores
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                  Pág. 18 de 33
+Especiales) con CPV de servicios especiales (Anexo I del RDL 3/2020) se podrá remitir al
+DOUE y se corresponderá con el subtipo 34 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2009/81/CE relativa a la adjudicación de contratos de
+suministros, servicios, y obras en el ámbito de la defensa y la seguridad general se podrá
+remitir al DOUE y se corresponderá con el subtipo 31 del reglamento 2019/1780.
+
+La publicación del anuncio en Plataforma no será inmediata. Una vez enviado el anuncio
+a DOUE el expediente queda bloqueado hasta su publicación en DOUE o hasta que
+hayan transcurrido 48 horas de su envío a DOUE según marcan las Directrices de la
+Contratación Pública. Una vez transcurrido este tiempo se publicará en la Plataforma y
+el expediente quedará desbloqueado.
+
+La oficina de Publicaciones podrá informar vía correo electrónico al Órgano de
+Contratación que el anuncio no será publicado por un error de tipo formal (idioma no
+oficial, datos incoherentes o repetidos, etc.). Sera responsabilidad del Órgano de
+Contratación tomar las medidas oportunas.
+
+En todos los casos si se produce un error en el envío del anuncio a DOUE no se
+publicará el anuncio de licitación en la Plataforma.
+
+
+5.1.4.2 Casos en los que se puede remitir el anuncio de adjudicación al DOUE
+
+5.1.4.2.1 Licitación con lotes y al menos un lote con estado distinto a adjudicado.
+Se podrá remitir a DOUE el anuncio de Plataforma que contenga algún lote en estado diferente
+a adjudicado. El sistema de remisión de anuncios a DOUE solo incluirá los lotes que tengan
+un estado diferente a adjudicado en este envío, es decir, el resto de lotes que contenga el
+anuncio deberán ser remitidos a DOUE en su respectivo anuncio de formalización.
+
+5.1.4.2.2 Anuncios de desierto /renuncia /desistimiento
+En una licitación sin lotes, solo se podrá remitir a DOUE el anuncio de adjudicación si el
+resultado de la licitación es desierto, renuncia o desistimiento.
+
+5.1.4.2.3 Anuncio de Transparencia Publica Voluntaria (ATPV)
+Sólo se deben remitir a DOUE los anuncios de adjudicación de un procedimiento Negociado
+sin Publicidad de aquellos expedientes donde aplique la directiva 2009/81/CE relativa a la
+adjudicación de contratos de suministros, servicios, y obras en el ámbito de la defensa y la
+seguridad general.
+
+5.1.4.2.4 Basados en Acuerdo Marco
+Los expedientes basados en Acuerdo Marco se perfeccionan con la Adjudicación, por lo tanto,
+en este caso, Plataforma permite la remisión a DOUE del anuncio de adjudicación.
+
+     Anuncio de formalización del Establecimiento del Acuerdo Marco remitido a DOUE a
+      través de Plataforma
+
+Al seleccionar la opción de publicación en DOUE mostrará la información referente al anuncio
+de formalización del establecimiento del Acuerdo Marco. Los datos que muestra son:
+
+         o    Fecha de envío
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                   Pág. 19 de 33
+         o    Fecha de publicación
+         o    URL de publicación
+         o    ID de publicación
+
+     Anuncio de formalización del Establecimiento del Acuerdo Marco remitido a DOUE por
+      otros medios
+
+Al seleccionar la opción de publicación en DOUE se solicitará la información referente al
+anuncio de formalización del establecimiento del Acuerdo Marco. La información que se
+solicita es:
+
+         o    Fecha de envío
+         o    Fecha de publicación
+         o    URL de publicación
+         o    ID de publicación 2
+
+5.1.4.2.5 Específicos de Sistema Dinámico de Adquisición
+Los expedientes específicos de Sistema Dinámico de Adquisición se perfeccionan con la
+Adjudicación, por lo tanto, en este caso, Plataforma permite la remisión a DOUE del anuncio
+de adjudicación.
+
+     Anuncio de licitación del Establecimiento del Sistema Dinámico de Adquisición remitido
+      a DOUE a través de Plataforma
+
+Al seleccionar la opción de publicación en DOUE mostrará la información referente al anuncio
+de licitación del establecimiento del Sistema Dinámico de Adquisición. Los datos que muestra
+son:
+
+         o    Fecha de envío
+         o    Fecha de publicación
+         o    URL de publicación
+         o    ID de publicación
+
+     Anuncio de licitación del Establecimiento del Sistema Dinámico de Adquisición remitido
+       a DOUE por otros medios
+Al seleccionar la opción de publicación en DOUE se solicitará la información referente al
+anuncio de licitación del establecimiento del Sistema Dinámico de Adquisición. La información
+que se solicita es:
+
+         o    Fecha de envío
+         o    Fecha de publicación
+         o    URL de publicación
+         o    ID de publicación
+
+5.1.5 Anuncio de formalización
+
+El anuncio de formalización no se podrá remitir a DOUE para expedientes en los que no
+aplique ninguna Directiva de Contratación.
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                   Pág. 20 de 33
+Para expedientes de la directiva 2014/23/EU relativa a la adjudicación de contratos de
+concesión con CPV de tipo general se podrá publicar en el DOUE y se corresponderá con el
+subtipo 32 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/23/EU relativa a la adjudicación de contratos de
+concesión con CPV perteneciente a servicios especiales (Anexo IV de la ley 9/2017) se podrá
+publicar en el DOUE y se corresponderá con el subtipo 35 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/24/EU sobre contratación pública con CPV de tipo
+general se podrá publicar en el DOUE y se corresponderá con el subtipo 29 del reglamento
+2019/1780.
+
+Para expedientes de la directiva 2014/24/EU sobre contratación pública con CPV
+perteneciente a servicios especiales (Anexo IV de la ley 9/2017) se podrá publicar en el DOUE
+y se corresponderá con el subtipo 33 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/25/EU relativa a la contratación por entidades que
+operan en los sectores del agua, energía, transporte y servicios postales (Sectores
+Especiales) con CPV de tipo general se podrá publicar en el DOUE y se corresponderá con
+el subtipo 30 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/25/EU relativa a la contratación por entidades que
+operan en los sectores del agua, energía, transporte y servicios postales (Sectores
+Especiales) con CPV de servicios especiales (Anexo I del RDL 3/2020) se podrá publicar en
+el DOUE y se corresponderá con el subtipo 34 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2009/81/CE relativa a la adjudicación de contratos de
+suministros, servicios, y obras en el ámbito de la defensa y la seguridad general se podrá
+publicar en el DOUE y se corresponderá con el subtipo 31 del reglamento 2019/1780.
+
+La publicación del anuncio en Plataforma no será inmediata. Una vez enviado el anuncio
+a DOUE el expediente queda bloqueado hasta su publicación en DOUE o hasta que
+hayan transcurrido 48 horas de su envío a DOUE según marcan las Directrices de la
+Contratación Pública. Una vez transcurrido este tiempo se publicará en la Plataforma y
+el expediente quedará desbloqueado.
+
+La oficina de Publicaciones podrá informar vía correo electrónico al Órgano de
+Contratación que el anuncio no será publicado por un error de tipo formal (idioma no
+oficial, datos incoherentes o repetidos, etc.). Sera responsabilidad del Órgano de
+Contratación tomar las medidas oportunas.
+
+En todos los casos si se produce un error en el envío del anuncio a DOUE no se
+publicará el anuncio de licitación en la Plataforma.
+
+5.1.6 Anuncio de modificación de contrato
+
+El anuncio de modificación de contrato no se podrá remitir a DOUE para expedientes donde
+no aplique Directiva de Contratación o aquellos en los que aplique la directiva 2009/81/CE.
+
+Para expedientes de la directiva 2014/23/EU relativa a la adjudicación de contratos de
+concesión se podrá publicar en el DOUE y se corresponderá con el subtipo 40 del reglamento
+2019/1780.
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                   Pág. 21 de 33
+Para expedientes de la directiva 2014/24/EU sobre contratación pública se podrá publicar en
+el DOUE y se corresponderá con el subtipo 38 del reglamento 2019/1780.
+
+Para expedientes de la directiva 2014/25/EU relativa a la contratación por entidades que
+operan en los sectores del agua, energía, transporte y servicios postales (Sectores
+Especiales) se podrá publicar en el DOUE y se corresponderá con el subtipo 39 del
+reglamento 2019/1780.
+
+Hay que tener en cuenta que la Plataforma solo permitirá el envío a DOUE de la modificación
+de contrato en los siguientes casos:
+
+          La adjudicación de contrato se envió a DOUE a través de la Plataforma para los
+           Basados en Acuerdo Marco y los Específicos de Sistemas Dinámicos de Adquisición.
+          La formalización de contrato se envió a DOUE a través de la Plataforma para los casos
+           que no sean Basados en Acuerdo Marco o los Específicos de Sistemas Dinámicos de
+           Adquisición.
+
+La publicación del anuncio en Plataforma será inmediata. Una vez enviado el anuncio a
+DOUE el expediente, en este caso, no queda bloqueado.
+
+La oficina de Publicaciones podrá informar vía correo electrónico al Órgano de
+Contratación de que el anuncio no será publicado por un error de tipo formal (idioma
+no oficial, datos incoherentes o repetidos, etc.). Sera responsabilidad del Órgano de
+Contratación tomar las medidas oportunas.
+
+En todos los casos si se produce un error en el envío del anuncio a DOUE no se
+publicará el anuncio de formalización en la Plataforma.
+
+
+
+
+5.2       Funcionamiento en la Plataforma de Contratación del Sector Público
+
+5.2.1 Previsualización de los anuncios que se remitirán a DOUE
+
+Para todos los casos en los que se solicite la presentación a DOUE se tendrá la opción de
+previsualizar la información que se va a enviar.
+
+Se seleccionará la opción previsualizar en el combo acciones del anuncio a enviar y se pulsa
+en el enlace Aceptar.
+
+
+
+
+Figura 1 – Acción Previsualizar
+
+Selección de envío a DOUE
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                       Pág. 22 de 33
+Figura 2 – Selección envío a DOUE del Anuncio Previo en la previsualizacion
+
+Pulsando en siguiente se podrán previsualizar los anuncios tanto del perfil de contratante
+como de DOUE
+
+
+
+
+Figura 3 – Opciones de previsualizar los anuncios tanto del perfil de contratante como de DOUE
+
+Este proceso es análogo para los diferentes tipos de anuncios.
+
+5.2.2 Remisión de anuncio a DOUE con publicación inmediata
+
+En el caso del anuncio con publicación inmediata el expediente en ningún momento queda
+bloqueado.
+
+Se seleccionará la opción publicar en el combo acciones del anuncio previo a enviar y se pulsa
+en el enlace Aceptar.
+
+
+
+
+Figura 4 – Acción Publicar
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                                   Pág. 23 de 33
+Figura 5 – Selección envío a DOUE del Anuncio Previo en la publicación
+
+Pulsando en siguiente se podrán previsualizar los anuncios tanto del perfil de contratante
+como de DOUE
+
+
+
+
+Figura 6 – Opciones de previsualizar los anuncios tanto del perfil de contratante como de DOUE
+
+Al pulsar el botón “Previsualizar el anuncio que se enviará a DOUE” podrá ver el anuncio
+resultante en formato pdf. En caso de que se hayan encontrado errores se mostrarán en
+pantalla para que sean revisados.
+
+Pulsando en el botón Publicar se procede al envío del anuncio a DOUE y se publica en la
+Plataforma de forma inmediata. En caso de que haya un error en la remisión a DOUE no se
+publicará y se mostrará el mensaje de error correspondiente.
+
+
+
+5.2.3 Remisión de anuncio a DOUE con publicación diferida
+
+Para todos los anuncios que se envíen a DOUE con publicación de forma diferida implica que
+el expediente queda bloqueado hasta la publicación en DOUE o hasta que hayan transcurrido
+48 de su envío a DOUE según marcan las Directrices de la Contratación Pública.
+
+Los pasos son similares en todos los casos:
+
+    1. Se selecciona la acción publicar y se pulsa el enlace Aceptar.
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                                   Pág. 24 de 33
+Figura 7 – Acción Publicar
+
+    2. Se selecciona la opción de enviar a DOUE y se pulsa el botón Siguiente
+
+
+
+
+Figura 8 – Selección envío a DOUE
+
+    3. Se puede previsualizar la información que se va a publicar
+
+
+
+
+Figura 9 – Opciones de previsualizar los anuncios tanto del perfil de contratante como de DOUE
+
+    4. Se pulsa el botón Publicar
+       Si todo va correcto se pasa al paso 5. En caso de que suceda algún error en la remisión
+       del anuncio, éste no se publicará en Plataforma. Consultar la sección 5.2.8 Errores en
+       la remisión de anuncios.
+    5. Muestra el resultado de la publicación
+
+
+
+
+Figura 10 – Resultado de la publicación
+
+    6. Pulsar el botón Finalizar
+
+    La Oficina de Publicaciones puede decidir no publicar el anuncio por errores formales
+    (idioma no oficial, datos incorrectos o incoherentes, etc.). La Oficina de Publicaciones
+    enviará un correo electrónico al Órgano de Contratación indicando los motivos de la no
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                                   Pág. 25 de 33
+    publicación. Esta decisión de la Oficina de Publicaciones podrá derivar en dos situaciones
+    diferentes en la Plataforma:
+
+             Si el anuncio no se ha publicado en la Plataforma el expediente se desbloquea y
+              no se publica el anuncio en la Plataforma
+             Si el anuncio ya ha sido publicado en la Plataforma será responsabilidad del
+              Órgano de Contratación tomar las acciones oportunas teniendo en cuenta las
+              indicaciones de la Oficina de Publicaciones
+
+5.2.4 Rectificación de un anuncio
+
+5.2.4.1 Publicado en Plataforma, pero no en DOUE
+
+Se podrá publicar la rectificación del anuncio en Plataforma, no obstante, la acción de remitir
+a el anuncio a DOUE no estará disponible.
+
+
+5.2.4.2 Publicado tanto en Plataforma como en DOUE
+
+Los pasos son análogos a la publicación del anuncio cambiando solo en el primer paso la
+selección de la acción, en este caso se selecciona Rectificar.
+
+Si no hay cambios que se remitan a DOUE se publicará la rectificación en la Plataforma y en
+la columna Publicación en DOUE aparecerá “Sin cambios”.
+
+Si los cambios se deben remitir a DOUE, se realizan los siguientes pasos:
+
+             Se genera el anuncio correspondiente y se remite a DOUE.
+             Si la Oficina de Publicaciones acepta la rectificación se publica el anuncio de
+              rectificación de forma inmediata en la Plataforma
+             Una vez publicado en DOUE se actualiza el enlace a la publicación.
+
+En caso de que la Oficina de Publicaciones rechace el anuncio se mostrará el mensaje de
+error correspondiente y no se publicará en la Plataforma.
+
+Se marca que se quiere enviar al DOUE y se podrá previsualizar la información
+correspondiente.
+
+Al publicarse en Plataforma la rectificación del anuncio, el anuncio anterior aparecerá en la
+tabla de anuncios históricos.
+
+5.2.5 Anulación de un anuncio
+
+AVISO: Solo se permite la anulación de anuncios remitidos a DOUE por la Plataforma de
+aquellos remitidos en fecha posterior al 14/11/2023
+
+5.2.5.1 Anulación sin publicación en Plataforma
+
+El expediente está bloqueado pero permite la anulación del anuncio.
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                        Pág. 26 de 33
+Figura 11 – Anulación de anuncio
+
+El resultado será:
+
+
+
+
+Figura 12 – Resultado anulación de anuncio
+
+Al realizar la anulación el expediente que estuviese bloqueado se desbloqueará.
+
+5.2.5.2 Publicado en Plataforma, pero no en DOUE
+
+Este anuncio de anulación se publicará en la Plataforma. DOUE detendrá la publicación del
+anuncio que se desea anular, a no ser que la publicación en DOUE de dicho anuncio fuese
+inminente.
+
+
+
+
+Figura 13 – Anulación de anuncio
+
+El resultado será:
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                  Pág. 27 de 33
+Figura 14 – Resultado anulación de anuncio
+
+
+5.2.5.3 Publicado tanto en Plataforma como en DOUE
+
+Este anuncio de anulación se publicará tanto en la Plataforma como en DOUE si selecciona
+la opción de Enviar anulación a DOUE.
+
+
+
+
+Figura 15 – Anulación de anuncio
+
+El resultado será:
+
+
+
+
+Figura 16 – Resultado anulación de anuncio
+
+5.2.6 Anuncio Publicado en DOUE a través de las aplicaciones de la Oficina de
+      Publicaciones
+
+En caso de haber publicado el anuncio en DOUE a través de las aplicaciones de la Oficina de
+Publicaciones se podrá completar dicha información. Se selecciona la acción publicar y se
+pulsa el enlace Aceptar.
+
+    1. Se selecciona la acción publicar y se pulsa el enlace Aceptar.
+
+
+
+
+Figura 17 – Acción Publicar
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                  Pág. 28 de 33
+    2. Se selecciona la opción de que ya se ha enviado a DOUE por otros medios. Además,
+       se debe completar toda la información referente a dicha publicación. Y se pulsa el
+       botón Siguiente
+
+
+
+
+Figura 18 – Selección publicación en DOUE por otros medios
+
+    3. Se puede previsualizar la información que se va a publicar solo en el perfil del
+       contratante
+
+
+
+
+Figura 19 – Opción de previsualizar los anuncios en el perfil de contratante
+
+    4. Se pulsa el botón Publicar
+    5. Muestra el resultado de la publicación en la Plataforma
+
+
+
+
+Figura 20 – Resultado de la publicación
+
+    6. Pulsar el botón Finalizar
+
+5.2.7 Errores en la remisión de anuncios
+En el caso que la respuesta a la remisión de un anuncio a los sistemas DOUE sea un error,
+se interrumpirá la publicación de dicho anuncio en Plataforma.
+
+5.2.7.1 Errores de comunicación con DOUE
+En el caso de un error de comunicación con los sistemas DOUE en la remisión del anuncio,
+se mostrará un aviso y se interrumpirá el proceso de publicación en Plataforma.
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                      Pág. 29 de 33
+Plataforma no tiene medios de solucionar este tipo de error ya que se debe a la
+indisponibilidad de los sistemas de la Oficina de Publicaciones. Deberán esperar a que los
+sistemas de la Oficina de Publicaciones estén operativos de nuevo, o bien, realizar la
+publicación a través de la aplicación de la Oficina de Publicaciones: eNotices2
+(https://enotices2.ted.europa.eu/home.) Tenga en cuenta que esta acción imposibilita la
+posibilidad de remitir los sucesivos anuncios del expediente a través de la PLACSP.
+
+5.2.7.2 Errores en la validación de datos técnicos.
+En el caso que haya errores en la validación de los datos técnicos que se remiten al DOUE,
+Plataforma mostrará un aviso indicando lo sucedido e interrumpirá la publicación del anuncio.
+Este tipo de error desembocará en una incidencia que nuestro equipo técnico deberá resolver.
+
+En caso de urgencia, puede realizar la publicación en DOUE a través de la aplicación de la
+Oficina de Publicaciones: eNotices2 (https://enotices2.ted.europa.eu/home.) Tenga en cuenta
+que esta acción imposibilita la posibilidad de remitir los sucesivos anuncios del expediente a
+través de la PLACSP.
+
+
+
+
+5.3    Contacto con la Oficina de Publicaciones
+
+Para publicar anuncios en DOUE fuera de la Plataforma utilizar el siguiente enlace
+https://enotices2.ted.europa.eu/home.
+
+Para la consulta de los anuncios publicados en el DOUE:
+
+https://ted.europa.eu/TED/search/searchResult.do
+
+Para contactar con la Oficina de Publicaciones:
+
+ted@publications.europa.eu
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                    Pág. 30 de 33
+6 Información sobre la publicación en otros medios
+La Plataforma permite introducir información sobre la publicación de anuncios en otros
+medios, si dicha publicación no se ha realizado a través de la propia Plataforma. Estos medios
+pueden ser BOE, DOUE, o cualquier otro (páginas web, boletines autonómicos, provinciales,
+etc.).
+
+Para introducir esta información en el caso de BOE y DOUE, se deberá desplegar el enlace
+correspondiente al tipo de anuncio y marcar la casilla correspondiente en la columna “Ya
+Publicado/Enviado”.
+
+
+
+
+Ilustración: Informar de la publicación en el BOE y DOUE por medios externos a la Plataforma
+
+Esta acción activará los campos del formulario para introducir la siguiente información:
+         Fecha de publicación: Fecha en la que el anuncio fue publicado.
+         Fecha de envío: En el caso de DOUE, puede indicarse la fecha e envío además
+           de la fecha de publicación.
+         URL de publicación del anuncio: Dirección en Internet para acceder al anuncio.
+         Id Publicación DOUE, en el caso de DOUE. Se refiere al número de anuncio en
+           DOUE que aparece en la parte superior del mismo, y que puede ser útil si se
+           envían posteriormente otros anuncios relativos al mismo expediente a través de
+           la Plataforma.
+
+
+
+
+Ilustración: Id de publicación en el DOUE
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                             Pág. 31 de 33
+Además de la información sobre la publicación del anuncio en el BOE y el DOUE, existe la
+posibilidad de incluir información sobre la publicación en otros medios, como páginas web,
+boletines autonómicos, provinciales, etc.
+
+
+
+
+Ilustración: Información de la publicación del anuncio por otros medios
+
+Para ello, se debe utilizar el botón “Añadir diario oficial” que permitirá añadir la información
+sobre estas publicaciones adicionales:
+              Nombre del diario.
+              Fecha de publicación.
+              URL de publicación del anuncio.
+
+
+
+
+Ilustración: Publicación del Anuncio de Licitación por otros medios. En este ejemplo en el Boletín de
+Canarias. Se informa la fecha de publicación y el enlace al anuncio publicado.
+
+Cuando se publique el anuncio en la Plataforma, esta información se incluirá dentro del mismo,
+siendo visible para todos los interesados.
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                          Pág. 32 de 33
+Ilustración: Información del anuncio de licitación en diarios
+
+
+
+En el anuncio que se publica en la Plataforma se incluye toda la información que previamente
+se haya introducido en relación con el envío/publicación del anuncio en todos los diarios
+oficiales.
+
+
+
+
+Guía de Publicación de anuncios en Diarios Oficiales v2.1                   Pág. 33 de 33
+

@@ -1,0 +1,1021 @@
+  Guía de Configuración de procedimientos
+  Abiertos Simplificados en la Plataforma de
+       Contratación del Sector Público
+
+
+
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+                                                                           Versión: 1.2
+                                                                      Fecha: 15/06/2023
+Edita:
+© Ministerio de Hacienda y Función Pública
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+El presente documento está bajo la licencia Creative Commons Reconocimiento - No Comercial -
+Compartir Igual versión 4.0 España.
+Usted es libre de:
+- Copiar, distribuir y comunicar públicamente la obra
+- Hacer obras derivadas
+Bajo las condiciones siguientes:
+- Reconocimiento. Debe reconocer los créditos de la obra de la manera especificada por el autor o el
+licenciador (pero no de una manera que sugiera que tiene su apoyo o apoyan el uso que hace de su
+obra).
+- No Comercial: Se permite que terceros copien, distribuyan, exhiban y ejecuten la obra licenciada —y
+obras derivadas basadas en ella— pero sólo para fines no comerciales.
+- Compartir bajo la misma licencia. Si altera o transforma esta obra, o genera una obra derivada, sólo
+puede distribuir la obra generada bajo una licencia idéntica a ésta.
+Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta obra.
+Alguna de estas condiciones puede no aplicarse si se obtiene el permiso del titular de los derechos de
+autor
+Nada en esta licencia menoscaba o restringe los derechos morales del autor.
+Esto es un resumen legible por humanos del texto legal (la licencia completa) disponible en:
+
+https://creativecommons.
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                        Pág. 2 de 35
+INDICE
+
+1         INTRODUCCIÓN .......................................................................................................................... 5
+2         ARTICULACIÓN DEL PROCEDIMIENTO ................................................................................... 7
+    2.1      FORMA DE PRESENTACIÓN ELECTRÓNICA................................................................................... 7
+    2.2      TIPOS DE SOBRES EN EL ABIERTO SIMPLIFICADO......................................................................... 7
+    2.3      SOLVENCIA ECONÓMICA Y TÉCNICA ........................................................................................... 8
+3         CONFIGURACIÓN DEL PROCEDIMIENTO ................................................................................ 8
+    3.1      CREACIÓN DE LOS DATOS BÁSICOS ............................................................................................ 8
+    3.2      OTROS DATOS DE CONFIGURACIÓN DEL PROCEDIMIENTO ........................................................... 9
+    3.3      EVENTOS ............................................................................................................................... 13
+4         HERRAMIENTA PARA EL LICITADOR .................................................................................... 14
+    4.1      SIMULAR PRESENTACIÓN ........................................................................................................ 14
+5         GESTIÓN DE SESIONES ........................................................................................................... 17
+    5.1      INCORPORACIÓN DE ACTOS A UNA SESIÓN ............................................................................... 18
+6         COMUNICACIONES ................................................................................................................... 24
+    6.1      COMUNICACIONES GENÉRICAS ................................................................................................ 24
+    6.2      SUBSANACIONES .................................................................................................................... 28
+7         CONTÁCTENOS......................................................................................................................... 31
+8         ANEXO. NORMATIVA ................................................................................................................ 32
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                                                               Pág. 3 de 35
+CAMBIOS EN LA VERSIÓN
+SE MODIFICAN LA IMAGEN DE LA PAGINA 8
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2   Pág. 4 de 35
+1 INTRODUCCIÓN
+Este documento detalla cómo configurar procedimientos de contratación de tipo Abierto
+Simplificado haciendo uso de los servicios de Licitación Electrónica de la Plataforma de
+Contratación del Sector Público.
+
+Básicamente, los servicios de Licitación Electrónica permiten la preparación y presentación
+de ofertas telemáticamente por el licitador, la custodia electrónica de las mismas por el
+sistema y la apertura y evaluación electrónica de la documentación por los miembros del
+órgano competente para valorar las ofertas y para ello se debe tener activo el Órgano de
+Asistencia correspondiente.
+
+Se recomienda la lectura de las siguientes guías:
+
+    -    “Guía General de utilización de la Plataforma de Contratación del Sector Público para
+         los órganos de contratación”, en la que se explica cómo acceder a la aplicación,
+         crear una licitación, y pautas generales sobre edición de datos de la licitación.
+
+    -    “Guía de Servicios de Licitación Electrónica para Órganos de Contratación I.
+         Configuración de la Licitación”, que describe cómo el usuario del órgano de
+         contratación debe configurar un procedimiento electrónico para el uso de los
+         servicios de Licitación Electrónica.
+
+    -    “Guía de Publicación de la Convocatoria de la Licitación”, en la que se explica cómo
+         se publican los anuncios de información previa, anuncios de licitación y pliegos en el
+         perfil del contratante.
+
+    -    “Guía de Envío de comunicaciones a los licitadores”, que explica cómo enviar los
+         distintos tipos de comunicaciones electrónicas a partir de la información introducida
+         en el expediente.
+
+    -    “Guía de Gestión, admisión y exclusión de licitadores”, que describe la forma de
+         indicar si han sido admitidos o excluidos en el procedimiento, o si tienen que
+         subsanar alguna documentación.
+
+    -    “Guía de Servicios de Licitación Electrónica para Órganos de Contratación II.
+         Propuesta de adjudicación”, que describe cuáles son los pasos siguientes que debe
+         realizar el usuario del órgano de contratación una vez que ha recibido la propuesta
+         de adjudicación del órgano competente para la valoración de las ofertas en el caso
+         de Licitación Electrónica.
+
+    -    “Guía de Publicación del resultado de la licitación”, que explica cómo se publican los
+         anuncios de adjudicación, formalización resultado desierto, renuncia, y desistimiento.
+
+    -    “Guía de Servicios de Licitación Electrónica para Órganos de Asistencia I: Gestión
+         del Órgano de Asistencia”, que explica cómo realizar la gestión del órgano de
+         asistencia: datos generales, claves de seguridad, unidad de custodia,
+         usuarios, etc.
+    -    “Guía de Servicios de Licitación Electrónica para Órganos de Asistencia II: Gestión
+         de Sesiones”, que explica como planificar, crear y convocar una sesión del
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                Pág. 5 de 35
+         órganos de asistencia, compuesta de actos para realizar la apertura,
+         calificación y evaluación de ofertas, etc.
+    -    “Guía de Servicios de Licitación Electrónica para Órganos de Asistencia III:
+         Celebración de Sesiones”, que explica cómo se inicia una sesión ya convocada
+         y cómo se van celebrando los distintos actos del orden del día; apertura,
+         evaluación, propuesta de adjudicación, etc.
+
+El procedimiento abierto simplificado tiene peculiaridades desde el punto de vista del
+Órgano de Contratación así como en la parte del Órgano de Asistencia que tienen como
+origen la configuración, apertura y valoración del sobre único.
+
+NOTA: El procedimiento abierto supersimplificado, sumario o abreviado no requiere una
+tramitación especial en la plataforma y debe definirse como un procedimiento abierto
+simplificado.
+
+IMPORTANTE: aunque la ley indique que la asistencia de mesa de contratación es
+potestativa, es preciso tener definido un órgano de asistencia, dado que siempre existirá una
+persona o pluralidad de ellas que se encarguen de la custodia, apertura y valoración de las
+ofertas.
+Como anexo a esta guía, podrá encontrar la normativa aplicable al Procedimiento Abierto
+Simplificado.
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                              Pág. 6 de 35
+2 ARTICULACIÓN DEL PROCEDIMIENTO
+Los procedimientos abiertos simplificados van tener las siguientes singularidades en cuanto
+a su articulación en la Plataforma de Contratación del Sector Público:
+    - Por la forma de presentación de las ofertas: desde el 9 de marzo de 2018 las
+        licitaciones han de hacerse de forma íntegramente electrónica, seleccionándose
+        como procedimiento de contratación “Abierto simplificado”. No obstante, recordamos
+        que esta obligatoriedad se aplica con independencia del tipo de procedimiento de
+        adjudicación.
+    - La oferta podrá presentarse en un único sobre: en los supuestos en que en el
+        procedimiento no se contemplen criterios de adjudicación cuya cuantificación
+        dependa de un juicio de valor. En caso contrario, la oferta se presentará en dos
+        sobres. En todo caso, se trata de sobres de naturaleza mixta, ya que la declaración
+        responsable debe acompañar a la proposición.
+    - Se eximirá a los licitadores de la acreditación de la solvencia económica y financiera
+        y técnica o profesional.
+
+2.1    Forma de presentación electrónica
+El órgano que va a celebrar el procedimiento abierto simplificado seleccionará como forma
+de presentación el valor “electrónica”, en cuyo caso:
+
+      1. Configurará la licitación con los datos necesarios, incluyendo aquellos
+         imprescindibles para licitar electrónicamente, como la asignación del órgano de
+         asistencia y la configuración del/los sobre/s.
+      2. Abrirá el/los sobre/s y valorará las ofertas haciendo uso de los servicios de Licitación
+         Electrónica destinados a órganos de asistencia, siempre que haya escogido la
+         Plataforma de Contratación del Sector Público como medio para licitar
+         electrónicamente (“A través de la Plataforma”).
+
+
+2.2    Tipos de sobres en el abierto simplificado
+En un procedimiento abierto simplificado vamos a tener la posibilidad de seleccionar dos
+tipos de sobres mixtos.
+    - Documentación administrativa y criterios cuantificables automáticamente: que va a
+        contener la documentación administrativa y la documentación cuya cuantificación
+        dependa de criterios cuantificables automáticamente.
+    - Documentación administrativa y criterios sometidos a juicios de valor: que va a
+        contener la documentación administrativa y la documentación cuya cuantificación
+        dependa de criterios de juicio de valor.
+
+En estos dos sobres vamos poder incluir tanto los requisitos previos para contratar como los
+criterios de adjudicación.
+
+Por lo tanto, para poder publicar un anuncio de licitación y pliegos será necesario tener
+configurado un sobre de este tipo. Los casos que se pueden dar son:
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                  Pág. 7 de 35
+      -    Dos sobres: Sobre de documentación administrativa y criterios sometidos a juicio de
+           valor (declaración responsable y propuesta técnica) más un sobre de criterios
+           cuantificables automáticamente (propuesta económica).
+      -    Un sobre: Sobre de documentación administrativa y criterios cuantificables
+           automáticamente (declaración responsable y propuesta económica).
+
+2.3       Solvencia económica y técnica
+Tanto para los sobres mixtos como para el resto de sobres, podremos prescindir de solicitar
+la acreditación de la solvencia económica y financiera y técnica o profesional (art. 159.6.b).
+Por lo tanto, cuando se cree un procedimiento abierto simplificado (o supersimplificado) no
+deberá exigirse ni solvencia ni clasificación como requisitos de participación para poder
+crear el sobre ni para publicar anuncio de licitación y de pliegos.
+
+3 CONFIGURACIÓN DEL PROCEDIMIENTO
+Se va a ilustrar una configuración de un procedimiento abierto simplificado mostrando:
+   - Los datos básicos que se han de registrar independientemente de que se tramite el
+       procedimiento de forma electrónica a través de la Plataforma o mediante sistemas
+       externos.
+   - Los datos que son precisos registrar si el procedimiento se licita electrónicamente.
+   - La configuración del sobre único.
+
+
+3.1       Creación de los datos básicos
+Cualquier licitación que se cree en la Plataforma de Contratación del Sector Público,
+independientemente del procedimiento de adjudicación o de si la tramitación electrónica se
+realiza a través de la Plataforma o mediante sistemas externos terceros, precisa el registro
+de unos datos básicos.
+NOTA: para conocer la forma de registrar los datos básicos de una licitación, consulte la “Guía
+General para órganos de contratación”.
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                Pág. 8 de 35
+Ilustración: Datos básicos de creación de la licitación. Selección del procedimiento de contratación
+Abierto simplificado
+
+3.2     Otros datos de configuración del Procedimiento
+Para continuar la cumplimentación del procedimiento abierto simplificado, recuerde que
+debe registrar la siguiente información:
+   - Forma de presentación: Por defecto, la forma de presentación será electrónica. En el
+       caso de ser procedimiento manual, deberá modificar el valor por defecto electrónico
+       y escoger “manual”. Con la forma de presentación electrónica se habilita el campo de
+       selección del órgano de asistencia u órgano competente para valorar las ofertas
+       (Ilustración: Tramitación electrónica y selección del órgano de asistencia).
+
+NOTA: recuerde que desde la entrada en vigor de la Ley 9/2017 de Contratos del Sector Público, los
+procedimientos deberán ser electrónicos. Si licita un procedimiento manual, salvo que se encuentre
+entre las excepciones establecidas en la Disposición Adicional decimoquinta apartado 3, su licitación
+puede ser objeto de impugnación.
+Además, recuerde que la Plataforma permite licitar procedimientos electrónicos por medios externos a
+ella, en cuyo caso ésta se comportará a nivel operativo como si el procedimiento fuera manual, por lo
+que determinados datos que se precisan en procedimientos electrónicos haciendo uso de sus
+servicios no tendrían aplicación alguna en este caso (asignación de órgano de asistencia, definición
+de sobres electrónicos, etc.).
+
+
+
+
+                   Ilustración: Tramitación electrónica y selección del órgano de asistencia
+         NOTA: puede encontrar más información sobre configuración de procedimientos electrónicos
+         en el manual “Guía de Servicios de Licitación Electrónica para Órganos de Contratación I.
+         Configuración de la Licitación”.
+
+      Fecha final de presentación de ofertas: esta fecha informa en todo caso a los licitadores
+      de cuál es la fecha límite para hacer entrega de los sobres. Recuerde que en el caso de
+      estar licitando electrónicamente a través de la Plataforma esta fecha determina el
+      momento a partir del que la Herramienta de Preparación y Presentación de Ofertas
+      dejará de estar disponible. A partir de ese instante, las empresas no podrás descargar la
+      herramienta para la preparación electrónica de los sobres y su posterior remisión
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                            Pág. 9 de 35
+    telemática                                          (figura                                      3).
+
+
+
+
+         Ilustración: Tramitación electrónica y selección del órgano de asistencia
+
+
+    -    Anexo de pliegos o documentos relativos a la licitación: en las pestañas PPT y
+         PCAP, respectivamente, alojará las especificaciones técnicas y el documento de
+         licitación, respectivamente, que regirán los términos del contrato.
+
+         NOTA: puede encontrar más información sobre cómo anexar los pliegos en la “Guía de
+         Publicación de la Convocatoria de la Licitación”.
+
+    -    Definición de lotes: En la pestaña PPT podrá definir los lotes asociados a la licitación.
+
+         NOTA: puede encontrar más información sobre configuración de procedimientos electrónicos
+         en el manual “Guía de Servicios de Licitación Electrónica para Órganos de Contratación I.
+         Configuración de la Licitación”.
+
+    -    Requisitos de participación: En los procedimientos electrónicos (forma de
+         presentación “Electrónica” o “Manual y/o Electrónica”) es preciso configurar cada uno
+         de ellos y la forma de acreditarlos, de otro modo, la herramienta de preparación y
+         presentación de ofertas no solicitará al usuario licitador la acreditación de un
+         requisito concreto. Así, en la pestaña PCAP, en el apartado “Condiciones de
+         admisión de candidatos” y “Requisitos previos de participación” los iremos
+         introduciendo (Ilustración: Configuración de los requisitos previos de participación).
+
+         NOTA: recuerde que la forma más rápida para crear los requisitos es registrarlos uno a uno,
+         marcar la casilla de todos ellos, pulsar el botón “formas de Acreditación” y escoger como tipo
+         de documento una declaración responsable común para todos ellos.
+
+         Puede encontrar más información sobre configuración de procedimientos electrónicos en el
+         manual “Guía de Servicios de Licitación Electrónica para Órganos de Contratación I.
+         Configuración de la Licitación”.
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                      Pág. 10 de 35
+     Ilustración: Configuración de los requisitos previos de participación
+
+    -    Criterios de adjudicación: si va a licitar electrónicamente deberá introducir los
+         criterios de adjudicación (nombre, tipo, ponderación, puntuaciones mínima y máxima)
+         (Ilustración: Configuración de los criterios de adjudicación.
+
+        NOTA: recuerde que la Plataforma permite distinguir entre criterios sometidos a juicios de
+        valor y criterios cuantificables automáticamente.
+        Puede encontrar más información sobre cómo introducir los criterios de adjudicación   en la
+    “Guía de Servicios de Licitación Electrónica para Órganos de Contratación I.       Configuración
+    de la Licitación”.
+
+
+
+
+    Ilustración: Configuración de los criterios de adjudicación
+
+    -    Plazo de ejecución: deberá informar este campo. Recuerde que debe introducir, al
+         menos, la duración del contrato, o el intervalo de fechas o la fecha de inicio y la
+         duración (Ilustración: Plazo de ejecución).
+
+
+
+
+         Ilustración: Plazo de ejecución
+
+
+    -    Configuración de los sobres: si el procedimiento se tramitan electrónicamente debe
+         configurar inexcusablemente los sobres, lo que implica sus datos generales
+         (Ilustración: Datos generales del sobre), condiciones de firma y cifrado (Ilustración:
+         Condiciones de seguridad del sobre), la relación de requisitos previos para contratar
+         (Ilustración: Relación de requisitos previos para continuar), criterios a acreditar
+         (Ilustración: Criterios a acreditar) y contenido del sobre (Ilustración: Contenido del
+         sobre).
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                   Pág. 11 de 35
+         NOTA: puede encontrar más información sobre cómo configurar los sobres electrónicos
+         en la “Guía de Servicios de Licitación Electrónica para Órganos de Contratación I.
+         Configuración de la Licitación”.
+
+
+
+
+         Ilustración: Datos generales del sobre
+
+
+
+
+         Ilustración: Condiciones de seguridad del sobre
+
+
+
+
+         Ilustración: Relación de requisitos previos para contratar
+
+
+
+
+         Ilustración: Criterios a acreditar
+
+
+
+
+         Ilustración: Contenido del sobre
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                             Pág. 12 de 35
+En la pantalla de “Contenido del sobre” podemos observar como en la parte superior
+aparece la documentación de acreditación de requisitos y en la parte inferior la oferta
+económica o técnica según el tipo de sobre.
+En la ’Ilustración: Resultado obtenido de la configuración del sobre’ vemos el resultado de la
+creación de un sobre mixto.
+
+
+
+
+Ilustración: Resultado obtenido de la configuración del sobre
+
+3.3       Eventos
+Se pueden definir eventos con fechas de apertura para los nuevos sobres mixtos (ver
+Ilustración: Configuración del evento de apertura del sobre mixto). En el apartado
+‘Condiciones Presentación de ofertas’, en el área de eventos se van a incluir en la lista de
+valores los dos tipos de sobres mixtos para poder asignar un evento de apertura:
+
+          Apertura oferta criterios cuantificables automáticamente (art.159): para la apertura de
+           sobres de tipo Documentación administrativa y criterios cuantificables
+           automáticamente.
+
+          Apertura oferta criterios juicios de valor (art. 159): para la apertura de sobres de tipo
+           Documentación administrativa y criterios sometidos a juicio de valor.
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                    Pág. 13 de 35
+(Ilustración: Configuración del evento de apertura del sobre mixto
+
+
+      NOTA: puede encontrar más información sobre cómo configurar los sobres electrónicos   en la
+      “Guía de Servicios de Licitación Electrónica para Órganos de Contratación I.   Configuración
+      de la Licitación”.
+
+4 HERRAMIENTA PARA EL LICITADOR
+4.1     Simular presentación
+Desde la pestaña de “Resumen Licitación” el órgano competente puede visualizar una
+simulación de la apariencia que va a tener la herramienta de preparación y presentación de
+ofertas que verá el licitador (ver Ilustración: Simular presentación).
+
+
+
+
+Ilustración: Simular presentación
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                  Pág. 14 de 35
+Así podrá comprobar si el contenido de los sobres se adapta a sus necesidades.
+Por un lado, puede ver los requisitos previos de participación si elige “Visualización por
+requisito”(Ilustración: Herramienta de preparación y presentación de ofertas. Visualización
+de requisitos).
+
+
+
+
+Ilustración: Herramienta de preparación y presentación de ofertas. Visualización de requisitos
+
+Y también puede ver los criterios de adjudicación si elige “Visualización por criterio”
+(Ilustración: Herramienta de preparación y presentación de ofertas. Visualización de
+criterios).
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                        Pág. 15 de 35
+Ilustración: Herramienta de preparación y presentación de ofertas. Visualización de criterios
+
+Finalmente, si elige “Visualización por documento” podrá ver los documentos que pedirá que
+el licitador incorpore en el sobre (ver Ilustración: Herramienta de preparación y presentación
+de ofertas. Visualización por documento).
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                         Pág. 16 de 35
+Ilustración Herramienta de preparación y presentación de ofertas. Visualización por documento
+
+
+
+5 GESTIÓN DE SESIONES
+Para la apertura de los sobres mixtos se han incluido cuatros nuevos tipos de actos:
+      Acto de apertura oferta criterios cuantificables automáticamente (art. 159)
+      Acto de valoración oferta criterios cuantificables automáticamente (art. 159)
+      Acto de apertura oferta criterios juicio de valor (art. 159)
+      Acto de valoración oferta criterios juicio de valor (art. 159)
+Con la configuración de la licitación, al registrar los sobres electrónicos, se crearán estos
+actos automáticamente asociados a la apertura y calificación de los sobres mixtos.
+En el caso del sobre “Documentación administrativa y criterios cuantificables
+automáticamente” se crearan los actos de “apertura oferta criterios cuantificables
+automáticamente (art. 159)” y “valoración oferta criterios cuantificables automáticamente
+(art. 159)”, mientras que para el sobre “Documentación administrativa y criterios sometidos a
+juicio de valor” se crearan los actos de “apertura oferta criterios juicio de valor (art. 159)” y
+“valoración oferta criterios juicio de valor (art. 159)”.
+Dependiendo del número de sobres tendremos los siguientes actos:
+     - Sobre único: existirá un Acto de apertura oferta criterios cuantificables
+        automáticamente (art. 159) y un Acto de valoración oferta criterios cuantificables
+        automáticamente (art. 159).
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                      Pág. 17 de 35
+      -    Dos sobres: existirán cuatro actos:
+              o Acto de apertura oferta criterios juicio de valor (art. 159)
+              o Acto de valoración oferta criterios juicio de valor (art. 159)
+              o Acto de apertura oferta criterios cuantificables automáticamente.
+              o Acto de valoración oferta criterios cuantificables automáticamente.
+NOTA: si el procedimiento contempla dos sobres no escoja para la apertura y valoración de la
+proposición económica los actos relativos al sobre único mixto (Acto de apertura oferta criterios
+cuantificables automáticamente (art. 159) y Acto de valoración oferta criterios cuantificables
+automáticamente (art. 159).
+
+5.1       Incorporación de actos a una sesión
+Para poder abrir y calificar la documentación de los sobres, tendremos que incorporarlos a
+alguna sesión. Por ejemplo, a través de la planificación de la siguiente manera:
+Primero, seleccionamos los actos para fijarles una fecha (Ilustración: Fijar fecha de actos
+seleccionados)
+
+
+
+
+Ilustración: Fijar fecha de actos seleccionados
+Posteriormente, incorporamos estos actos a una sesión mediante el botón “Crear sesión
+actos seleccionados” (Ilustración: Crear sesión con los actos seleccionados).
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                 Pág. 18 de 35
+Ilustración: Crear sesión con los actos seleccionados
+
+
+Rellenamos los datos de la sesión (Ilustración: Detalles de creación de una sesión).
+
+
+
+
+Ilustración: Detalles de creación de una sesión
+
+
+Y obtenemos el siguiente orden del día (Ilustración: Orden del día) con los actos para la
+apertura y valoración del sobre mixto:
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                              Pág. 19 de 35
+Ilustración: Orden del día
+
+
+A continuación, procedemos a realizar la convocatoria y su envío.
+
+NOTA: puede encontrar más información sobre cómo crear sesiones de distinta manera que desde la
+planificación en la “Guía de Servicios de Licitación Electrónica para Órganos de Asistencia II: Gestión
+de Sesiones”.
+
+En el momento de celebrar la sesión, una vez se haya constituido, accederemos al primer
+acto del orden del día, es decir, al Acto de apertura oferta criterios cuantificables
+automáticamente (art. 159) (en el caso de sobre único) o Acto de apertura oferta criterios
+juicio de valor (art. 159), en su caso (procedimiento con dos sobres).
+
+Comenzaremos el acto y tendremos a nuestra disposición el botón “Descifrar” y el de “Abrir”,
+según el caso, para realizar la apertura del sobre (Ilustraciones: Acto de apertura oferta criterios
+cuantificables automáticamente o juicio de valor. Descifrado y).
+
+NOTA: puede encontrar más información sobre cómo celebrar sesiones en la “Guía de Servicios de
+Licitación Electrónica para Órganos de Asistencia II: Celebración de Sesiones”.
+
+
+
+
+Ilustración: Acto de apertura oferta criterios cuantificables automáticamente o juicio de valor. Descifrado
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                          Pág. 20 de 35
+Ilustración: Acto de apertura oferta criterios cuantificables automáticamente o juicio de valor. Apertura
+sobres
+
+
+Una vez tengamos abierto el sobre y seleccionado un licitador, procederemos a ver el
+contenido del sobre, que contará en este caso con dos pestañas específicas, una para ver
+los requisitos (Ilustración: pestaña “Contenido Requisitos”) y otra para ver los criterios
+(Ilustración: pestaña “Contenido Criterios”, ), y que tendrán el siguiente aspecto:
+
+
+
+
+Ilustración: Pestaña “Contenido Requisitos”
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                       Pág. 21 de 35
+Ilustración: Pestaña “Contenido Criterios”
+
+
+En este momento haremos la valoración de la documentación administrativa con el fin de
+admitir o excluir a los licitadores. Como vemos en la siguiente pantalla:
+
+
+
+
+Ilustración: Calificación de la documentación administrativa
+
+En el caso de que el procedimiento tuviese lotes, nos aparecería un apartado de “Requisitos
+de participación específicos del lote” debajo del apartado de “Requisitos de participación”.
+En este momento podremos acceder también a los documentos generales del sobre, que se
+encuentran en la parte inferior de la pantalla.
+Antes de finalizar el acto podremos, como en cualquier acto de apertura, proceder a generar
+el informe de apertura, añadir oferta presencial, imprimir lista de licitadores, descargar lista
+de valoración, descargar documentación o excluir a un licitador.
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                Pág. 22 de 35
+También, es posible solicitar la subsanación de la declaración responsable y celebrar el acto
+de subsanación en sesión posterior. Si es éste el caso, le recomendamos que no celebre el
+acto de valoración. Finalice la sesión actual y cree una nueva con un nuevo acto de
+valoración conjuntamente con el de subsanación. La operativa se describe en un apartado
+específico.
+
+En el siguiente acto a realizar de valoración oferta criterios cuantificables automáticamente o
+juicio de valor, será donde incorporemos la puntuación de los licitadores, quedando de la
+siguiente manera:
+
+
+
+
+Ilustración: Calificación de la oferta económica
+
+
+Si existe un sobre único, una vez realizada la valoración del sobre mixto de tipo “Acto de
+valoración oferta criterios cuantificables automáticamente (art. 159)” se estará en disposición
+de realizar la propuesta de adjudicación.
+Si, por el contrario, fueran dos sobres, una vez valorado el sobre mixto (documentación
+administrativa y criterios sometidos a juicio de valor) se deben celebrar los actos de apertura
+y valoración de “oferta criterios cuantificables automáticamente”, previa a la propuesta de
+adjudicación.
+NOTA: puede encontrar más información sobre cómo recibe la propuesta de adjudicación el órgano
+de contratación y como realizar el requerimiento electrónico al adjudicatario propuesto en “Guía de
+Servicios de Licitación Electrónica para Órganos de Contratación II: Propuesta de Adjudicación”.
+
+El acto de propuesta de adjudicación se realiza de la manera habitual (ver ilustración: Acto
+de propuesta de adjudicación. Vista de los licitadores).
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                  Pág. 23 de 35
+Ilustración: Acto de propuesta de adjudicación. Vista de los licitadores
+
+
+Viendo la puntuación de cada licitador y eligiendo al mejor valorado (ver figura 28).
+
+
+
+
+Ilustración: Acto de propuesta de adjudicación. Contenido
+
+
+Al finalizar la sesión, se puede generar el acta de la misma, para aprobarla en la siguiente
+sesión.
+
+6 COMUNICACIONES
+6.1    Comunicaciones genéricas
+Las comunicaciones genéricas se configuran de la misma manera que para cualquier otro
+tipo de procedimiento.
+En el caso de que tengamos un sobre mixto de tipo “Documentación administrativa y
+criterios cuantificables automáticamente”, podremos realizar una comunicación de tipo
+“Justificación de Oferta Anormalmente Baja”, mientras que, si tenemos un sobre mixto de
+tipo “Documentación administrativa y criterios sometidos a juicios de valor”, podremos
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                Pág. 24 de 35
+realizar comunicaciones de “Solicitud de Aclaración”. En cualquier caso, tiene a su
+disposición las comunicaciones de tipo “Solicitud de Información Adicional”.
+
+NOTA: puede encontrar más información sobre cómo configurar comunicaciones en la “Guía de
+Servicios de Licitación Electrónica para Órganos de Asistencia II: Celebración de Sesiones”.
+
+En este caso, vamos a ver como se configura una comunicación de tipo “Justificación de
+Oferta Anormalmente Baja” (ver ilustración: Creación de comunicación genérica. Paso 1).
+
+
+
+
+Ilustración: Creación de comunicación genérica. Paso 1
+
+
+No es necesario crear ningún sobre ya que se crean automáticamente al crear la
+comunicación (ver ilustración: Creación de comunicación genérica. Paso 2).
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                             Pág. 25 de 35
+Ilustración: Creación de comunicación genérica. Paso 2
+
+
+El organo de asistencia puede comprobar en el “Seguimiento de comunicaciones” si ha
+recibido respuesta por parte del licitador (ver Ilustración: Seguimiento de comunicaciones).
+
+
+
+
+Ilustración: Seguimiento de comunicaciones
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                             Pág. 26 de 35
+Para poder ver la documentación que envía el licitador será necesario crear un acto de tipo
+“Justificación oferta anormalmente baja” (ver Ilustración: Creación del acto de Justificación
+oferta anormalmente baja).
+
+
+
+
+Ilustración: Creación del acto de Justificación oferta anormalmente baja
+
+
+Procedemos a realizar el acto donde abriremos la documentación (ver Ilustración: Acto de
+Justificación oferta anormalmente baja).
+
+
+
+
+Ilustración: Acto de Justificación oferta anormalmente baja
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                             Pág. 27 de 35
+Y accederemos a la documentación en la pestaña “Contenido” (ver Ilustración: Acto de
+Justificación oferta anormalmente baja).
+
+
+
+
+Ilustración: Acto de Justificación oferta anormalmente baja
+
+6.2    Subsanaciones
+Si en el proceso de apertura del sobre vemos que alguno de los documentos es subsanable,
+procederemos al envío de una comunicación de admisión/exclusión para que el licitador
+pueda subsanarlo. En este momento el licitador quedará en estado de admitido provisional.
+En la pantalla siguiente vemos como se configura una comunicación de admisión/exclusión.
+
+
+
+
+Ilustración: Comunicación de admisión/exclusión. Paso 1
+
+
+El sobre de subsanación se crea automáticamente, el usuario no tiene que crear ningún
+sobre (ver ilustración: Comunicación de admisión/exclusión. Paso 2).
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                          Pág. 28 de 35
+Ilustración: Comunicación de admisión/exclusión. Paso 2
+
+
+Una vez llega la documentación de la subsanación del licitador, para abrirla se debe crear
+un acto de tipo “Subsanación” y seleccionar el sobre de tipo “Documentación administrativa
+y criterios cuantificables automáticamente” (ver ilustración: Creación del acto de
+subsanación).
+
+
+
+
+Ilustración: Creación del acto de subsanación
+
+
+En la realización del acto, procederemos a descifrar (si es necesario) y abrir los sobres del
+licitador para subsanar (ver ilustración: Apertura de la documentación de subsanación).
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                             Pág. 29 de 35
+Ilustración: Apertura de la documentación de subsanación
+
+Tras la apertura, accederemos a la documentación de subsanación (ver ilustración:
+Documentación de la subsanación).
+
+
+
+
+Ilustración: Documentación de la subsanación
+
+
+Se califica al licitador en base a la documentación recibida (ver ilustración: Valoración del
+documento de la subsanación).
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                             Pág. 30 de 35
+Ilustración: Valoración del documento de la subsanación
+
+
+El nuevo estado del licitador es admitido (ver ilustración: Estado del licitador).
+
+
+
+
+Ilustración: Estado admitido del licitador
+
+
+7 CONTÁCTENOS
+Para más información sobre los servicios de Licitación Electrónica de la Plataforma de
+Contratación del Sector Público, por favor, diríjase a la siguiente dirección de correo:
+
+                         licitacioneorganismos@hacienda.gob.es
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                  Pág. 31 de 35
+8 ANEXO. NORMATIVA
+Según lo establecido en el preámbulo de la Ley 9/2017, de 8 de noviembre, de Contratos del
+Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del
+Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, se
+motiva la creación de este tipo de procedimiento:
+En el ámbito del procedimiento abierto, se crea la figura del procedimiento abierto simplificado,
+que resultará de aplicación hasta unos umbrales determinados, y nace con la vocación de convertirse
+en un procedimiento muy ágil que por su diseño debería permitir que el contrato estuviera adjudicado
+en el plazo de un mes desde que se convocó la licitación. Sus trámites se simplifican al máximo, por
+ejemplo, se presentará la documentación en un solo sobre; no se exigirá la constitución de garantía
+provisional; resultará obligatoria la inscripción en el Registro de Licitadores; y la fiscalización del
+compromiso del gasto se realizará en un solo momento, antes de la adjudicación.
+Dicho procedimiento también viene a paliar las carencias en cuanto a publicidad y
+transparencia de la que adolecen otros procedimientos.
+El artículo 159 de la Ley 9/2017 explica las características del procedimiento abierto
+simplificado, de la siguiente manera.
+En cuanto al tipo de contratado la ley dice:
+    1. Los órganos de contratación podrán acordar la utilización de un procedimiento abierto
+simplificado en los contratos de obras, suministro y servicios cuando se cumplan las dos condiciones
+siguientes:
+    a) Que su valor estimado sea igual o inferior a 2.000.000 de euros en el caso de contratos de
+obras, y en el caso de contratos de suministro y de servicios, que su valor estimado sea igual o
+inferior a 100.000 euros.
+    b) Que entre los criterios de adjudicación previstos en el pliego no haya ninguno evaluable
+mediante juicio de valor o, de haberlos, su ponderación no supere el veinticinco por ciento del total,
+salvo en el caso de que el contrato tenga por objeto prestaciones de carácter intelectual, como los
+servicios de ingeniería y arquitectura, en que su ponderación no podrá superar el cuarenta y cinco por
+ciento del total.
+Sobre el anuncio de licitación:
+    2. El anuncio de licitación del contrato únicamente precisará de publicación en el perfil de
+contratante del órgano de contratación. Toda la documentación necesaria para la presentación de la
+oferta tiene que estar disponible por medios electrónicos desde el día de la publicación del anuncio en
+dicho perfil de contratante.
+En cuanto a los plazos de presentación:
+   3. El plazo para la presentación de proposiciones no podrá ser inferior a quince días a contar
+desde el siguiente a la publicación en el perfil de contratante del anuncio de licitación. En los
+contratos de obras el plazo será como mínimo de veinte días.
+Sobre la tramitación del procedimiento:
+    4. La tramitación del procedimiento se ajustará a las siguientes especialidades:
+    a) Todos los licitadores que se presenten a licitaciones realizadas a través de este procedimiento
+simplificado deberán estar inscritos en el Registro Oficial de Licitadores y Empresas Clasificadas del
+Sector Público, o cuando proceda de conformidad con lo establecido en el apartado 2 del artículo 96
+en el Registro Oficial de la correspondiente Comunidad Autónoma, en la fecha final de presentación
+de ofertas siempre que no se vea limitada la concurrencia.
+    b) No procederá la constitución de garantía provisional por parte de los licitadores.
+    c) Las proposiciones deberán presentarse necesaria y únicamente en el registro indicado en el
+anuncio de licitación.
+    La presentación de la oferta exigirá la declaración responsable del firmante respecto a ostentar la
+representación de la sociedad que presenta la oferta; a contar con la adecuada solvencia económica,
+financiera y técnica o, en su caso, la clasificación correspondiente; a contar con las autorizaciones
+necesarias para ejercer la actividad; a no estar incurso en prohibición de contratar alguna; y se
+pronunciará sobre la existencia del compromiso a que se refiere el artículo 75.2. A tales efectos, el
+modelo de oferta que figure como anexo al pliego recogerá esa declaración responsable.
+    Adicionalmente, en el caso de que la empresa fuera extranjera, la declaración responsable
+incluirá el sometimiento al fuero español.
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                      Pág. 32 de 35
+     En el supuesto de que la oferta se presentará por una unión temporal de empresarios, deberá
+acompañar a aquella el compromiso de constitución de la unión.
+     d) La oferta se presentará en un único sobre en los supuestos en que en el procedimiento no se
+contemplen criterios de adjudicación cuya cuantificación dependa de un juicio de valor. En caso
+contrario, la oferta se presentará en dos sobres.
+     La apertura de los sobres conteniendo la proposición se hará por el orden que proceda de
+conformidad con lo establecido en el artículo 145 en función del método aplicable para valorar los
+criterios de adjudicación establecidos en los pliegos. La apertura se hará por la mesa de contratación
+a la que se refiere el apartado 6 del artículo 326 de la presente Ley. En todo caso, será público el acto
+de apertura de los sobres que contengan la parte de la oferta evaluable a través de criterios
+cuantificables mediante la mera aplicación de fórmulas establecidas en los pliegos. A tal efecto, en el
+modelo de oferta que figure como anexo al pliego se contendrán estos extremos.
+     e) En los supuestos en que en el procedimiento se contemplen criterios de adjudicación cuya
+cuantificación dependa de un juicio de valor, la valoración de las proposiciones se hará por los
+servicios técnicos del órgano de contratación en un plazo no superior a siete días, debiendo ser
+suscritas por el técnico o técnicos que realicen la valoración.
+     f) En todo caso, la valoración a la que se refiere la letra anterior deberá estar efectuada con
+anterioridad al acto público de apertura del sobre que contenga la oferta evaluable a través de
+criterios cuantificables mediante la mera aplicación de fórmulas. En dicho acto público se procederá a
+la lectura del resultado de aquella.
+     Tras dicho acto público, en la misma sesión, la mesa procederá a:
+     1. º Previa exclusión, en su caso, de las ofertas que no cumplan los requerimientos del pliego,
+evaluar y clasificar las ofertas.
+     2. º Realizar la propuesta de adjudicación a favor del candidato con mejor puntuación.
+     3. º Comprobar en el Registro Oficial de Licitadores y Empresas Clasificadas que la empresa está
+debidamente constituida, el firmante de la proposición tiene poder bastante para formular la oferta,
+ostenta la solvencia económica, financiera y técnica o, en su caso la clasificación correspondiente y
+no está incursa en ninguna prohibición para contratar.
+     4. º Requerir a la empresa que ha obtenido la mejor puntuación mediante comunicación
+electrónica para que constituya la garantía definitiva, así como para que aporte el compromiso al que
+se refiere el artículo 75.2 y la documentación justificativa de que dispone efectivamente de los medios
+que se hubiese comprometido a dedicar o adscribir a la ejecución del contrato conforme al artículo
+76.2; y todo ello en el plazo de 7 días hábiles a contar desde el envío de la comunicación.
+     En el caso de que la oferta del licitador que haya obtenido la mejor puntuación se presuma que es
+anormalmente baja por darse los supuestos previstos en el artículo 149, la mesa, realizadas las
+actuaciones recogidas en los puntos 1.º y 2.º anteriores, seguirá el procedimiento previsto en el citado
+artículo, si bien el plazo máximo para que justifique su oferta el licitador no podrá superar los 5 días
+hábiles desde el envío de la correspondiente comunicación.
+     Presentada la garantía definitiva y, en los casos en que resulte preceptiva, previa fiscalización del
+compromiso del gasto por la Intervención en los términos previstos en la Ley 47/2003, de 26 de
+noviembre, General Presupuestaria en un plazo no superior a 5 días, se procederá a adjudicar el
+contrato a favor del licitador propuesto como adjudicatario, procediéndose, una vez adjudicado el
+mismo, a su formalización.
+     En caso de que en el plazo otorgado al efecto el candidato propuesto como adjudicatario no
+presente la garantía definitiva, se efectuará propuesta de adjudicación a favor del siguiente candidato
+en puntuación, otorgándole el correspondiente plazo para constituir la citada garantía definitiva.
+     En el supuesto de que el empresario tenga que presentar cualquier otra documentación que no
+esté inscrita en el Registro de Licitadores, la misma se tendrá que aportar en el plazo de 7 días
+hábiles establecido para presentar la garantía definitiva.
+     g) En los casos en que a la licitación se presenten empresarios extranjeros de un Estado miembro
+de la Unión Europea o signatario del Espacio Económico Europeo, la acreditación de su capacidad,
+solvencia y ausencia de prohibiciones se podrá realizar bien mediante consulta en la correspondiente
+lista oficial de operadores económicos autorizados de un Estado miembro, bien mediante la
+aportación de la documentación acreditativa de los citados extremos, que deberá presentar, en este
+último caso, en el plazo concedido para la presentación de la garantía definitiva.
+     h) En lo no previsto en este artículo se observarán las normas generales aplicables al
+procedimiento abierto.
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                        Pág. 33 de 35
+Para casos de urgencia:
+    5. En los casos de declaración de urgencia del expediente de contratación en el que el
+procedimiento de adjudicación utilizado sea el procedimiento abierto simplificado regulado en el
+presente artículo, no se producirá la reducción de plazos a la que se refiere la letra b) del apartado 2
+del artículo 119.
+
+Procedimiento supersimplificado o sumario:
+
+    6. En contratos de obras de valor estimado inferior a 80.000 euros, y en contratos de suministros
+y de servicios de valor estimado inferior a 35.000 euros, excepto los que tengan por objeto
+prestaciones de carácter intelectual a los que no será de aplicación este apartado, el procedimiento
+abierto simplificado podrá seguir la siguiente tramitación:
+    a) El plazo para la presentación de proposiciones no podrá ser inferior a diez días hábiles, a
+contar desde el siguiente a la publicación del anuncio de licitación en el perfil de contratante. No
+obstante, lo anterior, cuando se trate de compras corrientes de bienes disponibles en el mercado el
+plazo será de 5 días hábiles.
+    b) Se eximirá a los licitadores de la acreditación de la solvencia económica y financiera y técnica o
+profesional.
+    c) La oferta se entregará en un único sobre o archivo electrónico y se evaluará, en todo caso, con
+arreglo a criterios de adjudicación cuantificables mediante la mera aplicación de fórmulas
+establecidas en los pliegos.
+    d) La valoración de las ofertas se podrá efectuar automáticamente mediante dispositivos
+informáticos, o con la colaboración de una unidad técnica que auxilie al órgano de contratación.
+    Se garantizará, mediante un dispositivo electrónico, que la apertura de las proposiciones no se
+realiza hasta que haya finalizado el plazo para su presentación, por lo que no se celebrará acto
+público de apertura de las mismas.
+    e) Las ofertas presentadas y la documentación relativa a la valoración de las mismas serán
+accesibles de forma abierta por medios informáticos sin restricción alguna desde el momento en que
+se notifique la adjudicación del contrato.
+    f) No se requerirá la constitución de garantía definitiva.
+    g) La formalización del contrato podrá efectuarse mediante la firma de aceptación por el
+contratista de la resolución de adjudicación.
+    En todo lo no previsto en este apartado se aplicará la regulación general del procedimiento abierto
+simplificado prevista en este artículo.
+
+Artículo 323. Órganos de contratación estatales.
+[…]
+
+     En el supuesto de contratos en que el procedimiento de adjudicación utilizado sea el
+procedimiento abierto simplificado, la Junta de Contratación en todo caso se entenderá válidamente
+constituida cuando asistan el Presidente, el Secretario, el funcionario que tenga atribuido, legal o
+reglamentariamente, el asesoramiento jurídico del órgano de contratación y el interventor, salvo en el
+supuesto del artículo 159.6, en el que no será obligatoria la constitución de la Mesa conforme a lo
+dispuesto en el artículo 326.1.
+Las Juntas de Contratación podrán solicitar el asesoramiento de técnicos o expertos independientes
+con conocimientos acreditados en las materias relacionadas con el objeto del contrato. Dicha
+asistencia deberá ser reflejada expresamente en el expediente, con referencia a las identidades de
+los técnicos o expertos asistentes, su formación y su experiencia profesional.
+[…]
+
+Artículo 326. Mesas de contratación.
+1. Salvo en el caso en que la competencia para contratar corresponda a una Junta de Contratación,
+en los procedimientos abiertos, abierto simplificado, restringidos, de diálogo competitivo, de licitación
+con negociación y de asociación para la innovación, los órganos de contratación de las
+Administraciones Públicas estarán asistidos por una mesa de contratación. En los procedimientos
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                       Pág. 34 de 35
+negociados en que no sea necesario publicar anuncios de licitación, la constitución de la mesa será
+potestativa para el órgano de contratación, salvo cuando se fundamente en la existencia de una
+imperiosa urgencia prevista en la letra b) 1.º del artículo 168, en el que será obligatoria la constitución
+de la mesa. En los procedimientos a los que se refiere el artículo 159.6 será igualmente potestativa la
+constitución de la mesa.
+[…]
+6. Salvo lo dispuesto en el apartado 1 del presente artículo, la mesa de contratación que intervenga
+en el procedimiento abierto simplificado regulado en el artículo 159 de la presente Ley se considerará
+válidamente constituida si lo está por el Presidente, el Secretario, un funcionario de entre quienes
+tengan atribuido legal o reglamentariamente el asesoramiento jurídico del órgano de contratación y un
+funcionario que tenga atribuidas las funciones relativas a su control económico-presupuestario.
+[…]
+Disposición transitoria tercera. Inscripción en el Registro de Licitadores en el procedimiento
+abierto simplificado del artículo 159.
+Hasta que transcurran seis meses de la entrada en vigor de la presente Ley y resulte exigible, por
+tanto, la obligación establecida para el procedimiento abierto simplificado en la letra a) del apartado 4
+del artículo 159, de estar inscrito en el Registro Oficial de Licitadores y Empresas Clasificadas o
+registro equivalente, la acreditación de la capacidad, solvencia y ausencia de prohibiciones de
+contratar se realizará en la forma establecida con carácter general.
+
+
+
+
+Guía de Procedimiento Abierto Simplificado v1.2                                         Pág. 35 de 35
+

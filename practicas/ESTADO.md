@@ -6,6 +6,7 @@ Estados: ⬜ pendiente · 🔄 en curso · ✅ listo para entregar · 📤 entre
 |---|---|---|---|---|---|
 | Requisito | — | Órgano de asistencia del módulo 2 (mesa + secretario) | ⬜ | — | |
 | Requisito | — | ≥2 operadores económicos ficticios | ⬜ | — | |
+| Requisito | — | Certificado de pruebas + AutoFirma + Java en el navegador del agente | ⬜ | — | Si no, el usuario hace ofertas, sesiones y firma |
 | 00 Contrato menor | 1 | Crear, publicar y verificar (OC y vista pública) | ⬜ | | |
 | 01 Abierto | 1 | Configuración (M3) | ⬜ | | |
 | 01 Abierto | 2 | Anuncio de licitación DOUE/BOE, pliegos, memoria (M4) | ⬜ | | |

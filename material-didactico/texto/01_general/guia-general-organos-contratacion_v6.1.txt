@@ -1,0 +1,916 @@
+             Guía general para Órganos de
+                     Contratación
+
+
+
+
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+                                                                           Versión: 6.1
+
+                                                                      Fecha: 28/06/2017
+INDICE
+
+
+
+
+1.     INTRODUCCIÓN .......................................................................................................................... 3
+2.     SERVICIOS OFRECIDOS A LOS ÓRGANOS DE CONTRATACIÓN ........................................ 3
+3.     GUÍAS PARA LOS ÓRGANOS DE CONTRATACIÓN ............................................................... 4
+4.     NAVEGACIÓN .............................................................................................................................. 7
+5.     USUARIOS Y ACCESO A LA PLATAFORMA............................................................................ 7
+6.     INICIO ......................................................................................................................................... 10
+7.     LICITACIONES ........................................................................................................................... 11
+8.     CREACIÓN DE LA LICITACIÓN................................................................................................ 13
+9.     DETALLE DE LA LICITACIÓN .................................................................................................. 16
+10.    FORMULARIOS DE EDICIÓN DE DATOS ................................................................................ 19
+18.    GLOSARIO DE TÉRMINOS ....................................................................................................... 23
+19.    CONTÁCTENOS ........................................................................................................................ 24
+
+
+
+
+Guía general para órganos de contratación. V.6.1                                                                                Pág. 2 de 24
+1. Introducción
+Esta guía es el documento inicial que deben seguir los usuarios de los órganos de
+contratación para conocer todos los servicios que ofrece la Plataforma de Contratación del
+Sector Público.
+
+Se explican las cuestiones generales sobre la forma de trabajar con la Plataforma, y se
+referencian las guías más específicas sobre las distintas funcionalidades que pueden les
+ofrece el sistema.
+
+
+2. Servicios ofrecidos a los órganos de contratación
+La Plataforma de Contratación del Sector Público ofrece los siguientes servicios a los
+órganos de contratación que tienen dado de alta su perfil del contratante:
+
+        Publicación de licitaciones, anuncios y documentos contractuales /pliegos, Anexos
+
+        Publicación de cualesquiera informaciones o documentos que configuran el Perfil del
+         Contratante (composición mesas de contratación, modelos de pliegos y documentos,
+         previsiones de contratación, etc.)
+
+        Publicación de anuncios sobre licitaciones en el Boletín Oficial del Estado y en el
+         Diario Oficial de la Unión Europea
+
+        Respuesta a preguntas de las empresas sobre procedimientos de adjudicación
+         publicitados en el perfil del contratante
+
+        Envío de notificaciones electrónicas a los licitadores en el marco de un proceso de
+         adjudicación
+
+        Publicación de contratos adjudicados en el Portal de Transparencia de la
+         Administración General del Estado
+
+        Descarga de certificados de inscripción del Registro Oficial de Licitadores y
+         Empresas Clasificadas del Estado (ROLECE)
+
+        Consulta a la base de datos de poderes para firma de avales y certificados de
+         seguros de caución de la Caja General de Depósitos de Madrid
+
+        Configuración de la licitación electrónica para la recepción de ofertas electrónicas a
+         través de la Plataforma. Incluye la custodia y apertura de las mismas hasta la
+         apertura por un órgano de asistencia (Mesa de contratación)
+
+
+
+
+Guía general para órganos de contratación. V.6.1                               Pág. 3 de 24
+3. Guías para los órganos de contratación
+La utilización de los servicios ofrecidos por la Plataforma de Contratación del Sector Público
+a los órganos de contratación se explica en un compendio de guías editadas por la Dirección
+General del Patrimonio del Estado.
+
+   Guía general para órganos de contratación
+
+    Describe los aspectos generales de la aplicación para los órganos de contratación,
+    incluyendo los servicios que se ofrecen, las pautas generales de navegación, el acceso e
+    identificación de los usuarios, y la gestión de las licitaciones del órgano.
+
+   Guía de administración de órganos de contratación
+
+    Describe las funcionalidades de las que disponen los administradores de los órganos de
+    contratación para gestionar sus usuarios, la información y documentos de carácter
+    general publicados en el perfil del contratante, reasignación de expedientes entre
+    usuarios, archivo de licitaciones, y desbloqueo de licitaciones.
+
+   Guía de Publicación de la convocatoria de licitación
+
+    Explica cómo se publican los anuncios de información previa, anuncios de licitación y
+    pliegos en el perfil del contratante.
+   Guía de gestión, admisión y exclusión de licitadores
+
+    Describe cómo dar de alta los licitadores que participan en un procedimiento de
+    adjudicación, así como la forma de indicar si han sido admitidos o excluidos en el
+    procedimiento, o si tienen que subsanar alguna documentación.
+
+   Guía de Publicación del resultado de la licitación
+
+    Explica cómo se publican los anuncios de adjudicación, formalización resultado desierto,
+    renuncia, y desistimiento.
+
+    También describe cómo enviar al BOE el anuncio de formalización, y al DOUE los
+    anuncios de formalización, transparencia previa voluntaria, desierto, renuncia y
+    desistimiento.
+
+   Guía de Publicación de contratos menores
+
+    Explica cómo publicar la información sobre los contratos menores en el perfil de
+    contratante.
+
+   Guía de Publicación de anuncios de modificación de contrato
+
+    Explicar cómo publicar anuncios sobre modificaciones de contrato en la Plataforma de
+    Contratación del Sector Público.
+
+   Guía de Rectificación y anulación de anuncios
+
+
+
+Guía general para órganos de contratación. V.6.1                              Pág. 4 de 24
+    Explica cómo rectificar y anular anuncios publicados en el perfil del contratante, en el
+    Boletín Oficial del Estado o en Diario Oficial de la Unión Europea.
+
+   Guía de Publicación de anuncios en Diarios Oficiales
+
+    Explica cómo introducir información sobre la publicación de anuncios en otros medios, y
+    cómo enviar anuncios electrónicamente al Boletín Oficial del Estado y al Diario Oficial de
+    la Unión Europea directamente a través de la Plataforma.
+
+   Guía de Publicación de documentos relativos a una licitación
+
+    Explica cómo publicar en el perfil del contratante documentos relativos a una licitación
+    que no se corresponden con ninguno de los anuncios identificados en la restantes guías
+    como Actos públicos informativos ó de apertura de ofertas, Composición de la mesa de
+    contratación,    Composición del comité de expertos, Suspensión del procedimiento,
+    Levantamiento de la suspensión del procedimiento, Mantenimiento de los efectos del
+    contrato, Declaración de nulidad.
+
+
+   Guía de Envío de comunicaciones a los licitadores
+
+    Explica cómo enviar los distintos tipos de comunicaciones electrónicas a partir de la
+    información introducida en el expediente. Los tipos de comunicaciones que se pueden
+    enviar a través de la Plataforma son la de admisión y exclusión de licitadores,
+    invitación a presentar proposición, solicitud de oferta, invitación a tomar parte en
+    el diálogo, invitación durante la fase de diálogo, invitación/solicitud a presentar
+    oferta final, requerimiento de documentación al licitador mejor clasificado, y
+    notificación de adjudicación.
+
+   Guía de Gestión de preguntas de los licitadores
+
+    Explica cómo los órganos de contratación pueden hacer uso de la funcionalidad de
+    gestión de las preguntas que realizan los licitadores a través del perfil del contratante en
+    la Plataforma de Contratación del Sector Público.
+
+   Guía de consulta de datos administrativos
+
+    Explica cómo realizar consultas a registros de la Administración para verificar
+    información sobre los licitadores presentados: consulta al Registro Oficial de Licitadores
+    y Empresas Clasificadas del Estado, certificados de cumplimiento de obligaciones con la
+    Agencia Tributaria y la Seguridad Social, Servicio de Verificación de Datos de Identidad,
+    consulta a la Caja General de Depósitos.
+
+   Guía de uso de los servicios de licitación electrónica
+
+    Explica cómo articular procedimientos mediante licitación electrónica para que los
+    licitadores puedan presentar sus ofertas de forma electrónica a través de la Plataforma
+    de Contratación del Sector Público.
+
+   Guía de Convocatoria de licitaciones basadas en un acuerdo marco
+
+
+
+
+Guía general para órganos de contratación. V.6.1                                 Pág. 5 de 24
+    Explica cómo convocar licitaciones basadas en acuerdos marco cuya formalización ha
+    sido publicada en la Plataforma de Contratación del Sector Público. Se incluye la
+    posibilidad de convocar licitaciones basadas en acuerdos marco de centrales de
+    contratación.
+
+
+
+
+Guía general para órganos de contratación. V.6.1                        Pág. 6 de 24
+4. Navegación
+Las páginas de la Plataforma siempre se organizan en tres partes diferenciadas:
+
+           Cabecera.
+
+            Se encuentra en la parte superior.
+
+
+
+
+                   Podemos observar en la parte superior derecha que aparecerá el nombre del
+                   usuario que ha accedido y su rol (Editor en el caso del ejemplo).
+
+                   Debajo aparece un desplegable donde está visible el órgano de contratación
+                   u órgano de asistencia en el que el usuario está trabajando en ese momento.
+                   Si el usuario pertenece a varios órganos de contratación o de asistencia,
+                   puede cambiar de órgano de trabajo expandiendo este desplegable y
+                   seleccionando el órgano de contratación deseado.
+
+                   Además, en la misma cabecera aparecen las páginas a las que puede
+                   acceder al usuario en función de su rol.
+
+
+
+           Área de trabajo.
+
+            La zona central es el área principal de trabajo y su contenido cambia dependiendo
+            de la opción seleccionada en el menú horizontal en la parte superior de la pantalla.
+            Las opciones disponibles en este menú dependen del rol del usuario (Responsable,
+            Publicador, Editor, etc.)
+
+
+
+
+           Pie de página
+
+            Se encuentra en la parte inferior.
+
+
+
+                                Pie de página de la pantalla de trabajo del usuario.
+
+5. Usuarios y acceso a la Plataforma
+Para el acceso a la Plataforma existen distintos tipos de usuarios del órgano de
+contratación. Cada tipo de usuario tiene distintas atribuciones y puede realizar diferentes
+tareas dentro de la Plataforma.
+
+Para el objetivo de esta guía, los tipos de usuarios contemplados son:
+
+
+
+Guía general para órganos de contratación. V.6.1                                       Pág. 7 de 24
+-   Responsable (ROC). El Responsable del Órgano de Contratación (ROC), tiene
+    atribuciones para: dar de alta y baja a usuarios, asignar y/o reasignar usuarios a
+    licitaciones, crear nuevas licitaciones y publicarlas, así como el envío de comunicaciones
+    a empresas. Como responsable dispone del máximo nivel de atribuciones y debe ser la
+    persona que ostente la competencia para contratar.
+
+-   Administrador (AOC). El Administrador del Órgano de Contratación (AOC) tiene las
+    mismas capacidades de gestión en relación con el órgano de contratación y con los
+    expedientes de licitación que el Responsable, pudiendo suplir a éste para garantizar la
+    continuidad operativa del órgano de contratación.
+
+-   Publicador (POC-PUB). Tiene atribuciones para crear, editar, publicar licitaciones y
+    para asignarlas a usuarios editores. Puede igualmente, publicar documentos de carácter
+    general (no vinculados a una licitación concreta) en el Perfil del Contratante, que serán
+    visibles en el área pública. También está facultado para enviar comunicaciones a
+    empresas.
+
+-   Editor (POC-ED). Únicamente tiene atribuciones para introducir y editar información de
+    las licitaciones que le haya asignado el publicador. Este usuario no tiene atribuciones
+    para publicar. Es decir, la información que introduzca permanecerá en el área privada de
+    trabajo. Sin embargo, sí puede previsualizar anuncios y enviar comunicaciones.
+
+El acceso a la Plataforma, se realiza en todos los casos a través de la URL: https://
+contrataciondelestado.es/
+
+Los usuarios destinatarios de esta guía tienen que identificarse a través de la página
+Organismo Públicos a la que pueden acceder desde la Página Principal, bien pulsando
+sobre el nombre de la página en el menús superior, bien utilizando el icono.
+
+
+
+
+Guía general para órganos de contratación. V.6.1                              Pág. 8 de 24
+Existen dos medios de identificación del usuario en la Plataforma:
+
+-   A través de usuario y contraseña, previamente suministrados.
+-   Usando un certificado electrónico válido.
+
+Entrada con nombre de usuario y contraseña:
+
+Introduzca su nombre de usuario y contraseña en el lugar que se indica y Pulse el botón
+“Entrar”, para validar los datos y acceder a la Plataforma.
+
+
+
+
+Entrada con certificado electrónico:
+
+Si dispone de un certificado electrónico, puede acceder pulsando el botón “Entrada con
+certificado”. Aparece una ventana emergente con la lista de certificados disponibles en su
+ordenador, seleccione el certificado con el que desea acceder a la aplicación y pulse el
+botón “Aceptar”.
+
+
+
+Guía general para órganos de contratación. V.6.1                           Pág. 9 de 24
+                             Ventana del navegador que permite elegir el certificado.
+
+6. Inicio
+Cuando un usuario accede con sus credenciales a la Plataforma, ésta le redirige de forma
+automática a la pantalla de Inicio.
+
+
+
+
+                             Pantalla de bienvenida para el usuario registrado.
+
+La página de Inicio presenta:
+
+           Iconos de acceso rápido.
+
+            Permiten acceder a las páginas de uso más común pinchando sobre el icono.
+
+
+
+
+Guía general para órganos de contratación. V.6.1                                        Pág. 10 de 24
+           Mensaje de bienvenida
+
+            Da la bienvenida al usuario una vez que se ha identificado en la Plataforma
+            mediante su usuario y contraseña o su certificado electrónico.
+
+
+
+
+           Selección de órgano sobre              el   que   se   va   a   trabajar   (órgano     de
+            contratación/asistencia)
+
+            Muestra el nombre del órgano de contratación en cuyo espacio se está trabajano y
+            permite cambiarlo a otro en el que usuario tenga los permisos suficientes.
+
+
+           Avisos
+
+            Área en el que se muestran avisos al usuario sobre eventos de su interés que se
+            han producido en la aplicación.
+
+
+
+
+           Actualidad de la Plataforma
+
+            En esta área se presentan mensajes que los administradores de la Plataforma de
+            Contratación del Sector Público publican para usuarios con un determinado perfil.
+            Por ejemplo pueden publicarse campañas de información para usuarios con un rol
+            de administrador en la Administración General del Estado, o con otro perfil.
+
+
+
+
+7. Licitaciones
+
+Cuando se pulsa en la pestaña Licitaciones, o sobre el icono,
+
+
+
+
+Aparecen unas nuevas pestañas cuyas opciones se pueden apreciar en la siguiente imagen:
+
+
+
+
+Guía general para órganos de contratación. V.6.1                                   Pág. 11 de 24
+                      Opciones disponibles para la pulsación de la pestaña Licitaciones.
+
+La pulsación de la pestaña Licitaciones habilita por defecto la primera opción que es la
+pestaña de Búsqueda. En esta pestaña podremos buscar licitaciones existentes para
+trabajar con ellas o crear nuevas licitaciones.
+
+Las licitaciones que se muestran en la búsqueda dependerán del rol del usuario:
+
+-   Publicador: Aquellas licitaciones que ha creado o que le han sido reasignadas.
+-   Editor: Aquellas que le han sido asignadas.
+-   Responsable y Administrador: todas las licitaciones del OC.
+
+Puesto que la función principal de la pestaña Búsqueda es encontrar licitaciones que
+cumplan determinados criterios, en esta página se abre un abanico de posibilidades que
+permiten al usuario del OC buscar de forma precisa la licitación con la que desea trabajar.
+Debajo de la pestaña Búsqueda hay una serie de sub-pestañas que nos permiten filtrar la
+búsqueda en función del estado de la licitación, simplemente pulsando sobre ellas,
+
+
+
+                                       Estados buscados de las licitaciones.
+
+No obstante, el verdadero poder de la búsqueda de licitaciones, reside en el formulario de
+filtrado. En él aparecen una serie de campos y listas desplegables dónde establecer los
+criterios para realizar nuestra búsqueda. Una vez cumplimentados los campos con los
+criterios elegidos se debe pulsar el botón “Buscar” y la Plataforma devolverá todas las
+licitaciones acordes con los criterios establecidos.
+
+Existen otros campos adicionales que pueden ser utilizados por los usuarios mediante la
+pulsación del enlace desplegable” Otros criterios de búsqueda”.
+
+Si pulsamos el botón “Limpiar” se borrarán todos los criterios introducidos anteriormente.
+
+
+
+
+Guía general para órganos de contratación. V.6.1                                           Pág. 12 de 24
+    Pantalla de búsqueda de licitaciones. Como resultado de la búsqueda nos ha devuelto una licitación en
+                                             estado de Creada.
+
+Para acceder al detalle de un expediente se debe pulsar sobre su número en la columna
+Expediente de la tabla de resultados de la búsqueda.
+
+Es posible crear una nueva licitación de tres maneras:
+
+-     1-mediante la pulsación del botón “Nuevo” que posibilita la creación de una nueva
+      licitación
+-     2-mediante la pulsación del botón “Importar” que carga los datos de un fichero XML con
+      la estructura en CODICE de un anuncio de licitación.
+
+-     3- mediante la pulsación del botón “Copiar” crea una nueva licitación con los datos de la
+      anterior.
+
+Para borrar una licitación hay un icono al efecto (la papelera). Una licitación sólo puede
+borrarse si no ha sido publicada o si no se ha enviado invitación, en caso de negociado sin
+publicidad. En tales casos, no aparecerá dicho icono papelera y por lo tanto no se podrá
+borrar.
+
+
+8. Creación de la licitación
+A la hora de crear una licitación existen una serie de campos cuyo registro es ineludible,
+independientemente de cuál sea el tipo de contrato o el procedimiento de contratación.
+Estos campos, que describiremos a continuación, conforman el núcleo de la licitación, de tal
+modo que una vez completados podemos hacer efectiva el alta del nuevo expediente.
+
+
+
+Guía general para órganos de contratación. V.6.1                                        Pág. 13 de 24
+En el preciso instante en que se guarda la licitación ésta será accesible o editable para la
+persona que la ha creado, y en todo caso, para el Responsable y Administrador de su
+Órgano de Contratación. Por lo tanto, la visibilidad de esa licitación estará restringida a los
+usuarios mencionados hasta que no llegue el momento de su publicación, a partir del cual
+será visible para todo aquél que acceda a la Plataforma, ya sea como usuario del órgano de
+contratación, como operador económico o como mero visitante.
+
+Los datos que se introduzcan en este primer formulario no se podrán modificar (excepto el
+objeto del contrato, el importe base de licitación, la fecha prevista para el inicio del proceso
+de adjudicación y el código CPV), por lo que es preciso verificarlos cuidadosamente antes
+de grabarlos. De particular atención resulta la revisión de aquellas listas de valores que
+muestran un valor por defecto que no tiene porqué ser el deseado a la hora de registrar el
+expediente (por ejemplo, el tipo de tramitación, el tipo de contrato, el procedimiento de
+contratación o la tramitación del gasto).
+
+Una vez se ha entrado en el sistema, accediendo a la página Licitaciones > Búsqueda, es
+posible crear una nueva licitación de dos maneras:
+
+Una es mediante el botón “Importar”: Se cargan los datos desde un fichero XML con la
+estructura en CODICE de un anuncio de licitación.
+
+Otra es pulsando el botón “Nuevo”. Aparece una pantalla con título “Nueva Licitación”,
+como la siguiente:
+
+
+
+
+                                              Creación del expediente
+
+Los datos que conforman el mencionado núcleo de la licitación son los que se muestran a
+continuación:
+
+
+
+Guía general para órganos de contratación. V.6.1                               Pág. 14 de 24
+             ELEMENTO                                               DESCRIPCIÓN
+
+*Expediente                                  Número del expediente de la licitación. Puede ser un código
+                                             alfanumérico.
+
+Contrato   sujeto        a    regulación     SI o NO
+armonizada
+
+Directiva de aplicación                      Directiva 2014/25/UE cuyo CPV no está incluido entre los
+                                             correspondientes a servicios sociales y otros servicios
+                                             específicos
+
+                                             Directiva 2014/24/UE, cuyo CPV no está incluido entre los
+                                             correspondientes a servicios sociales y otros servicios
+                                             específicos
+
+
+                                             Directiva 2014/23/UE cuyo CPV está incluido entre los
+                                             correspondientes a servicios sociales y otros servicios
+                                             específicos
+
+*Tipo de contrato                            Tipo de contrato (Administrativo Especial, Colaboración entre el
+                                             Sector Público y Sector Privado, Concesión de Obras Públicas,
+                                             Gestión de Servicios Públicos, Obras, Patrimonial, Privado,
+                                             Servicios, Suministros).
+
+*Subtipo de contrato                         Subtipo del contrato, que depende del tipo anterior. Aplicable
+                                             sólo a contratos Patrimonial, Obras, Servicios y Suministros.
+
+*Objeto del contrato                         Descripción del objeto del contrato. Este es el texto que se
+                                             publicará en la Plataforma y, en su caso, en los anuncio de los
+                                             diarios oficiales (BOE y DOUE). Se permite la introducción de
+                                             hasta 200 caracteres. Debe evitarse teclearlo en mayúsculas.
+
+*Compra Pública Innovadora                   Indicamos si el expediente está clasificado como compra
+                                             pública innovadora (Compra Pública de Tecnología Innovadora,
+                                             Compra Pública Precomercial), o no.
+
+*Procedimiento de contratación               Procedimiento de contratación (Abierto, Diálogo Competitivo,
+                                             Negociado con Publicidad, Negociado sin Publicidad,
+                                             Restringido, etc.).
+
+*Sistema de contratación                     Las opciones para este campo son: Acuerdo Marco o Sistema
+                                             Dinámico de Adquisición.
+
+*Tipo tramitación                            Tipo de tramitación del expediente (Emergencia, Ordinaria,
+                                             Urgente).
+
+*Tramitación gasto                           Tramitación del gasto (Ordinaria, Anticipada).
+
+Valor estimado del contrato                  Valor estimado del contrato calculado según establece el
+                                             artículo 88 del Texto Refundido de la Ley de Contratos del
+                                             Sector Público (RDL 3/2011)
+
+                                             El valor estimado de los contratos vendrá determinado por el
+                                             importe total, sin incluir el Impuesto sobre el Valor Añadido,
+                                             pagadero según las estimaciones del órgano de contratación.
+                                             En el cálculo del importe total estimado, deberán tenerse en
+                                             cuenta cualquier forma de opción eventual y las eventuales
+                                             prórrogas del contrato.
+
+
+
+Guía general para órganos de contratación. V.6.1                                                Pág. 15 de 24
+*Presupuesto base de licitación              Presupuesto base de licitación en euros, con y sin impuestos.
+
+Fecha prevista         inicio    Proceso     Fecha orientativa y modificable del momento en el que se prevé
+Adjudicación                                 que se inicie el proceso de adjudicación.
+
+*País                                        País de ejecución de la licitación.
+
+*NUTS                                        NUTS (Nomenclatura de las Unidades Territoriales Estadísticas)
+                                             del lugar de ejecución de la licitación. Indica la provincia,
+                                             comunidad autónoma, región, zona geográfica, o país.
+
+*Selección CPV                               Pantalla de selección de los códigos CPV (Common
+                                             Procurement Vocabulary). Uno o varios, uno de ellos el
+                                             principal. El CPV no es obligatorio cuando el tipo de contrato es
+                                             Patrimonial.
+
+Una vez cumplimentados todos estos datos, se debe pulsar el botón “Aceptar” para crear el
+expediente o “Cancelar” para anular dicho proceso.
+
+
+9. Detalle de la licitación
+Una vez seleccionado el expediente con el que se quiere trabajar, se accede a la pestaña
+Detalle, lugar de trabajo del expediente en cuestión:
+
+
+
+
+                                    Pantalla de trabajo para la pestaña Detalle.
+
+En la parte superior de la pantalla se representa el estado de la licitación en cada momento
+por el que pasa. Por otra parte, los anuncios que se han publicado en la Plataforma se
+representan con iconos en color verde.
+
+
+
+                Representación gráfica de los estados de la licitación y anuncios publicados.
+
+
+
+
+Guía general para órganos de contratación. V.6.1                                                 Pág. 16 de 24
+Los estados posibles son los siguientes:
+
+    1. Preparación licitación: el expediente ha sido creado pero aún no se ha publicado el
+       anuncio de licitación.
+    2. Publicada/Evaluación previa/Recepción de ofertas: se ha publicado la licitación (y
+       en su caso los pliegos) y aún no ha vencido la fecha de recepción de ofertas.
+    3. Evaluación: ha vencido la fecha de recepción de ofertas y aún no hay adjudicación.
+    4. Resolución: se ha publicado una resolución (anuncio de adjudicación y/o de
+       formalización).
+
+En cuanto a los anuncios que se han publicado en la Plataforma (iconos verdes), las siglas
+que representan los distintos anuncios son:
+
+                             AP:   Anuncio Previo
+                             AL:   Anuncio de licitación
+                             P:    Pliegos
+                             AADJ: Anuncio de Adjudicación.
+                             AF:   Anuncio de Formalización.
+                             AAP: Anuncio de Adjudicación provisional
+                             AAD: Anuncio de Adjudicación definitiva
+
+                             Modificación de contrato: Anuncio de modificación de contrato
+                             R:    Anuncio de Renuncia
+                             D:    Anuncio de Desistimiento
+
+Siguiendo con la pantalla de trabajo encontramos el enlace desplegable “        Expediente“, cuya
+representación gráfica se muestra a continuación:
+
+
+
+
+Si se pulsa sobre tal enlace desplegable, se abrirán los diferentes formularios que se ocultan
+tras el enlace y el símbolo cambiará de posición: “ Enlace desplegado“
+
+
+
+
+Guía general para órganos de contratación. V.6.1                                 Pág. 17 de 24
+   Detalle del expediente creado. Aparecen campos sombreados, lo que significa que no son editables.
+
+A continuación de los datos básicos del expediente, hay una cabecera basada en pestañas,
+que nos va a permitir movernos por las distintas funcionalidades que se necesitan
+dependiendo de la fase en que se encuentre nuestro expediente.
+
+
+
+
+                            Menú dirigido por pestañas para trabajar con la licitación.
+
+El significado de cada pestaña se explica en el siguiente cuadro:
+
+            ELEMENTO                                               DESCRIPCIÓN
+
+                                     Información sobre los documentos ya publicados y de los que se deben
+      Resumen Licitación             publicar en las siguientes fases del proceso de licitación. Incluye las
+                                     Condiciones de Publicación y las Condiciones de Presentación de Ofertas.
+
+      PPT                            Pestaña con el detalle de las prescripciones técnicas de la licitación. Incluye
+                                     la información sobre lotes.
+
+                                     Pestaña con el detalle de las cláusulas administrativas particulares de la
+      PCAP                           licitación. Contiene la información relativa a los requisitos previos de
+                                     participación y los criterios de adjudicación de los contratos.
+
+                                     Pestaña con información de contactos de la licitación. La información de
+      Contactos
+                                     contactos se hereda del Perfil del Contratante del Órgano de Contratación, si
+                                     bien en esta pestaña se puede modificar para personalizarla para una
+                                     licitación concreta.
+
+      Anexo Pliegos                  Pestaña para añadir documentos adicionales             a   la   licitación   que
+                                     complementen la información del PPT y del PCAP.
+
+
+
+
+Guía general para órganos de contratación. V.6.1                                                 Pág. 18 de 24
+      Preguntas y                    Pestaña que se puede utilizar durante el período de licitación y que recoge
+      Respuestas                     las preguntas y respuestas de los operadores económicos respecto a la
+                                     licitación.
+
+                                     Pestaña para introducir/visualizar la lista de licitadores, participantes en el
+      Licitadores.                   proceso de licitación. Asimismo, habilita a la consulta de datos de empresas
+                                     que obran en sistemas terceros (AEAT, TGSS, SVDI, ROLECE, Caja General
+                                     de Depósitos).
+
+      Admisión/Exclusión.            Pestaña para gestionar la admisión o exclusión de licitadores una vez
+                                     examinada la información administrativa de la licitación (sobre A).
+
+                                     Pestaña para configurar tanto los datos relativos para enviar el
+      Resolución                     “Requerimiento de Documentación” como la configuración del “Anuncio de
+                                     Adjudicación” o cualquier otra forma de resolver el procedimiento..
+
+      Formalización                  Pestaña para configurar las “formalizaciones” de los contratos.
+
+      Modificaciones                 Pestaña para introducir la información sobre las modificaciones de contrato
+                                     que se vayan produciendo durante la ejecución.
+
+                                     Pestaña para enviar      las comunicaciones de “Requerimiento de
+      Comunicaciones                 Documentación”, de “Adjudicación” y para la consulta de todas las
+                                     comunicaciones enviadas.
+
+Mediante estas pestañas es posible moverse por los datos de la licitación y modificarlos. Es
+importante pulsar el botón de “Guardar Licitación“ antes de cambiar de pestaña para
+asegurarnos de que los datos son almacenados. El botón “Aceptar” que aparece en la
+mayor parte de las pantallas de edición, guardará los cambios de esa pantalla en cuestión,
+para guardar toda la licitación se tendrá que pulsar “Guardar Licitación”.
+
+
+10. Formularios de edición de datos
+Es necesario tener en cuenta una serie de consideraciones generales sobre los formularios
+de edición de datos. A continuación pasamos a indicarlos.
+
+Datos colapsados o expandidos:
+
+             Expandir datos
+            Contraer datos
+
+
+
+Palabras subrayadas:
+
+Todas aquellas palabras que estén subrayadas o bien indican que es un enlace (pulsando
+sobre ellas se abrirá una nueva pantalla) o representan una acción (que puede implicar que
+se abra igualmente una pantalla).
+
+
+Botón de vuelta atrás del navegador:
+
+IMPORTANTE: En la plataforma no se deberá utilizar el botón “Atrás” del navegador ya
+que pueden mostrarse resultados inesperados, ajenos al funcionamiento de la misma.
+
+
+
+Guía general para órganos de contratación. V.6.1                                                 Pág. 19 de 24
+Introducción de datos:
+
+La mayoría de los campos se introducen como texto en una casilla de una o más líneas. En
+aquellas de más de una línea puede que no sean visibles todas las líneas a la vez pero se
+mostrarán barras de scroll, como se puede apreciar en el siguiente ejemplo.
+
+
+
+
+                                    Detalle de distintos campos de formularios.
+
+Existen campos cuyos valores no se introducen directamente, sino que se debe elegir un
+valor de entre las distintas opciones.
+
+Podemos indicar Si o No mediante la activación/desactivación de una casilla de marcado
+(checkbox) e insertar una fecha y|u hora mediante la pulsación en el icono calendario .
+
+
+
+
+                               Distintas formas de incluir datos en los formularios.
+
+También se puede elegir una opción entre varias en un desplegable:
+
+
+
+
+                                   Elección de un dato de una lista desplegable.
+
+Existen otro tipo de controles que permiten la selección de varios valores, para ello hay que
+mantener pulsada la tecla Control mientras se pulsa con el ratón cada opción (proceder de
+la misma manera para desmarcar). También se puede seleccionar un rango consecutivo de
+valores seleccionando la primera y, a continuación, la última del rango pulsando la tecla
+Mayúsculas al mismo tiempo.
+
+
+
+
+                        Se pueden elegir varios valores de una misma lista desplegable.
+
+
+
+
+Guía general para órganos de contratación. V.6.1                                          Pág. 20 de 24
+Otro tipo de controles obligan a elegir una opción de entre varias disponibles. Siendo
+excluyentes entre ellas.
+
+
+
+                                 Botones de radio para elegir o una opción u otra.
+
+En algunos casos la selección de una opción determina la habilitación o no de campos para
+la inserción de datos.
+
+
+
+
+    En este ejemplo, si selecciona ‘Fija’ sólo se permite acceder al campo de edición ‘Fija’. Pero si se
+   selecciona ‘Variable’, el campo de edición ‘Fija’ se deshabilita, habilitándose los campos ‘Mínima’ y
+                                                  ‘Máxima’.
+
+También es posible anexar documentos, para ello primero debe buscar en su ordenador
+pulsando el botón “Examinar” y una vez seleccionado pulsar el botón “Anexar”:
+
+
+
+
+                                Ventana intermedia que permite adjuntar ficheros.
+
+Otra posibilidad de introducción de datos es mediante tablas. Se rellena/n la línea/s con los
+datos deseados y se pulsa en el botón “Guardar” (en algunos casos se denomina Añadir)
+para incluir esa nueva línea.
+
+
+
+
+                   Detalle de la inserción de un conjunto de datos como si fuese una tabla.
+
+
+
+
+Guía general para órganos de contratación. V.6.1                                         Pág. 21 de 24
+Algunas pantallas muestran un modo de funcionamiento para la edición/gestión de datos
+como la siguiente:
+
+
+
+
+                                   Se ha movido el lote 1 a la caja de la derecha.
+
+La forma de proceder en este caso es seleccionar con el ratón uno o más valores de una de
+las cajas y pulsando a continuación el botón deseado                           o     dependiendo de
+dónde se quieran mover los datos seleccionados
+
+
+Selección del CPV:
+
+Para seleccionar el CPV, se puede introducir un valor directamente o hacer una búsqueda.
+A continuación se describe cada una de las dos formas:
+
+Para asignar manualmente un código CPV debe conocer de antemano el código e insertarlo
+en la caja de texto “Código CPV”. Tras insertar dicho código se deberá pulsar el botón
+“Añadir”. Si el código es correcto, se insertará en el cuadro de texto CPV Seleccionados y
+en caso contrario avisará con un mensaje de error.
+
+
+
+
+                                                   Selección del CPV
+
+Si pulsamos sobre el enlace “Selección CPV“ se abre una nueva ventana que nos permite
+ver los códigos CPV mediante una clasificación jerárquica de elementos donde los
+elementos superiores se pueden expandir pulsando el símbolo (+). Cada nivel seleccionado
+tiene un mayor detalle dentro de una categoría de clasificación dada.
+
+
+
+
+                                 Aspecto de la ventana abierta para elegir el CPV.
+
+
+
+
+Guía general para órganos de contratación. V.6.1                                     Pág. 22 de 24
+Hay determinadas pantallas del la Plataforma, que permiten la inserción de más de un
+código CPV. En ese caso se procede de la misma forma para cada código CPV que
+vayamos a insertar.
+
+Una vez que haya seleccionado el CPV que corresponde al proceso de licitación, vemos
+cómo dicho código aparece en el cuadro “CPV SECCIONADOS”. Pulsaremos el botón
+“Aceptar” para confirmar dicha selección.
+
+Si queremos eliminar CPV del cuadro “CPV SELECCIONADOS” se debe pulsar sobre el
+código a eliminar para seleccionarlo y pulsar el botón “Quitar”. De manera similar
+actuaremos cuando queremos cambiar el CPV principal (el que aparece en la caja superior),
+seleccionando y pulsando el botón “Marcar principal”.
+
+    18.Glosario de términos
+
+
+                                                   GLOSARIO DE TÉRMINOS
+
+  Plataforma         Plataforma de contratación del estado. http://contrataciondelestado.es/
+  PLACE
+                     Órgano de Contratación.
+  OC
+                     Operador económico.
+  OE
+                     Anuncio de Formalización.
+  AF
+                     Anuncio de Adjudicación.
+  AADJ
+                     Anuncio de Transparencia Previa Voluntaria
+  ATPV
+                     Pliego de Prescripciones Técnicas.
+  PPT
+                     Pliego de Cláusulas Administrativas Particulares.
+  PCAP
+                     Acrónimo de Vocabulario común de contratos públicos «common procurement vocabulary»
+                     (CPV). Esta clasificación trata de cubrir todas las necesidades de suministros, trabajos y
+                     servicios. Al estandarizar las referencias utilizadas por los órganos de contratación en la
+  CPV                descripción del objeto de sus contratos, el CPV mejora la transparencia de los contratos
+                     públicos sujetos a las directivas comunitarias. CPV asocia a cada código numérico una
+                     descripción de un objeto de contrato.
+
+                     European Article Number (EAN) es un sistema de códigos de barras para identificar
+  EAN                productos.
+
+                     Acrónimo francés de la Nomenclatura de las Unidades Territoriales Estadísticas (NUTS)
+  NUTS               utilizada por la Unión Europea con fines estadísticos.
+
+                     Acuerdo de Contratación Pública.
+  ACP
+                     Fábrica Nacional de Moneda y Timbre
+  FNMT
+                     Registro Oficial de Licitadores y Empresas Clasificadas del Estado.
+  ROLECE             http://registrodelicitadores.gob.es
+
+
+
+
+Guía general para órganos de contratación. V.6.1                                               Pág. 23 de 24
+                     Extensible Markup Language (Lenguaje de marcas extensible).
+  XML
+
+
+
+
+    19.Contáctenos
+Para más información sobre la Plataforma de Contratación del Estado por favor, diríjase a la
+siguiente dirección de correo:
+
+                         contrataciondelestado@minhafp.es
+
+
+
+
+Guía general para órganos de contratación. V.6.1                                   Pág. 24 de 24
+

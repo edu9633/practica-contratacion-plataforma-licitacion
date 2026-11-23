@@ -1,0 +1,1382 @@
+         Guía de Servicios de Licitación
+          Electrónica para Órganos de
+                 Contratación II
+       Propuesta de adjudicación,
+    Requerimiento de Documentación y
+     Firma del Contrato Electrónicos
+
+
+
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+                                                                      Versión: 3.6
+
+                                                               Fecha: 26/11/2024
+INDICE
+
+
+1.     INTRODUCCIÓN ............................................................................................................................ 4
+2.     REQUISITOS TÉCNICOS PARA LA FIRMA DEL CONTRATO ................................................... 5
+     2.1      INSTALACIÓN DE AUTOFIRMA ..................................................................................................... 5
+     2.2      CONFIGURACIÓN DE AUTOFIRMA ............................................................................................... 8
+     2.3      ERRORES DE AUTOFIRMA ....................................................................................................... 10
+     2.4      SELECCIÓN DEL CERTIFICADO USANDO FIREFOX ...................................................................... 10
+3.     SERVICIOS ORIENTADOS AL ÓRGANO DE CONTRATACIÓN II ........................................... 12
+     3.1      PROPUESTA DE ADJUDICACIÓN. .............................................................................................. 12
+     3.1.1    VISTA PROPUESTA DE ADJUDICACIÓN ...................................................................................... 12
+     3.1.2    INFORMACIÓN......................................................................................................................... 14
+     3.1.3    ACCIONES .............................................................................................................................. 15
+     3.2      REQUERIMIENTO DE DOCUMENTACIÓN. .................................................................................... 16
+     3.2.1    VISIÓN GENERAL .................................................................................................................... 16
+     3.2.2    CONFIGURACIÓN DEL REQUERIMIENTO .................................................................................... 17
+     3.2.3    CONFIGURACIÓN DE LA COMUNICACIÓN Y ENVÍO DEL REQUERIMIENTO ...................................... 21
+     3.2.4    SEGUIMIENTO DE LA COMUNICACIÓN DE REQUERIMIENTO ......................................................... 22
+     3.3      ACCESO A LA DOCUMENTACIÓN. .............................................................................................. 25
+     3.4      RESOLUCIÓN DEL PROCEDIMIENTO. ......................................................................................... 27
+     3.5      INFORME DE PROPUESTA DE ADJUDICACIÓN. ........................................................................... 27
+     3.5.1    CONTENIDO DEL INFORME DE PROPUESTA DE ADJUDICACIÓN. .................................................. 28
+     3.6      CONTRATO DE FORMALIZACIÓN. .............................................................................................. 30
+     3.6.1    CONFIGURACIÓN DEL CONTRATO/ANUNCIO DE FORMALIZACIÓN. ................................................ 30
+     3.6.2    ENVÍO DEL CONTRATO DE FORMALIZACIÓN PARA SU FIRMA........................................................ 32
+     3.6.3    RESPUESTA DEL LICITADOR..................................................................................................... 36
+     3.6.4    RECEPCIÓN DEL CONTRATO DE FORMALIZACIÓN FIRMADO......................................................... 36
+     3.6.5    VALIDACIÓN DE LA FIRMA DEL LICITADOR EN EL CONTRATO DE FORMALIZACIÓN. ......................... 37
+     3.6.6    ERRORES EN LA VALIDACIÓN DE LA FIRMA ................................................................................ 40
+     3.7      DESCARGA DEL EXPEDIENTE ELECTRÓNICO COMPLETO. ........................................................... 43
+     3.7.1    NUEVA SOLICITUD................................................................................................................... 44
+     3.7.2    BÚSQUEDA DE SOLICITUDES .................................................................................................... 45
+4.     ANEXO SOBRE PROTECCIÓN DE DATOS PERSONALES .................................................... 47
+5.     GLOSARIO DE TÉRMINOS ......................................................................................................... 48
+6.     CONTÁCTENOS .......................................................................................................................... 48
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                 Pág. 2 de 48
+CAMBIOS DE LA VERSIÓN
+
+Se cambia el logo de la portada y la cabecera.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                 Pág. 3 de 48
+1. INTRODUCCIÓN
+
+El presente documento detalla los Servicios de Licitación Electrónica en la Plataforma de
+Contratación del Sector Público (en adelante Plataforma, o PLACSP) para usuarios de
+Órganos de Contratación, una vez reciben la propuesta de adjudicación del órgano de
+asistencia.
+
+Básicamente, los servicios de Licitación Electrónica permiten la preparación y presentación
+de ofertas telemáticamente por el licitador, la custodia electrónica de las mismas por el sistema
+y la apertura y evaluación electrónica de la documentación por los miembros del órgano de
+asistencia. Para ello, es preciso que el usuario del órgano de contratación configure el
+procedimiento atendiendo a unas reglas que aplican a licitaciones de carácter
+electrónico.
+
+En concreto, en la presente guía se documenta cómo el órgano de contratación debe realizar
+el requerimiento electrónico de documentación al mejor valorado, una vez recibida la
+propuesta de adjudicación del órgano de asistencia, como paso necesario para proceder a la
+adjudicación del contrato. De igual modo, se describe el proceso de remisión del contrato al
+licitador para su firma electrónica y la forma de visualizar su contenido para su posterior
+publicación en el anuncio de formalización. Finalmente, se describe la posibilidad de descarga
+de toda la documentación en formato ENI.
+
+Se recuerda que también son posibles en la Plataforma de Contratación del Sector Público
+otras formas de resolver, como el desierto, la renuncia o el desistimiento.
+
+En lo que se refiere al empleo de estos servicios por el Órgano de Contratación, es
+requisito inexcusable tener alojado su perfil del contratante en la Plataforma de
+Contratación del Sector Público.
+
+En cuanto a los requisitos técnicos para su uso son muy simples: conexión a Internet,
+navegador y certificado electrónico reconocido por la Administración General del Estado.
+
+En la fase de licitación entra un nuevo actor en acción: los Órganos de Asistencia (OA). Éste
+actor realiza la apertura y calificación de la documentación y valora las ofertas.
+Adicionalmente, el sistema le permite realizar tareas de naturaleza eminentemente
+administrativa, como gestión de convocatorias, sesiones y actas. Se suma, por lo tanto, a los
+Órganos de Contratación (OC) y a los Operadores Económicos (UOE) como destinatarios de
+los servicios que ofrece la Plataforma de Contratación del Sector Público. Tanto los órganos
+de asistencia como los usuarios operadores económicos tienen sus propias guías de uso del
+sistema de Licitación Electrónica.
+
+Existe una primera parte de esta “Guía de Servicios de Licitación Electrónica para Órganos
+de Contratación”, que se centra en la configuración de la licitación.
+
+Por otra parte, le recomendamos la lectura de la “Guía de Publicación del resultado de la
+licitación”, donde se le mostrará qué hacer después de comprobar la documentación del
+licitador mejor valorado.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                 Pág. 4 de 48
+2. REQUISITOS                            TÉCNICOS                       PARA               LA           FIRMA                DEL
+     CONTRATO
+2.1 Instalación de Autofirma
+
+Asegúrese de que tiene instalada la última versión de Autofirma (actualmente 1.7.2).
+
+La aplicación Autofirma puede descargarse desde este portal de Internet de la Administración:
+https://firmaelectronica.gob.es/Home/Descargas.html.
+
+Existen una versión de 32 bits y una de 64 bits, debe seleccionar la que se corresponda con
+su sistema.
+
+
+
+
+Ilustración. Configuración Sistema
+
+Los pasos de la instalación son:
+
+         Cuando pregunte si permitimos modificar… Pulsar “Si”
+         Abre la pantalla de inicio de instalación de Autofirma. Pulsar en “Siguiente”
+
+
+
+
+          Ilustración. Comienzo Instalación Autofirma
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                 Pág. 5 de 48
+         Aceptar el acuerdo de licencia
+
+
+
+
+          Ilustración. Aceptación Acuerdo de Licencia
+
+         Selección de lugar de instalación
+
+
+
+
+          Ilustración. Lugar de Instalación
+
+         Opciones avanzadas. No se modifican
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                 Pág. 6 de 48
+          Ilustración. Opciones Avanzadas
+
+         Instalación de Autofirma
+
+
+
+
+          Ilustración. Instalación Autofirma
+
+         Instalación Completada
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                 Pág. 7 de 48
+          Ilustración. Instalación Completada
+
+         Terminar instalación
+
+
+
+
+          Ilustración. Terminar
+
+Para más información sobre la instalación de Autofirma puede consultar:
+
+https://administracionelectronica.gob.es/ctt/resources/Soluciones/138/Descargas/AF-
+manual-instalacion-usuarios-ES.pdf?idIniciativa=138&idElemento=11402
+
+
+2.2 Configuración de Autofirma
+
+Si se utiliza Autofirma en un PC conectado a una red local (LAN) que utiliza un servidor proxy
+para salir a internet, tiene que configurar su aplicación de Autofirma de esta manera.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                 Pág. 8 de 48
+Se abre Autofirma desde el escritorio. Se selecciona la opción “Herramientas” y
+“Preferencias”.
+
+
+
+
+Ilustración. Herramientas Autofirma
+
+En la pestaña “General”, se pulsa configurar proxy. Y se selecciona la opción “Usar la
+configuración proxy del sistema” y “Aceptar”.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                 Pág. 9 de 48
+Ilustración. Configuración Proxy
+
+Se pulsa Aceptar y se cierra Autofirma
+
+Para más información sobre la instalación y configuración de Autofirma puede consultar:
+
+https://administracionelectronica.gob.es/ctt/resources/Soluciones/138/Descargas/AF-
+manual-instalacion-y-gestion-ES.pdf?idIniciativa=138&idElemento=5996
+
+
+
+2.3 Errores de Autofirma
+
+Los errores devueltos por Autofirma son aquellos cuyo código empieza por “SAF”, como en el
+ejemplo de la ilustración.
+
+
+
+
+Ilustración. Error de Autofirma
+
+
+2.4 Selección del certificado usando Firefox
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 10 de 48
+En el navegador Firefox, cuando se abre Autofirma, aparece la lista de certificados vacía,
+aunque tengas instalados los certificados en el ordenador. Para que aparezcan, hay que
+pinchar en el segundo icono y seleccionar “Almacén de claves del sistema”.
+
+
+
+
+Ilustración. Almacén de certificados de Firefox vacío.
+
+
+
+
+Ilustración. Selección del Almacén de claves del sistema.
+
+Ya aparecerán todos los certificados instalados.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 11 de 48
+Ilustración. Certificados instalados.
+
+
+
+
+3. SERVICIOS     ORIENTADOS                                                      AL              ÓRGANO                         DE
+      CONTRATACIÓN II
+3.1     Propuesta de Adjudicación.
+3.1.1 Vista Propuesta de adjudicación
+
+La propuesta de adjudicación cierra el conjunto de acciones que puede realizar el órgano de
+asistencia en la fase de licitación. Se configura como una lista ordenada de los licitadores que
+han presentado oferta, por orden decreciente de puntuación. La propuesta de adjudicación
+tiene como objetivo la selección de la oferta más ventajosa para el interés público.
+
+La propuesta se eleva al órgano de contratación, quien podrá visualizarla en el Espacio Virtual
+de Licitación (EVL), que es un área exclusiva de un procedimiento de contratación concreto
+que la Plataforma pone a disposición de un perfil del contratante determinado.
+
+Cuando el usuario del órgano de contratación accede a la Plataforma, una vez se ha elevado
+la propuesta de adjudicación electrónica, recibe un aviso en la página de Inicio con enlace
+directo a la misma (Ilustración: Aviso en la Página de Inicio del usuario registrado).
+
+NOTA: para poder visualizar la propuesta de adjudicación es necesario ser el publicador propietario de
+la licitación, cualquiera de los Administradores del órgano de contratación o, en todo caso, el
+Responsable del órgano de contratación.
+
+.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 12 de 48
+Ilustración: Aviso en la Página de Inicio del usuario registrado.
+
+Otra forma de visualizar la propuesta, menos directa, es localizar la licitación y, dentro de su
+Espacio Virtual de Licitación, navegar a la pestaña Resolución como usuario del órgano de
+contratación (Ilustración: Acceso a la propuesta de adjudicación).
+
+NOTA: la propuesta de adjudicación sólo estará disponible en la Plataforma de Contratación del Sector
+Público para procedimientos electrónicos. Recuerde que en el caso de licitaciones manuales, el usuario
+del órgano de contratación deberá registrar manualmente los licitadores en la pestaña correspondiente,
+realizar la admisión o exclusión y, ya en la pestaña Resolución, cumplimentar aquellos datos necesarios
+para el requerimiento y la posterior adjudicación.
+
+
+
+
+Ilustración: Acceso a la propuesta de adjudicación.
+
+Una vez en la pestaña Resolución, se muestran dos áreas perfectamente diferenciadas. En
+la parte superior (Ilustración: Enlace a la propuesta de adjudicación y a la Resolución) se ubica
+el enlace a la propuesta de adjudicación. En la parte inferior, el enlace a la resolución. Esta
+última, también se muestra en procedimientos manuales.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 13 de 48
+Ilustración: Enlace a la propuesta de adjudicación y a la Resolución .
+
+3.1.2 Información
+
+Cuando se pulsa el enlace a la propuesta de adjudicación, el sistema devuelve la lista de
+licitadores por orden decreciente de puntuación, con las siguientes columnas (Ilustración;
+Vista de la propuesta de adjudicación):
+
+         Propuesta: se muestra automáticamente marcada la casilla correspondiente al licitador
+          propuesto por la mesa. No se puede actualizar (desmarcar el propuesto o marcar un
+          licitador no propuesto). El órgano de asistencia también puede haber propuesto
+          desierto.
+         Adjudica: el usuario del órgano de contratación podrá marcar la casilla correspondiente
+          al licitador propuesto, haciendo suya la decisión del órgano de asistencia, o desviarse
+          del criterio de la mesa, adjudicando a un nuevo licitador, que no es el mejor valorado.
+         Licitador: esta columna contiene el NIF, la Razón Social y la fecha de presentación de
+          la oferta.
+         Estado del licitador: indica cuál es el estado del licitador al finalizar la fase de licitación.
+          En la lista se muestran tanto los admitidos como los excluidos, por no haber alcanzado
+          la puntuación mínima o haber sido inadmitidos en la fase de calificación de la
+          documentación administrativa.
+         PT CJV: puntuación obtenida en el sobre de criterios sometidos a un juicio de valor.
+         PT CAF: puntuación obtenida en el sobre de criterios sometidos a fórmula matemática.
+         PT TOTAL: puntuación total obtenida en el proceso.
+         Orden: orden del licitador en la lista que incluye la propuesta de adjudicación.
+         Oferta: enlace para la descarga de la documentación presentada por el licitador.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 14 de 48
+Ilustración; Vista de la propuesta de adjudicación
+
+En la parte inferior de la pantalla, se muestran los siguientes campos (Ilustración: Acciones
+de la propuesta de adjudicación):
+
+         Desierto: vendrá marcada automáticamente si no se han recibido ofertas o la mesa de
+          contratación no ha encontrado un candidato que haya superado la puntuación mínima.
+          No es un campo actualizable.
+         Justificación: se hereda el motivo que el órgano de asistencia haya registrado en el
+          acto de propuesta de adjudicación.
+3.1.3 Acciones
+
+Además de la información que se muestra en las columnas, es posible realizar una serie de
+acciones que se detallarán en apartados siguientes (Ilustración: Acciones de la propuesta de
+adjudicación).
+
+         Proponer mejor valorado: el órgano de contratación, una vez que señala cuál es el
+          adjudicatario en la columna Adjudica, pulsa este botón para realizar el requerimiento
+          de documentación a través de la Plataforma de Contratación del Sector Público.
+         Proponer desierto: ya sea porque no ha habido ofertas o porque ninguna de ellas ha
+          alcanzado la puntuación mínima, el órgano ha decidido proponer desierto. Para
+          publicar este anuncio, el órgano de contratación debe pulsar proponer desierto.
+         Adjudicación: para adjudicar el procedimiento directamente, sin necesidad de realizar
+          el requerimiento electrónico de documentación.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 15 de 48
+Ilustración: Acciones de la propuesta de adjudicación
+
+3.2     Requerimiento de documentación.
+3.2.1 Visión General
+
+El requerimiento de documentación supone la solicitud al adjudicatario propuesto de la
+documentación necesaria para poder adjudicar.
+
+El requerimiento de documentación es un tipo de comunicación que siempre se ha podido
+emitir haciendo uso de los servicios de la Plataforma de Contratación del Sector
+Público. Asimismo, el licitador podía leer el contenido de la documentación, siempre que fuera
+un usuario registrado de la Plataforma. Sin embargo, desde la puesta en producción de los
+servicios de Licitación Electrónica es posible no sólo la emisión de la comunicación por el
+órgano de contratación y su lectura por el interesado, sino también el envío de la
+documentación a través de la Herramienta de Preparación y Presentación de Ofertas y
+su descarga para que obre en el expediente.
+
+Para la preparación y envío posterior de la documentación por el licitador, es necesario que
+el órgano de contratación configure el sobre del requerimiento en el apartado Preparación de
+los sobres de la oferta de la pestaña PCAP (Ilustración: Definición del sobre de requerimiento),
+donde indicará qué solicita y cómo.
+
+
+
+
+Ilustración: Definición del sobre de requerimiento.
+
+NOTA: la definición del sobre se ilustrará en un apartado posterior. No obstante, no difiere de la
+configuración del resto de sobres.
+
+NOTA: si desea realizar el requerimiento de documentación a través de PLACSP pero no recibir la
+respuesta a través de la Herramienta, sino físicamente en un Registro, la Plataforma lo permite incluso
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 16 de 48
+en procedimientos electrónicos. Simplemente, configurará la comunicación pero NO el sobre de
+requerimiento.
+3.2.2 Configuración del Requerimiento
+
+Para realizar el requerimiento de documentación es condición indispensable que el usuario
+del órgano de contratación marque la casilla de la columna Adjudica del licitador al que va a
+requerir la acreditación de los requisitos preciso para la adjudicación (Ilustración: Selección
+del adjudicatario propuesto).
+
+
+
+
+Ilustración: Selección del adjudicatario propuesto.
+
+A continuación, debe pulsar el botón Proponer mejor valorado (Ilustración: Proponer mejor
+valorado).
+
+
+
+
+Ilustración: Proponer mejor valorado
+
+Esta acción nos lleva a los Datos de la Resolución, donde se muestra el nombre del
+adjudicatario propuesto, y el tipo Resolución “Mejor Valorado: Requerimiento de
+documentación” (Ilustración: Registro automático de Datos de Resolución).
+
+NOTA: NO es necesario llevar a cabo ninguna actualización en esta pantalla cuando se realiza el
+requerimiento de documentación. La información se registra automáticamente por el sistema.
+
+La única acción que debe realizar el usuario es pulsar el botón Aceptar (Ilustración: Registro
+automático de Datos de Resolución) y, a continuación, Guardar Licitación (Ilustración:
+Guardar Licitación).
+
+NOTA: no olvide pulsar Guardar Licitación para que la información se consolide en la base de datos.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 17 de 48
+Ilustración: Registro automático de Datos de Resolución
+
+
+
+
+Ilustración: Guardar Licitación
+
+Una vez realizados los pasos anteriores habría que:
+    Configurar el sobre en la pestaña PCAP >> Preparación de los sobres de la oferta
+      (Ilustración: Definición del sobre de requerimiento) SÓLO SI QUIERE RECIBIR LA
+      DOCUMENTACIÓN A TRAVÉS DE LA PLATAFORMA. Recuerde que si no configura
+      el sobre puede realizar igualmente el envío de la comunicación a través de la
+      Plataforma, pero lo que no recibirá es la documentación del licitador de forma
+      telemática ni podrá descargarla.
+    Configurar la comunicación y enviarla en la pestaña Comunicaciones, que se ilustrará
+      en el siguiente apartado.
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 18 de 48
+Como ya se ha indicado más arriba, la configuración del sobre de requerimiento de
+documentación no se diferencia sustancialmente de la configuración de cualquiera de los otros
+sobres (Guía de “Los Servicios de Licitación Electrónica para los Órganos de Contratación I:
+Configuración de la Licitación”).
+
+En primer lugar, en la pestaña Datos Generales (Ilustración: Datos Generales: Sobre de
+Requerimiento de documentación) se deben introducir los siguientes datos:
+    Sobre: nombre del sobre.
+    Tipo de sobre: deberá seleccionar Requerimiento de documentación.
+    Descripción: indique una descripción del sobre, que servirá para que el licitador
+       obtenga un resumen aclaratorio de la documentación que debe presentar.
+    Evento de apertura: en este caso, no tiene que indicar cuándo se abrirá el sobre,
+       puesto que no se hará en sesión.
+
+Pulse el botón Guardar para consolidar los datos.
+
+
+
+
+Ilustración: Datos Generales: Sobre de Requerimiento de documentación
+
+En la siguiente pestaña, Condiciones de Presentación, indicamos las características de Firma.
+
+
+
+
+Ilustración: Condiciones de Presentación: Sobre de Requerimiento de documentación
+
+NOTA: puesto que la opción de Firma viene habilitada por defecto, y las otras condiciones no aplican
+para este sobre, NO REALICE ningún cambio en esta pestaña, salvo que desee que el sobre no venga
+firmado.
+
+Por último, debe indicar cuál va a ser el contenido que requerirá al licitador propuesto para
+efectuar la adjudicación del contrato. Para ello, pulse la pestaña Contenido del sobre.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 19 de 48
+En esta pestaña puede introducir cuantos documentos precise, para lo que deberá pulsar el
+botón Nuevo documento a solicitar en el sobre (Ilustración: Condiciones de Presentación:
+Sobre de Requerimiento de documentación).
+
+
+
+
+Ilustración: Condiciones de Presentación: Sobre de Requerimiento de documentación
+A continuación, debe definir las características de los documentos que va a solicitar en el
+requerimiento (Ilustración: Condiciones de Presentación: Sobre de Requerimiento de
+documentación).
+    Nombre: nombre del documento.
+    Formato de documento: puede seleccionar cualquiera de los que muestra la lista. Si le
+       es indiferente el formato o no es ninguno de los incluidos en la lista, seleccione la
+       opción Otros.
+    Requerir Firma: indique si desea que el documento que presenta el licitador vaya
+       firmado electrónicamente por la Herramienta de Preparación y Presentación de ofertas
+       de la Plataforma.
+    Texto de ayuda: información aclaratoria para el licitador en relación con el documento
+       que ha de presentar.
+
+NOTA: se presume que tanto el empleo de plantilla como adjuntar un programa facilitador para elaborar
+un documento no se emplearán en este tipo de sobre. No obstante, la Plataforma los mantiene por si
+algún organismo manejara modelos para este tipo de documentación.
+NOTA: puede crear un único documento e indicar en el texto de ayuda al licitador el conjunto de
+documentación a presentar en el sobre o bien puede crear un documento por cada uno de los
+documentos que espere recibir.
+
+
+
+
+Ilustración: Condiciones de Presentación: Sobre de Requerimiento de documentación
+
+Pulse el botón Guardar para recoger los cambios en la base de datos.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 20 de 48
+Finalmente, y una vez dados de alta todos los documentos precisos, el sobre ofrece la
+siguiente vista general (Ilustración; Condiciones de Presentación: Sobre de Requerimiento de
+documentación), en la que se listan el conjunto de documentos.
+
+NOTA: recuerde que, si usted dispone de la autorización del licitador para consultar datos que obran
+en sistemas terceros de la Administración, podrá consultar dichos sistemas a través de la Plataforma,
+en lugar de solicitar la documentación (Caja General de Depósito y ROLECE).
+
+
+
+
+Ilustración; Condiciones de Presentación: Sobre de Requerimiento de documentación
+
+Para que se guarde de forma definitiva la información del sobre el sistema le advierte de que
+debe pulsar el botón Guardar Licitación (Ilustración: Guardar Licitación para el Sobre de
+Requerimiento de documentación).
+
+
+
+
+Ilustración: Guardar Licitación para el Sobre de Requerimiento de documentación
+
+
+3.2.3 Configuración de la comunicación y envío del Requerimiento
+Una vez configurado el sobre, el último paso previo al envío electrónico del requerimiento es
+la configuración de la comunicación. Para ello, navegue a la pestaña Comunicaciones y
+escoja el tipo Requerimiento de documentación (Ilustración: Selección del tipo de
+comunicación “Requerimiento de documentación”).
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 21 de 48
+Ilustración: Selección del tipo de comunicación “Requerimiento de documentación”
+
+Se muestra la siguiente pantalla (Ilustración: Configuración de la comunicación
+“Requerimiento de documentación”) cuyos campos y acciones se describen más abajo.
+
+
+
+
+Ilustración: Configuración de la comunicación “Requerimiento de documentación”
+
+         Por defecto, el sistema activa la casilla correspondiente a la Empresa a la que se va a
+          requerir la documentación justificativa.
+         El sistema solicita la introducción del importe de la garantía definitiva.
+         Existen dos columnas que indican si el licitador está Registrado en la Plataforma y si
+          se le ha realizado esta misma comunicación con anterioridad (Comunicado, sí o no).
+         El usuario tiene la opción de pre-visualizar el contenido de la comunicación con
+          anterioridad a su envío.
+         El órgano de contratación deberá indicar la fecha límite de respuesta de la
+          documentación. Este campo aparece habilitado sólo en los casos en que la
+          comunicación exija respuesta por el licitador.
+         Se puede registrar un texto aclaratorio de la comunicación y anexar un documento,
+          que podrá descargar el licitador.
+         El usuario deberá marcar la casilla del sobre del requerimiento, en todo caso, si desea
+          recibir la documentación electrónicamente a través de la Plataforma.
+         Por último, puede Guardar el contenido para enviarlo después, Ver el Correo que
+          recibirá el licitador o, directamente, Comunicar el requerimiento.
+
+3.2.4 Seguimiento de la comunicación de Requerimiento
+El usuario puede comprobar si el licitador ha leído la comunicación y descargado el acuse de
+lectura, en su caso. Para ello, debe pulsar el enlace Búsqueda de Comunicaciones de la
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 22 de 48
+pestaña Comunicaciones (Ilustración: Acceso al seguimiento de la comunicación
+“Requerimiento de documentación”).
+
+
+
+
+Ilustración: Acceso al seguimiento de la comunicación “Requerimiento de documentación”
+
+Para localizar directamente la comunicación, filtre por Tipo de Comunicación Requerimiento
+de documentación (Ilustración: Detalle de la comunicación de requerimiento).
+
+
+
+
+Ilustración: Detalle de la comunicación de requerimiento
+
+La pantalla ofrece la siguiente información organizada en columnas:
+    Nombre de la empresa: identifica el licitador al que se ha remitido la comunicación.
+    NIF: Número de Identificación del licitador.
+    Tipo de Comunicación: en este caso Requerimiento de documentación. Recuerde que
+       tiene a su disposición múltiples tipos de comunicaciones (Consulte “Guía de envío de
+       comunicaciones a licitadores”).
+    Comunicado: muestra fecha y hora en que se envió la comunicación.
+    Leído: informa si el licitador ha accedido o no al contenido de la comunicación.
+    Ver documentos: el órgano de contratación tiene a su disposición la visualización y
+       descarga del contenido de la comunicación en formatos pdf y xml, así como el sello de
+       tiempo que acredita de forma fehaciente el envío de la comunicación y la integridad
+       del contenido.
+    Copia electrónica: permite el acceso a la documentación que envía el licitador como
+       copia electrónica auténtica, incluida la firma electrónica incrustada en el documento,
+    También, es posible realizar una descarga masiva de la documentación pulsando el
+       botón Descargar Documentación.
+
+Cuando el licitador lee la comunicación, se muestra información en la columna Leído y NIF
+(Ilustración: Información sobre la lectura de la comunicación accediendo mediante certificado
+electrónico en la Plataforma):
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 23 de 48
+Ilustración: Información sobre la lectura de la comunicación accediendo mediante certificado electrónico
+en la Plataforma
+
+Fecha y hora de la lectura de la comunicación, identificándose el NIF (o correo electrónico)
+de la persona que ha leído la comunicación. El detalle de la identidad del lector se obtiene
+pulsando el enlace Ver, que muestra un acuse de lectura con sello de tiempo (Ilustración:
+Acuse de lectura de la comunicación leída accediendo mediante certificado electrónico en la
+Plataforma). El acuse de lectura se puede descargar e imprimir pulsando el botón Imprimir.
+
+NOTA: el acuse de lectura ofrecerá datos de la identidad del destinatario cuando éste acceda al
+contenido de la comunicación accediendo a la Plataforma y presentando un certificado electrónico. Sin
+embargo, también se ofrece al licitador la posibilidad de acceder al contenido pulsando un enlace
+directo en el correo electrónico de aviso que recibe en su dirección a efectos de comunicaciones. En
+este caso, el acuse de lectura mostrará el correo electrónico desde el que se haya accedido.
+
+
+
+
+Ilustración: Acuse de lectura de la comunicación leída accediendo mediante certificado electrónico en la
+Plataforma
+
+A continuación, se muestra un ejemplo de la información que obtiene el usuario del órgano de
+contratación (Ilustración: Información sobre la lectura de la comunicación leída directamente
+desde el correo de aviso) y del acuse de lectura (Ilustración: Acuse de lectura de la
+comunicación leída directamente desde el correo de aviso) cuando el licitador accede al
+contenido de la comunicación mediante el enlace directo del correo electrónico.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 24 de 48
+Ilustración: Información sobre la lectura de la comunicación leída directamente desde el correo de aviso
+
+
+
+
+Ilustración: Acuse de lectura de la comunicación leída directamente desde el correo de aviso .
+
+3.3     Acceso a la documentación.
+La Plataforma de Contratación del Sector Público permite que el usuario del órgano de
+contratación pueda descargarse la documentación del requerimiento que habrá enviado el
+licitador propuesto a través de la Herramienta electrónica de Preparación y Presentación de
+ofertas, así como el conjunto de las ofertas recibidas de todos los candidatos que han licitado
+al procedimiento.
+
+Para ello, navegue a la pestaña Resolución (Ilustración: Acceso a la descarga de
+documentación). Pulse en el enlace que aparece en el cuadro “Propuestas de adjudicación”.
+
+
+
+
+Ilustración: Acceso a la descarga de documentación
+
+En la parte de la derecha (Ilustración: Enlaces a la descarga de la oferta y el requerimiento de
+documentación), se observa una columna con enlaces a la Oferta y al Requerimiento de
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 25 de 48
+documentación. Pulse esos enlaces para descarga la documentación y decida si abrirlos
+directamente o guardarlos en su equipo (Ilustración: Abrir o guardar la documentación).
+
+
+
+
+Ilustración: Enlaces a la descarga de la oferta y el requerimiento de documentación
+
+
+
+
+Ilustración: Abrir o guardar la documentación
+
+El sistema facilita la documentación en formato zip de todos los sobres de la oferta del
+conjunto de los licitadores (Ilustración: Organización de la documentación descargada en
+carpetas por sobre), asignando una carpeta por tipo de sobre.
+
+
+
+
+Ilustración: Organización de la documentación descargada en carpetas por sobre
+
+El caso del requerimiento de documentación es similar (Ilustración: Descarga del
+requerimiento).
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 26 de 48
+Ilustración: Descarga del requerimiento
+
+NOTA: recuerde que también puede acceder al contenido del requerimiento en la Búsqueda de
+Comunicaciones >> Copia electrónica, como se ha descrito en el apartado 3.2.4. Seguimiento de la
+comunicación de requerimiento.
+
+
+3.4     Resolución del procedimiento.
+Una vez finalizada la fase de licitación y calificada la documentación requerida al licitador
+mejor valorado, se realiza la resolución del contrato, que podrá ser la adjudicación y posterior
+formalización o cualquiera otra de las formas de terminación anormal del procedimiento
+(desierto, renuncia o desistimiento).
+
+NOTA: recuerde que tanto la renuncia como el desistimiento se pueden producir en fases anteriores
+del procedimiento, permitiendo la Plataforma la publicación de su anuncio.
+
+La publicación de la resolución es exactamente la misma para procedimientos manuales como
+para aquellos que hacen uso de los servicios de Licitación Electrónica que facilita la
+Plataforma. La única diferencia es que gran parte de la información precisa para publicar el
+anuncio de adjudicación la registra automáticamente el sistema cuando el procedimiento es
+electrónico, por lo que el usuario sólo tendrá que completar una mínima información, a
+diferencia del procedimiento manual en que el publicador debe registrar toda la información y
+dar de alta los licitadores.
+
+NOTA: recuerde que no está obligado a realizar el requerimiento de documentación íntegramente
+electrónico a través de la Plataforma para poder publicar la adjudicación, ni siquiera en procedimientos
+que hayan sido configurados como electrónicos.
+
+Consulte la “Guía de Publicación del Resultado de la Licitación” para conocer más detalles
+sobre la publicación de la resolución del procedimiento.
+
+NOTA: Si detecta la publicación de datos personales relativos a algún licitador, le recomendamos seguir
+las instrucciones del anexo 4 sobre protección de datos personales .
+
+
+3.5     Informe de Propuesta de Adjudicación.
+
+Actualmente, el Órgano de Asistencia puede poner a disposición del Órgano de Contratación
+un informe donde se recogen los detalles de la propuesta de adjudicación.
+
+Una vez configurado por el Órgano de Asistencia, se habilitará un enlace al mismo en la
+pestaña Resolución >> Propuestas de Adjudicación y pulsando en la descripción de cada
+lote o en el objeto del contrato si no existieran lotes.
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 27 de 48
+–Ilustración: Informe de Propuesta de Adjudicación
+
+3.5.1 Contenido del informe de Propuesta de Adjudicación.
+
+Una vez se acceda al informe, el Órgano de Contratación dispondrá de la siguiente
+información:
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 28 de 48
+–Ilustración: Informe de Propuesta de Adjudicación
+
+
+     1. Detalles del expediente (objeto, número de expediente, OC, OA, tipo de procedimiento
+        y fecha límite de presentación de ofertas).
+     2. Número de lotes y su descripción. (si el procedimiento carece de lotes, esta parte se
+        omite).
+     3. Número de licitadores que han presentado oferta.
+     4. Tabla resumen de la propuesta de adjudicación, la cual incluye:
+        - Orden por el total de la puntuación.
+        - Licitadores.
+        - Estado final de los licitadores.
+        - Puntuación total de los criterios de juicio de valor.
+        - Puntuación total de los criterios cuantificables automáticamente.
+        - Suma total de los criterios anteriores.
+     5. Texto de justificación de la propuesta (si el Órgano de Asistencia así lo ha redactado).
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 29 de 48
+      6. Enlace al documento anexado a la propuesta. (solo si el Órgano de Asistencia así lo
+         ha configurado).
+
+3.6       Contrato de formalización.
+
+Una vez publicada la adjudicación, ya sea parcial o totalmente, puede configurarse el anuncio
+de formalización, lo que incluye la posibilidad de enviar el contrato al licitador para su firma,
+con el objetivo de adjuntarlo como anexo en la publicación de la formalización. Las nuevas
+funcionalidades incluyen:
+
+      -    Envío de contrato para su firma a través de una comunicación genérica del tipo
+           Otros/Solicitud de Información Adicional >> “Contrato de formalización”.
+      -    Recepción a través de las comunicaciones del contrato firmado por el licitador.
+      -    Validación de firma e integridad del contrato en la PLACSP.
+
+3.6.1 Configuración del contrato/anuncio de formalización.
+
+Desde la pestaña Formalización >> Contratos Adjudicados (Ilustración: Creación del contrato)
+pulse en el enlace que figura en la columna Descripción. Este enlace se corresponde o bien
+con el objeto del contrato si es un procedimiento sin lotes o bien con la descripción de cada
+uno de los lotes.
+
+
+
+
+Ilustración: Creación del contrato
+
+Una vez pulsado se abrirá la pantalla de configuración del contrato (Ilustración: Configuración
+del contrato de formalización). En esta pantalla debe introducir los datos que compondrán el
+anuncio de formalización:
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 30 de 48
+Ilustración: Configuración del contrato de formalización
+
+En la tabla siguiente podrá obtener más detalles sobre cada uno de los campos.
+
+
+        ELEMENTO                                                       DESCRIPCIÓN
+                                  El número de contrato es un texto libre que permite identificar de forma unívoca
+                                  cada uno de los contratos adjudicados que se van a formalizar. En el caso de
+    Número de Contrato
+                                  tener varias adjudicaciones que formalizar, será necesario diferenciar cada uno
+                                  de los contratos. Es obligatorio
+
+    Fecha de                      Este campo, obligatorio, informa sobre la fecha en la que se formaliza el contrato.
+    Formalización(*)              Es obligatorio
+
+    Fecha de Entrada en           Es una fecha informativa que establece el inicio del contrato, y no tiene por qué
+    vigor del contrato            coincidir con la Fecha de Formalización.
+
+    Motivación para el            Es un campo obligatorio, que contiene la “Motivación” que se insertó en la
+                                  adjudicación del contrato. Se puede añadir texto a dicha motivación. Es
+    Contrato x(*)
+                                  obligatorio
+
+                                  Tenemos la posibilidad de adjuntar un fichero que contenga el contrato de
+    Contrato de
+                                  formalización de modo que se mostrará en el anuncio publicado mediante un
+    Formalización
+                                  enlace que permitirá su descarga. No es obligatorio.
+
+
+Para que se habilite la comunicación de tipo “Contrato de formalización” no olvide adjuntar el
+contrato en los detalles del anuncio de formalización tal y como se indica en la figura siguiente
+(Ilustración: Detalles del anuncio de formalización – Anexo del contrato de formalización).
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 31 de 48
+Ilustración: Detalles del anuncio de formalización – Anexo del contrato de formalización
+
+Posteriormente, pulse en Aceptar y, a continuación, pulse en Guardar Licitación.
+
+Nota: El nombre del contrato no debe contener espacios ni caracteres extraños.
+
+Nota: para ver cómo se termina de configurar el anuncio de formalización, consulte la Guía
+de Publicación de la Resolución.
+3.6.2 Envío del contrato de formalización para su firma.
+
+Si se ha configurado, al menos, un anuncio de formalización con su contrato anexado,
+aparecerá un nuevo tipo de comunicación genérica: “Contrato de formalización”.
+
+Debe dirigirse a la pestaña Comunicaciones y pulsar en “Otras Comunicaciones” (Ilustración:
+Creación de la comunicación “Contrato de formalización).
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 32 de 48
+Ilustración: Creación de la comunicación “Contrato de formalización
+
+Elija la comunicación “Contrato de formalización” y escriba una pequeña descripción para la
+comunicación.
+
+Al ser un envío en el que se desea que el contrato sea firmado y devuelto a través de la
+Herramienta de Preparación y Presentación de Ofertas, la casilla de que se requiere respuesta
+ya viene marcada por defecto (Ilustración: Selección del contrato en la comunicación “Contrato
+de Formalización”).
+
+El siguiente paso es seleccionar el número de contrato que se quiere enviar para su firma.
+Recuerde que solo aparecerán aquellos contratos que han sido configurados con un
+documento anexo, tal y como se describió en el apartado anterior.
+
+
+
+
+Ilustración: Selección del contrato en la comunicación “Contrato de Formalización”
+
+Una vez pulse en continuar, podrá configurar por completo la comunicación (Ilustración:
+Configuración de la comunicación “Contrato de formalización).
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 33 de 48
+Ilustración: Configuración de la comunicación “Contrato de formalización
+
+     1.   Seleccione al licitador adjudicatario.
+     2.   Ingrese una fecha máxima para la firma del contrato.
+     3.   Marque el sobre que se creará para esta comunicación. *
+     4.   Pulse en Guardar.
+     5.   Por último, realice la comunicación.
+
+Nota: El sobre creado contendrá el contrato que haya anexado en el anuncio, tal y como se
+ha visto en los apartados anteriores.
+
+Antes de comunicar puede previsualizar la comunicación, pulsando en previsualizar >> Ver
+comunicación.
+
+En la siguiente imagen (Ilustración: Documento de la comunicación “Contrato de
+formalización) se muestra el aspecto de la comunicación que recibirá el licitador.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 34 de 48
+Ilustración: Documento de la comunicación “Contrato de formalización
+
+Una vez hecha la comunicación, el licitador recibirá un correo informándole de que tiene un
+contrato preparado para su firma en el apartado “Mis Comunicaciones” de su perfil (Ilustración:
+Correo para firma del contrato de formalización enviado al licitador).
+
+
+
+
+Ilustración: Correo para firma del contrato de formalización enviado al licitador
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 35 de 48
+3.6.3 Respuesta del licitador
+
+Una vez recibida la comunicación, el licitador accederá a ella y se le habilitará un enlace donde
+se descargará la configuración para que pueda hacer uso de la Herramienta de Preparación
+y Presentación de Ofertas. En ella podrá firmar y devolver el contrato firmado al Órgano de
+Contratación.
+
+El licitador en ningún caso podrá ni anexar ni modificar el contrato enviado en la comunicación
+(Ilustración: Visualización del contrato de formalización por parte del licitador), solo podrá
+firmarlo (Ilustración: Firma del contrato por parte del licitador).
+
+
+
+
+Ilustración: Visualización del contrato de formalización por parte del licitador
+
+
+
+
+Ilustración: Firma del contrato por parte del licitador
+
+3.6.4 Recepción del contrato de formalización firmado.
+
+Una vez que el licitador responde a la comunicación de solicitud de firma del contrato, el
+órgano de contratación ya puede disponer de este documento accediendo a la pestaña
+Formalización >> Contratos Adjudicados y pulsando sobre el enlace correspondiente, tal y
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 36 de 48
+como se vio en el apartado 2.5.1 Para la descarga del contrato, validar la firma o realizar la
+contrafirma del contrato, debe pulsar el enlace Respuesta (Ilustración: acceso al contrato
+firmado).
+
+
+
+
+Ilustración: acceso al contrato firmado
+
+3.6.5 Validación de la firma del licitador en el contrato de formalización.
+
+Para comprobar la firma/s del licitador, debe pulsar en el enlace Respuesta.
+
+Recuerde que las validaciones de firma requieren tener instalado autofirma (ver apartado 2
+del presente documento).
+
+Una vez pulsado, el sistema validará la firma contenida y hecha a través de la Herramienta de
+Preparación y Presentación de Ofertas. Esta validación se hace cada vez que se accede al
+enlace Respuesta.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 37 de 48
+Ilustración: Contrato de formalización Pdf y validación de las firmas del licitador
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 38 de 48
+Ilustración: Contrato de formalización Word y validación de las firmas del licitador
+
+En esta pantalla se pueden observar los siguientes elementos:
+
+     1. Botón Validar Firmas. Validar las firmas de nuevo. Si se produce algún error de
+        conexión con Autofirma o indisponibilidad de su servicio se puede volver a intentar la
+        validación. Esto no sirve si el certificado ha dado algún tipo de error como “expirado”
+        o “revocado”.
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 39 de 48
+     2. Botón Cofirmar. El Órgano de Contratación puede cofirmar el documento. Se abrirá un
+        panel de firma de Autofirma. Pedirá seleccionar el certificado y Aceptar. Tras ello
+        mostrara la firma en la tabla firmantes del documento.
+     3. Detalles de las respuestas de Autofirma sobre los certificados contenidos en los
+        documentos.
+     4. El documento original del contrato de formalización.
+     5. El fichero contenedor del documento original y las firmas que le acompañan en formato
+        .xml
+     6. Generar copia electrónica. Se puede generar un documento de copia electrónica
+        donde la firma se añadirá de forma visible al documento original. Una vez generada,
+        tendrá a su disposición la copia para su descarga (Ilustración: Generar/Descargar la
+        copia electrónica del contrato y sus firmas).
+
+
+
+
+           Ilustración: Generar/Descargar la copia electrónica del contrato y sus firmas
+
+
+
+
+          Ilustración: Copia electrónica del contrato de formalización generada por la PLACSP
+
+
+3.6.6 Errores en la validación de la firma
+
+Existen determinados casos en los que la validación de la firma contenida en el contrato no
+se considera correcta (Ilustración: Aspecto de la validación de firma cuando existe error).
+Puede consultar la “Guía de Servicios de Licitación Electrónica para Órganos de Asistencia
+III: Celebración de Sesiones” para obtener más detalles sobre los errores.
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 40 de 48
+Ilustración: Aspecto de la validación de firma cuando existe error para documento Pdf
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 41 de 48
+Ilustración: Aspecto de la validación de firma cuando existe error para documento Word
+
+Un caso de error sería, por ejemplo, el de certificado revocado (Ilustración: Ejemplo de
+certificado revocado).
+
+
+
+
+Ilustración: Ejemplo de certificado revocado
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 42 de 48
+Recuerde que la validación se hace en el momento de pulsar en el enlace Respuesta, no en
+el momento de firma, es decir, el licitador pudo haber firmado correctamente el contrato,
+aunque más tarde la validación devuelva un error. Por ejemplo, el licitador firmó dos días antes
+de que se revocara su certificado electrónico.
+
+En este caso, o en el caso de un certificado caducado/expirado puede volver a enviar la
+comunicación de Contrato de formalización para que el licitador lo firme con un certificado
+válido o pedirle mediante una comunicación genérica de tipo “Otros” que le envíe detalle de
+su certificado y comprobarlo con Valide.
+
+En cualquier caso, contacte con la Plataforma para solicitar explicaciones a los errores si no
+los encuentra en esta guía.
+3.7     Descarga del expediente electrónico completo.
+Una vez que la licitación se encuentra en estado “Resuelta” o posterior, es posible descargar
+el expediente completo utilizando un usuario con rol de Administrador o Responsable, desde
+el menú “Administración” y “Solicitudes de Expedientes” (Ilustración: Descarga de expediente
+electrónico).
+
+
+
+
+Ilustración: Descarga de expediente electrónico
+
+El archivo generado en formato zip estará de acuerdo con la Norma Técnica de
+Interoperabilidad (NTI) relativa a la Política de gestión de documentos electrónicos según lo
+establecido en la Resolución de 28 de junio de 2012, de la Secretaría de Estado de
+Administraciones Públicas, por la que se aprueba la Norma Técnica de Interoperabilidad de
+Política de gestión de documentos electrónicos.
+
+Dentro de este archivo, se distinguirán las carpetas: Documentación general y Licitadores,
+donde en la carpeta Documentación general se incluirá la documentación del Órgano de
+Asistencia y del Órgano de Contratación (Ilustración: Carpetas contenidas en el archivo
+zip).
+
+
+
+
+Ilustración: Carpetas contenidas en el archivo zip
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 43 de 48
+En la carpeta Licitadores se abrirán tantas subcarpetas como licitadores haya, identificadas
+con el NIF de la empresa.
+
+Para que el órgano de contratación pueda descargar toda la información relativa al órgano de
+asistencia, previamente el órgano de asistencia tiene que haber autorizado dicha descarga
+desde el acto de propuesta de adjudicación (Selector “Poner la documentación de los Órganos
+de Asistencia a disposición de los Órganos de Contratación”).
+
+3.7.1 Nueva solicitud
+
+Para crear una nueva solicitud de expediente, pincharemos sobre el botón “Nueva solicitud” y
+a continuación filtraremos por expediente o por estado (Ilustración: Filtrado de expedientes).
+
+
+
+
+Ilustración: Filtrado de expedientes
+
+Una vez que aparecen las licitaciones que cumplen los criterios de búsqueda, elegiremos la
+licitación (o licitaciones hasta un máximo de 10) y la documentación que queremos descargar
+y pulsaremos el botón “Crear solicitud” (Ilustración: Creación de una solicitud).
+
+
+
+
+Ilustración: Creación de una solicitud
+
+El proceso de generación no es inmediato, debe transcurrir un tiempo, pasado el cual se envía
+un correo al usuario peticionario del fin de proceso para que descargue el archivo generado.
+
+El acceso al archivo zip se puede realizar desde el mismo correo o bien accediendo a las
+solicitudes de expedientes (Ilustración: Solicitud creada).
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 44 de 48
+La solicitud permanece en estado “Pendiente” hasta que se genere el archivo, momento en el
+cual pasará a estado “Realizada” y aparecerá el enlace “Descargar” para obtener el archivo
+zip.
+
+
+
+
+Ilustración: Solicitud creada
+
+Una solicitud en estado “Pendiente” puede ser cancelada por el usuario utilizando el enlace
+“Cancelar” que aparece al lado de la petición.
+
+El archivo zip estará disponible en el sistema mientras no se llegue a la fecha de caducidad
+(ver columna “Fecha de caducidad”), llegado este momento ya no se podrá acceder al archivo,
+que será eliminado del sistema.
+
+3.7.2 Búsqueda de solicitudes
+Para localizar todas solicitudes realizadas por el usuario, utilizaremos el botón “Buscar
+solicitudes” y podremos usar los campos de filtro: estado, fecha de solicitud y expediente para
+encontrarlas (Ilustración: Resultado de búsqueda de solicitudes).
+
+
+
+
+Ilustración: Resultado de búsqueda de solicitudes
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 45 de 48
+El expediente electrónico que se descargue será válido según el Esquema Nacional de
+Interoperabilidad, a través de la siguiente página de validación:
+
+https://sede.administracion.gob.es/pagSedeFront/servicios/validarENI.htm
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 46 de 48
+4. Anexo sobre protección de datos personales
+
+La Plataforma de Contratación del Sector Público (PLACSP) es el medio que utilizan los
+órganos de contratación para dar publicidad a sus convocatorias de licitación y sus resultados,
+así como cualquier otra información contractual que estimen oportuno, en calidad de
+herramienta que garantiza la difusión en internet del perfil del contratante, según lo establecido
+en los artículos 63 y 347 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.
+La acción de publicar en la PLACSP es voluntaria e intencional por parte del órgano de
+contratación, por lo que la responsabilidad del contenido de los anuncios o de la
+documentación que los acompaña es exclusiva del órgano de contratación.
+
+Por lo anteriormente mencionado, le recordamos que la PLACSP no puede modificar el
+contenido ni eliminar los anuncios que los órganos de contratación han publicado y cuyos
+efectos son legalmente válidos desde el momento de su difusión pública.
+
+La publicación en la Plataforma de Contratación del Sector Público de la identidad del
+adjudicatario obedece al cumplimiento de una obligación legal aplicable al responsable del
+tratamiento, tal y como establece el artículo 6, apartado 1, letra c) del Reglamento General de
+Protección de Datos, y que tiene como base jurídica la Ley 9/2017 de Contratos del Sector
+Público y la Ley 19/2013 de Transparencia y Buen Gobierno.
+
+Sin perjuicio de lo anteriormente señalado, les recomendamos que, cumpliendo con lo
+establecido en la Disposición adicional séptima de la Ley Orgánica 3/2018 de Protección de
+Datos Personales y Garantía de los Derechos Digitales sobre la identificación de los
+interesados en las notificaciones por medio de anuncios y publicaciones de actos
+administrativos, tengan en cuenta las instrucciones de la Agencia Española de Protección de
+Datos titulada <<Orientación para la aplicación provisional de la Disposición adicional séptima
+de la LOPDGDD>> y marque como persona física a aquellos licitadores donde no se deba
+publicar su NIF completo, sino su NIF con * en los dígitos que ocupan las posiciones cuarta
+quinta, sexta y séptima del NIF del afectado (o afectados) en los anuncios de adjudicación y
+de formalización del expediente.
+
+Si tuviera la necesidad de ofuscar el NIF de los adjudicatarios manualmente, el órgano de
+asistencia deberá acceder al expediente en alguna de sus sesiones, navegar a algún acto de
+apertura o valoración e introducir los *. Para que el cambio se haga efectivo de manera
+pública, deberá anular el anuncio de formalización y rectificar el anuncio de adjudicación. Tras
+esto proceder a la publicación del anuncio de formalización.
+
+La acción anterior no evita que el anuncio anulado, con los datos del NIF de los adjudicatarios,
+deje de ser objeto de consulta y visualización. Por ello, una vez completados los pasos de
+anulación y publicación descritos, deberá solicitar al buscador correspondiente, por los
+canales que tengan habilitados para ello, la desindexación de los anuncios anulados, en virtud
+de lo dispuesto en las Directrices 4/2019 sobre el artículo 25 del RGPD, elaboradas por el
+Comité Europeo de Protección de Datos (EDBP), que sostienen, en relación a la
+sobreexposición de datos que puede suponer el contexto de internet y los motores de
+búsqueda, la obligación del responsable del tratamiento de no hacer que los datos personales
+sean indebidamente accesibles, debiendo aplicar, en su caso, mecanismos para evitar la
+indexación en internet.
+
+Si tiene algún problema durante la ejecución de las instrucciones descritas, le recomendamos
+que contacte con licitacionEorganismos@hacienda.gob.es
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 47 de 48
+5. GLOSARIO DE TÉRMINOS
+
+
+
+           GLOSARIO DE TÉRMINOS
+
+  Plataforma          Plataforma de Contratación del Sector Público. http://contrataciondelsectorpublico.gob.es
+  PLACSP
+                      Esquema Nacional de Interoperabilidad
+  ENI
+                      Espacio Virtual de Licitación
+  EVL
+                      Órgano de Contratación.
+  OC
+                      Órgano de Asistencia.
+  OA
+                      Usuario Operador económico.
+  UOE
+                      Puntuación del sobre basado en criterios de juicio de valor.
+  PT CJV
+                      Puntuación del sobre basado en criterios cuantificables automáticamente mediante fórmula.
+  PT CAF
+                      Número de Identificación fiscal.
+  NIF
+                      Pliego de Cláusulas Administrativas Particulares.
+  PCAP
+                      Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público
+  ROLECE
+
+                      Extensible Markup Language (Lenguaje de marcas extensible).
+  XML
+
+
+
+
+6. CONTÁCTENOS
+
+Para más información sobre Licitación Electrónica por favor, diríjase a la siguiente dirección
+de correo:
+
+                           licitacionEorganismos@hacienda.gob.es
+
+
+
+
+Guía de Servicios de Licitación Electrónica para OCs II: Propuesta de Adjudicación, Requerimiento de documentación y firma del contrato
+electrónicos v3.6                                                                                                Pág. 48 de 48
+

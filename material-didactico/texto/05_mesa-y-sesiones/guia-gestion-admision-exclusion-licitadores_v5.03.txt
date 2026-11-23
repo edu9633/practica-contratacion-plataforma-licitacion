@@ -1,0 +1,475 @@
+   Guía de gestión, admisión y exclusión de
+                  licitadores
+
+
+
+
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+                                                                          Versión: 5.03
+
+                                                                      Fecha: 15/06/2023
+Edita:
+© Ministerio de Hacienda y Función Pública
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+El presente documento está bajo la licencia Creative Commons Reconocimiento - No
+Comercial - Compartir Igual versión 4.0 España.
+Usted es libre de:
+- Copiar, distribuir y comunicar públicamente la obra
+- Hacer obras derivadas
+Bajo las condiciones siguientes:
+- Reconocimiento. Debe reconocer los créditos de la obra de la manera especificada por el
+autor o el licenciador (pero no de una manera que sugiera que tiene su apoyo o apoyan el
+uso que hace de su obra).
+- No Comercial: Se permite que terceros copien, distribuyan, exhiban y ejecuten la obra
+licenciada —y obras derivadas basadas en ella— pero sólo para fines no comerciales.
+- Compartir bajo la misma licencia. Si altera o transforma esta obra, o genera una obra
+derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta
+obra.
+Alguna de estas condiciones puede no aplicarse si se obtiene el permiso del titular de los
+derechos de autor
+Nada en esta licencia menoscaba o restringe los derechos morales del autor.
+Esto es un resumen legible por humanos del texto legal (la licencia completa) disponible en:
+
+https://creativecommons.
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03                        Pág. 2 de 15
+INDICE
+
+
+1.     OBJETO DE ESTA GUÍA .............................................................................................................. 5
+2.     GUÍAS PARA LOS ÓRGANOS DE CONTRATACIÓN ................................................................. 6
+3.     LICITADORES................................................................................................................................ 8
+     3.1      PRESENTACIÓN DE OFERTAS A LOTES ...................................................................................... 10
+4.     ADMISIÓN / EXCLUSIÓN ............................................................................................................ 11
+     4.1      ADMISIÓN Y EXCLUSIÓN EN LICITACIONES SIN LOTES................................................................. 11
+     4.2      ADMISIÓN Y EXCLUSIÓN EN LICITACIONES CON LOTES ............................................................... 12
+     4.3      ACUERDO DE ADMISIÓN/EXCLUSIÓN ......................................................................................... 14
+     4.4      COMUNICACIÓN DE LA ADMISIÓN/EXCLUSIÓN A LOS LICITADORES .............................................. 15
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03                                                                Pág. 3 de 15
+CAMBIOS DE LA VERSIÓN
+
+EN EL PUNTO 1 SE AÑADE EL COMENTARIO: ESTA GUÍA SOLO APLICA A
+LICITACIONES CUYA FORMA DE PRESENTACIÓN SEA MANUAL O ELECTRÓNICA
+POR SISTEMAS EXTERNOS.
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03   Pág. 4 de 15
+1. Objeto de esta guía
+El objetivo principal de este documento es guiar al usuario en la introducción de la
+información sobre los licitadores que participan en el procedimiento de adjudicación.
+
+MUY IMPORTANTE: ESTA GUÍA SOLO APLICA A LICITACIONES CUYA FORMA DE
+PRESENTACIÓN SEA MANUAL O ELECTRÓNICA POR SISTEMAS EXTERNOS.
+
+También se explica cómo indicar si el licitador ha resultado admitido o excluido en el
+procedimiento como consecuencia de la calificación de la documentación administrativa
+presentada.
+
+Se recomienda haber leído previamente las siguientes guías:
+
+    Guía general para órganos de contratación
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03             Pág. 5 de 15
+2. Guías para los órganos de contratación
+La utilización de los servicios ofrecidos por la Plataforma de Contratación del Sector Público
+a los órganos de contratación se explica en un compendio de guías editadas por la Dirección
+General del Patrimonio del Estado.
+
+    Guía general para órganos de contratación
+
+     Describe los aspectos generales de la aplicación para los órganos de contratación,
+     incluyendo los servicios que se ofrecen, las pautas generales de navegación, el acceso e
+     identificación de los usuarios, y la gestión de las licitaciones del órgano.
+
+    Guía de administración de órganos de contratación
+
+     Describe las funcionalidades de las que disponen los administradores de los órganos de
+     contratación para gestionar sus usuarios, la información y documentos de carácter
+     general publicados en el perfil del contratante, reasignación de expedientes entre
+     usuarios, archivo de licitaciones, y desbloqueo de licitaciones.
+
+    Guía de Publicación de la convocatoria de licitación
+
+     Explica cómo se publican los anuncios de información previa, anuncios de licitación y
+     pliegos en el perfil del contratante. Además, también se explica cómo se pueden enviar
+     estos anuncios al Boletín Oficial del Estado y al Diario Oficial de la Unión Europea a
+     través del servicio que ofrece la Plataforma. También se explica cómo se pueden
+     rectificar y anular anuncios publicados.
+
+    Guía de gestión, admisión y exclusión de licitadores
+
+    Describe cómo dar de alta los licitadores que participan en un procedimiento de
+    adjudicación, así como la forma de indicar si han sido admitidos o excluidos en el
+    procedimiento, o si tienen que subsanar alguna documentación.
+
+    Guía de Publicación del resultado de la licitación
+
+     Explica cómo se publican los anuncios de adjudicación, formalización resultado desierto,
+     renuncia, y desistimiento.
+
+     También describe cómo enviar al BOE el anuncio de formalización, y al DOUE los
+     anuncios de formalización, transparencia previa voluntaria, desierto, renuncia y
+     desistimiento.
+
+    Guía de Publicación de contratos menores
+
+     Explica cómo publicar la información sobre los contratos menores en el perfil de
+     contratante.
+
+    Guía de Publicación de anuncios de modificación de contrato
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03                   Pág. 6 de 15
+     Explicar cómo publicar anuncios sobre modificaciones de contrato en la Plataforma de
+     Contratación del Sector Público.
+
+    Guía de Rectificación y anulación de anuncios
+
+     Explica cómo rectificar y anular anuncios publicados en el perfil del contratante, en el
+     Boletín Oficial del Estado o en Diario Oficial de la Unión Europea.
+
+    Guía de Publicación de documentos relativos a una licitación
+
+    Explica cómo publicar en el perfil del contratante documentos relativos a una licitación
+    que no se corresponden con ninguno de los anuncios identificados en las restantes guías
+    como Actos públicos informativos ó de apertura de ofertas, Composición de la mesa de
+    contratación,    Composición del comité de expertos, Suspensión del procedimiento,
+    Levantamiento de la suspensión del procedimiento, Mantenimiento de los efectos del
+    contrato, Declaración de nulidad.
+
+
+    Guía de Envío de comunicaciones a los licitadores
+
+    Explica cómo enviar los distintos tipos de comunicaciones electrónicas a partir de la
+    información introducida en el expediente. Los tipos de comunicaciones que se pueden
+    enviar a través de la Plataforma son la de admisión y exclusión de licitadores,
+    invitación a presentar proposición, solicitud de oferta, invitación a tomar parte en
+    el diálogo, invitación durante la fase de diálogo, invitación/solicitud a presentar
+    oferta final, requerimiento de documentación al licitador mejor clasificado, y
+    notificación de adjudicación. También se pueden enviar comunicaciones genéricas
+    como la solicitud de aclaración, la justificación de oferta anormalmente baja, la solicitud
+    de información adicional o la firma del contrato de formalización.
+
+    Guía de Gestión de preguntas de los licitadores
+
+    Explica cómo los órganos de contratación pueden hacer uso de la funcionalidad de
+    gestión de las preguntas que realizan los licitadores a través del perfil del contratante en
+    la Plataforma de Contratación del Sector Público.
+
+    Guía de consulta de datos administrativos
+
+     Explica cómo realizar consultas a registros de la Administración para verificar
+     información sobre los licitadores presentados: consulta al Registro Oficial de Licitadores
+     y Empresas Clasificadas del Estado, certificados de cumplimiento de obligaciones con la
+     Agencia Tributaria y la Seguridad Social, Servicio de Verificación de Datos de Identidad,
+     consulta a la Caja General de Depósitos.
+
+    Guía de uso de los servicios de licitación electrónica
+
+     Explica cómo articular procedimientos mediante licitación electrónica para que los
+     licitadores puedan presentar sus ofertas de forma electrónica a través de la Plataforma
+     de Contratación del Sector Público.
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03                      Pág. 7 de 15
+3. Licitadores
+En la pestaña Licitadores podemos dar de alta un nuevo licitador y modificar o eliminar los
+datos de un licitador previamente dado de alta.
+
+Se puede introducir la información de los licitadores desde el mismo momento en que se
+crea el expediente.
+
+Para introducir los datos de un nuevo licitador, entramos en la pestaña Licitadores y
+pulsamos el botón Nuevo Licitador.
+
+
+
+
+Ilustración: Pantalla licitadores
+
+A continuación, aparecerá el formulario que permite introducir los datos del licitador para
+proceder a la realización del alta.
+
+
+
+
+Ilustración: Nuevo Licitador
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03                 Pág. 8 de 15
+El significado de los campos, es el siguiente:
+
+                   ELEMENTO                                                  DESCRIPCIÓN
+
+       Nombre de la Empresa (*)                     Nombre de la Empresa que ha presentado la oferta.
+
+                                                          NIF (NIF, CIF, NIE) de la empresa que presenta la
+       Nº de Identificación (*)                             oferta.
+                                                          Otros. Para identificaciones diferentes al anterior.
+
+                                                    Unión Temporal de Empresas. Con su identificador asociado
+       UTE
+                                                    generado por la plataforma.
+
+                                                    Datos relativos a la dirección física del licitador, como son:
+       Dirección Física
+                                                    Calle, Código Postal, Población y País.
+
+       Dirección electrónica                        Email de contacto para comunicaciones electrónicas.
+
+       Fecha de presentación de la
+                                                    Fecha en la que el licitador ha presentado la oferta.
+       oferta
+
+
+
+Los campos señalados con (*) son obligatorios.
+
+Una vez introducido uno o varios licitadores, en la pantalla que está encima del botón Nuevo
+Licitador, estarán los licitadores que hemos dado de alta, tal como se aprecia en la imagen
+siguiente:
+
+
+
+
+Ilustración: Lista de licitadores
+
+El significado de los campos de la tabla es el siguiente:
+
+
+                ELEMENTO                                               DESCRIPCIÓN
+
+       Nombre de la Empresa                   Nombre de la empresa que hemos introducido previamente.
+
+       Nº de Identificación                   Nº de Identificación fiscal.
+
+       Fecha de presentación de la
+                                              La fecha en la que la empresa ha presentado la oferta.
+       oferta
+
+                                              Indica si el licitador está registrado como empresa (con el mismo
+                                              correo que hemos introducido) o no en PLACE.
+       Registrado en PLACE
+                                              El valor Sin correo significa que no hemos introducido el correo
+                                              para este licitador.
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03                                            Pág. 9 de 15
+       Sistema Terceros                       Enlaces para realizar consultas a terceros
+
+       Eliminar                               Enlace para eliminar el licitador.
+
+
+
+Pulsando sobre el nombre de la empresa, accedemos de nuevo al formulario de alta de
+licitadores, donde podemos modificar los datos previamente introducidos.
+
+Para eliminar una empresa de la pestaña Licitadores, con todos sus datos introducidos, en
+la última columna de la tabla, tenemos el enlace eliminar.
+
+3.1     Presentación de ofertas a lotes
+
+Cuando la licitación está dividida en lotes, los licitadores pueden presentar sus ofertas a
+uno, varios o a todos los lotes. Para tratar esta casuística, se procede de la siguiente forma:
+
+Al pulsar el enlace “ Datos de Presentación de Oferta“ se despliega un formulario donde además
+de insertar la “Fecha de presentación de oferta”, igual que el caso sin lotes, se deben seleccionar
+los lotes ofertados por el licitador. Para ello, se seleccionarán dichos lotes del cuadro “Lotes
+del Expediente” y pulsando el botón         se trasladan al cuadro “Lotes a los que licita“.
+
+
+
+
+Ilustración: Ejemplo de presentación por lotes. En el caso de este ejemplo, el licitador oferta a los lotes 3,
+6 y 10
+
+Una vez insertados los datos y realizadas cuantas modificaciones sean necesarias, se pulsa
+el botón “Aceptar Licitador”.
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03                                Pág. 10 de 15
+4. Admisión / Exclusión
+Una vez dados de alta los licitadores en la licitación, el siguiente paso es indicar si han sido
+admitidos o excluidos como resultado de la evaluación de la documentación administrativa
+presentada.
+
+Los licitadores que aparecen en la pestaña de admisión/exclusión son los que previamente
+se han dado de alta en la pestaña LICITADORES.
+
+Esta pestaña esta dividida en dos apartados:
+
+              Admisión y Exclusión, donde se admite y excluye individualmente a cada
+               licitador.
+
+              Acuerdo de Admisión / Exclusión, que es común para todos los licitadores.
+
+
+4.1       Admisión y exclusión en licitaciones sin lotes
+
+
+
+
+Ilustración: Pestaña admisión/exclusión de licitadores
+
+Se puede filtrar la búsqueda de empresas por uno o varios de los siguientes criterios:
+
+          Nombre de Empresa.
+          Nº Identificación.
+          Tipo de Admisión.
+          Comunicado. SI hemos comunicado o NO la Admisión/ Exclusión.
+
+Si dejamos los campos en blanco nos saldrán todos los licitadores.
+
+Del listado de las empresas filtradas, pulsando sobre la empresa deseada (en este caso
+GLRT), aparece el siguiente formulario.
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03                    Pág. 11 de 15
+Ilustración: Detalle admisión/exclusión
+
+El formulario nos permite, para una empresa, Admitir, Admitir provisionalmente o Excluir. En
+todos los casos podemos incluir el motivo de la decisión.
+
+Al guardar, nos aparece de nuevo la pantalla inicial con información introducida de
+Admisión/Exclusión:
+
+
+
+
+Ilustración: Lista de licitadores con su situación
+
+
+
+4.2     Admisión y exclusión en licitaciones con lotes
+
+Se puede realizar la Admisión/Exclusión para cada lote, o Admitir /Excluir a todos los lotes
+para los que el operador económico ha remitido su oferta.
+
+Se puede trabajar con cada operador económico pulsando sobre el nombre del mismo
+(columna “Empresa”) y habilitando el formulario “Detalle de Admisión Exclusión “, lo que permitirá
+operar con todos los lotes en su conjunto o lote a lote.
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03                      Pág. 12 de 15
+Ilustración: Lista de licitadores con su situación. Se hace uso del buscador para filtrar por empresas que
+se han presentado al lote “02- Módulos III y IV”.
+
+
+
+Para Admitir/Excluir a todos los lotes, se pulsa la casilla “Admisión/Exclusión a todos los Lotes” y
+se marca la casilla deseada si es “Admitido”, “Admitido de manera provisional” o “Excluido
+definitivamente”. Si se admite de manera provisional, o se excluye definitivamente al mismo, es
+conveniente informar sobre el motivo mediante la edición del control “Motivo”.
+
+
+
+
+Ilustración: Admisión/exclusión por lotes. Se ha procedido a “Admitir Provisionalmente” a todos los lotes
+a los que se ha presentado la empresa Rodelux Instalaciones, exponiendo el motivo
+
+Si se va a Admitir/Excluir por cada uno de los lotes, se deberá
+marcar la casilla “Admisión/Exclusión por Lotes”. A continuación, en el
+control de lista “Lotes disponibles” aparecerán listados, por número
+de lote, aquellos lotes a los que el licitador haya ofertado.
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03                             Pág. 13 de 15
+Haciendo un solo clic en cada uno de los lotes, se verá la
+descripción del lote en cuestión y podrá marcarse la casilla
+correspondiente a “Admitido”, “Admitido Provisionalmente” o
+“Excluido”. En el caso de ser admitido provisionalmente o
+excluido, es recomendable informar del motivo, mediante la
+edición del cuadro de texto habilitado al efecto bajo el nombre
+“Motivos”.
+
+
+
+A medida que se van admitiendo/excluyendo los lotes, el cuadro “Lotes disponibles” se
+actualiza con el estado registrado para cada lote.
+
+
+
+
+Ilustración: Admisión/exclusión por lotes
+
+
+Se puede apreciar como la ELECTRI-TELEFONO ha ofertado a 5 lotes de los cuales, tres
+han sido admitidos, uno admitido provisionalmente y otro excluido.
+
+Para grabar la información introducida o los cambios realizados se debe pulsar el botón
+“Guardar”. Se pulsará “Cancelar“ en caso contrario.
+
+Se deberá proceder de la misma forma para el resto de los operadores económicos.
+
+4.3     Acuerdo de admisión/exclusión
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03              Pág. 14 de 15
+Ilustración: Acuerdo admisión/exclusión
+
+En este apartado del formulario, se cumplimentan:
+
+          El Acta de Admisión/Exclusión (añadiendo documento o escribiendo una URL).
+          Texto del acuerdo.
+          Fecha del acuerdo.
+
+Se recomienda anexar el acta como documento y no poner una URL.
+
+Igualmente se recomienda, en el caso de introducir el texto del acuerdo, teclear
+directamente sobre la caja, y no hacer uso de la opción copia/pega de otro documento.
+
+4.4       Comunicación de la admisión/exclusión a los licitadores
+
+Una vez cumplimentada la información anterior, es posible notificar electrónicamente a los
+licitadores el resultado de su evaluación, pudiendo indicarles si han resultado admitidos,
+excluidos o si tienen que subsanar algún documento.
+
+La operativa para enviar este tipo de comunicaciones se explica en la “Guía de envío de
+comunicaciones a los licitadores”
+
+
+
+
+Guía de gestión, admisión y exclusión de licitadores v.5.03                 Pág. 15 de 15
+

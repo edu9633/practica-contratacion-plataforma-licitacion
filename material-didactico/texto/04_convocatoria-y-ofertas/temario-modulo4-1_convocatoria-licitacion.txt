@@ -1,0 +1,1029 @@
+INSTITUTO NACIONAL DE ADMINISTRACIÓN
+               PÚBLICA
+
+
+
+
+             MÓDULO 4
+BLOQUE 1 - Convocatoria de Licitación
+2-2 Convocatoria de Licitación
+A. Conceptos Generales.
+B.   Publicación de Anuncio de Licitación.
+C.   Anulaciones.
+D. Publicación de Pliegos y documentos anexos.
+E.   Rectificaciones.
+F.   Documentos generales.
+G. Preguntas y respuestas.
+H. Anuncio Previo.
+
+
+
+
+                                                 2
+Estado de la licitación
+
+
+
+
+                          3
+  Estado de la licitación
+Estado                        Descripción
+Creada                        Ha sido creado el EVL, pero no se
+                              ha publicado el anuncio de
+                              licitación
+Publicada/Evaluación          Ha sido publicado el anuncio de
+previa/Recepción de Ofertas   licitación y no se ha cumplido la
+                              fecha límite de recepción de
+                              ofertas
+
+Evaluación                    Se ha cumplido la fecha límite de
+                              recepción de ofertas y todavía no
+                              se ha adjudicado el contrato
+Resolución                    Se ha realizado la formalización del
+                              contrato
+
+
+
+                                                                     4
+2-2 Convocatoria de Licitación
+A. Conceptos Generales.
+
+B. Publicación de Anuncio de Licitación.
+C.   Rectificaciones.
+D. Anulaciones.
+E.   Publicación de Pliegos y documentos anexos.
+F.   Documentos generales.
+G. Preguntas y respuestas.
+H. Anuncio Previo.
+
+
+
+
+                                                   5
+Datos necesarios para publicar el anuncio de licitación
+El Número de expediente.
+Información general del contrato.
+El Órgano de contratación.
+Condiciones de licitación.
+Proceso licitación.
+
+
+      Número de Expediente
+       Información general
+            del contrato
+                                                          Anuncio Licitación
+     Órgano de contratación
+
+     Condiciones de Licitación
+
+        Proceso licitación
+
+
+
+                                                                               6
+Datos mínimos para publicar el Anuncio licitación
+(Recordar lo visto en Configuración de la licitación)
+
+Condiciones de presentación de oferta.
+   Fecha final de presentación de oferta/ Fecha final de solicitudes de
+    participación.
+   Fecha de apertura de oferta o el campo descripción.
+   Lugar, calle, CP y población.
+En PCAP >Condiciones de admisión de candidatos.
+   Al menos una de las tres:
+          La clasificación.
+          Criterios de solvencia >descripción.
+          Criterios de solvencia técnica y económica.
+En PCAP > Condiciones de Ejecución
+   Plazo de ejecución.
+
+
+
+
+                                                                           7
+Previsualizar / Publicar
+
+ Previsualizar
+   Consiste en la construcción de un borrador de un anuncio, indicando
+   cualquier falta de información o error que haya, de manera que se pueda
+   verificar su contenido. No genera ningún documento en el Perfil del
+   Contratante.
+
+
+
+
+ Publicar
+   Tras verificar que la información es correcta y completa, supone la
+   generación de un documento accesible en el Perfil del Contratante.
+   Se registra fehacientemente el momento de la publicación.
+
+
+
+
+                                                                             8
+9
+Publicación de un anuncio en Plataforma, BOE y DOUE.
+Aspectos Técnicos
+Antes de publicar → GUARDAR Licitación y PREVISUALIZAR.
+Cuando se publica, se producen cambios en la pestaña de
+ Resumen, (dependen del tipo de anuncio) :
+  Publicación en Plataforma, nos indica la fecha y hora de
+   publicación en Plataforma, o pendiente de publicar.
+  Publicación en BOE, estado de la publicación en BOE.
+  Publicación en DOUE, estado de la publicación en DOUE.
+  Ver documentos, tal como se ha publicado el documento en
+   HTML, PDF, XML y Sello de tiempo, si se ha publicado.
+
+
+
+
+                                                              10
+Publicación en Diarios Oficiales
+Seleccionada la publicación de un anuncio, aparecerán en
+ pantalla estas opciones:
+
+
+
+
+                                                            11
+ Publicación en Diarios Oficiales
+ En lo concerniente a la integración con Diarios Oficiales en el momento de
+ la publicación la Plataforma ofrece tres posibilidades:
+
+ No Enviar
+  El anuncio se publica solamente en el Perfil sin ninguna referencia a ningún
+  diario oficial.
+
+ Enviar
+  El anuncio se publica en el Perfil y asimismo se envía al diario oficial para
+  que se publique. Aplica al BOE y DOUE.
+
+
+ Ya publicado
+  El anuncio se publica solamente en el Perfil, pero se referencia en el
+  anuncio que ha sido publicado por medios externos en el diario. Aplica al
+  BOE, DOUE y Otros Diarios.
+
+
+
+
+                                                                                  12
+Publicación en Diarios Oficiales
+También se puede indicar publicaciones realizadas en otros diarios, por
+ejemplo, en boletines de comunidades autónomas.
+
+
+
+
+                                                                          13
+Publicación en BOE
+
+ En el caso del BOE es posible también hacer el envío
+ tras la publicación en Plataforma, enlace Publicar en
+ BOE y luego Enviar BOE
+
+
+
+
+ Independientemente del momento del envío y en
+ función del tipo de anuncio, puede ser necesario
+ realizar la Autoliquidación, pulsando Enlace a la
+ Autoliquidación.
+
+
+
+
+                                                         14
+Publicación en BOE
+
+Accedemos a la Extranet
+ del BOE, donde se puede
+ Previsualizar, dar la
+ Conformidad y Realizar el
+ Pago.
+
+
+
+
+                             15
+Publicación en BOE
+
+Previsualización del documento enviado al BOE.
+
+
+
+
+                                                  16
+Publicación en BOE
+
+Proceder al pago (telemático o presencial).
+
+
+
+
+                                               17
+Publicación en DOUE
+
+ La entrada en vigor de las nuevas directivas de
+ contratación pública (2014/23/UE, 2014/24/UE y
+ 2014/25/UE), conlleva la obligación de utilizar nuevos
+ formularios normalizados para el envío de anuncios al
+ Diario Oficial de la Unión Europea relativos a los
+ contratos sujetos a regulación armonizada.
+Además, la nueva normativa establece la obligación de
+ no publicar a nivel nacional los anuncios enviados al
+ DOUE hasta que su publicación se haga efectiva, o
+ hasta transcurridas 48 horas desde su envío (para
+ anuncios de licitación y Formalización).
+
+
+
+
+                                                          18
+Publicación en DOUE
+
+ En el caso del DOUE el envío está condicionado a la
+ publicación en Plataforma.
+ No es necesario la realización de ningún pago.
+ Es posible la Previsualización del anuncio enviado.
+
+
+
+
+                                                        19
+Cronología del estado de los anuncios en DOUE y BOE
+
+
+Cronología de un
+ anuncio enviado al
+ DOUE
+
+
+
+Cronología de un
+ anuncio enviado al
+ BOE
+
+
+
+
+                                                      20
+Campos no modificables después de Anuncio de Licitación
+
+
+
+
+                                                          21
+2-2 Convocatoria de Licitación
+A. Conceptos Generales.
+B.   Publicación de Anuncio de Licitación.
+
+C. Anulaciones.
+D. Publicación de Pliegos y documentos anexos.
+E.   Rectificaciones.
+F.   Documentos generales.
+G. Preguntas y respuestas.
+H. Anuncio Previo.
+
+
+
+
+                                                 22
+ Anulaciones
+Anular un anuncio sirve para indicar que no es válido ya
+ sea por error, por decisión de algún órgano administrativo o
+ cualquier otra circunstancia. En todo caso ha de indicarse el
+ motivo de la anulación.
+Deja sin efecto el acto anulado y supone el retorno de la
+ licitación al estado anterior, pudiéndose publicar de nuevo
+ otro anuncio del mismo tipo
+Los anuncios anulados no desaparecen de la
+ plataforma, pero se avisa a los licitadores de que no deben
+ hacer caso de su contenido.
+Los documentos anexos (pliegos, actas, etc.) dejan de
+ estar accesibles para el público.
+Si el anuncio ha sido enviado a los diarios oficiales también
+ se puede anular la publicación en los mismos.
+
+                                                                 23
+Anulaciones
+
+¿Cómo?
+  Se debe seleccionar la acción “Anular” entre las opciones
+   disponibles para cada anuncio en la pestaña Resumen
+  Aparece una ventana de confirmación de la anulación.
+  La anulación de un anuncio podrá estar condicionada por el
+   estado de la licitación.
+
+
+
+                                                   1     2
+
+
+
+
+                                                                24
+Anulaciones
+Se deberá especificar el motivo, disponiéndose de una lista
+ con las situaciones más habituales
+En todo caso de deberá hacer una justificación textual
+Adicionalmente se podrá publicar un documento anexo que
+ se incluirá en el anuncio de anulación
+
+
+
+                            1
+
+                                         2
+
+
+                                             3
+
+
+
+
+                                                               25
+Anulaciones
+En la propia ventana de confirmación se podrá:
+  Especificar si la anulación se envía a los diarios oficiales (se verá más
+   adelante)
+  “Previsualizar” el contenido del anuncio de anulación
+   y si todo está correcto “Publicar” el anuncio de anulación
+
+
+
+
+                                                                               26
+Resultado de la anulación en el área privada de la licitación
+
+
+
+
+Resultado de la anulación en el área pública de la licitación
+
+
+
+
+                                                                27
+    Contenido de un anuncio de anulación publicado
+
+  Fecha de anulación
+
+
+
+ Motivo de la anulación
+Fecha de publicación del
+   anuncio anulado
+
+
+
+
+            Contenido del anuncio
+                  anulado
+
+
+
+
+                                                     28
+Cuando se anula un anuncio que ha sufrido rectificaciones…
+
+
+                                                 1
+
+
+
+
+…quedan anuladas todas las versiones del documento
+
+
+
+
+                                                             29
+Cuando se anula un anuncio que tiene documentos adjuntos, como por
+ejemplo los pliegos…
+ Estos documentos adjuntos dejan de estar accesibles para el público si fueron
+  subidos a la Plataforma Ejemplo CMAYOR/2021/06Y17/325
+
+
+
+
+  El órgano de contratación siempre puede volver a descargarlos y conocer el periodo en
+   el que estuvieron accesibles al público.
+
+
+
+
+                                                                                       30
+Los anuncios solamente se pueden anular en orden inverso a como fueron
+publicados
+      Orden de publicación                Orden de anulación
+
+
+     Anuncio previo                    Anular Anuncio previo
+
+
+
+   Anuncio de licitación              Anular Anuncio de licitación
+
+
+
+         Pliegos                           Anular Pliegos
+
+
+
+ Anuncio de adjudicación                Anular adjudicación
+
+
+
+ Anuncio de formalización                Anular formalización
+
+
+
+                                                                         31
+Cuando se anula un anuncio que ha sido enviado al DOUE a través de la
+ Plataforma …
+
+La plataforma genera automáticamente el texto del mensaje de anulación
+ que se envía al DOUE.
+
+Dependiendo del estado del anuncio, el DOUE.
+
+      ▪ Interrumpirá el proceso de publicación del anuncio que se desea
+        anular si da tiempo.
+           El anuncio no llega a publicarse en el perfil de contratante
+
+      ▪ En caso contrario, se publicará un anuncio indicando que el contrato
+        no se adjudica.
+          Ejemplo Expdte. PA 24/2017 (Ayto. de Torrejón de Ardoz)
+
+
+
+
+                                                                               32
+Anulación de anuncios enviados al DOUE
+
+
+
+
+                                         33
+Cuando se anula un anuncio que ha sido publicado en el BOE a través de la
+ Plataforma …
+
+
+
+                                                      1
+
+
+
+
+                             2
+
+
+
+
+                                                                            34
+Cuando se anula un anuncio que ha sido enviado al BOE a través de la
+ Plataforma, pero todavía no ha sido publicado.
+
+
+
+
+         1
+
+
+
+
+                                           2
+
+
+
+
+                                                                       35
+Recomendación: No abusar de las anulaciones
+Cuando sea posible, utilizar las rectificaciones.
+Si hay un error en el anuncio, se debe publicar la rectificación.
+
+Si se anula el anuncio para inmediatamente publicar uno nuevo se
+confunde a los licitadores:
+      ▪Hay que volver a contar plazos, mientras que si la modificación no es
+      significativa con la rectificación se podría haber mantenido el plazo
+      inicial.
+      ▪Los licitadores no verían las modificaciones realizadas.
+      ▪Aumentaría el número de anuncios publicados innecesariamente :
+      anulación + nuevo anuncio =2 vs rectificación = 1.
+      ▪Si se publicara en el BOE habría que pagar dos anuncios: corrección
+      de errores + nuevo anuncio.
+      ▪Si se publicara en el DOUE la información podría resultar confusa, y el
+      DOUE podría incluso rechazar la publicación del nuevo anuncio.
+
+                                                                                 36
+2-2 Convocatoria de Licitación.
+A. Conceptos Generales.
+B.   Publicación de Anuncio de Licitación.
+C.   Anulaciones.
+
+D. Publicación de Pliegos y documentos anexos.
+E. Rectificaciones.
+F.   Documentos generales.
+G. Preguntas y respuestas.
+H. Anuncio Previo.
+
+
+
+
+                                                 37
+Datos necesarios para publicar los pliegos.
+
+
+
+      Numero de Expediente
+                                              Anuncio
+      Información general del
+             contrato                            de
+
+     Órgano de contratación                   Licitación
+
+     Condiciones de Licitación
+
+        Proceso licitación
+                                              Anuncio
+               PPT
+                                                 de
+              PCAP                             Pliegos
+
+
+
+
+                                                           38
+Información de los pliegos
+
+Información de los Pliegos, se puede poner de tres formas
+ diferentes.
+  Información estructurada.
+  A través de un documento anexo.
+  Mediante un enlace externo.
+
+
+Se recomienda, introducir toda la información posible de
+ forma estructurada.
+  Facilita que el licitador, encuentre las licitaciones de su interés.
+  El licitador, encuentra un resumen de los pliegos que siempre
+   sigue la misma estructura, independientemente del Órgano de
+   contratación.
+
+
+
+
+                                                                          39
+PPT y PCAP
+
+
+
+
+             40
+PPT y PCAP - Anexar documentos
+
+Obligatorio.
+Se recomienda anexar los documentos en la Plataforma
+  Facilita la descarga de los documentos a los licitadores.
+  Asegura la disponibilidad de los documentos.
+
+
+Se desaconseja utilizar enlaces externos:
+  Enlaces que no llevan al documento.
+  Posibilidad de que cambien el documento, sin cambiar el enlace.
+   El licitador, no es consciente de que han cambiado parte del
+   documento.
+  Posibilidad que eliminen el documento (durante o después de la
+   adjudicación).
+
+
+
+
+                                                                     41
+PPT y PCAP - Anexar documentos
+
+
+
+
+                                 42
+Publicación de Anexos a los pliegos.
+Cuando necesitamos, introducir información adicional a los pliegos
+ (por ejemplo, anexos, documentación técnica o planos)→ pestaña
+ Anexos Pliegos.
+La anexión de los documentos sigue la misma fórmula que la
+ anexión del PPT o PCAP, excepto que permite anexar varios
+ documentos, uno cada vez y después de anexar, hay que dar Añadir
+ Documento.
+Estos documentos aparecen referenciados en los documentos de
+ pliegos, cuando se publican los pliegos, en la Plataforma.
+
+
+
+
+                                                                      43
+Publicar Pliegos
+
+En Pestaña Resumen de Licitación: previsualizar y publicar.
+
+
+
+
+                                                               44
+Publicar Pliegos en licitaciones electrónicas
+
+Aunque la configuración de la licitación se hace pública en
+ cuanto se publica la convocatoria de la licitación, la
+ herramienta de preparación y presentación de ofertas no está
+ disponible hasta que se publica el anuncio de pliegos.
+
+Las anulaciones deshabilitan el acceso a la herramienta por
+ el licitador.
+
+Si se publica un anuncio pliegos posterior al anulado, se
+ genera una nueva versión de la herramienta de presentación
+ de ofertas.
+
+
+
+
+                                                                45
+Convocatoria de licitaciones con lotes
+
+
+
+             Anuncio de
+         información previa
+                                    Un único anuncio
+        Anuncio de licitación        (se convoca el
+                                procedimiento de licitación)
+             Pliegos
+
+
+
+
+                                                               46
+2-2 Convocatoria de Licitación
+A. Conceptos Generales.
+B.   Publicación de Anuncio de Licitación.
+C.   Anulaciones.
+D. Publicación de Pliegos y documentos anexos.
+
+E. Rectificaciones.
+F.   Documentos generales.
+G. Preguntas y respuestas.
+H. Anuncio Previo.
+
+
+
+
+                                                 47
+Rectificaciones
+Correcciones de errores sobre el contenido de los anuncios
+ publicados.
+   En el caso de que cualquier información modificada o añadida
+   supusiera un cambio sustancial en las condiciones previstas en el
+   anuncio de licitación original, especialmente con relación al
+   principio de tratamiento equitativo y a las reglas de competencia,
+   será necesario ampliar los plazos previstos originalmente.
+
+
+Se pueden enviar las correcciones a BOE y DOUE si el
+ anuncio original se envió a través de la Plataforma.
+
+
+
+
+                                                                        48
+Rectificaciones
+   Modificamos/añadimos/borramos el dato.
+   Previsualizar / Rectificar / Anular (ya no aparece la opción
+    Publicar).
+   Es muy importante mantener la consistencia de datos entre
+    anuncio de licitación y anuncio pliegos, de tal forma que las
+    rectificaciones se realicen en ambos para que contengan
+    información idéntica.
+   El impacto de rectificaciones se incrementa en caso de
+    licitaciones electrónicas, toda vez que la modificación en la
+    configuración provoca la generación de una nueva versión de la
+    herramienta.
+
+
+
+
+                                                                     49
+Rectificaciones y diarios oficiales
+   Si enviado a DOUE → de forma automática se comprobará si hay
+    cambios que requieran un nuevo envío, en caso contrario se
+    indicará, Sin Cambios.
+
+
+
+   Si publicado en BOE → de forma manual será necesario indicar el
+    contenido de la rectificación, siendo necesario indicar la
+    referencia del anuncio que se está rectificando.
+
+
+
+
+                                                                      50
+Rectificaciones en el BOE
+
+ Sólo se puede enviar la corrección al BOE una vez que el
+ anuncio que hay que corregir ya ha sido publicado.
+ La Plataforma no calcula los cambios automáticamente, sino
+ que el usuario debe explicarlos en forma de texto.
+ Son anuncios que requieren el pago posterior en el BOE
+ previo a su publicación.
+ Es muy importante que en el texto quede claro a qué
+ anuncio se está haciendo referencia: Fecha de publicación,
+ número del BOE, tipo de anuncio
+   Ejemplo Expediente PA/2022/010/GCE
+
+
+
+
+                                                               51
+Rectificaciones en el DOUE
+Se puede rectificar el anuncio desde el mismo momento en el que
+ se envía, dependiendo del tipo de anuncio y estado.
+La Plataforma genera automáticamente el anuncio de rectificación
+ que se envía al DOUE calculando los cambios que le afectan.
+
+Hay cambios que no afectan al DOUE. Se obtiene como resultado
+ “Sin cambios”.
+Si todavía tiene tiempo, el DOUE publicará el anuncio original
+ incorporando las modificaciones indicadas en la rectificación, (esta
+ opción ahora solo será posible para algunos anuncios).
+        Ejemplo Expdte. 2023/C005/000004_V1
+ Si el anuncio original del DOUE ya ha sido publicado, el DOUE le
+ asociará el anuncio de corrección de errores.
+      Ejemplo Expdte. C/048/CON/2019-086
+
+
+
+
+                                                                        52
+Rectificativos publicados en el área pública de licitación
+
+
+
+
+                                                             53
+Rectificativos publicados
+
+En el EVL los anuncios corregidos se muestran en la tabla de
+ históricos.
+
+
+
+
+                                                                54
+1
+
+
+
+
+    55
+2-2 Convocatoria de Licitación
+A. Conceptos Generales.
+B.   Publicación de Anuncio de Licitación.
+C.   Anulaciones.
+D. Publicación de Pliegos y documentos anexos.
+E.   Rectificaciones.
+
+F. Documentos generales.
+G. Preguntas y respuestas.
+H. Anuncio Previo.
+
+
+
+
+                                                 56
+Documentos generales
+
+Documentos relacionados con una licitación, pero NO
+ vinculados a ANUNCIOS de licitación o pliegos.
+Documentos tipo:
+   Actos públicos informativos o de apertura de ofertas.
+   Composición de la mesa de contratación.
+   Composición del comité de expertos.
+   Suspensión del procedimiento.
+   Levantamiento de la suspensión del procedimiento.
+   Mantenimiento de los efectos del contrato.
+   Declaración de nulidad.
+   Acuerdo de iniciación del expediente.
+
+
+
+
+                                                            57
+Documentos generales
+
+Documentos tipo (continuación):
+  Memoria justificativa.
+  Informe de insuficiencia de medios.
+  Documento de aprobación del expediente.
+  Acta del órgano de asistencia.
+  Informe de valoración de los criterios de adjudicación
+   cuantificables mediante juicio de valor.
+  Informe sobre las ofertas incursas en presunción de anormalidad.
+  Composición del jurado del concurso de proyectos
+Otros Documentos
+
+
+
+
+                                                                      58
+Publicar Documento General
+
+ 1 - Pestaña Resumen: Otros documentos publicados.
+ 2 - Elegir tipo.
+ 3 - Seleccionar en acción “adjuntar” y pulsar Aceptar.
+
+
+
+
+                                                           59
+Publicar Documento General
+4 – Una vez anexado: previsualizar y publicar (o eliminar
+ para borrarlo del EVL).
+
+
+
+
+                                                             60
+Anulación de Documento General
+
+Los documentos publicados asociados a una licitación también pueden
+ anularse.
+
+
+
+
+Una vez anulado el documento continúa siendo visible para el
+ órgano de contratación, pero no está accesible al público.
+
+
+
+
+                                                                       61
+2-2 Convocatoria de Licitación
+A. Conceptos Generales.
+B.   Publicación de Anuncio de Licitación.
+C.   Anulaciones.
+D. Publicación de Pliegos y documentos anexos.
+E.   Rectificaciones.
+F.   Documentos generales.
+
+G. Preguntas y respuestas.
+H. Anuncio Previo.
+
+
+
+
+                                                 62
+Preguntas y Respuestas
+
+Cuando la licitación se encuentra en estado de Recepción de
+ Oferta, el Órgano de Contratación puede:
+ Comprobar si los operadores económicos han realizado preguntas
+   sobre la licitación y proceder a dar respuesta y publicarlas
+   (Principio de Transparencia). Pestaña Preguntas y Respuestas
+ Introducir en la Plataforma preguntas que hayan llegado al Portal
+   por otros medios distintos (correo ordinario, fax o teléfono) y
+   publicar sus respuestas correspondientes. Pestaña Preguntas y
+   Respuestas
+El publicador recibe un correo electrónico y un aviso al entrar
+ en la Plataforma.
+
+
+
+
+                                                                      63
+Preguntas y Respuestas. (Pregunta pendiente)
+
+
+
+
+                                               64
+Preguntas y Respuestas
+
+
+
+
+                         65
+2-2 Convocatoria de Licitación
+A. Conceptos Generales.
+B.   Publicación de Anuncio de Licitación.
+C.   Anulaciones.
+D. Publicación de Pliegos y documentos anexos.
+E.   Rectificaciones.
+F.   Documentos generales.
+G. Preguntas y respuestas.
+
+H. Anuncio Previo.
+
+
+
+
+                                                 66
+Publicación de anuncio previo en Plataforma y DOUE
+
+ En el artículo 134 de la Ley 9/2017 se establece
+   1. Los órganos de contratación podrán publicar un anuncio de información
+       previa con el fin de dar a conocer aquellos contratos de obras,
+       suministros o servicios que, estando sujetos a regulación armonizada,
+       tengan proyectado adjudicar …..
+   2. Los anuncios de información previa a que se refiere el apartado anterior
+       se publicarán, con el contenido establecido en el Anexo III. A, a
+       elección del órgano de contratación, en el «Diario Oficial de la Unión
+       Europea» o en el perfil de contratante del órgano de contratación
+       a que se refiere el artículo 63 que se encuentre alojado en la
+       Plataforma de Contratación del Sector Público o servicio de información
+       equivalente a nivel autonómico.
+   5. En el caso de que la publicación del anuncio de información previa a que
+       se refiere el primer apartado se vaya a efectuar en el perfil de
+       contratante del órgano de contratación, este último deberá enviar a
+       la Oficina de Publicaciones de la Unión Europea el anuncio de la
+       publicación en su perfil.
+
+       PERMITE REDUCIR PLAZOS POSTERIORMENTE (Art. 134.7, 156.2, 156.3, 164.1)
+
+
+                                                                                 67
+Datos mínimos necesarios para publicar el anuncio previo
+
+Sólo para contratos de obras, suministros y servicios y
+ procedimientos abierto o restringido
+  Número de expediente.
+  Información general del contrato.
+  El Órgano de Contratación. El Órgano de Contratación, es puesto
+   automáticamente, por la Plataforma.
+
+
+
+      Numero de Expediente
+       Información general
+                                                      Anuncio previo
+           del contrato
+
+      Órgano de contratación
+
+
+
+
+                                                                       68
+Publicación de anuncio previo en Plataforma y DOUE
+
+ Al publicar en la Plataforma el anuncio previo o el anuncio de
+  información previa con reducción de plazos se habilitará el envío al
+  DOUE.
+
+
+
+
+                                                                         69
+Publicación de anuncio previo en Plataforma y DOUE
+
+
+
+
+                                                     70
+Anuncio de información previa con reducción de plazos
+
+El anuncio de información previa permite la reducción de plazos si cumplen las
+condiciones siguientes:
+-   Incluir la información exigida para el anuncio de licitación indicada en los
+    anexos correspondientes de las directivas, en la medida en que estuviese
+    disponible.
+-   Que haya sido enviado para su publicación entre 35 días y 12 meses antes
+    de la fecha de envío del anuncio de licitación.
+-   Solamente para las directivas 2014/24, 2014/25 y 2009/81.
+
+
+
+
+                                                                                   71
+    Publicación de anuncio previo en Plataforma y DOUE
+
+ Puede publicarse Anuncio previo y Anuncio de información previa con
+  reducción de plazos.
+ La información necesaria para la publicación del Anuncio de información
+  previa con reducción de plazos (PIN_RTL) es similar a la del anuncio de
+  licitación.
+ Publicación en PLACSP y en DOUE (no en BOE).
+ La publicación del anuncio en Plataforma no será inmediata. Una vez
+  enviado el anuncio a DOUE el expediente queda bloqueado hasta su
+  publicación en DOUE o hasta que hayan transcurrido 48 horas de su
+  envío a DOUE según marcan las Directrices de la Contratación Pública.
+  Una vez transcurrido este tiempo se publicará en la Plataforma y el
+  expediente se quedará desbloqueado.
+ En todos los casos si se produce un error en el envío del anuncio a
+  DOUE no se publicará el anuncio de información previa con reducción
+  de plazos en la Plataforma.
+
+
+
+                                                                            72
+

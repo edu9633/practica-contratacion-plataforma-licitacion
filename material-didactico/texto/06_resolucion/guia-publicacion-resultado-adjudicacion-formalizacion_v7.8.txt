@@ -1,0 +1,1303 @@
+    Guía de Publicación del resultado de la
+                  licitación
+
+
+
+
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+                                                                           Versión: 7.8
+
+                                                                      Fecha: 26/11/2024
+Edita:
+© Ministerio de Hacienda y Función Pública
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+El presente documento está bajo la licencia Creative Commons Reconocimiento - No
+Comercial - Compartir Igual versión 4.0 España.
+Usted es libre de:
+- Copiar, distribuir y comunicar públicamente la obra
+- Hacer obras derivadas
+Bajo las condiciones siguientes:
+- Reconocimiento. Debe reconocer los créditos de la obra de la manera especificada por el
+autor o el licenciador (pero no de una manera que sugiera que tiene su apoyo o apoyan el
+uso que hace de su obra).
+- No Comercial: Se permite que terceros copien, distribuyan, exhiban y ejecuten la obra
+licenciada —y obras derivadas basadas en ella— pero sólo para fines no comerciales.
+- Compartir bajo la misma licencia. Si altera o transforma esta obra, o genera una obra
+derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta
+obra.
+Alguna de estas condiciones puede no aplicarse si se obtiene el permiso del titular de los
+derechos de autor
+Nada en esta licencia menoscaba o restringe los derechos morales del autor.
+Esto es un resumen legible por humanos del texto legal (la licencia completa) disponible en:
+
+https://creativecommons.
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                           Pág. 2 de 38
+INDICE
+
+
+1      OBJETO DE ESTA GUÍA .............................................................................................................. 5
+2      GUÍAS PARA LOS ÓRGANOS DE CONTRATACIÓN ................................................................. 6
+3      PUBLICACIÓN DE ANUNCIOS..................................................................................................... 9
+    3.1        PUBLICACIÓN DEL ANUNCIO DE ADJUDICACIÓN O RESULTADO DESIERTO .................................... 14
+       3.1.1      Licitaciones sin lotes .............................................................................................. 15
+       3.1.2 Licitaciones con lotes ............................................................................................. 21
+    3.2     PUBLICACIÓN DEL ANUNCIO DE RENUNCIA O DESISTIMIENTO ..................................................... 27
+       3.2.1      Licitaciones sin lotes .............................................................................................. 27
+       3.2.2 Licitaciones con lotes ............................................................................................. 28
+    3.3     PUBLICACIÓN DEL ANUNCIO DE FORMALIZACIÓN ....................................................................... 31
+       3.3.1      Configuración de la formalización.......................................................................... 31
+       3.3.2      Envío y firma del contrato de formalización ........................................................... 33
+       3.3.3      Preparación del anuncio de formalización ............................................................. 34
+4      ANEXO SOBRE PROTECCIÓN DE DATOS PERSONALES .................................................... 37
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                                                                   Pág. 3 de 38
+CAMBIOS DE LA VERSIÓN
+
+
+Se cambia el logo de la portada y la cabecera.
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8   Pág. 4 de 38
+1 Objeto de esta guía
+El objetivo principal de este documento es guiar al usuario en la publicación del resultado de
+la licitación (anuncios de adjudicación, desierto, renuncia o desistimiento, y anuncio de
+formalización) en el perfil del contratante.
+
+El proceso normal de resolución de la licitación es mediante la adjudicación al licitador con la
+oferta mejor valorada, previa notificación de Requerimiento de Documentación, y posterior
+Formalización. No obstante, existen otras formas de resolver el expediente como son: la
+Renuncia, el Desistimiento o la declaración del procedimiento como Desierto.
+
+Otro aspecto que se tratará en esta guía, es la resolución de una licitación cuando ésta se
+estructura en lotes. Cuando una licitación tiene lotes el resultado se indica a nivel de lote y,
+por lo tanto, la operativa puede diferir del proceso de adjudicación de una licitación sin lotes.
+
+Se recomienda haber leído previamente las siguientes guías:
+
+    Guía general para órganos de contratación
+    Guía de gestión, admisión y exclusión de licitadores
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                         Pág. 5 de 38
+2 Guías para los órganos de contratación
+La utilización de los servicios ofrecidos por la Plataforma de Contratación del Sector Público
+a los órganos de contratación se explica en un compendio de guías editadas por la Dirección
+General del Patrimonio del Estado.
+
+    Guía general para órganos de contratación
+
+     Describe los aspectos generales de la aplicación para los órganos de contratación,
+     incluyendo los servicios que se ofrecen, las pautas generales de navegación, el acceso e
+     identificación de los usuarios, y la gestión de las licitaciones del órgano.
+
+    Guía de administración de órganos de contratación
+
+     Describe las funcionalidades de las que disponen los administradores de los órganos de
+     contratación para gestionar sus usuarios, la información y documentos de carácter general
+     publicados en el perfil del contratante, reasignación de expedientes entre usuarios, archivo
+     de licitaciones, y desbloqueo de licitaciones.
+
+    Guía de Publicación de la convocatoria de licitación
+
+     Explica cómo se publican los anuncios de información previa, anuncios de licitación y
+     pliegos en el perfil del contratante. Además, también se explica cómo se pueden enviar
+     estos anuncios al Boletín Oficial del Estado y al Diario Oficial de la Unión Europea a través
+     del servicio que ofrece la Plataforma. También se explica cómo se pueden rectificar y
+     anular anuncios publicados.
+
+    Guía de gestión, admisión y exclusión de licitadores
+
+     Describe cómo dar de alta los licitadores que participan en un procedimiento de
+     adjudicación, así como la forma de indicar si han sido admitidos o excluidos en el
+     procedimiento, o si tienen que subsanar alguna documentación.
+
+    Guía de Publicación del resultado de la licitación
+
+     Explica cómo se publican los anuncios de adjudicación, formalización resultado desierto,
+     renuncia, y desistimiento.
+
+     También describe cómo enviar al BOE el anuncio de formalización, y al DOUE los
+     anuncios de formalización, transparencia previa voluntaria, desierto, renuncia y
+     desistimiento.
+
+    Guía de Publicación de contratos menores
+
+     Explica cómo publicar la información sobre los contratos menores en el perfil de
+     contratante.
+
+    Guía de Publicación de anuncios de modificación de contrato
+
+     Explicar cómo publicar anuncios sobre modificaciones de contrato en la Plataforma de
+     Contratación del Sector Público.
+
+
+Guía de Publicación del resultado de la licitación v.7.8                          Pág. 6 de 38
+    Guía de Rectificación y anulación de anuncios
+
+     Explica cómo rectificar y anular anuncios publicados en el perfil del contratante, en el
+     Boletín Oficial del Estado o en Diario Oficial de la Unión Europea.
+
+    Guía de Publicación de anuncios en Diarios Oficiales
+
+     Explica cómo introducir información sobre la publicación de anuncios en otros medios, y
+     cómo enviar anuncios electrónicamente al Boletín Oficial del Estado y al Diario Oficial de
+     la Unión Europea directamente a través de la Plataforma.
+
+    Guía de Publicación de documentos relativos a una licitación
+
+     Explica cómo publicar en el perfil del contratante documentos relativos a una licitación que
+     no se corresponden con ninguno de los anuncios identificados en las restantes guías como
+     Actos públicos informativos o de apertura de ofertas, Composición de la mesa de
+     contratación,    Composición del comité de expertos, Suspensión del procedimiento,
+     Levantamiento de la suspensión del procedimiento, Mantenimiento de los efectos del
+     contrato, Declaración de nulidad.
+
+    Guía de Envío de comunicaciones a los licitadores
+
+     Explica cómo enviar los distintos tipos de comunicaciones electrónicas a partir de la
+     información introducida en el expediente. Los tipos de comunicaciones que se pueden
+     enviar a través de la Plataforma son la de admisión y exclusión de licitadores, invitación
+     a presentar proposición, solicitud de oferta, invitación a tomar parte en el diálogo,
+     invitación durante la fase de diálogo, invitación/solicitud a presentar oferta final,
+     requerimiento de documentación al licitador mejor clasificado, y notificación de
+     adjudicación.
+
+    Guía de Gestión de preguntas de los licitadores
+
+     Explica cómo los órganos de contratación pueden hacer uso de la funcionalidad de
+     gestión de las preguntas que realizan los licitadores a través del perfil del contratante en
+     la Plataforma de Contratación del Sector Público.
+
+    Guía de Servicios de Licitación Electrónica para Órganos de Contratación I.
+     Configuración de la Licitación
+
+     Esta guía describe cómo el usuario del órgano de contratación debe configurar el
+     procedimiento de contratación en el caso de Licitación Electrónica
+
+    Guía de Servicios de Licitación Electrónica para Órganos de Contratación II.
+     Propuesta de adjudicación
+
+     Esta guía describe cuáles son los pasos siguientes que debe realizar el usuario del
+     órgano de contratación una vez que ha recibido la propuesta de adjudicación del órgano
+     competente para la valoración de las ofertas en el caso de Licitación Electrónica.
+
+    Guía de Convocatoria de licitaciones basadas en un acuerdo marco
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                          Pág. 7 de 38
+     Este documento detalla cómo configurar una licitación basada en un Acuerdo Marco tanto
+     de forma manual como electrónica. También se incluye la nueva funcionalidad de
+     recuperación automática de licitadores adjudicatarios del establecimiento del Acuerdo
+     Marco y el envío de la invitación a licitar.
+
+
+    Guía de uso del árbol de perfilado
+
+     Explica cómo hacer uso del asistente en la parte derecha de la pantalla de edición de la
+     licitación (Perfilado) Este asistente muestra las acciones posibles en función del estado de
+     la licitación, y para cada acción los campos obligatorios que debe introducir el usuario.
+
+
+    Guía de Servicios de Licitación Electrónica para procedimientos Abiertos
+     Simplificados
+
+     Esta guía describe cómo el usuario del órgano de contratación debe configurar el
+     procedimiento abierto simplificado y cómo el órgano de asistencia debe realizar las
+     sesiones propias del mismo.
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                         Pág. 8 de 38
+3 Publicación de anuncios
+La operativa para publicar en el perfil del contratante es siempre la misma, si bien la
+información específica que se requiere difiere según el tipo de anuncio. A continuación, se
+explican las instrucciones generales para la publicación de anuncios, y en los apartados
+correspondientes se puede encontrar el detalle sobre los formularios que se deben
+cumplimentar para la publicación de cada tipo de anuncio.
+
+Como norma general, antes de publicar cualquier anuncio en la Plataforma, es muy
+recomendable realizar una pre-visualización. Dicha pre-visualización no solamente sirve para
+comprobar la idoneidad de lo que vamos a publicar, sino que también sirve para que se
+realicen las validaciones internas necesarias que alertarán en el caso de que falte algún dato
+necesario para su publicación.
+
+La dinámica de comprobación es siempre la misma, para todo tipo de anuncios.
+
+Puesto que todas las publicaciones referentes a una licitación se realizan desde la pestaña
+Resumen Licitación, ésta es la pestaña en la que debemos situarnos.
+
+Debajo de la columna “Acciones” (Ilustración: pre-visualización de la publicación del Anuncio de
+Adjudicación) elegimos de la lista desplegable el valor “previsualizar” y pulsamos “Aceptar“ (
+                    ).
+
+
+
+
+Ilustración: pre visualización de la publicación del Anuncio de Adjudicación
+
+    A continuación, se muestra la siguiente pantalla (Ilustración: opciones de publicación del
+     Anuncio de Adjudicación en diarios oficiales), donde se puede indicar si el anuncio se va
+     a enviar a través de la Plataforma a los distintos diarios oficiales (BOE y/o DOUE), o bien
+     si estos anuncios ya han sido enviados o publicados. Pinche en “Siguiente” (Ver “Guía de
+     Publicación de anuncios en Diarios Oficiales”)
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                        Pág. 9 de 38
+Ilustración: opciones de publicación del Anuncio de Adjudicación en diarios oficiales
+
+Se muestra la posibilidad de previsualizar el anuncio de formalización y/o el anuncio que se
+enviará al DOUE (Ilustración: pre visualización de la publicación de anuncios en diarios
+oficiales y en el perfil del contratante en PLACSP).
+
+
+
+
+Ilustración: pre visualización de la publicación de anuncios en diarios oficiales y en el perfil del
+contratante en PLACSP
+
+
+
+En el momento de previsualizar, la Plataforma realiza una verificación de datos obligatorios y
+una serie de validaciones funcionales sobre la consistencia de los mismos. Las validaciones
+funcionales se realizan teniendo en cuenta el tipo de documento que se va a publicar
+(adjudicación, formalización, etc.), del tipo de contrato, tipo de procedimiento, comprobación
+de importes de licitación, si hay lotes, entregables, etc. Como resultado se pueden dar dos
+situaciones:
+
+1- Se producen errores (Ilustración: Detalle de la ventana que informa sobre los datos que
+   hay que corregir):
+        La ventana de error proporciona una lista de errores junto con la explicación del motivo
+        del error. Si se pulsa en el enlace sobre el texto del error, la Plataforma le dirige a la
+        zona donde se encuentra el mismo. Simultáneamente, en las pantallas de edición del
+        espacio virtual aparecen asteriscos en rojo (*) en los elementos que hayan producido el
+        error.
+
+
+
+
+Ilustración: Detalle de la ventana que informa sobre los datos que hay que corregir
+
+        El siguiente paso es subsanar esos errores en los lugares señalados y volver a
+        previsualizar.
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                                   Pág. 10 de 38
+2- No se producen errores (Ilustración: pre visualización del anuncio). En este caso la
+   Plataforma nos muestra una pre visualización del anuncio indicando que se trata de un
+   BORRADOR.
+
+
+
+
+Ilustración: pre visualización del anuncio
+
+
+Nota: Recuerde que la acción de previsualizar un documento no implica en ningún caso la publicación ni la
+modificación de ningún dato por parte de la Plataforma. Simplemente es una comprobación sobre la validez de los
+datos introducidos.
+
+Pulsando en el botón “Finalizar” se regresará a la pestaña “Resumen” de la licitación.
+
+Una vez que hayamos previsualizado el anuncio, subsanando los posibles errores y
+comprobado el contenido a publicar, procedemos a la publicación del anuncio de la siguiente
+forma:
+
+Nos situamos en la pestaña Resumen y dentro de ésta, en la sección inferior de la tabla
+titulada “Resumen Licitación”. Bajo la columna Acciones elegimos de la lista desplegable el valor
+“publicar” y pulsamos el botón “Aceptar“ (Ilustración: selector de la acción de publicar el anuncio).
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                                   Pág. 11 de 38
+Ilustración: selector de la acción de publicar el anuncio
+
+Para publicar el anuncio, se sigue el procedimiento que se ha explicado en la Previsualización,
+pero seleccionando la opción de “Publicar” en el último paso (Ilustración: pantalla de
+confirmación antes de publicar el anuncio en la Plataforma).
+
+
+
+
+Ilustración: pantalla de confirmación antes de publicar el anuncio en la Plataforma
+
+Dependiendo del tipo de anuncio y de las opciones de envío del anuncio a los diarios oficiales,
+la Plataforma informa sobre el efecto que tiene la acción de “Publicar”:
+
+         Si se ha indicado que se desea enviar el anuncio al DOUE, y se trata de un anuncio
+          de licitación o de formalización, se realizará de forma inmediata el envío al Diario
+          Oficial de la Unión Europea, pero la publicación del anuncio en el perfil del contratante
+          se mantendrá en espera hasta que se produzca la publicación efectiva en el Diario,
+          según establecen las directivas de contratación pública1. En este caso la licitación
+          quedará bloqueada para que no se pueda modificar ningún dato de forma que no
+          pueda haber diferencias entre el anuncio que se publique en el perfil del contratante y
+          el enviado al DOUE (Ilustración: mensaje informando de que el anuncio se ha enviado
+          a DOUE).
+
+         En el resto de casos, la Plataforma publicará de forma inmediata el anuncio en el perfil
+          del contratante
+
+         Además, si se ha indicado que se desea enviar el anuncio al BOE, se enviará al Boletín
+          Oficial de forma inmediata.
+
+Si se pulsa el botón “Cancelar”, interrumpe la publicación del citado anuncio volviendo a la
+ventana anterior.
+
+Si pulsamos “Publicar”, la Plataforma procederá a la publicación del anuncio, informando
+sobre el resultado de la operación, de acuerdo con lo indicado anteriormente.
+
+
+
+1
+  Artículo 52 de la Directiva 2014/24/UE; Artículo 72 de la Directiva 2014/25/UE; Artículo 33.4 de la Directiva
+2014/23/UE
+
+
+Guía de Publicación del resultado de la licitación v.7.8                                   Pág. 12 de 38
+Ilustración: mensaje informando de que el anuncio se ha enviado a DOUE
+
+Pulsando sobre el enlace “pdf” se abrirá el documento enviado al DOUE y/o publicado en el
+perfil del contratante. Pulsando el botón “Finalizar” volvemos de nuevo a la pantalla anterior,
+donde se muestra la fecha en que el anuncio se ha enviado al DOUE y al BOE.
+
+Si la licitación hubiera quedado bloqueada en espera de la publicación del anuncio en el
+DOUE, aparecerá un mensaje en la parte superior indicándolo (Ilustración: mensaje de
+publicación en espera del DOUE).
+
+
+
+
+Ilustración: mensaje de publicación en espera del DOUE
+
+
+
+La forma de publicar los anuncios es muy similar para todos ellos, pero aparecen diferencias
+en cuanto a los datos que se deben introducir. En las distintas guías se describen las
+particularidades de cada uno de ellos:
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                      Pág. 13 de 38
+      -    Guía de Publicación de la Convocatoria de la licitación
+              o Anuncio de Información Previa
+              o Anuncio de Licitación
+              o Pliegos
+
+      -    Guía de publicación del resultado de la licitación
+              o Anuncio de Adjudicación
+              o Anuncio de Renuncia
+              o Anuncio de Desistimiento
+              o Anuncio de Formalización
+
+      -    Guía de publicación del anuncio de modificación de contrato
+              o Anuncio de Modificación de Contrato
+
+3.1       Publicación del anuncio de adjudicación o resultado desierto
+Para poder publicar el anuncio de adjudicación es preciso que esté informado en Plataforma
+todo lo relativo a los licitadores y su calificación en el procedimiento. En el caso de licitaciones
+electrónicas, el usuario no precisa cumplimentar la información. Sin embargo, en el caso de
+licitaciones manuales o aquellas que se licitan electrónicamente haciendo uso de herramienta
+ajenas a la PLACSP, el usuario deberá registrar la información relativa a los licitadores
+presentados (al menos el adjudicatario) y haber indicado en la Plataforma que al menos el
+adjudicatario fue admitido como resultado de la evaluación de la documentación administrativa
+presentada. La forma de introducir esta información en la Plataforma se explica en la “Guía
+de gestión, admisión y exclusión de licitadores”.
+
+Si se quiere que aparezca el NIF del licitador ofuscado en el anuncio (con asteriscos en las
+posiciones primera, segunda, tercera, octava y novena), el usuario tendrá que marcar que se
+trata de una persona física. Para ello tendrá que acceder a la pestaña Licitadores y consignar
+el dato “Persona física” poniendo un “Si”.
+
+
+
+
+Ilustración: Pestaña Licitadores. Persona física.
+
+
+
+Una vez que se ha sido enviado el Requerimiento de Documentación y han transcurrido el
+tiempo legalmente establecido para que el licitador mejor valorado aporte la documentación
+exigida, es el momento de efectuar la Adjudicación del Contrato o bien optar por otras formas
+de resolución del mismo, como son la Renuncia, el Desistimiento o la declaración del
+procedimiento como Desierto.
+
+NOTA: en cualquier momento del procedimiento puede publicar una renuncia o un desistimiento,
+excepto si licitación está en estado creada.
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                          Pág. 14 de 38
+Como norma general, los pasos a seguir para publicar algún tipo de resolución de las
+mencionadas son:
+          1. Elegir el tipo de resolución.
+          2. Insertar la información del contrato
+               2.1. Fecha del acuerdo de resolución.
+               2.2. Adjudicatario/s, en su caso, e importe de la oferta (sólo para adjudicaciones).
+               2.3. Motivación de la adjudicación/resolución.
+               2.4. Plazo de formalización del contrato (sólo para adjudicaciones).
+          3. Publicar el anuncio.
+
+La forma de introducir la información y de publicar el anuncio es distinta dependiendo de si
+hay o no lotes.
+
+Una vez publicado el anuncio de adjudicación en el perfil del contratante, es posible realizar
+la notificación de adjudicación a todos los participantes en el procedimiento a través de la
+Plataforma, tal y como se explica en la Guía de Envío de comunicaciones a los licitadores
+
+NOTA: Si detecta la publicación de datos personales relativos a algún licitador, le recomendamos seguir
+las instrucciones del anexo 4 sobre protección de datos personales.
+
+
+3.1.1 Licitaciones sin lotes
+
+Se accede a la pestaña Resolución. Una vez aquí, se visualiza la tabla con el título
+“Adjudicación” con una sola fila, cuya columna “Descripción” se corresponde con el objeto del
+contrato (Ilustración: área adjudicación de la pestaña Resolución). Si se efectúa un solo clic
+en el objeto del contrato, se habilita una nueva área que permite insertar la “Información del
+contrato”.
+
+
+
+
+Ilustración: área adjudicación de la pestaña Resolución
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                             Pág. 15 de 38
+Ilustración: datos obligatorios para publicar la adjudicación
+
+
+
+
+Si se expande la lista desplegable “Resolución”, aparecen las opciones para elegir el tipo de
+resolución que se desea realizar (Ilustración: tipos de resolución).
+
+
+
+
+Ilustración: tipos de resolución
+
+En el caso de elegir el tipo de “Resolución” como “Adjudicado” o “Desierto”, se deberán rellenar
+los datos que se describen en los siguientes enlaces desplegables, y que se detallan a
+continuación. Tenga en cuenta que la mayoría de estos datos ya vendrán cumplimentados si
+está licitando electrónicamente haciendo uso de los servicios de la Plataforma:
+     Datos del acuerdo de la resolución: se deberán insertar los datos del “Texto del acuerdo” (opcional)
+      y “Fecha del acuerdo (*)”, y se da la posibilidad de anexar un fichero (por ejemplo, el “Acta de
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                               Pág. 16 de 38
+      resolución” que contiene el acuerdo de adjudicación del contrato) (Ilustración: datos del
+      acuerdo de resolución).
+
+
+
+
+Ilustración: datos del acuerdo de resolución
+
+ Selección de Adjudicatarios: Este desplegable habilita un formulario donde el OC podrá elegir
+  al/los adjudicatario/s, y el/los importe/s ofertados por cada uno de ellos. En caso de tipo
+  de resolución “Desierto”, este apartado no se tiene que cumplimentar.
+
+      Partiendo de una lista donde aparecen los operadores económicos admitidos
+      (“Admitidos”), se ha de seleccionar aquel que vaya a ser adjudicatario y “Añadir” a la lista
+      de licitadores seleccionados (Ilustración: selección de adjudicatarios).
+
+
+
+
+Ilustración: selección de adjudicatarios
+
+      Se debe insertar el importe ofertado por éste (sin y con impuestos), indicar si es una
+      PYME, la nacionalidad del propietario de la adjudicación, y el país origen del
+      producto/servicio (Ilustración: importes de adjudicación).
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                         Pág. 17 de 38
+Ilustración: importes de adjudicación
+
+      Una vez introducidos los datos se pulsa el botón “Guardar” y el operador económico pasará
+      del cuadro de lista “Admitidos” al cuadro de lista “Licitadores Seleccionados“ (Ilustración: vista
+      Selección de Licitadores).
+
+
+
+
+Ilustración: vista Selección de Licitadores
+
+     En el caso de ser varios adjudicatarios, se deberá repetir para cada uno de ellos el proceso
+     anteriormente descrito. Para eliminar un operador económico del cuadro de lista
+     “Licitadores Seleccionados“ se selecciona y se pulsa el botón “Deseleccionar“. De este modo,
+     volverá a mostrarse en el cuadro de lista “Admitidos“. Se recuerda que, en el caso de una
+     licitación con varios adjudicatarios, la suma de los importes de todos los adjudicatarios
+     introducidos no debe superar el presupuesto base de la licitación.
+
+     Para modificar los datos ya introducidos asociados al adjudicatario (Importes de
+     adjudicación, si el adjudicatario ofertó una variante, si el adjudicatario es una PYME, y el
+     país origen del producto/servicio) deberá pulsar sobre el nombre del adjudicatario,
+     modificar los datos y volver a pulsar en el botón “Adjudicar”.
+
+ Datos de adjudicación: El campo del formulario más importante, además de obligatorio, en
+  este desplegable es la “Motivación (*)”. En caso de tipo de resolución “Desierto”, este campo
+  no es obligatorio. La adjudicación tiene que ser motivada y éste es el lugar para exponer
+  las razones de tal adjudicación y, a continuación, está el número de “Ofertas recibidas” que
+  también es obligatorio. Existen, además, otros campos informativos y no obligatorios
+  (pueden ser requeridos para la publicación del anuncio en el DOUE): la “Oferta más elevada”,
+  la “Oferta más económica”, nº de ofertas recibidas de Pymes, nº de ofertas recibidas de
+  extranjeros comunitarios, nº de ofertas recibidos de extranjeros extracomunitarios, nº de
+  ofertas electrónicas recibidas y si se han excluido ofertas por ser anormalmente bajas
+  (Ilustración: vista de Datos de Adjudicación).
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                              Pág. 18 de 38
+Ilustración: vista de Datos de Adjudicación
+
+   Plazo de formalización del contrato: En los campos que contiene este formulario se deberá
+    indicar el plazo en que debe procederse a la formalización del contrato. Es obligatorio
+    informar el campo “Hasta“ o el campo “Descripción“. El campo “Desde“ es opcional, y se
+    utiliza parar añadir información cuando se desea establecer un rango de fechas entre las
+    que se producirá la formalización (Ilustración: vista de Plazo de formalización del
+    contrato). Este apartado no es necesario de cumplimentar, si el tipo de resolución es
+    “Desierto”.
+
+
+
+
+Ilustración: vista de Plazo de formalización del contrato
+
+   Subcontratación: En los campos de este formulario se insertará la información sobre el
+    porcentaje de subcontratación o el importe y sus detalles (Ilustración: vista de
+    Subcontratación).
+
+
+
+
+Ilustración: vista de Subcontratación
+
+   Concesión: Para expedientes de la directiva 2014/23, en los campos de este formulario se
+    insertará la información sobre los ingresos estimados procedentes de los usuarios de la
+    concesión (por ejemplo, tasas y multas). (Ilustración: vista de Subcontratación), los
+    ingresos estimados procedentes del comprador que otorgó la concesión (por ejemplo,
+    primas y pagos) y la descripción del método utilizado para calcular el valor estimado de
+    la concesión y cualquier otra información pertinente sobre el valor de la concesión.
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                     Pág. 19 de 38
+Ilustración: vista de Concesión
+
+
+
+   Directiva sobre vehículos limpios: En caso de que aplique la Directiva de Vehículos Limpios,
+    se debe indicar el número de vehículos en función de su tipología y categoría. La
+    tipología de un vehículo se refiere al tipo de emisiones del vehículo (cero emisiones,
+    limpio u otro tipo) conforme el artículo 4 de la Directiva 2019/1161. La categoría del
+    vehículo podrá ser los criterios de homologación indicadas en Reglamento (UE)
+    678/2011 (M1, M2, N1, N2, autobús (M3), camión (N2-N3), etc.)).
+
+
+
+
+Ilustración: vista de Vehículos limpios
+
+
+
+En el caso de procedimientos de establecimiento de acuerdo marco, será necesario
+especificar:
+
+         Acuerdo marco - valor máximo recalculado: El valor máximo que puede gastarse en
+          un acuerdo marco durante toda su duración, incluidas las opciones y las renovaciones,
+          calculado sobre la base de la oferta del ganador o de las ofertas de los ganadores.
+         Acuerdo marco- nuevo valor estimado: El valor que probablemente se gaste en un
+          acuerdo marco durante toda su duración, incluidas las opciones y las renovaciones,
+          estimado de nuevo sobre la base de la oferta del ganador o de las ofertas de los
+          ganadores.
+
+Será obligatorio rellenarlos para procedimientos que apliquen las directivas ‘2014/24/EU’,
+‘2014/25/EU’ y ‘2009/81/EC’.
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                       Pág. 20 de 38
+Ilustración: Estimación del valor del acuerdo marco.
+
+
+
+Una vez que se han introducido los datos, se deberá pulsar el botón “Aceptar” y posteriormente
+el botón “Guardar Licitación”.
+Anteriormente, en el apartado 3 Publicación de anuncios se ha explicado cómo publicar
+anuncio desde la pestaña “Resumen”
+Cuando el resultado de la licitación es Desierto, es posible enviar al DOUE un Anuncio de
+Adjudicación en el que se indica que no ha habido ningún adjudicatario. En este caso, será
+necesario rellenar el motivo de la no adjudicación, de entre las opciones que se proporcionan
+en la lista desplegable.
+
+
+
+
+Ilustración: Motivos de no adjudicación
+
+
+
+Cuando ha habido adjudicatario, en procedimientos negociados sin publicidad es posible
+enviar al DOUE un Anuncio de Transparencia Previa Voluntaria simultáneamente a la
+publicación del anuncio de adjudicación en el perfil del contratante.
+Para más detalles sobre la forma de realizar esto envíos al DOUE consulte la “Guía de
+Publicación de anuncios en diarios oficiales”.
+
+3.1.2 Licitaciones con lotes
+
+En este apartado, se describe cómo adjudicar una licitación cuando se compone de diferentes
+lotes. El proceso para adjudicar cada uno de los lotes es similar al de adjudicación del contrato
+para una licitación sin lotes. En este sentido, cuando la licitación está compuesta por varios
+lotes, la adjudicación se configura a nivel de cada lote. Para realizar una adjudicación con
+lotes, ha de tenerse en cuenta además que no todos los lotes tienen que estar en la misma
+situación, dándose la circunstancia de que algunos de ellos tengan adjudicatario mientras
+otros pueden declararse desiertos.
+
+Para proceder a resolver la licitación se ha de situar en la pestaña Resolución. Al acceder a
+esta opción se visualiza una tabla con el encabezado “Adjudicación de lotes”, que contiene un
+
+
+Guía de Publicación del resultado de la licitación v.7.8                        Pág. 21 de 38
+listado con todos los lotes ordenados por su número (“Nº Lote”). En la misma página se puede
+visualizar la tabla “Anuncios de Resolución”, la imagen (Ilustración: vista de la adjudicación de
+lotes) nos muestra esta tabla sin contenido, lo que significa que aún no se ha configurado ni
+publicado ningún anuncio de ninguno de los lotes que aparecen en la tabla superior.
+
+
+
+
+Ilustración: vista de la adjudicación de lotes
+
+Si se pulsa sobre la descripción de cada lote se accede al cuadro “Información del contrato“,
+dónde se podrá elegir de la lista desplegable “Resolución”, el tipo de resolución que se desea
+realizar.
+
+En el caso de elegir el tipo de “Resolución” como “Adjudicado” o “Desierto”, se ha de insertar la
+información en los distintos desplegables eligiendo al/los adjudicatario/os y registrando los
+importes de la oferta económica de cada operador económico, motivando dicha adjudicación
+y estableciendo el plazo de formalización del contrato. Los campos para cada lote son los
+mismos que en el caso de expedientes sin lotes pero particularizados para cada uno de ellos
+(Ilustración: vista de los datos de resolución para un lote). Recuerde que la mayoría de los
+campos ya vienen cumplimentados si está licitando electrónicamente haciendo uso de los
+servicios de la Plataforma.
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                        Pág. 22 de 38
+Ilustración: vista de los datos de resolución para un lote
+
+
+A medida que se van configurando las resoluciones de cada uno de los lotes, se debe guardar
+la licitación mediante la pulsación del botón “Aceptar” primero y “Guardar Licitación”
+después.
+
+3.1.2.1 Preparación del anuncio
+
+El proceso llevado a cabo para publicar una resolución cuando el expediente está dividido en
+lotes, requiere que previamente a la publicación del anuncio se indique el resultado de qué
+lotes se va a incluir en el mismo. La Plataforma permite publicar distintos anuncios a medida
+que se va resolviendo la adjudicación de los lotes, que no tiene por qué producirse en el mismo
+acto.
+
+La preparación del anuncio de resolución permite:
+           crear un anuncio de adjudicación por cada lote, o
+           crear un anuncio con varios o todos los lotes
+
+Las acciones para crear el/los anuncios de resolución, se realizan desde la pestaña
+Resolución. El acceso a esta pestaña nos muestra una tabla de “Anuncios de Resolución” y,
+dentro de ésta, un botón con la descripción “Nuevo anuncio adjudicación” (Ilustración:
+preparación del anuncio de adjudicación en el caso de lotes). Pulsando sobre él, se habilita
+una nueva área de formulario denominado “Detalle del anuncio”, con una serie de desplegables.
+En esta área deberá seleccionar los lotes que formarán parte del anuncio y los datos del
+acuerdo de resolución.
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                      Pág. 23 de 38
+     Ilustración: preparación del anuncio de adjudicación en el caso de lotes
+
+      Lotes en estado: En la siguiente ilustración (Ilustración: selección de lotes para anunciar)
+       se pueden apreciar dos cuadros identificados en su parte posterior como “Pendientes de
+       anuncio” y “Seleccionados para el anuncio”. Los botones        y         nos permiten pasar
+       los lotes de uno a otro. Todos los lotes ubicados en el cuadro “Seleccionados para el
+       anuncio” formarán parte del mismo anuncio.
+
+
+
+
+Ilustración: selección de lotes para anunciar
+
+      Datos del acuerdo de la resolución: Otros datos obligatorios a la hora de preparar el anuncio
+       son el “Texto del acuerdo (*)” y la “Fecha del acuerdo (*)”. Adicionalmente, en el cuadro “Acta
+       de resolución”, se puede anexar el acta que dio lugar a la correspondiente resolución
+       (Ilustración: vista de la adjudicación de lotes).
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                            Pág. 24 de 38
+Ilustración: vista de la adjudicación de lotes
+
+Una vez preparado el anuncio se pulsará el botón “Aceptar” y posteriormente el botón
+“Guardar Licitación”.
+
+La preparación de un anuncio de adjudicación para su publicación, puede estar configurado
+por uno o varios lotes. A medida que se van preparando cada uno de los anuncios de
+adjudicación, éstos irán desapareciendo del cuadro con el epígrafe “Pendientes de anuncio”,
+quedando disponibles para su elección en posteriores anuncios solamente aquellos lotes que
+todavía no han sido incorporados en algún otro anuncio.
+
+Cuando no existen más lotes pendientes de incorporar a él/los anuncio(s), el botón utilizado
+para la creación de un nuevo anuncio (                               ) desaparece, quedando
+únicamente el detalle de los anuncios de adjudicación creados. Obsérvese en la siguiente
+ilustración (Ilustración: vista del conjunto de anuncios) cómo en el caso de que el anuncio no
+haya sido todavía publicado, se puede Eliminar.
+
+
+
+
+Ilustración: vista del conjunto de anuncios
+
+Se puede observar como hay tres anuncios preparados. Uno con los lotes 3, 4 y 5 que no se
+ha publicado todavía. Otro con el lote 2, también sin publicar, y un tercer anuncio con el lote
+1 que sí se ha publicado.
+
+Una vez preparado el anuncio, su publicación se realiza desde la pestaña Resumen tal y como
+se describe en el apartado anterior, teniendo en cuenta que en la columna documento
+aparecen los números de los lotes cuya resolución se incluye en el anuncio que se va a
+publicar (Ilustración: vista de la pestaña Resumen para la publicación de los anuncios de
+adjudicación cuando hay lotes).
+
+
+
+
+Ilustración: vista de la pestaña Resumen para la publicación de los anuncios de adjudicación cuando hay
+lotes
+
+Cuando el resultado de alguno de los lotes es Desierto, es posible enviar al DOUE un Anuncio
+de Adjudicación en el que se indica que no ha habido ningún adjudicatario.
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                             Pág. 25 de 38
+Para más detalles sobre la forma de realizar estos envíos al DOUE consulte la “Guía de
+Publicación de anuncios en diarios oficiales”.
+Cuando el resultado de alguno de los lotes es adjudicado, en procedimientos negociados sin
+publicidad es posible enviar al DOUE un Anuncio de Transparencia Previa Voluntaria
+simultáneamente a la publicación del anuncio de adjudicación en el perfil del contratante
+(Ilustración: envío del anuncio de transparencia previa voluntaria al DOUE). En este caso se
+debe explicar los motivos por los que no se publicó el anuncio de licitación en el DOUE
+(Ilustración: selección del motivo por el que no se envió el anuncio de licitación al DOUE).
+
+
+
+
+Ilustración: envío del anuncio de transparencia previa voluntaria al DOUE
+
+
+
+
+Ilustración: selección del motivo por el que no se envió el anuncio de licitación al DOUE
+
+
+
+          ELEMENTO                                            DESCRIPCIÓN
+ Justificación de                      Lista de valores con los motivos especificados en DOUE en su
+ Adjudicación sin                      formulario para este tipo de anuncio.
+ publicación previa de
+ Anuncio de Licitación del
+ DOUE
+                                       Campo de texto libre para motivar las razones por las cuales no se
+ *Justificación                        ha efectuado previamente la publicación de la convocatoria de
+                                       licitación en DOUE. Esta justificación textual es obligatoria.
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                                         Pág. 26 de 38
+3.2     Publicación del anuncio de renuncia o desistimiento
+Cuando el procedimiento sea resuelto por “Renuncia” o “Desistimiento”, la configuración y
+posterior publicación de este tipo de resolución difiere en alguno de los pasos del proceso de
+configuración y publicación de una adjudicación.
+
+
+Al igual que en el caso anterior, existen diferencias en las formas de publicar el anuncio entre
+las licitaciones sin lotes y con lotes.
+
+3.2.1 Licitaciones sin lotes
+
+El proceso se realiza en la pestaña Resolución. El acceso a esta pestaña nos permite
+visualizar una tabla identificada como “Adjudicación” con una sola fila, cuya columna
+“Descripción” se corresponde con el objeto del contrato. Si se efectúa un solo clic en el objeto
+del contrato, se habilita una nueva área dónde insertar la “Información del contrato”.
+
+Se podrá renunciar o desistir de un procedimiento siempre que esté en estado distinto de
+“creado”.
+
+Si se expande la lista desplegable “Resolución”, aparecen las distintas opciones para elegir de
+tipo de resolución que se desea (Ilustración: selección del tipo de resolución). Tras la selección
+de tipo de resolución “Renuncia” o “Desistimiento”, la aplicación habilita el siguiente desplegable:
+
+
+
+
+Ilustración: selección del tipo de resolución
+
+       Datos del acuerdo de la resolución: Se deberán rellenar obligatoriamente los datos del “Texto
+        del acuerdo (*)” y “Fecha del acuerdo (*)”. Adicionalmente, se podrá anexar un fichero que
+        contenga el acta (“Acta de resolución”) donde se acuerde la renuncia a la celebración del
+        contrato o el desistimiento del procedimiento (Ilustración: datos del acuerdo de
+        resolución).
+
+
+
+
+Ilustración: datos del acuerdo de resolución
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                           Pág. 27 de 38
+      Motivo de la no adjudicación: En estos casos, será necesario rellenar el motivo de la no
+       adjudicación, de entre las opciones que se proporcionan en la lista desplegable.
+
+
+
+
+Ilustración: Motivos de no adjudicación
+
+Una vez informados los datos necesarios, se deberá pulsar el botón “Aceptar” y,
+posteriormente, el botón “Guardar Licitación”.
+
+Para proceder a la publicación, se pulsa en la pestaña Resumen de la forma que se describe
+en el apartado anterior.
+
+En la siguiente ilustración se muestran, separados por una línea roja, cada uno de los
+anuncios que hay que publicar (Ilustración: composición de las vistas de la publicación de
+anuncio de renuncia y del anuncio de desistimiento).
+
+
+
+
+Ilustración: composición de las vistas de la publicación de anuncio de renuncia y del anuncio de
+desistimiento
+
+Anteriormente, en el apartado 3 Publicación de anuncios se ha explicado cómo publicar un
+anuncio desde la pestaña “Resumen”
+
+Es posible enviar al DOUE un Anuncio de Adjudicación en el que se indica que no se ha
+podido continuar con el procedimiento. Para más detalles sobre la forma de realizar esto
+envíos al DOUE consulte la “Guía de Publicación de anuncios en diarios oficiales”
+
+
+3.2.2 Licitaciones con lotes
+Cuando el expediente está compuesto por lotes, el tratamiento en la pestaña Resolución para
+el tipo de “Resolución”: “Renuncia” o ”Desistimiento” difiere del ilustrado para adjudicar lotes.
+Tendremos que pinchar sobre alguno de los lotes y se habilita una nueva área dónde insertar
+la “Información del contrato”.
+
+
+Guía de Publicación del resultado de la licitación v.7.8                               Pág. 28 de 38
+Si se expande la lista desplegable “Resolución”, aparecen las distintas opciones para elegir de
+tipo de resolución que se desea (Ilustración: selección del tipo de resolución).
+
+
+
+
+Ilustración: selector tipo de resolución
+
+
+
+En el caso de los procedimientos con lotes donde no tengamos configurado/publicado ningún
+lote aún, se puede renunciar o desistir a todos los lotes al mismo tiempo. Aparecerá el
+siguiente mensaje de confirmación.
+
+
+
+
+Ilustración: advertencia en caso de lotes
+
+De esta manera, todos los lotes se configurarán igual.
+
+En el caso de que ya tenga publicado algún lote, aparecerá un mensaje de confirmación para
+que el usuario confirme si quiere que el cambio aplique al lote seleccionado o a todos los lotes.
+
+
+
+
+Ilustración: advertencia en caso de lotes
+
+
+
+En el momento en que se pulsa el botón “Guardar Licitación”, se habilita el botón “Nuevo anuncio”,
+cuya pulsación permite configurar los datos del acuerdo de la resolución (Ilustración:
+configuración del anuncio de renuncia con lotes).
+(Igual consideración para el Desistimiento).
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                         Pág. 29 de 38
+Ilustración: configuración del anuncio de renuncia con lotes
+
+      Lotes en estado: En la anterior ilustración (Ilustración: configuración del anuncio de
+       renuncia con lotes) se pueden apreciar dos cuadros identificados en su parte posterior
+       como “Pendientes de anuncio” y “Seleccionados para el anuncio”. Los botones   y
+       nos permiten pasar los lotes de uno a otro. Todos los lotes ubicados en el cuadro
+       “Seleccionados para el anuncio” formarán parte del mismo anuncio.
+      Datos del acuerdo de la resolución: Se deberán rellenar obligatoriamente los datos del “Texto
+       del acuerdo (*)” y “Fecha del acuerdo (*)”. Adicionalmente, se podrá anexar un fichero que
+       contenga el acta (“Acta de resolución”) donde figure en acuerdo de la “Renuncia” a la
+       celebración del contrato o el “Desistimiento“ del procedimiento.
+      Motivo de la no adjudicación: En estos casos, será necesario rellenar el motivo de la no
+       adjudicación, de entre las opciones que se proporcionan en la lista desplegable.
+
+
+
+
+Ilustración: Motivos de no adjudicación
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                          Pág. 30 de 38
+Una vez registrados los datos, se deberá pulsar el botón “Aceptar” y posteriormente “Guardar
+Licitación”. El anuncio queda entonces configurado, a la espera de su publicación.
+
+Para proceder a la publicación del anuncio de “Renuncia” o “Desistimiento” se navega a la
+pestaña Resumen siguiendo la operativa que se describe en el apartado 3 Publicación de
+anuncios
+
+Es posible enviar al DOUE un Anuncio de Adjudicación en el que se indica que no se ha
+podido continuar con el procedimiento. Para más detalles sobre la forma de realizar esto
+envíos al DOUE consulte la “Guía de Publicación de anuncios en diarios oficiales”
+
+
+
+
+Ilustración: composición de las vistas de la publicación de anuncio de renuncia y del anuncio de
+desistimiento
+
+
+
+3.3     Publicación del anuncio de formalización
+
+Como norma general, los contratos que celebren los órganos de contratación se perfeccionan
+con su formalización. Dicha formalización se publicará en la Plataforma como un “Anuncio
+de Formalización de Contrato” y se podrá enviar tanto al BOE como al DOUE.
+
+3.3.1 Configuración de la formalización
+
+Para configurar la formalización, se navega a la pestaña Formalización. Una vez aquí, se
+visualiza una tabla con el epígrafe “Contratos adjudicados” cuya columna “Descripción” se
+corresponde con el objeto del contrato, o con la descripción de cada uno de los lotes en el
+caso de expedientes con lotes (Ilustración: pestaña Formalización, vista de contratos
+adjudicados con dos lotes y un adjudicatario por lote).
+
+
+
+
+Ilustración: pestaña Formalización, vista de contratos adjudicados con dos lotes y un adjudicatario por
+lote
+
+
+
+
+En la tabla “Contratos adjudicados“ se mostrarán tantas filas como contratos adjudicados. Es
+decir, si hubiese dos adjudicatarios para la misma licitación, se visualizarían dos filas
+correspondientes a los dos contratos resultantes, uno por cada adjudicatario y, por tanto, se
+habrían de configurar dos formalizaciones.
+
+En el caso de expedientes con lotes o con varios adjudicatarios, la formalización se realiza
+para cada lote y/o adjudicatario de cada uno de los lotes. En esta tabla (“Contratos adjudicados”)
+
+
+Guía de Publicación del resultado de la licitación v.7.8                               Pág. 31 de 38
+aparecerán tantas filas como contratos adjudicados. Es decir, se mostrará una línea para cada
+combinación lote-adjudicatario.
+
+Pulsando sobre el objeto del contrato (o sobre la descripción del lote en caso de expedientes
+con lotes), se habilita un área nueva donde insertar la “Información del contrato” (Ilustración:
+Configuración de los datos que se publicarán en el Anuncio de Formalización).
+
+
+
+
+Ilustración: Configuración de los datos que se publicarán en el Anuncio de Formalización
+
+
+
+
+Los datos para la “Información del Contrato” son los siguientes:
+     ELEMENTO                                       DESCRIPCIÓN
+                                  El número de contrato es un texto libre que permite identificar de forma unívoca
+                                  cada uno de los contratos adjudicados que se van a formalizar. En el caso de
+    Número de Contrato
+                                  tener varias adjudicaciones que formalizar, será necesario diferenciar cada uno
+                                  de los contratos. Es obligatorio
+
+    Fecha de                      Este campo, obligatorio, informa sobre la fecha en la que se formaliza el contrato.
+    Formalización(*)              Es obligatorio
+
+    Fecha de Entrada en           Es una fecha informativa que establece el inicio del contrato, y no tiene por qué
+    vigor del contrato            coincidir con la Fecha de Formalización.
+
+    Motivación para el            Es un campo obligatorio que contiene la “Motivación” que se insertó en la
+                                  adjudicación del contrato. Se puede añadir texto a dicha motivación. Es
+    Contrato x(*)
+                                  obligatorio
+
+                                  Tenemos la posibilidad de adjuntar un fichero que contenga el contrato de
+    Contrato de
+                                  formalización de modo que se mostrará en el anuncio publicado mediante un
+    Formalización
+                                  enlace que permitirá su descarga. No es obligatorio.
+
+
+Una vez introducidos los datos de la información de un contrato se debe pulsar el botón
+“Aceptar” y posteriormente “Guardar Licitación”. De esta forma nos aseguramos que hacemos
+permanentes los datos del contrato.
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                                            Pág. 32 de 38
+3.3.2 Envío y firma del contrato de formalización
+
+En los procedimientos con las formas de presentación ‘Electrónica’ y ‘Manual y/o electrónica’,
+se ha establecido la posibilidad de que el contrato de formalización pueda ser firmado por el
+órgano de contratación y el licitador adjudicatario.
+
+Para ello, el órgano de contratación puede enviar el contrato al licitador adjudicatario mediante
+una comunicación de tipo ‘Otras comunicaciones’ denominada ‘Contrato de formalización’.
+Previamente se debe haber configurado la formalización de un contrato en la pestaña
+Formalización, como hemos visto en el apartado anterior, habiendo anexado el documento
+del contrato entre los datos de la información del contrato. Se puede entonces acudir a la
+pestaña Comunicaciones y hacer clic en el enlace ‘Otras comunicaciones’ para configurar la
+comunicación (Ilustración: selección de la comunicación de tipo otros > contrato de
+formalización).
+
+
+
+
+Ilustración: selección de la comunicación de tipo otros > contrato de formalización
+
+Para configurar la comunicación debe seleccionar el licitador, registrar la fecha fin de
+presentación de la respuesta y adjuntar el contrato. Tiene la posibilidad de Guardar la
+comunicación, previsualizarla o, directamente, proceder al envío pulsando Comunicar
+(Ilustración: selección de la comunicación de tipo otros > contrato de formalización).
+
+
+
+
+Ilustración: selección de la comunicación de tipo otros > contrato de formalización
+
+Cuando el licitador que ha resultado adjudicatario de un contrato reciba la comunicación,
+tendrá la posibilidad de responder a la misma a través de la Herramienta de preparación y
+presentación de ofertas. La Herramienta le mostrará el documento del contrato anexado por
+
+
+Guía de Publicación del resultado de la licitación v.7.8                              Pág. 33 de 38
+el órgano de contratación, pero únicamente tendrá la posibilidad de firmarlo, no podrá anexar
+un nuevo documento, ni borrar o modificar el documento de contrato adjunto.
+
+El órgano de contratación puede acceder a la respuesta enviada por el licitador en la pestaña
+Formalización desde el apartado “Información del contrato” (Ilustración: acceso al contrato
+firmado por el licitador).
+
+
+
+
+Ilustración: acceso al contrato firmado por el licitador
+
+Al pulsar sobre el enlace ‘Respuesta’ aparece un nuevo apartado en el que se puede comprobar
+la validez de la firma y el órgano de contratación tiene la posibilidad de añadir su propia firma
+mediante el botón ‘Contrafirmar’ (Ilustración: validación de la firma del contrato y posibilidad
+de contrafirma).
+
+
+
+
+Ilustración: validación de la firma del contrato y posibilidad de contrafirma
+
+3.3.3 Preparación del anuncio de formalización
+
+Es necesario crear el Anuncio de Formalización para poder publicarlo. Para ello, se ha de
+navegar a la pestaña Formalización. Una vez allí, se nos muestra un apartado bajo el epígrafe
+
+
+Guía de Publicación del resultado de la licitación v.7.8                        Pág. 34 de 38
+“Anuncios de formalización”. Pulsando sobre el botón “Crear anuncio Formalización” se habilitará el
+formulario de “Detalle del anuncio” (Ilustración: configuración del anuncio de formalización).
+
+
+
+
+Ilustración: configuración del anuncio de formalización
+
+
+
+        ELEMENTO                                                DESCRIPCIÓN
+    Acta de                       Tenemos la posibilidad de adjuntar un fichero que recoja los datos del acto de
+    Formalización                 formalización.
+
+                                  Este campo nos permite incluir un texto libre donde explicar, a falta de “Acta de
+    Texto del acuerdo
+                                  Formalización” o como complemento, una descripción del acto de formalización.
+
+    Contratos                     Contratos ya adjudicados y candidatos a ser incluidos en el Anuncio de
+    adjudicados                   Formalización.
+    Contratos en el
+                                  Contratos que se han incluido en el Anuncio de Formalización.
+    anuncio
+
+Cuando en un mismo expediente existen varios contratos adjudicados se debe indicar cuáles
+se incluirán en el anuncio. De esta manera es posible ir dando publicidad a los distintos
+contratos a medida que se van formalizando. Por ejemplo, si se van a formalizar diez
+contratos, se podrían crear diez anuncios de formalización diferentes para irlos publicando a
+medida que se van formalizando; o un solo anuncio con los diez contratos cuando todos
+estuvieran formalizados (Ilustración: Detalle del anuncio. Dos contratos incluidos en un mismo
+anuncio).
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                                          Pág. 35 de 38
+Ilustración: Detalle del anuncio. Dos contratos incluidos en un mismo anuncio
+
+Se deberán elegir los contratos del cuadro de lista “Contratos adjudicados” y pasarlos al
+cuadro de lista “Contratos en el anuncio” mediante los controles       y            .
+
+Además, existe la posibilidad de incluir un “Acta de Formalización” y un “Texto del Acuerdo”.
+
+Una vez introducidos los datos, debemos pulsar el botón “Aceptar” para consolidar la
+información o “Cancelar” en caso contrario.
+
+Se procederá del mismo modo para crear los restantes anuncios de formalización.
+
+El último paso es pulsar el botón “Guardar Licitación” para hacer permanentes los datos
+introducidos.
+
+Anteriormente, en el apartado 3 Publicación de anuncios, se ha explicado cómo publicar un
+anuncio desde la pestaña “Resumen”
+
+Es posible enviar al DOUE y al BOE un Anuncio de Formalización con los detalles sobre los
+contratos formalizados. Para más detalles sobre la forma de realizar esto envíos a diarios
+oficiales consulte la “Guía de Publicación de anuncios en diarios oficiales”
+
+Si se quiere que aparezca el NIF del licitador ofuscado en el anuncio (con asteriscos en las
+posiciones primera, segunda, tercera, octava y novena), el usuario tendrá que marcar que se
+trata de una persona física. Para ello tendrá que acceder a la pestaña Licitadores y consignar
+el dato “Persona física” poniendo un “Si”.
+
+
+
+
+Ilustración: Pestaña Licitadores. Persona física.
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                            Pág. 36 de 38
+NOTA: Si detecta la publicación de datos personales relativos a algún licitador, le recomendamos seguir
+las instrucciones del anexo 4 sobre protección de datos personales .
+
+
+
+4 Anexo sobre protección de datos personales
+La Plataforma de Contratación del Sector Público (PLACSP) es el medio que utilizan los
+órganos de contratación para dar publicidad a sus convocatorias de licitación y sus resultados,
+así como cualquier otra información contractual que estimen oportuno, en calidad de
+herramienta que garantiza la difusión en internet del perfil del contratante, según lo establecido
+en los artículos 63 y 347 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público.
+La acción de publicar en la PLACSP es voluntaria e intencional por parte del órgano de
+contratación, por lo que la responsabilidad del contenido de los anuncios o de la
+documentación que los acompaña es exclusiva del órgano de contratación.
+
+Por lo anteriormente mencionado, le recordamos que la PLACSP no puede modificar el
+contenido ni eliminar los anuncios que los órganos de contratación han publicado y cuyos
+efectos son legalmente válidos desde el momento de su difusión pública.
+
+La publicación en la Plataforma de Contratación del Sector Público de la identidad del
+adjudicatario obedece al cumplimiento de una obligación legal aplicable al responsable del
+tratamiento, tal y como establece el artículo 6, apartado 1, letra c) del Reglamento General de
+Protección de Datos, y que tiene como base jurídica la Ley 9/2017 de Contratos del Sector
+Público y la Ley 19/2013 de Transparencia y Buen Gobierno.
+
+Sin perjuicio de lo anteriormente señalado, les recomendamos que, cumpliendo con lo
+establecido en la Disposición adicional séptima de la Ley Orgánica 3/2018 de Protección de
+Datos Personales y Garantía de los Derechos Digitales sobre la identificación de los
+interesados en las notificaciones por medio de anuncios y publicaciones de actos
+administrativos, tengan en cuenta las instrucciones de la Agencia Española de Protección de
+Datos titulada <<Orientación para la aplicación provisional de la Disposición adicional séptima
+de la LOPDGDD>> y marque como persona física a aquellos licitadores donde no se deba
+publicar su NIF completo, sino su NIF con * en los dígitos que ocupan las posiciones primera,
+segunda, tercera, octava y novena del NIF del afectado (o afectados) en los anuncios de
+adjudicación y de formalización del expediente.
+
+Si tuviera la necesidad de ofuscar el NIF de los adjudicatarios manualmente, el órgano de
+asistencia deberá acceder al expediente en alguna de sus sesiones, navegar a algún acto de
+apertura o valoración e introducir los *. Para que el cambio se haga efectivo de manera
+pública, deberá anular el anuncio de formalización y rectificar el anuncio de adjudicación. Tras
+esto proceder a la publicación del anuncio de formalización.
+
+La acción anterior no evita que el anuncio anulado, con los datos del NIF de los adjudicatarios,
+deje de ser objeto de consulta y visualización. Por ello, una vez completados los pasos de
+anulación y publicación descritos, deberá solicitar al buscador correspondiente, por los
+canales que tengan habilitados para ello, la desindexación de los anuncios anulados, en virtud
+de lo dispuesto en las Directrices 4/2019 sobre el artículo 25 del RGPD, elaboradas por el
+Comité Europeo de Protección de Datos (EDBP), que sostienen, en relación a la
+sobreexposición de datos que puede suponer el contexto de internet y los motores de
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                             Pág. 37 de 38
+búsqueda, la obligación del responsable del tratamiento de no hacer que los datos personales
+sean indebidamente accesibles, debiendo aplicar, en su caso, mecanismos para evitar la
+indexación en internet.
+
+Si tiene algún problema durante la ejecución de las instrucciones descritas, le recomendamos
+que contacte con licitacionEorganismos@hacienda.gob.es
+
+
+
+
+Guía de Publicación del resultado de la licitación v.7.8                    Pág. 38 de 38
+

@@ -1,0 +1,2096 @@
+                      Guía de Publicación:
+               Convocatoria de la Licitación
+
+
+
+
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+                                                                          Versión: 6.07
+
+                                                                      Fecha: 26/11/2024
+Edita:
+© Ministerio de Hacienda y Función Pública
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+El presente documento está bajo la licencia Creative Commons Reconocimiento - No Comercial -
+Compartir Igual versión 4.0 España.
+Usted es libre de:
+- Copiar, distribuir y comunicar públicamente la obra
+- Hacer obras derivadas
+Bajo las condiciones siguientes:
+- Reconocimiento. Debe reconocer los créditos de la obra de la manera especificada por el autor
+o el licenciador (pero no de una manera que sugiera que tiene su apoyo o apoyan el uso que hace
+de su obra).
+- No Comercial: Se permite que terceros copien, distribuyan, exhiban y ejecuten la obra
+licenciada —y obras derivadas basadas en ella— pero sólo para fines no comerciales.
+- Compartir bajo la misma licencia. Si altera o transforma esta obra, o genera una obra derivada,
+sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta
+obra.
+Alguna de estas condiciones puede no aplicarse si se obtiene el permiso del titular de los
+derechos de autor
+Nada en esta licencia menoscaba o restringe los derechos morales del autor.
+Esto es un resumen legible por humanos del texto legal (la licencia completa) disponible en:
+
+https://creativecommons.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                           Pág. 2 de 56
+INDICE
+
+
+
+
+1         OBJETO DE ESTA GUÍA ............................................................................................................. 5
+2         GUÍAS PARA LOS ÓRGANOS DE CONTRATACIÓN ............................................................... 6
+3         PUBLICACIÓN DE ANUNCIOS ................................................................................................... 9
+    3.1         PUBLICACIÓN DEL ANUNCIO PREVIO ........................................................................................ 14
+    3.2         ANUNCIO DE INFORMACIÓN PREVIA CON REDUCCIÓN DE PLAZOS ............................................... 15
+    3.3         PUBLICACIÓN DEL ANUNCIO DE LICITACIÓN .............................................................................. 15
+      3.3.1        Datos generales del Expediente......................................................................... 16
+      3.3.2        Condiciones de presentación de ofertas .......................................................... 21
+      3.3.3        Subasta electrónica ............................................................................................. 23
+      3.3.4        Evento de apertura de oferta económica .......................................................... 23
+      3.3.5        Otros eventos de apertura de ofertas ................................................................ 24
+      3.3.6        Campos específicos de Establecimientos de acuerdo marco ........................ 25
+      3.3.7        Financiación de la Unión Europea y Fórmula de revisión de precios ........... 26
+      3.3.8        Condiciones de admisión de candidatos .......................................................... 28
+      3.3.9        Motivos de exclusión .......................................................................................... 33
+      3.3.10 Condiciones de adjudicación ............................................................................. 34
+      3.3.11 Condiciones de ejecución .................................................................................. 37
+      3.3.12 Contratación estratégica ..................................................................................... 42
+      3.3.13 Preparación de los sobres de la oferta ............................................................. 44
+      3.3.14 Contactos ............................................................................................................. 45
+      3.3.15 Configuración de lotes y entregables ............................................................... 46
+4         PUBLICACIÓN DE PLIEGOS .................................................................................................... 52
+    4.1         ANEXANDO DOCUMENTO PPT, PCAP Y ANEXOS PLIEGOS ....................................................... 55
+    4.2         HACIENDO REFERENCIA A UNA URL ........................................................................................ 56
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                                                 Pág. 3 de 56
+CAMBIOS DE LA VERSIÓN
+
+Se cambia el logo de la portada y la cabecera.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación   Pág. 4 de 56
+1 Objeto de esta guía
+Este documento explica a los usuarios de los órganos de contratación cómo publicar los
+anuncios y documentos relativos a la convocatoria de la licitación (anuncio de información
+previa, anuncio de licitación y pliegos) en el perfil del contratante.
+
+También se explica cómo enviar los anuncios mencionados al Boletín Oficial del Estado y al
+Diario Oficial de la Unión Europea.
+
+Se recomienda haber leído previamente la guía general para los órganos de contratación, en
+la que se explica cómo acceder a la aplicación, crear una licitación, y pautas generales sobre
+edición de datos de la licitación.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                       Pág. 5 de 56
+2 Guías para los órganos de contratación
+La utilización de los servicios ofrecidos por la Plataforma de Contratación del Sector Público
+a los órganos de contratación se explica en un compendio de guías editadas por la Dirección
+General del Patrimonio del Estado.
+
+    Guía general para órganos de contratación
+
+     Describe los aspectos generales de la aplicación para los órganos de contratación,
+     incluyendo los servicios que se ofrecen, las pautas generales de navegación, el acceso e
+     identificación de los usuarios, y la gestión de las licitaciones del órgano.
+
+    Guía de administración de órganos de contratación
+
+     Describe las funcionalidades de las que disponen los administradores de los órganos de
+     contratación para gestionar sus usuarios, la información y documentos de carácter general
+     publicados en el perfil del contratante, reasignación de expedientes entre usuarios, archivo
+     de licitaciones, y desbloqueo de licitaciones.
+
+    Guía de Publicación de la convocatoria de licitación
+
+     Explica cómo se publican los anuncios de información previa, anuncios de licitación y
+     pliegos en el perfil del contratante. Además, también se explica cómo se pueden enviar
+     estos anuncios al Boletín Oficial del Estado y al Diario Oficial de la Unión Europea a través
+     del servicio que ofrece la Plataforma. También se explica cómo se pueden rectificar y
+     anular anuncios publicados.
+
+    Guía de gestión, admisión y exclusión de licitadores
+
+     Describe cómo dar de alta los licitadores que participan en un procedimiento de
+     adjudicación, así como la forma de indicar si han sido admitidos o excluidos en el
+     procedimiento, o si tienen que subsanar alguna documentación.
+
+    Guía de Publicación del resultado de la licitación
+
+     Explica cómo se publican los anuncios de adjudicación, formalización resultado desierto,
+     renuncia, y desistimiento.
+
+     También describe cómo enviar al BOE el anuncio de formalización, y al DOUE los
+     anuncios de formalización, transparencia previa voluntaria, desierto, renuncia y
+     desistimiento.
+
+    Guía de Publicación de contratos menores
+
+     Explica cómo publicar la información sobre los contratos menores en el perfil de
+     contratante.
+
+    Guía de Publicación de anuncios de modificación de contrato
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                           Pág. 6 de 56
+     Explicar cómo publicar anuncios sobre modificaciones de contrato en la Plataforma de
+     Contratación del Sector Público.
+
+    Guía de Publicación de anuncios en Diarios Oficiales
+
+     Explica cómo introducir información sobre la publicación de anuncios en otros medios, y
+     cómo enviar anuncios electrónicamente al Boletín Oficial del Estado y al Diario Oficial de
+     la Unión Europea directamente a través de la Plataforma.
+
+    Guía de Rectificación y anulación de anuncios
+
+     Explica cómo rectificar y anular anuncios publicados en el perfil del contratante, en el
+     Boletín Oficial del Estado o en Diario Oficial de la Unión Europea.
+
+    Guía de Publicación de documentos relativos a una licitación
+
+     Explica cómo publicar en el perfil del contratante documentos relativos a una licitación que
+     no se corresponden con ninguno de los anuncios identificados en la restantes guías como
+     Actos públicos informativos o de apertura de ofertas, Composición de la mesa de
+     contratación,    Composición del comité de expertos, Suspensión del procedimiento,
+     Levantamiento de la suspensión del procedimiento, Mantenimiento de los efectos del
+     contrato, Declaración de nulidad.
+
+
+    Guía de Envío de comunicaciones a los licitadores
+
+     Explica cómo enviar los distintos tipos de comunicaciones electrónicas a partir de la
+     información introducida en el expediente. Los tipos de comunicaciones que se pueden
+     enviar a través de la Plataforma son la de admisión y exclusión de licitadores, invitación
+     a presentar proposición, solicitud de oferta, invitación a tomar parte en el diálogo,
+     invitación durante la fase de diálogo, invitación/solicitud a presentar oferta final,
+     requerimiento de documentación al licitador mejor clasificado, y notificación de
+     adjudicación. También se pueden enviar comunicaciones genéricas como la solicitud de
+     aclaración, la justificación de oferta anormalmente baja, la solicitud de información
+     adicional o la firma del contrato de formalización.
+
+    Guía de Gestión de preguntas de los licitadores
+
+     Explica cómo los órganos de contratación pueden hacer uso de la funcionalidad de
+     gestión de las preguntas que realizan los licitadores a través del perfil del contratante en
+     la Plataforma de Contratación del Sector Público.
+
+    Guía de consulta de datos administrativos
+
+     Explica cómo realizar consultas a registros de la Administración para verificar información
+     sobre los licitadores presentados: consulta al Registro Oficial de Licitadores y Empresas
+     Clasificadas del Estado, certificados de cumplimiento de obligaciones con la Agencia
+     Tributaria y la Seguridad Social, Servicio de Verificación de Datos de Identidad, consulta
+     a la Caja General de Depósitos.
+
+    Guía de uso de los servicios de licitación electrónica
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                           Pág. 7 de 56
+     Explica cómo articular procedimientos mediante licitación electrónica para que los
+     licitadores puedan presentar sus ofertas de forma electrónica a través de la Plataforma de
+     Contratación del Sector Público.
+
+    Guía de Convocatoria de licitaciones basadas en un acuerdo marco
+
+     Este documento detalla cómo configurar una licitación basada en un Acuerdo Marco tanto
+     de forma manual como electrónica. También se incluye la nueva funcionalidad de
+     recuperación automática de licitadores adjudicatarios del establecimiento del Acuerdo
+     Marco y el envío de la invitación a licitar.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                        Pág. 8 de 56
+3 Publicación de anuncios
+La operativa para publicar en el perfil del contratante es siempre la misma, si bien la
+información específica que se requiere difiere según el tipo de anuncio. A continuación, se
+explican las instrucciones generales para la publicación de anuncios, y en los subapartados
+correspondientes se puede encontrar el detalle sobre los formularios que se deben
+cumplimentar para la publicación de cada tipo de anuncio.
+
+Como norma general, antes de publicar cualquier anuncio en la Plataforma, es muy
+recomendable realizar una previsualización. Dicha previsualización no solamente sirve para
+comprobar que lo que vamos a publicar es lo que queremos publicar, sino que también sirve
+para que se realicen las validaciones internas necesarias que alertarán en el caso de que falte
+algún dato necesario para que se pueda publicar.
+
+La dinámica de comprobación es siempre la misma, para todo tipo de anuncios.
+
+Puesto que todas las publicaciones referentes a una licitación se realizan desde la pestaña
+Resumen Licitación, ésta es la pestaña en la que debemos situarnos.
+
+Debajo de la columna “Acciones” elegimos de la lista desplegable el valor “previsualizar” y
+pulsamos “Aceptar“ (                  ).
+
+
+
+
+    Ilustración: Se va a previsualizar la publicación del Anuncio de Licitación
+
+
+
+
+    A continuación, se muestra la siguiente pantalla donde se puede indicar si el anuncio se
+     va a enviar a través de la Plataforma a los distintos diarios oficiales (BOE y/o DOUE) o
+     bien si estos anuncios ya han sido enviados o publicados y pinchar en “Siguiente” (Ver
+     “Guía de Publicación de anuncios en Diarios Oficiales”)
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                           Pág. 9 de 56
+ Ilustración: Previsualización de anuncios paso 1
+
+Se muestra la posibilidad de previsualizar el anuncio de licitación o/y el anuncio que se
+enviará al DOUE
+
+
+
+
+Ilustración: Previsualización de anuncios paso 2
+
+En el momento de previsualizar la Plataforma realiza una verificación de datos obligatorios y
+una serie de validaciones funcionales sobre la consistencia de los mismos. Las validaciones
+funcionales se realizan teniendo en cuenta el tipo de documento a publicar (pliego, anuncios,
+etc.), del tipo de contrato, tipo de procedimiento, comprobación de importes de licitación, si
+hay lotes, entregables, etc. Como resultado se pueden dar dos situaciones:
+
+1- Se producen errores:
+        La ventana de error proporciona una lista de errores junto con la explicación del motivo
+        del error. Si se pulsa en el enlace sobre el texto del error, la Plataforma le dirige a la
+        zona donde se encuentra el mismo. Simultáneamente, en las pantallas de edición del
+        espacio virtual aparecen asteriscos en rojo (*) en los elementos que hayan producido el
+        error.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                          Pág. 10 de 56
+          Ilustración: Detalle de la ventana que informa sobre los datos que hay que corregir
+
+        El siguiente paso es subsanar esos errores en los lugares señalados y volver a
+        previsualizar.
+
+  2- No se producen errores. En este caso la Plataforma nos muestra una previsualización
+     del anuncio indicando que se trata de un BORRADOR.
+
+
+
+
+       Ilustración: Borrador anuncio previo
+Nota: Recuerde que la acción de previsualizar un documento, no implica en ningún caso la publicación ni la
+modificación de ningún dato por parte de la Plataforma. Simplemente es una comprobación sobre la validez de los
+datos introducidos.
+
+
+Pulsando en el botón “Finalizar” se regresará a la pestaña “Resumen” de la licitación.
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                    Pág. 11 de 56
+Una vez que hayamos previsualizado el anuncio, subsanando los posibles errores y
+comprobado el contenido a publicar, procedemos a la publicación del anuncio de licitación de
+la siguiente forma:
+
+Nos situamos en la pestaña Resumen y dentro de ésta, en la sección inferior de la tabla
+titulada “Resumen Licitación”. Bajo la columna Acciones elegimos de la lista desplegable el valor
+“publicar” y pulsamos el botón “Aceptar “.
+
+
+
+
+Ilustración: Se va a proceder a publicar el Anuncio de Licitación en la Plataforma.
+
+Para publicar el anuncio, se sigue el procedimiento que se ha explicado en la Previsualización,
+pero seleccionando la opción de “Publicar” en el último paso.
+
+
+
+
+Ilustración: Pantalla de confirmación antes de publicar en la Plataforma
+
+Dependiendo del tipo de anuncio y de las opciones de envío del anuncio a los diarios oficiales,
+la Plataforma informa sobre el efecto que tiene la acción de “Publicar”:
+
+         Si se ha indicado que se desea enviar el anuncio al DOUE, y se trata de un anuncio
+          de licitación o de formalización, se realizará de forma inmediata el envío al Diario
+          Oficial de la Unión Europea, pero la publicación del anuncio en el perfil del contratante
+          se mantendrá en espera hasta que se produzca la publicación efectiva en el Diario o
+          hasta transcurridas al menos 48 horas desde el acuse de recibo del DOUE, según
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                               Pág. 12 de 56
+          establecen las nuevas directivas de contratación pública1. En este caso la licitación
+          quedará bloqueada para que no se pueda modificar ningún dato de forma que no
+          pueda haber diferencias entre el anuncio que se publique en el perfil del contratante y
+          el enviado al DOUE.
+
+         En el resto de casos, la Plataforma publicará de forma inmediata el anuncio en el perfil
+          del contratante
+
+         Además, si se ha indicado que se desea enviar el anuncio al BOE, se enviará al Boletín
+          Oficial de forma inmediata
+
+Si se pulsa el botón “Cancelar”, interrumpe la publicación del citado anuncio volviendo a la
+ventana anterior.
+
+Si pulsamos “publicar”, la Plataforma procederá a la publicación del anuncio, informando
+sobre el resultado de la operación, de acuerdo con lo indicado anteriormente.
+
+
+
+
+Ilustración: Mensaje de que el anuncio se ha enviado al DOUE
+
+         Pulsando sobre el enlace “pdf” se abrirá el documento enviado al DOUE y/o publicado
+         en el perfil del contratante Pulsando el botón “Finalizar” volvemos de nuevo a la pantalla
+         anterior, donde se muestra la fecha en que el anuncio se ha enviado al DOUE y al BOE.
+
+         Si la licitación hubiera quedado bloqueada en espera de la publicación del anuncio en el
+         DOUE aparecerá un mensaje en la parte superior indicándolo.
+
+
+
+
+1
+  Artículo 52 de la Directiva 2014/24/UE; Artículo 72 de la Directiva 2014/25/UE; Artículo 33.4 de la Directiva
+2014/23/UE
+
+
+Guía de Publicación de la convocatoria de la licitación                                    Pág. 13 de 56
+          Ilustración: Mensaje pendiente publicación en DOUE
+
+La forma de publicar los anuncios es muy similar para todos ellos, pero existen diferencias en
+cuanto a los datos que se deben introducir. En las distintas guías se describen las
+particularidades de cada uno de ellos:
+
+      -    Guía de Publicación: Convocatoria de la licitación
+              o Anuncio de Información Previa
+              o Anuncio de Licitación
+              o Pliegos
+
+      -    Guía de publicación del resultado de la licitación
+              o Anuncio de Adjudicación
+              o Anuncio de Renuncia
+              o Anuncio de Desistimiento
+              o Anuncio de Formalización
+
+      -    Guía de publicación del anuncio de modificación de contrato
+              o Anuncio de Modificación de Contrato
+
+
+
+3.1       Publicación del Anuncio Previo en el Perfil de Contratante
+
+Los órganos de contratación pueden publicar el anuncio de información previa al que se
+refiere el artículo 134 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector
+Público. con el fin de dar a conocer datos relativos a características esenciales en
+contratos de obras, así como para suministros y servicios.
+
+     El anuncio de información previa podrá publicarse en el perfil del contratante del órgano
+      de contratación o en el Diario Oficial de la Unión Europea. En el caso de que la publicación
+      vaya a efectuarse en el perfil de contratante del órgano de contratación, éste deberá
+      comunicarlo previamente a la Comisión Europea y al «Boletín Oficial del Estado» por
+      medios electrónicos. La plataforma gestiona el envío de esta comunicación a los diarios
+
+
+Guía de Publicación de la convocatoria de la licitación                          Pág. 14 de 56
+      oficiales si así lo decide el órgano de contratación (Ver “Guía de Publicación de anuncios
+      en Diarios Oficiales”)
+
+La información mínima necesaria para publicar un Anuncio Previo son los mismos que se
+exigen para la creación del expediente (Ver “Guía general para los órganos de
+contratación”).
+La información sobre la financiación de fondos europeos asociados al plan de recuperación,
+transformación y resiliencia aparece al final de la última pagina
+
+3.2     Anuncio de información previa con reducción de plazos
+Los órganos de contratación pueden publicar el anuncio de información previa con reducción
+de plazos al que se refiere el artículo 134 de la Ley 9/2017, de 8 de noviembre, de Contratos
+del Sector Público. con el fin de dar a conocer datos relativos a características esenciales en
+contratos de obras, así como para suministros y servicios.
+
+     El anuncio de información previa con reducción de plazos podrá publicarse en el perfil del
+      contratante del órgano de contratación o en el Diario Oficial de la Unión Europea. En el
+      caso de que la publicación vaya a efectuarse en el perfil de contratante del órgano de
+      contratación, éste deberá comunicarlo previamente a la Comisión Europea y al «Boletín
+      Oficial del Estado» por medios electrónicos. La plataforma gestiona el envío de esta
+      comunicación a los diarios oficiales si así lo decide el órgano de contratación (Ver “Guía
+      de Publicación de anuncios en Diarios Oficiales”)
+
+Este anuncio solo aparecerá como opción en el caso de que se haya seleccionado en el
+expediente una de las siguientes directivas de aplicación 2014/24/UE, 2014/25/UE o
+2009/81/CE.
+
+
+La información mínima necesaria para publicar un Anuncio de información previa con
+reducción de plazos es la información necesaria para la publicación del anuncio previo. Y si
+la directiva seleccionada es 2014/24/UE, 2014/25/UE o 2009/81/CE. Para la publicación de
+este anuncio se tendrá en cuenta la normativa vigente, en especial, lo indicado en el
+Reglamento de Ejecución 2019/1780 y en las especificaciones técnicas definidas por la
+Oficina de Publicaciones de la Unión Europea.
+
+
+
+
+3.3     Publicación del Anuncio de Licitación
+
+Además de los datos básicos, es necesario introducir otra información para publicar la
+convocatoria de licitación en el Anuncio de Licitación, o enviar las invitaciones a las empresas
+participantes (Ver “Guía de envío de comunicaciones”)
+
+El anuncio de licitación, dependiendo del procedimiento a seguir, recoge información de
+diferente índole, como el plazo de ejecución, fechas límite de presentación de solicitudes de
+participación u ofertas, los requisitos mínimos que debe reunir un empresario y la
+documentación requerida para acreditar dichos requisitos, la posibilidad de que los licitadores
+ofrezcan variantes o mejoras, si se deben dar condiciones especiales en relación con la
+ejecución del contrato.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                        Pág. 15 de 56
+En caso de procedimientos restringidos, los criterios o normas a seguir en la selección del
+candidato, número mínimo y máximo si los hubiere.
+
+En procedimientos por diálogo competitivo se darán a conocer las necesidades y requisitos.
+
+Para grabar los datos modificados en cualquier momento, se debe pulsar el botón “Guardar
+Licitación”. Sin embargo, hay que tener presente que cualquier cambio en los datos del
+expediente no se hará visible a los visitantes de la Plataforma hasta que no se realice la
+correspondiente publicación.
+
+
+
+
+Ilustración: Vista de un expediente, todavía sin ninguna publicación realizada
+
+Los datos que se pueden introducir para la publicación del anuncio de licitación se explican
+en los siguientes apartados. Se debe tener en cuenta que, si bien la Plataforma no exige la
+introducción de muchos de estos datos de forma obligatoria, legalmente puede ser preceptivo
+introducir determinada información en función de las características de la licitación. Por
+ejemplo, la Plataforma no obliga a introducir el dato sobre financiación europea, pero si esta
+existe legalmente sí es obligatorio que este dato aparezca en el anuncio.
+
+3.3.1         Datos generales del Expediente
+Expandiendo el enlace “ Expediente” vemos la información general que se introdujo en la
+creación del expediente. En esta área, hay algunos datos que una vez publicada la
+convocatoria ya no es posible modificar: nº de expediente, tipo y subtipo de contrato, tipo de
+procedimiento de contratación, tipo de tramitación, y forma de tramitación del gasto.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                          Pág. 16 de 56
+Ilustración: Creación expediente
+
+Los datos a introducir en la creación del expediente son los siguientes. Se marcan con (*) los
+elementos obligatorios:
+
+
+      ELEMENTO                                                     DESCRIPCIÓN
+                                Identificador de expediente. Debe ser un identificador único para el órgano de
+Expediente (*)                  contratación. Para un mismo órgano de contratación no puede haber dos expedientes
+                                con el mismo identificador.
+                                Indica si el contrato está sujeto a regulación armonizada según se definen en la Ley
+Contrato                        de Contratos del Sector Público
+SARA/Umbral (*)
+                                En el caso de que el contrato esté sujeto a regulación armonizada se debe indicar la
+Directiva de aplicación         directiva de aplicación:
+                                      Directiva 2014/24/EU, sobre contratación pública
+
+                                      Directiva 2014/23/EU, relativa a la adjudicación de contratos de concesión.
+
+                                      Directiva 2009/81/CE, relativa a la adjudicación de contratos de suministros,
+                                         servicios y obras en el ámbitos de la defensa y la seguridad
+                                Si aplica una directiva al expediente (2009/81, 2014/23, 2014/24 o 2014/25), solo se
+Tipo de contrato (*)            podrán crear anuncios de convocatoria o invitaciones con estos tipos de contrato:
+                                suministros, servicios, obras, concesión de servicios, concesión de obras.
+                                En la publicación de anuncios (excepto anuncio previo y modificación) y envío de
+                                comunicaciones.
+                                      Si se indica que el contrato está sujeto a una Directiva, no se permiten los tipos
+                                         de contrato: 'Administrativo especial', 'Privado', ' Gestión de Servicios
+                                         Públicos ','Colaboración entre el sector público y sector privado', 'Concesión
+                                         de obras públicas' y 'Patrimonial'.
+                                Establece con mayor precisión el objeto del contrato para un tipo de terminado:
+Subtipo de contrato
+                                      Para contratos de obras
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                             Pág. 17 de 56
+      ELEMENTO                                                      DESCRIPCIÓN
+                                               -    Construcción
+                                               -    Preparación de obras
+                                               -    Demolición de inmuebles y movimientos de tierras
+                                               -    Perforaciones y sondeos
+                                               -    Construcción general de inmuebles y obras de ingeniería civil"
+                                               -    Construcción general de edificios y obras singulares de ingeniería
+                                                    civil (puentes, túneles, etc.)
+                                               -    Construcción de cubiertas y estructuras de cerramiento
+                                               -    Construcción de autopistas, carreteras, campos de aterrizaje, vías
+                                                    férreas y centros deportivos
+                                               -    Obras hidráulicas
+                                               -    Otras construcciones especializadas
+                                               -    Instalación de edificios y obras
+                                               -    Instalación eléctrica
+                                               -    Aislamiento térmico, acústico y antivibratorio
+                                               -    Fontanería
+                                               -    Otras instalaciones de edificios y obras
+                                               -    Acabado de edificios y obras
+                                               -    Revocamiento
+                                               -    Instalaciones de carpintería
+                                               -    Revestimiento de suelos y paredes
+                                               -    Pintura y acristalamiento
+                                               -    Otros acabados de edificios y obras
+                                               -    Alquiler de equipo de construcción o demolición con operario
+
+                                      Para contrato de servicios
+
+                                               -    Servicios de mantenimiento y reparación
+                                               -    Servicios de transporte por vía terrestre, incluidos los servicios de
+                                                    furgones blindados y servicios de mensajería, excepto el transporte
+                                                    de correo
+                                               -    Servicios de transporte aéreo: transporte de pasajeros y carga,
+                                                    excepto el transporte de correo
+                                               -    Transporte de correo por vía terrestre y por vía aérea
+                                               -    Servicios de telecomunicación
+                                               -    Servicios financieros: a) servicios de seguros; b) servicios bancarios
+                                                    y de inversión
+                                               -    Servicios de informática y servicios conexos
+                                               -    Servicios de investigación y desarrollo
+                                               -    Servicios de contabilidad, auditoría y teneduría de libros
+                                               -    Servicios de investigación de estudios y encuestas de la opinión
+                                                    pública
+                                               -    Servicios de consultores de dirección y servicios conexos
+                                               -    Servicios de arquitectura; servicios de ingeniería y servicios
+                                                    integrados de ingeniería; servicios de planificación urbana y
+                                                    servicios de arquitectura paisajista. Servicios conexos de
+                                                    consultores en ciencia y tecnología. Servicios de ensayos y análisis
+                                                    técnicos
+                                               -    Servicios de publicidad
+                                               -    Servicios de limpieza de edificios y servicios de administración de
+                                                    bienes raíces
+                                               -    Servicios editoriales y de imprenta, por tarifa o por contrato
+                                               -    Servicios de alcantarillado y eliminación de desperdicios: servicios
+                                                    de saneamiento y servicios similares
+                                               -    Servicios de hostelería y restaurante
+                                               -    Servicios de transporte por ferrocarril
+                                               -    Servicios de transporte fluvial y marítimo
+                                               -    Servicios de transporte complementarios y auxiliares
+                                               -    Servicios jurídicos
+                                               -    Servicios de colocación y suministro de personal
+                                               -    Servicios de investigación y seguridad, excepto los servicios de
+                                                    furgones blindados
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                              Pág. 18 de 56
+      ELEMENTO                                                      DESCRIPCIÓN
+                                               -    Servicios de educación y formación profesional
+                                               -    Servicios sociales y de salud
+                                               -    Servicios de esparcimiento, culturales y deportivos
+                                               -    Otros servicios
+
+                                      Para contratos de suministros
+
+                                               -    Alquiler
+                                               -    Adquisición
+
+                                      Para contratos de colaboración entre el sector público y el sector privado
+                                             -   Obras
+                                             -   Servicios
+                                             -   Suministros
+
+                                      Para contratos patrimoniales
+                                             -   Autorización demanial
+                                             -   Concesión demanial
+                                             -   Explotación de bienes inmuebles mediante arrendamiento
+                                             -   Explotación de bienes muebles mediante arrendamiento
+                                             -   Explotación de bienes de propiedad incorporal
+                                             -   Cesión de uso/titularidad
+                                             -   Adquisición de inmuebles
+                                             -   Adquisición de derechos de propiedad incorporal
+                                             -   Arrendamiento de inmuebles
+                                             -   Enajenación de inmuebles
+                                             -   Enajenación de bienes muebles
+                                             -   Enajenación de derechos de propiedad incorporal
+                                             -   Permuta
+                                             -   Otros contratos patrimoniales
+
+                                Se entenderá por contrato mixto aquel que contenga prestaciones correspondientes a
+Contrato mixto (*)              otro u otros de distinta clase.
+                                Descripción textual sobre el objeto del contrato
+Objeto del contrato (*)
+                                La descripción de la naturaleza y cantidad de lo que se está comprando o de las
+Descripción              del    necesidades y requisitos que deben satisfacerse en este procedimiento.
+procedimiento (*)
+                                Si no conoce el concepto de Compra Pública Innovadora acceda a la Guía sobre
+Compra              pública     compra pública innovadora editada por el Ministerio de Economía, Industria y
+innovadora                      Competitividad.
+                                Si se trata de una licitación considerada como Compra Pública innovadora se deberá
+                                indicar si es:
+                                         Compra Pública de Tecnología Innovadora (CPTI) Consiste en la compra
+                                         pública de un bien o servicio que no existe en el momento de la compra pero
+                                         que puede desarrollarse en un período de tiempo razonable. Dicha compra
+                                         requiere el desarrollo de tecnología nueva o mejorada para poder cumplir los
+                                         requisitos demandados por el comprador.
+
+                                         Compra pública precomercial (CPP) Es una contratación de servicios de
+                                         I+D remunerada íntegramente por el órgano de contratación, en la que el
+                                         comprador público no se reserva los resultados de la I+D para su propio uso
+                                         en exclusiva sino que comparte con las empresas los riesgos y los beneficios
+                                         de la I+D necesaria para desarrollar soluciones innovadoras que superan las
+                                         que hay disponibles en el mercado.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                             Pág. 19 de 56
+      ELEMENTO                                                      DESCRIPCIÓN
+                                En el caso de acuerdos o sistemas dinámicos de contratación se deberá indicar si la
+Sistema                   de    licitación se refiere a:
+contratación
+                                      Contrato basado en un acuerdo marco
+                                      Contrato basado en un sistema dinámico de contratación
+                                      Establecimiento del acuerdo marco
+                                      Establecimiento del sistema dinámico de contratación
+                                      No aplica
+                                Si aplica una directiva al expediente (2009/81, 2014/23, 2014/24 o 2014/25), y se
+Procedimiento             de    intenta publicar el primer anuncio o enviar la primera invitación, solo se permitirán los
+contratación (*)                siguientes procedimientos: abierto, restringido, negociado sin publicidad, diálogo
+                                competitivo, concurso de proyectos, abierto simplificado, asociación para la
+                                innovación, derivado de asociación para la innovación, licitación con negociación.
+                                En la publicación de anuncios (excepto anuncio previo y modificación) y envío de
+                                comunicaciones.
+                                          Si se indica que el contrato está sujeto a una Directiva, no se permiten los
+                                          tipos de procedimiento: 'Negociado con Publicidad', 'Contrato Menor',
+                                          'Basado en Acuerdo Marco', 'Normas internas' y 'Otros'.
+                                Las principales características del procedimiento (por ejemplo, descripción de las
+Características          del    diferentes fases) e información sobre dónde puede encontrarse la totalidad de las
+procedimiento                   normas del procedimiento.
+                                Las características del procedimiento de contratación son obligatorias para las
+                                directivas '2014/24/EU' cuando el CPV es del Anexo IV de la Ley 9/2017 de Contratos
+                                del Sector Público y '2014/25/EU' cuando el CPV es del Anexo I del Real Decreto-ley
+                                3/2020.
+                                Se indicará si la tramitación tiene carácter de:
+Tipo de tramitación (*)
+                                      Ordinaria
+                                      Emergencia
+                                      Urgencia
+                                Si indicará si la tramitación del gasto tiene carácter de:
+Tramitación del gasto
+(*)                                   Ordinaria
+                                      Anticipada
+                                Valor estimado del contrato calculado según establece la Ley de Contratos del Sector
+Valor estimado           del    Público
+contrato (*)
+                                Presupuesto base de licitación expresado en EUROS. Se deben indicar los importes
+Presupuesto base de             con y sin impuestos. La Plataforma solicita los dos importes y muestra el % de
+licitación (*)                  impuestos calculado para que el usuario pueda comprobar si los importes son
+                                correctos.
+                                Fecha prevista de inicio del proceso de adjudicación. Esta fecha se publica en los
+Fecha prevista de inicio        anuncios de información previa, ya que permite a las empresas tener una estimación
+del     proceso       de        sobre el momento en el que se publicará la convocatoria
+adjudicación
+                                País en el que se ejecutará el contrato
+País (*)
+                                Codificación del lugar de ejecución normalizada a nivel europeo por Eurostat que
+NUTS (*)                        permite     precisar   el    país,   área    geográfica,  región   o    provincia
+                                https://simap.ted.europa.eu/es/web/simap/nuts
+                                Categorización del objeto del contrato mediante una codificación normalizada a nivel
+Código CPV (*)                  europeo (https://simap.ted.europa.eu/es/web/simap/cpv)
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                             Pág. 20 de 56
+3.3.1.1 Selección del CPV
+
+Para seleccionar el CPV, se puede introducir un valor directamente o hacer una búsqueda. A
+continuación, se describe cada una de las dos formas:
+
+Para asignar manualmente un código CPV debe conocer de antemano el código e insertarlo
+en la caja de texto “Código CPV”. Tras insertar dicho código se deberá pulsar el botón
+“Añadir”. Si el código es correcto, se insertará en el cuadro de texto CPV Seleccionados y en
+caso contrario avisará con un mensaje de error.
+
+
+
+
+Ilustración: Selección del CPV
+
+Si pulsamos sobre el enlace “Selección CPV“ se abre una nueva ventana que nos permite ver
+los códigos CPV mediante una clasificación jerárquica de elementos donde los elementos
+superiores se pueden expandir pulsando el símbolo (+). Cada nivel seleccionado tiene un
+mayor detalle dentro de una categoría de clasificación dada.
+
+
+
+
+Ilustración: Ventana para elegir el CPV
+
+Hay determinadas pantallas de la Plataforma, que permiten la inserción de más de un código
+CPV. En ese caso se procede de la misma forma para cada código CPV que vayamos a
+insertar.
+
+Una vez que haya seleccionado el CPV que corresponde al proceso de licitación, vemos cómo
+dicho código aparece en el cuadro “CPV SECCIONADOS”. Pulsaremos el botón “Aceptar”
+para confirmar dicha selección.
+
+Si queremos eliminar CPV del cuadro “CPV SELECCIONADOS” se debe pulsar sobre el
+código a eliminar para seleccionarlo y pulsar el botón “Quitar”. De manera similar actuaremos
+cuando queremos cambiar el CPV principal (el que aparece en la caja superior),
+seleccionando y pulsando el botón “Marcar principal”.
+
+
+3.3.2         Condiciones de presentación de ofertas
+
+
+Guía de Publicación de la convocatoria de la licitación                     Pág. 21 de 56
+En esta sección el órgano de contratación puede especificar datos relativos al “cómo” de la
+presentación de la oferta. Ese “cómo”, además de incluir la forma en que se podrán presentar
+las ofertas, incluye datos relativos a los plazos tanto de recepción, como de apertura de las
+ofertas y el lugar donde se valorará la misma.
+
+Para introducir este dato se debe situar en la pestaña Resumen Licitación y dentro de esta
+pulsar un enlace desplegable denominado “ Condiciones Presentación de Oferta”.
+
+Todos los datos del formulario y su obligatoriedad (*) se describen a continuación:
+
+
+      ELEMENTO                                                     DESCRIPCIÓN
+                                Forma en la que se deben presentar ofertas a la licitación.
+*Forma presentación
+
+                                Puede tomar los siguientes valores:
+                                Manual: (como hasta ahora): si el licitador prepara la oferta sin emplear la herramienta
+                                de Licitación Electrónica, presenta la documentación en un registro físico
+                                (independientemente de que el soporte sea o no electrónico) y la custodia se realiza
+                                físicamente.
+                                Electrónica si la preparación se realiza mediante el empleo de la herramienta de
+                                Licitación Electrónica, se presenta telemáticamente mediante la propia herramienta y
+                                el sistema de Licitación Electrónica se encarga de custodiarla electrónicamente (virtual
+                                frente a físico).
+                                Manual y/o electrónica En el caso de manual y electrónica unos sobres (por ejemplo,
+                                el administrativo y el económico) se preparan y presenten de forma electrónica
+                                mediante la herramienta y otros (por ejemplo, el técnico) de forma manual, por la propia
+                                naturaleza del mismo (muestras, maqueta, etc.). Conviven la custodia física y la
+                                electrónica. La diferencia con la anterior es que en la configuración del sobre se deberá
+                                señalar cuál es el físico / presencial. En el caso de manual o electrónica si el órgano
+                                de contratación permite que el licitador decida libremente si prepara y presenta las
+                                ofertas de forma manual o, por el contrario, realiza la preparación electrónica y la
+                                presentación telemática mediante la herramienta. Posteriormente, se pueden
+                                incorporar al sistema las ofertas presentadas manualmente.
+                                Para mayor información se deberá consultar la “Guía de Servicios de Licitación
+                                Electrónica para Órganos de Contratación”.
+                                Idiomas adicionales en los que se pueden presentar las ofertas, además del castellano.
+Idiomas adicionales al
+Español
+                                Especifica si se admiten variantes en las ofertas. Es obligatorio indicar si se aceptará
+Variantes                       o no el uso de variantes para expedientes de la directiva '2014/24/EU' cuando el CPV
+                                no pertenece al Anexo IV de la Ley 9/2017 de Contratos del Sector Público o de la
+                                directiva '2009/81/EC'.
+                                Especifica si el expediente está sujeto a un Acuerdo de Contratación Pública. (Más
+Acuerdo                 de      información         sobre       el      ACP        en      http://www.minhap.gob.es/es-
+Contratación       Pública      ES/Servicios/Contratacion/Junta%20Consultiva%20de%20Contratacion%20Administr
+(ACP)                           ativa/Paginas/Acuerdo%20sobre%20contratacion%20publica.aspx). Es obligatorio
+                                indicar si la contratación está cubierta por el Acuerdo sobre Contratación Pública (ACP)
+                                para expedientes de las directivas las directivas '2014/23/EU' y '2014/24/EU' cuando
+                                el CPV no pertenece al Anexo IV de la Ley 9/2017 de Contratos del Sector Público o
+                                de la directiva '2014/25/EU' cuando el CPV no pertenece al Anexo I del Real Decreto-
+                                ley 3/2020.
+                                Indica si los licitadores deberán introducir en sus ofertas catálogos electrónicos. Es
+Las     ofertas    deben        obligatorio indicar si se aceptará o no catálogos electrónicos para expedientes de la
+incluir        catálogos        directiva '2014/24/EU' cuando el CPV no pertenece al Anexo IV de la Ley 9/2017 de
+electrónicos                    Contratos del Sector Público o de la directiva '2014/25/EU' cuando el CPV no
+                                pertenece al Anexo I del Real Decreto-ley 3/2020.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                             Pág. 22 de 56
+      ELEMENTO                                                     DESCRIPCIÓN
+                                Fecha y hora, hasta la que estarán disponibles los pliegos.
+*Fecha     final     de
+obtención de pliegos
+                                Fecha y hora límite para el envío de las ofertas.
+*Fecha     final     de
+presentación de ofertas
+
+                                Información adicional relativa a la fecha final de obtención de ofertas. Se utiliza cuando
+Descripción                     la fecha final de obtención de ofertas esté condicionada a otra fecha, que no se conoce
+                                en ese momento. Por ejemplo: cuando tiene que transcurrir cierto número de días a
+                                partir de la publicación del anuncio en el BOE o DOUE
+
+
+
+3.3.3         Subasta electrónica
+
+Es posible indicar que se hará uso de la subasta electrónica para adjudicar la licitación, y los
+términos sobre los que se llevará a cabo la misma.
+
+
+
+
+Ilustración: Subasta electrónica
+
+Si aplica una directiva al expediente (2009/81, 2014/23, 2014/24 o 2014/25), es obligatorio
+indicar si se utiliza o no.
+
+3.3.4         Evento de apertura de oferta económica
+
+Esta sección de la pestaña “Resumen” es de obligatoria cumplimentación en el caso de
+procedimientos Abiertos.
+
+
+
+
+              Ilustración: Evento de apertura oferta económica
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                              Pág. 23 de 56
+Información relativa al evento de apertura de la oferta económica:
+
+
+                      ELEMENTO                                                DESCRIPCIÓN
+                                                          Nombre del evento
+   *Nombre
+
+                                                          Fecha y hora, de apertura de la oferta económica.
+   *Fecha de apertura de ofertas
+
+                                                          Información adicional relativa a la fecha de apertura de
+   *Descripción                                           oferta económica. Utilizado cuando la fecha de apertura
+                                                          de ofertas, está condicionada a que se produzcan
+                                                          previamente ciertos requisitos o fechas, que en el
+                                                          momento que se introduce la fecha de apertura de
+                                                          ofertas, no se conoce.
+                                                          Permite indicar si se trata de un acto público (de acceso
+   Tipo de acto                                           libre), restringido (se puede asistir bajo determinadas
+                                                          condiciones) o privado
+                                                          Texto que explica las condiciones para asistir al acto
+   Condiciones para la asistencia
+
+                                                          Datos relativos al lugar donde se procederá a la apertura
+   *Apertura de Oferta                                    de la oferta económica.
+                                                          Descripción textual del lugar dónde se procederá a la
+   *Lugar,
+       *c,, Calle, CP, Población y País.                  apertura de las ofertas, así como la especificación de la
+                                                          calle, código postal, la población y el país.
+
+
+3.3.5         Otros eventos de apertura de ofertas
+Adicionalmente a la fecha de apertura de la oferta económica, se pueden insertar nuevos
+eventos de apertura que interese al OC establecer de antemano y que sean útiles para el
+conocimiento de los licitadores. Para incluir nuevos eventos de apertura de ofertas hay que
+pulsar el elemento desplegable “ Otros eventos de apertura de oferta” y a continuación pulsar el
+botón “Nuevo Evento”:
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                            Pág. 24 de 56
+           Ilustración: Nuevos eventos de apertura de ofertas
+
+Los campos a introducir son los mismos que en el caso del evento de apertura de ofertas
+económicas, a los que se añade el tipo de evento (Apertura de documentación administrativa;
+Apertura de la oferta técnica; etc.)
+
+3.3.6         Campos específicos de Establecimientos de acuerdo marco
+
+En el caso concreto de los procedimientos de tipo establecimiento de acuerdo marco, será
+necesario rellenar más información, tal como:
+
+- Importe máximo del acuerdo marco: El valor máximo del acuerdo marco para el
+procedimiento de contratación pública o el lote durante toda su duración, incluidas las
+opciones y las renovaciones. Este valor cubre todos los contratos adjudicados con arreglo al
+acuerdo marco.
+- Número máximo de participantes: El número máximo de participantes en el acuerdo marco.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                     Pág. 25 de 56
+Ilustración: Información adicional del acuerdo marco
+
+Si el procedimiento tiene lotes, habría que consignar la información del importe máximo del
+acuerdo marco a nivel de lote.
+
+
+
+
+Ilustración: Importe máximo del acuerdo marco
+
+
+
+
+3.3.7         Financiación de la Unión Europea y Fórmula de revisión de precios
+
+Nos debemos situar en la pestaña PCAP (cláusulas administrativas particulares) e introducir
+toda la información a través de los enlaces desplegables:
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                    Pág. 26 de 56
+Ilustración: Pestaña PCAP
+
+Vista de la pestaña PCAP. Los enlaces desplegables albergan formularios donde insertar la
+información estructurada.
+Por medio de este formulario, se informan los siguientes aspectos de las cláusulas
+administrativas.
+
+
+
+
+Ilustración: Información estructurada
+
+
+Cláusulas administrativas habilitadas mediante casillas. En el caso de marcar “Financiación
+UE”, se habilitan una lista de posibles fuentes de financiación y un cuadro de texto adicional.
+
+La selección de las distintas opciones se especifica a continuación:
+
+             ELEMENTO                                                DESCRIPCIÓN
+
+    Financiación UE                      Si se marca, habilita un cuadro de texto para la inserción de los programas
+                                         UE.
+
+        Fuente                de         Lista de las diferentes fuentes de financiación europea. Se debe
+        financiación                     seleccionar una.
+        europea
+
+        Programa    UE          -        Programa UE o localizador de los que se provee la licitación
+        Localizador
+
+        Fórmula de revisión              Indica de forma explícita la fórmula de revisión de precios en el caso de
+        de precios                       que el precio de los bienes, servicios o suministros objeto del contrato,
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                            Pág. 27 de 56
+3.3.8         Condiciones de admisión de candidatos
+En este apartado del formulario se recoge la información relativa a clasificación exigida,
+declaraciones requeridas, experiencia, cualificación de los empleados y títulos habilitantes.
+
+
+
+
+Ilustración: Información condiciones de admisión de candidatos
+
+
+3.3.8.1 Requisitos previos de participación
+
+
+
+
+Ilustración: Requisitos previos de participación
+
+  Los requisitos previos de participación se pueden crear, modificar o eliminar.
+
+
+            ELEMENTO                                                  DESCRIPCIÓN
+
+    Capacidad de contratar              Se establecen aquellas condiciones relacionadas con la aptitud para
+                                        contratar del licitador tales como la capacidad de obrar, las no prohibiciones
+                                        para contratar o cláusulas sociales, como la declaración sobre trabajadores
+                                        con discapacidad, entre otras.
+    Clasificación                       Este campo se utiliza en los casos en que es exigible la clasificación de los
+                                        licitadores. Se seleccionarán los valores pulsando una sola vez con el ratón.
+                                        Para marcar más de un valor utilizaremos la tecla “Control”.
+    Solvencia      Económica       o    Existe una lista predefinida de declaraciones que se puede requerir a los
+    financiera                          operadores económicos en un procedimiento de licitación.
+                                        Para establecer las declaraciones requeridas, selecciónelas de la lista
+                                        pulsando encima de la declaración o declaraciones que desee exigir a los
+                                        operadores económicos.
+                                        Para seleccionar más de una declaración, presione encima de los textos de
+                                        declaración requerida manteniendo pulsada la tecla Control.
+    Solvencia        técnica       o    Similar a la anterior, pero para acreditar la solvencia técnica
+    profesional
+                               Para
+    Habilitación empresarial o al o indicar si es precisa una habilitación concreta para la ejecución del
+    profesional                contrato.
+
+    Experiencia                         Mínimo de años de experiencia requeridos para los licitadores.
+
+    Empleados                           Número de empleados mínimo requerido a los licitadores.
+
+    Requerimientos CCVV                 Se requiere la presentación de los Currículo Vitae de los empleados en la
+                                        oferta
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                              Pág. 28 de 56
+Desplegamos                       la               lista   de      requisitos            posibles
+
+
+
+
+Ilustración: Lista de requisitos posibles
+
+
+Seleccionamos el valor de la lista y pinchamos en Nuevo Requisito
+     Capacidad de contratar
+
+
+
+
+Ilustración: Capacidad de contratar
+
+
+        Se despliega un conjunto de criterios relativos a las aptitudes para contratar. Para cada
+        uno de ellos se podrá indicar una Descripción, que se visualizará en el anuncio de
+        licitación y de pliegos.
+
+
+        NOTA: Las formas de acreditación SOLO deberán registrarse en caso de hacer uso de
+        los servicios de Licitación Electrónica. Para mayor información, se deberá consultar la
+        Guía de Servicios de Licitación Electrónica para Órganos de Contratación.
+
+     El criterio Clasificación requerida muestra por defecto la codificación establecida por
+      Real Decreto Legislativo 773/2015
+
+
+
+
+Ilustración: Clasificación
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                         Pág. 29 de 56
+Pueden seleccionarse uno o varios valores de la lista mostrada.
+
+
+     Solvencia económica.
+
+      Permite indicar los requisitos la solvencia económica y financiera de los operadores
+      económicos que pueden participar en el proceso de licitación, en el caso de que no se
+      haya especificado una clasificación requerida. Estos requisitos se deben indicar de forma
+      explícita en el anuncio de licitación de acuerdo con Ley 9/2017, de 8 de noviembre, de
+      Contratos del Sector Público.
+
+
+
+
+      Ilustración: Solvencia económica
+
+
+     Solvencia técnica
+
+      Permite indicar los requisitos la solvencia técnica y profesional de los operadores
+      económicos que pueden participar en el proceso de licitación, en el caso de que no se
+      haya especificado una clasificación requerida. Estos requisitos se deben indicar de forma
+      explícita en el anuncio de licitación de acuerdo con Ley 9/2017, de 8 de noviembre, de
+      Contratos del Sector Público.
+
+
+
+
+Ilustración: Solvencia técnica
+
+
+
+
+Criterios de selección de invitación a segunda fase
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                       Pág. 30 de 56
+El criterio o los criterios se utilizarán (únicamente) para seleccionar a los candidatos que serán
+invitados a la segunda fase del procedimiento (si se ha fijado un número máximo de
+candidatos).
+
+Se puede indicar en criterios definidos a nivel de lote o a nivel de procedimiento.
+
+
+
+
+Ilustración: Criterios de selección invitación segunda fase
+
+Se indicará si se usa o no para seleccionar a los candidatos en los siguientes procedimientos,
+siempre que se indique el número máximo de candidatos que debe invitarse a la segunda fase
+del procedimiento y aplique las Directivas de Contratación 2014/24, 2014/25 o 2009/81:
+
+          •         Restringido
+
+          •         Licitación con negociación
+
+          •         Dialogo competitivo
+
+          •         Asociación para la innovación
+
+          •         Concurso de proyectos restringido
+
+Esta característica se podrá indicar en los siguientes requisitos de participación:
+
+          •      Capacidad de contratar (excepto los correspondientes a contratos reservados,
+          códigos 11, 14, 16 y 17)
+
+          •         Solvencia económica o financiera
+
+          •         Solvencia técnica o profesional
+
+          •         Habilitación empresarial o profesional
+
+          •         Experiencia
+
+
+
+Guía de Publicación de la convocatoria de la licitación                          Pág. 31 de 56
+          •         Empleados
+
+3.3.8.2 Limitación del número de licitadores a los que invitará
+La lista reducida de invitados es utilizada en los procedimientos restringidos para expresar las
+normas que se han utilizado, por el Órgano de Contratación, para invitar a los empresarios
+seleccionados.
+
+
+
+
+                    Ilustración: Detalle del formulario “lista reducida de invitados”
+
+
+Los campos de esta parte de la pantalla son:
+
+
+              ELEMENTO                                                DESCRIPCIÓN
+
+      Descripción                      Una descripción literal de las condiciones que se han utilizado para invitar a las
+                                       empresas.
+
+      Número Previsto                  Número de licitadores previstos.
+
+      Número Máximo                    Número Máximo de licitadores invitados.
+
+      Número Mínimo                    Número Mínimo de licitadores invitados.
+
+
+
+Cuando se hace uso de la Directiva 2014/24 y no se trata de contratos que tengan por objeto
+los servicios sociales y otros servicios específicos enumerados en el anexo IV de la Ley 9/2017
+de Contratos del Sector Público) se marcará la negociación innecesaria y será obligatorio
+para: Licitación con negociación, Dialogo competitivo, Asociación para la innovación.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                              Pág. 32 de 56
+-
+
+3.3.9         Motivos de exclusión
+
+Informar al menos un Motivo de Exclusión es obligatorio en los expedientes de la directiva:
+'2014/24/EU' y CPV que no pertenezca al Anexo IV de la Ley 9/2017 de Contratos del Sector
+Público.
+
+La descripción es obligatoria para cada código de motivo de exclusión rellenado.
+
+
+
+
+                    Ilustración: Motivos de exclusión.
+
+Para incorporar motivos de exclusión al expediente, se marcará un motivo de exclusión de la
+lista, se rellenará la descripción y se pulsará el botón “Añadir”.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                     Pág. 33 de 56
+                    Ilustración: Motivo de exclusión: Insolvencia.
+
+Se pueden eliminar utilizando el botón “Eliminar”.
+
+
+
+3.3.10        Condiciones de adjudicación
+En las Condiciones de adjudicación se puede informar de los siguientes elementos:
+                   Garantías: para especificar el importe o porcentaje de las garantías a constituir
+                  por parte de los licitadores, así como el plazo de constitución en su caso.
+                  Validez de la oferta: para especificar el tiempo durante el que el licitador debe
+                  mantener su oferta.
+                   Criterios de adjudicación: para especificar los criterios en virtud de los cuales
+                  se procederá a la adjudicación del contrato.
+             
+3.3.10.1            Garantías
+Garantías, incluye tres apartados en los que, tanto los campos como la forma de operar es
+idéntica. Los tres apartados son:
+                    Garantía Provisional
+                    Garantía Definitiva
+                    Garantía Complementaria
+
+Los órganos de contratación pueden exigir a los licitadores la constitución de una Garantía
+Provisional que responda del mantenimiento de sus ofertas hasta la adjudicación del
+contrato.
+
+La Garantía Definitiva tiene como fin asegurar la correcta ejecución del contrato durante el
+periodo de ejecución del mismo, incluyendo las prórrogas.
+
+Los órganos de contratación pueden exigir (solo en casos especiales), una garantía adicional
+(Garantía Complementaria), que eleva el tope de la Garantía Definitiva hasta un máximo
+del 10%.
+
+La forma de operar en los tres apartados de las Garantías es la misma.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                             Pág. 34 de 56
+Ilustración: Pantalla para la inserción de datos de los diferentes tipos de garantías
+
+
+Los campos de los formularios son comunes a las tres garantías y son los siguientes:
+
+
+
+        ELEMENTO                                              DESCRIPCIÓN
+      Importe                Importe en euros de la garantía, excluidos impuestos
+
+      Porcentaje             El porcentaje de la Garantía Provisional, no puede ser superior al 3% del
+                             presupuesto del contrato
+                             El Porcentaje de la Garantía Definitiva, no puede ser superior al 5% sobre el
+                             importe de adjudicación.
+                             El Porcentaje de la Garantía Complementaria, no puede ser superior al 10 % sobre
+                             el importe de adjudicación.
+
+      Fecha                  Fecha de la constitución de la garantía.
+
+      Duración               Duración de la garantía en años, meses o días.
+
+
+Los campos “Importe” y “Porcentaje”, son excluyentes entre sí. Solo se puede elegir uno de
+ellos. Lo mismo sucede con “Fecha” y “Duración”.
+
+
+3.3.10.2            Validez de la oferta
+Se expresa el plazo de validez de la oferta introduciendo una fecha límite o bien una duración
+desde la fecha de publicación del anuncio.
+Los campos a informar son:
+
+      ELEMENTO                                                DESCRIPCIÓN
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                        Pág. 35 de 56
+     Fecha               Fecha hasta la que se debe mantener la oferta por parte del licitador.
+
+     Duración            Período de tiempo que se debe mantener la oferta por parte del licitador. Está especificada
+                         en años, meses o días. La Fecha y la Duración son mutuamente excluyentes.
+
+
+
+3.3.10.3            Criterios de adjudicación
+
+En esta parte del formulario, se detallan los criterios a utilizar para la valoración de las ofertas
+y la correspondiente adjudicación de la licitación.
+Debe existir al menos un criterio de adjudicación sin aplica una directiva.
+
+
+
+
+              Ilustración: Validez de oferta
+
+Pulsando sobre el enlace “Criterios de adjudicación” se accede a una tabla en la que se
+pueden ir introduciendo criterios de adjudicación Cuantificables Automáticamente, o criterios
+de adjudicación evaluables mediante Juicio de Valor.
+
+En la parte superior se muestran tres enlaces “Todos” / “Cuantificables Automáticamente” /
+“Juicio de Valor” que permiten seleccionar qué tipo de criterios se desean visualizar.
+
+
+
+
+Ilustración: Criterios adjudicación
+
+Para introducir un nuevo criterio de adjudicación se deberá pulsar el botón “Nuevo criterio”.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                           Pág. 36 de 56
+Ilustración: Nuevo criterio de adjudicación
+
+
+Los campos a rellenar en “Criterios adjudicación” son:
+
+
+    ELEMENTO                                               DESCRIPCIÓN
+
+ Tipo de criterio        Desplegable que permite indicar si el criterio es cuantificable automáticamente o
+                         evaluable mediante juicio de valor.
+
+ Subtipo           de    Cuando el tipo de criterio es cuantificable automáticamente se deberá indicar si se
+ criterio                trata del precio o de otro criterio.
+
+ Descripción             Descripción del criterio de adjudicación.
+
+ Ponderación             Ponderación del criterio.
+
+ Mínimo                  Cantidad que define el límite inferior del rango
+
+ Máximo                  Cantidad que define el límite superior del rango
+
+ Expresión               Expresión utilizada en la ponderación.
+
+
+Una vez que se introduce un criterio, se puede modificar pulsando en su descripción, o
+eliminar mediante el botón “eliminar” que aparece en la parte derecha de la tabla.
+
+
+
+
+Ilustración: Lista de criterios de adjudicación
+
+3.3.11        Condiciones de ejecución
+
+En las “Condiciones de ejecución” se pueden especificar las condiciones de ejecución del
+contrato como pueden ser:
+
+          -    Si se hará uso del pedido electrónico, la factura electrónica, o el pago electrónico.
+          -    Las condiciones financieras, en caso de ser obligatorio rellenarlas.
+          -    La forma jurídica del licitador, en caso de tener que rellenarse.
+          -    El lugar de entrega de las mercancías o ejecución de las obras o servicios.
+          -    El plazo de entrega de las mercancías o ejecución de las obras o servicios.
+          -    El porcentaje o importe de la subcontratación que se permite, si la hubiere.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                         Pág. 37 de 56
+       Los elementos que se deben informar sobre las condiciones de ejecución para publicar
+el anuncio de licitación son los siguientes:
+
+^ Condiciones de ejecución  ^ Pedido electrónico, factura electrónica y pago electrónico
+
+    Es obligatorio indicar si se permitirá o no la factura electrónica para la directiva '2014/24/EU'
+    cuando el CPV no pertenece al Anexo IV de la Ley 9/2017 de Contratos del Sector Público.
+
+
+
+
+                                        Ilustración: Condiciones de ejecución
+
+
+
+^ Condiciones de ejecución  ^ Condiciones financieras
+
+    Para especificar la principal información sobre la financiación y el pago, o referencia a las
+    disposiciones que las rigen. Se debe informar cuando aplique la directiva 2014/25 y el
+    contrato no corresponda a los recogidos en el Anexo I del Real Decreto-Ley 3/2020 o
+    aplique la Directiva 2009/81.
+
+
+
+
+                                               Ilustración: Condiciones financieras
+
+
+
+^ Condiciones de ejecución  ^ Forma jurídica del licitador
+
+    Un grupo de licitadores a los que se adjudique un contrato debe adoptar una determinada
+    forma jurídica. Se debe introducir cuando aplique la directiva 2014/25 y el contrato no
+    corresponda a los recogidos en el Anexo I del Real Decreto-Ley 3/2020 o aplique la
+    Directiva 2009/81.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                               Pág. 38 de 56
+    Debe rellenarse la descripción de la forma jurídica que debe adoptar un grupo de licitadores
+    a los que se adjudique un contrato cuando se informe a el valor “verdadero” para la forma
+    jurídica del licitador.
+
+
+
+
+                                              Ilustración: Forma jurídica del licitador
+
+
+
+    ^ Condiciones de ejecución  ^ Emplazamiento y ^ Dirección
+
+
+      Para especificar datos sobre el emplazamiento y el lugar de entrega de las
+mercancías o de ejecución de obras o servicios.
+
+
+
+
+          Ilustración: Datos de emplazamiento y dirección
+Los datos que se deben rellenar son los siguientes:
+       ELEMENTO                                                DESCRIPCIÓN
+     Descripción             Descripción del emplazamiento donde entregar las mercancías o ejecutar las obras
+                             o servicios. Esta descripción se mostrará en el BOE.
+     Condiciones             Condiciones adicionales sobre el emplazamiento. (Opcional)
+     Calle                   Dirección donde entregar las mercancías o ejecutar obras o servicios.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                         Pág. 39 de 56
+     CP                      Código postal de la dirección donde entregar las mercancías o ejecutar obras o
+                             servicios.
+     Población               Población de la dirección donde entregar las mercancías o ejecutar obras o
+                             servicios.
+
+^ Condiciones de ejecución  ^ Plazo de ejecución y ^ Extensión
+
+El contrato podrá prever una o varias prórrogas siempre que sus características permanezcan
+inalterables durante el periodo de duración de éstas y que la concurrencia para su
+adjudicación haya sido realizada teniendo en cuenta la duración máxima del contrato,
+incluidos los periodos de prórroga. La prórroga debe ser justificada, sin que pueda exceder
+los límites que señala la ley.
+
+
+
+
+Ilustración: Pantalla de inserción de datos sobre el plazo de ejecución y extensión
+
+
+Los campos a rellenar son:
+
+
+             ELEMENTO                                               DESCRIPCIÓN
+
+           Fecha inicio            Fecha inicial de ejecución.
+
+           Fecha final             Fecha final de ejecución.
+
+           Duración                Duración de la ejecución, en años, meses o días. La Duración y las Fechas son
+                                   mutuamente excluyentes.
+
+           Justificación           Texto libre para la justificación de la duración del contrato
+           duración      del
+           contrato
+
+
+^ Condiciones de ejecución  ^ Opciones y Prórrogas
+
+En esta sección del formulario se incluye, en su caso, la información relativa a las posibles
+opciones y prorrogas. Es obligatorio indicar la descripción de las prórrogas si se indica que el
+Número Máximo de prórrogas es mayor que cero.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                            Pág. 40 de 56
+Ilustración: Opciones y prorrogas
+
+Los campos a informar son:
+
+
+       ELEMENTO                                                    DESCRIPCIÓN
+
+     Plazo                 Texto libre para describir los plazos
+
+     Descripción           Texto libre para describir las opciones y prorrogas.
+
+
+
+
+^ Condiciones de ejecución  ^ Subcontratación
+
+En esta sección del formulario se incluye, en su caso, la información relativa a la
+subcontratación permitida en la licitación.
+
+
+
+
+Ilustración: Condiciones de Subcontratación.
+
+
+Los campos a informar son:
+
+
+       ELEMENTO                                                    DESCRIPCIÓN
+
+     Porcentaje            Porcentaje de la licitación permitida para ser subcontratada. El Porcentaje y el Importe
+                           son mutuamente excluyentes.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                          Pág. 41 de 56
+     Importe               Cantidad fija en euros que puede ser subcontratada.
+
+     Descripción           Detalles adicionales que debe cumplir la subcontratación.
+
+
+3.2.10. Condiciones especiales de ejecución
+
+El artículo 118 del RD Legislativo 3/2011 establece que el órgano de contratación puede
+establecer condiciones especiales en relación con la ejecución del contrato, siempre que sean
+compatibles con el derecho comunitario y se indiquen en el anuncio de licitación y en el pliego
+o en el contrato.
+
+En este apartado se pueden detallar estas condiciones especiales de ejecución para que
+aparezcan en los anuncios, pudiendo seleccionar cualquiera de las establecidas como válidas
+en el citado art. 118 con una explicación adicional.
+
+Para introducir una condición especial de ejecución se deberá seleccionar un tipo, introducir
+una descripción y pulsar el botón “Añadir”.
+
+
+
+
+Ilustración: Condiciones especiales de ejecución
+
+3.3.12        Contratación estratégica
+
+El procedimiento de contratación pública tiene por objeto reducir el impacto medioambiental
+de la contratación, cumplir objetivos sociales o comprar obras, suministros o servicios
+innovadores.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                Pág. 42 de 56
+                                          Ilustración: Contratación estratégica.
+
+
+
+
+                                 Ilustración: Contratación estratégica. Continuación.
+
+Directiva sobre vehículos limpios
+
+
+Se indicará si en la licitación aplica o no aplica la Directiva 2019/1161 sobre vehículos limpios.
+Para la directica de aplicación '2014/24/EU' cuando el CPV no pertenece al Anexo IV de la
+Ley 9/2017 de Contratos del Sector Público y ‘’2014/25/EU' cuando el CPV no pertenece al
+Anexo I del Real Decreto-ley 3/2020, será obligatorio rellenarla.
+En caso de aplicar, se indica en qué términos:
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                 Pág. 43 de 56
+-    aplica la Directiva de vehículos limpios para otros contratos de servicios
+-    aplica la Directiva de vehículos limpios respecto a la compra, arrendamiento o alquiler de
+     vehículos
+
+
+
+
+                                     Ilustración: Directiva sobre vehículos limpios
+
+
+
+
+3.3.13        Preparación de los sobres de la oferta
+Esta sección permite crear y configurar los distintos sobres que deberán presentarse para
+acceder a la licitación. En caso de reseñarse, esta Información aparecerá en los distintos
+documentos que se publiquen en la Plataforma (Pliegos, Anuncios, etc.)
+
+
+
+
+Ilustración: Extracto de pliego
+
+
+En la ilustración se muestra un extracto de un documento “Pliegos” donde podemos observar
+la información relativa a los sobres.
+El “Sobre A” está asociado con el evento de apertura de la oferta económica y el “Sobre C”
+con el evento de apertura del sobre técnico.
+
+Para crear los sobres debemos pulsar el botón “Nuevo Sobre” y rellenar los datos solicitados
+en el formulario. Una vez insertados los datos pulsamos el botón “Aceptar” y a continuación
+el botón “Guardar Licitación”.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                               Pág. 44 de 56
+Ilustración: Creación sobre
+
+
+El formulario se compone de los siguientes elementos:
+
+
+         ELEMENTO                                                   DESCRIPCIÓN
+
+     *Sobre                     Identifica el “alias” con el que identificar al sobre.
+
+     *Tipo de sobre             Tipo de oferta que irá en el sobre. Puede ser documentación adicional o
+                                administrativa, oferta económica o técnica.
+
+      Evento                    Lista de valores del evento de apertura de sobres. Muestra una lista con los eventos
+                                de apertura creados en la pestaña Resumen Licitación  Condiciones presentación
+                                de ofertas  Evento de apertura de oferta.
+
+      Descripción               Texto adicional para aclaraciones del sobre.
+
+      Lotes por asignar         En el caso de licitaciones con lotes, aparecerán los lotes que no han sido incluidos
+                                aún en el sobre. Si la licitación no tiene lotes aparecerá el literal “Toda la licitación”.
+
+      Lotes en el sobre         A este cuadro se deberán pasar los lotes que irán asociados al sobre o “Toda la
+                                licitación”, en caso de ser una licitación sin lotes.
+
+
+3.3.14        Contactos
+
+La pestaña de Contactos contiene la información de contactos de la licitación.
+
+En general, la información de contactos se hereda del Perfil del Contratante del órgano de
+contratación, si bien en esta pestaña se puede completar o modificar para personalizarla para
+una licitación concreta.
+
+Contiene diferentes epígrafes desplegables con información sobre el proveedor de pliegos,
+de información adicional, la recepción de ofertas, los recursos:
+
+
+
+
+Ilustración: Pestaña contactos
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                                Pág. 45 de 56
+Es obligatorio informar la Dirección para la Recepción de Recursos (Nombre, País,
+Localidad) si se hace uso de una Directiva Europea de Contratación (2009/81, 2014/23,
+2014/24, o 2014/25) es obligatorio indicar el organismo receptor de recursos.
+
+3.3.15        Configuración de lotes y entregables
+
+En este apartado revisaremos el tratamiento de lotes y entregables de una licitación.
+
+3.3.15.1            Configuración de Lotes
+Si queremos configurar lotes, debemos situarnos en la pestaña PPT. Una vez aquí se debe
+marcar la opción “Utilizar Lotes  Sí “
+
+Cuando la licitación consta de lotes, se debe introducir información adicional:
+
+         Se debe ofertar a: Es obligatorio indicar si los licitadores que deseen participar en el
+          procedimiento deberán presentar ofertas a todos los lotes, si sólo podrán optar por
+          presentarse a un único lote, y si tienen libertad para elegir a qué lotes se quieren
+          presentar (Uno o varios lotes)
+         Número de lotes a los que puede ofertar: Si el licitador puede ofertar a uno o varios
+          lotes, se podrá indicar a cuántos lotes se puede ofertar, si hubiera un máximo
+          establecido
+         Número máximo de lotes que pueden adjudicarse a un único licitador: Si existiera
+          esta restricción
+         El poder adjudicador se reserva el derecho de adjudicar contratos que combinen
+          lote o grupos de lotes: Se podrá introducir un texto explicativo si hubiera alguna
+          consideración al respecto
+
+
+
+
+Ilustración: Utilización de lotes
+
+Los campos que se han de rellenar son:
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                           Pág. 46 de 56
+           ELEMENTO                                                 DESCRIPCIÓN
+
+     * Número de Lote              Identifica el lote. Sólo se aceptan caracteres numéricos, guiones (-) y barra (/).
+
+     * Título                      Título del lote
+
+     * Descripción                 La descripción de la naturaleza y cantidad de lo que se está comprando o de las
+                                   necesidades y requisitos que deben satisfacerse en este lote.
+
+     * Valor estimado              El valor estimado del lote durante toda su duración, incluidas las opciones y las
+                                   renovaciones.
+
+     * Importe                     Hay dos casillas referentes al importe del lote. Una es Importe (sin impuestos) y
+                                   la otra Importe (con impuestos). La Plataforma valida que la suma de los
+                                   respectivos importes de todos los lotes, no sea superior al presupuesto base de
+                                   licitación.
+
+     Selección del CPV             En el momento de crear el lote, el código CPV que aparece es el copiado del EVL.
+                                   Aunque se puede quitar este CPV o se pueden añadir más códigos CPV’s.
+
+     Lugar de ejecución            Código NUTS correspondiente al lugar de ejecución del lote
+
+
+Una vez introducidos los datos relativos al lote, explicados a la tabla anterior, se debe pulsar
+el botón “Aceptar Lote” y el lote se creará apareciendo en la tabla “Descripción de lotes” el lote
+creado.
+
+Para seguir insertando lotes se debe operar del mismo modo.
+
+Si en el momento de la creación del lote se decidiese no continuar con la creación del mismo
+se deberá pulsar el botón “Cancelar Lote”.
+
+Una vez que el lote se ha grabado y está listado en la tabla “Descripción de lotes” podríamos
+proceder a eliminar el mismo mediante la pulsación del enlace “eliminar”. Observando como el
+lote desaparece de la tabla.
+
+Para editar los datos de un lote: cambiar la descripción, importe o modificación de los códigos
+CPV, debe pulsar sobre la descripción del mismo. Una vez que se han realizado los cambios
+necesarios se pulsará el botón “Aceptar Lote” y los datos se habrán grabado.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                              Pág. 47 de 56
+Ilustración: Detalle del lote
+
+
+
+3.3.15.2            Configuración de Entregables
+Puede darse el caso de que la licitación o el lote contengan entregables.
+
+Si la licitación no tiene lotes y queremos configurar entregables, debemos situarnos en la
+pestaña PPT. Una vez aquí se debe marcar la opción “Utilizar Lotes  No “ y pulsar el botón
+“Nuevo Entregable”.
+
+
+
+
+Ilustración: Configuración de entregables
+
+Sin embargo, para dar de alta un entregable dentro de un lote debe partir del formulario de
+edición o alta de un lote y pulsar el botón “Nuevo Entregable” habilitándose un formulario
+adicional bajo el título “Detalle entregable”.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                     Pág. 48 de 56
+Ilustración: Detalle de entregable asociado a un lote
+                                                             .
+
+
+Los elementos que se pueden introducir para cada entregable son los siguientes:
+
+              ELEMENTO                                              DESCRIPCIÓN
+
+                                     Descripción textual genérica de este entregable.
+      *Descripción
+                                     Sección para especificar la cantidad solicitada de este entregable. Puede
+      Cantidad                       ser: Variable, en cuyo caso hay que especificar un rango de valores mínimo
+                                     y máximo o, Fija, en cuyo caso se debe especificar la cantidad solicitada.
+
+                                     Sección para especificar el plazo de ejecución o entrega de este entregable.
+      Plazo de ejecución             Puede ser: Intervalo, en cuyo caso se debe especificar las fechas de inicio
+                                     y final o Duración, en cuyo caso se debe especificar la cantidad de unidades
+                                     de tiempo (días, meses o años)
+
+                                     Importe sin impuestos para este entregable.
+      Importe
+
+Además de estos datos se pueden especificar con mayor nivel de detalle cada uno de los
+entregables. Para ello existen dos secciones dónde insertar dichos datos:
+
+                      Especificación: para incorporar información de especificaciones técnicas del
+                   entregable, o
+
+                      Descripción del producto: para licitaciones de suministros se puede utilizar esta
+                   sección para identificar de forma precisa los distintos productos a suministrar.
+
+A continuación pasamos a detallar cada uno de estos apartados:
+
+Nuevo Entregable                  Especificación
+
+        En esta sección se pueden detallar las especificaciones técnicas de un entregable.
+
+              Introduciendo los campos “Información adicional” y/o “Códigos CPV”.
+              Anexando un fichero descriptivo en “ Documento Especificación”.
+
+Los elementos que se pueden introducir para cada entregable son los siguientes:
+
+
+Guía de Publicación de la convocatoria de la licitación                                           Pág. 49 de 56
+                       ELEMENTO                                            DESCRIPCIÓN
+
+                                            Descripción textual de las especificaciones técnicas para este entregable.
+                    Información
+                    Adicional
+                                            Códigos del Common Procurement Vocabulary asignados a este
+                    Selección CPV
+                                            entregable. Se puede introducir más de un CPV para cada entregable.
+
+                                            Subida de un documento de especificaciones técnicas asociado a un
+                    Documento
+                                            entregable.
+                    Especificación
+
+
+
+Nuevo Entregable                  Descripción de Producto
+
+Descripción detallada del producto a entregar. Se puede informar sobre el “Nombre”, la “Marca”,
+el “Modelo” o insertar la descripción en cualquiera de los formatos que a continuación se
+detallan:
+
+                  Descripción por código de producto
+                  Descripción por propiedades
+                  Descripción mediante fichero adjunto
+
+
+
+Los campos son los que se indican a continuación:
+
+
+                 ELEMENTO                                            DESCRIPCIÓN
+                                       Informar del nombre genérico del producto
+        Nombre
+
+                                       Para especificar, la marca del producto, si se exige que dicho producto
+        Marca
+                                       sea de una marca específica.
+
+                                       Para especificar el modelo del producto, si se exige que dicho producto
+        Modelo
+                                       sea de un modelo específico.
+
+                                       Descripción textual del producto.
+        Descripción
+
+                                       Identificación del producto mediante el código EAN.
+        Código EAN
+
+                                       Lista de propiedades asociadas al producto. Se puede especificar el:
+        Propiedades
+                                            a) Nombre de la propiedad
+                                            b) El valor de la propiedad
+                                       Sirve para identificar propiedades que no sean dimensiones, como por
+                                       ejemplo el color.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                            Pág. 50 de 56
+                                       Lista de dimensiones asociadas al producto. Se puede especificar:
+        Dimensiones
+                                            a. Nombre de la dimensión
+                                            b. El valor de la dimensión
+                                            c. La unidad de medida de la dimensión
+                                       Sirve para identificar dimensiones como por ejemplo el peso, la altura,
+                                       etc.
+
+
+
+                                       Se puede adjuntar un fichero que describa el producto.
+        Documento adjunto
+                                       Una vez anexado el documento se puede pinchar en el enlace que
+                                       aparece y visualizar/descargar dicho documento.
+
+
+
+
+Ilustración: Detalle de un nuevo entregable, sea o no perteneciente a un lote. Se pueden ver las dos
+secciones ^Especificación y ^ Descripción de producto y todos los campos de que constan.
+
+
+
+Tras insertar los datos y pulsar el botón “Aceptar Entregable” se observa cómo se crea una
+línea nueva en la tabla “Descripción de entregables” con la descripción del entregable. Para editar
+de nuevo el entregable se debe pulsar sobre la descripción del mismo y para eliminar el
+entregable se deberá pulsar el enlace “eliminar”.
+
+
+Guía de Publicación de la convocatoria de la licitación                                           Pág. 51 de 56
+4 Publicación de pliegos
+Una vez publicado el anuncio de licitación, y hasta la fecha límite de presentación de
+solicitudes de participación o de recepción de ofertas, es posible publicar los pliegos en el
+perfil del contratante (en determinados casos es obligatoria la publicación para los órganos de
+contratación del Sector Público Estatal2), permitiendo así la difusión de los mismos a todo
+aquél que desee consultarlos, en especial a los operadores económicos interesados.
+
+Para que los pliegos puedan finalmente publicarse en Plataforma se ha de tener en
+cuenta que:
+
+       1. La publicación de los pliegos de prescripciones técnicas nunca es independiente
+          de la relativa a los pliegos de cláusulas administrativas y viceversa, así pues, se
+          publican en bloque, aunque la información de cada uno de ellos esté ligada a dos
+          pestañas independientes. Ello supone que, por ejemplo, si sólo se ha anexado el
+          pliego de prescripciones técnicas no podrá hacerse efectiva la publicación de pliegos
+          en plataforma, mientras que no se adjunte también la información relativa a los
+          pliegos de cláusulas administrativas particulares.
+
+       2. Para poder publicar los pliegos es necesario haber realizado con anterioridad la
+          publicación del anuncio de licitación en Plataforma, salvo que el procedimiento
+          sea un negociado sin publicidad, en cuyo caso la Plataforma habilita la posibilidad
+          de publicar los pliegos sin el requisito previo de publicación de anuncio de licitación.
+
+
+       3. Se debe tener en cuenta que, si el anuncio de licitación se envió al DOUE a través
+          de la Plataforma, la convocatoria no se hará pública hasta que el DOUE confirme
+          que ha publicado el anuncio o hasta al menos 48 horas desde el acuse de recepción
+          del mismo. Los pliegos no se podrán publicar hasta que el anuncio de licitación se
+          haya publicado efectivamente en el perfil del contratante. La Plataforma avisa por
+          correo electrónico al usuario que tienen asignada la licitación cuando se produce
+          este evento.
+
+A continuación, se detalla el proceso de publicación de pliegos.
+
+Los documentos pliegos, al igual que cualquier otro documento susceptible de difusión pública
+a lo largo del proceso de licitación, se publican en la pestaña Resumen.
+
+Para publicar los pliegos, seleccionamos el valor “publicar” del control selectivo y pulsamos el
+enlace “Aceptar “
+
+
+
+
+2
+  Real Decreto 814/2015 “Disposición adicional segunda. Publicación de los pliegos en la Plataforma de Contratación del Sector
+Público. Los órganos de contratación del sector público estatal deberán publicar los pliegos de cláusulas administrativas
+particulares y los pliegos de prescripciones técnicas que hayan de regir la adjudicación de los contratos a que se refiere el artículo
+40.1 del texto refundido de la Ley de Contratos del Sector Público, en la Plataforma de Contratación del Sector Público.”
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                                       Pág. 52 de 56
+Ilustración: Publicación del pliego
+
+Una vez publicados los documentos de pliegos, se habilitan varios enlaces bajo la cabecera
+“Ver Documentos” de la tabla “Resumen”, dónde se puede ver el documento de pliegos publicado
+en tres formatos diferentes: “Html”, ”pdf”, ”Xml”. Hay un cuarto enlace denominado ”Sello de Tiempo”
+dónde un tercero (la FNMT) certifica el momento de la publicación de los documentos en la
+plataforma.
+
+La siguiente imagen muestra el aspecto de un “Documento de Pliegos”. Como se puede observar
+en los campos correspondientes al PPT y al PCAP aparecen enlaces a los documentos que
+el usuario ha anexado en las pestañas PPT y PCAP.
+
+La información sobre la financiación de fondos europeos asociados al plan de recuperación,
+transformación y resiliencia aparece al final de la última pagina
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                           Pág. 53 de 56
+Ilustración: Parte de un Documento de Pliegos abierto en pdf
+
+
+
+Para hacer públicos estos documentos se deben seguir estos pasos:
+
+     1. Subir a la Plataforma los pliegos y anexos.
+     2. Publicar el documento Pliegos una vez realizado el paso anterior.
+
+Cada uno de los pliegos va ligado a una pestaña, esto es, los pliegos de prescripciones
+técnicas están vinculados con la pestaña PPT, los de cláusulas administrativas particulares
+con la pestaña PCAP, y cualquier otro documento necesario para el proceso irá en la pestaña
+Anexos Pliego.
+Las posibles formas de introducir los pliegos o información sobre los mismos en la Plataforma
+son:
+                  Anexando el pliego como documento.
+                  Haciendo referencia a una URL.
+A continuación, se explicará cada uno de ellos.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                     Pág. 54 de 56
+4.1     Anexando documento PPT, PCAP y Anexos Pliegos
+
+Para insertar el pliego mediante un documento, nos situamos en la pestaña que corresponda,
+PPT o PCAP, dependiendo del pliego que queramos anexar.
+
+Una vez situados en el área correspondiente debemos seleccionar el valor “Documento” y pulsar
+el botón “Anexar”. Tras estas acciones se abrirá una ventana emergente que nos permitirá
+elegir el documento a anexar. Pulsando el botón “Examinar” accedemos a las carpetas de
+nuestro ordenador permitiendo la navegación hasta llegar a la ubicación del documento que
+queremos anexar. A continuación, pulsamos el botón “Anexar” y si todo es correcto el
+documento se habrá subido a la Plataforma. En caso contrario, un mensaje en color rojo nos
+informará sobre el tipo de error que se ha producido.
+
+
+
+
+Ilustración: Anexando un documento
+
+Tras anexar el documento se recomienda pulsar el botón “Guardar Licitación” para hacer
+permanentes los cambios.
+
+La forma de proceder para incluir aquellos documentos que se desea publicar como Anexos
+a los Pliegos, es similar a la ya explicada para las pestañas PPT y PCAP. Partiendo de la
+pestaña Anexos Pliego primero pulsamos el botón “Nuevo documento”.
+
+
+
+
+Ilustración: Detalle para incluir documentos anexos a los pliegos
+
+Una vez anexado el documento, hay que añadirlo al listado de documentos anteriormente
+anexados mediante la pulsación del botón “Añadir Documento”.
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                     Pág. 55 de 56
+Ilustración: Añadir documento
+
+
+Pulsando el botón “Añadir documento” se sube de forma permanente el documento anexado.
+
+Existe la posibilidad de cancelar la subida del documento mediante la pulsación del botón
+“Cancelar” y de eliminar luego el documento subido mediante la pulsación del enlace “eliminar“.
+
+
+
+
+Ilustración: Añadimos más documentos mediante la pulsación del botón “Nuevo Documento”.
+
+
+
+4.2     Haciendo referencia a una URL
+
+Si en vez de anexar un documento se desea referenciar una URL dónde se encuentran los
+pliegos alojados, se puede hacer seleccionando el botón “URL” (Para añadir documentos
+hemos elegido “Documento”). Una vez elegido el valor “URL” en el cuadro de texto asociado
+se debe introducir la url destino de la ubicación de los pliegos. Tendrá que asegurarse de
+escribir correctamente la URL y de que el documento sea accesible y de acceso libre y público.
+
+Nota: En el caso de publicar referencias a URL externas, es responsabilidad del órgano de contratación: 1º - No
+especificar una url genérica apuntando al sitio (Ej. www.sitio.es), sino al documento en cuestión (Ej.
+www.sitio.es/PPT_Exp_33.pdf). 2º- Mantener los documentos de pliegos en dicha ubicación durante el tiempo que
+éstos deban estar disponibles para los operadores económicos.
+
+IMPORTANTE: La Plataforma no puede garantizar la correspondencia entre los datos informados de forma
+estructurada en el expediente y la información narrativa de los documentos de pliegos. El Órgano de Contratación,
+debe asegurar que no existen contradicciones entre ambos modelos de información (fechas, importes, descripción
+de elementos, etc.)
+
+
+
+
+Guía de Publicación de la convocatoria de la licitación                                      Pág. 56 de 56
+

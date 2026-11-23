@@ -1,0 +1,2006 @@
+          Guía de Servicios de Licitación
+           Electrónica para Órganos de
+                  Contratación I
+           Configuración de la Licitación
+
+
+
+
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+                                                                           Versión: 3.2
+
+                                                                      Fecha: 15/06/2023
+Edita:
+© Ministerio de Hacienda y Función Pública
+Dirección General del Patrimonio del Estado
+Subdirección General de Coordinación de la Contratación Electrónica
+
+
+
+
+El presente documento está bajo la licencia Creative Commons Reconocimiento - No
+Comercial - Compartir Igual versión 4.0 España.
+Usted es libre de:
+- Copiar, distribuir y comunicar públicamente la obra
+- Hacer obras derivadas
+Bajo las condiciones siguientes:
+- Reconocimiento. Debe reconocer los créditos de la obra de la manera especificada por el
+autor o el licenciador (pero no de una manera que sugiera que tiene su apoyo o apoyan el
+uso que hace de su obra).
+- No Comercial: Se permite que terceros copien, distribuyan, exhiban y ejecuten la obra
+licenciada —y obras derivadas basadas en ella— pero sólo para fines no comerciales.
+- Compartir bajo la misma licencia. Si altera o transforma esta obra, o genera una obra
+derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta
+obra.
+Alguna de estas condiciones puede no aplicarse si se obtiene el permiso del titular de los
+derechos de autor
+Nada en esta licencia menoscaba o restringe los derechos morales del autor.
+Esto es un resumen legible por humanos del texto legal (la licencia completa) disponible en:
+
+https://creativecommons.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                         Pág. 2 de 56
+ÍNDICE
+
+
+1.       INTRODUCCIÓN ............................................................................................................................ 5
+2.       SERVICIOS ORIENTADOS AL ÓRGANO DE CONTRATACIÓN I .............................................. 6
+     2.1     CONFIGURACIÓN DE LA LICITACIÓN. ........................................................................................... 6
+     2.2     CONFIGURACIÓN DE LA LICITACIÓN A PARTIR DE UNA YA EXISTENTE. ........................................... 9
+     2.3     CONDICIONES DE PRESENTACIÓN DE OFERTA. ........................................................................ 10
+     2.3.1 FORMAS DE PRESENTACIÓN.................................................................................................... 11
+     2.3.1.1    FORMA DE PRESENTACIÓN ELECTRÓNICA ............................................................................ 11
+     2.3.1.2    FORMA DE PRESENTACIÓN MANUAL Y/O ELECTRÓNICA ......................................................... 12
+     2.3.1.3    FORMA DE PRESENTACIÓN MANUAL .................................................................................... 12
+     2.3.1.4    CUADRO RESUMEN ............................................................................................................ 13
+     2.3.1.5    REFLEJO EN LA PLATAFORMA .............................................................................................. 13
+     2.3.2 ASIGNACIÓN DE UN ÓRGANO DE ASISTENCIA ........................................................................... 13
+     2.3.3 FECHAS ................................................................................................................................. 18
+     2.3.4 EVENTOS ............................................................................................................................... 19
+     2.3.4.1    EVENTOS DE APERTURA DE LA OFERTA ECONÓMICA. ............................................................ 21
+     2.3.4.2    OTROS EVENTOS ............................................................................................................... 21
+     2.4     LOTES.................................................................................................................................... 22
+     2.5     OFERTAS INTEGRADORAS ....................................................................................................... 25
+     2.6     INFORMACIÓN SOBRE FINANCIACIÓN EUROPEA ......................................................................... 25
+     2.7     REQUISITOS DE PARTICIPACIÓN. FORMAS DE ACREDITACIÓN. .................................................... 26
+     2.7.1 CARACTERÍSTICAS GENERALES ............................................................................................... 26
+     2.7.2 FORMAS DE ACREDITACIÓN: DOCUMENTO ................................................................................ 28
+     2.7.3 FORMAS DE ACREDITACIÓN: AUTORIZACIÓN PARA CONSULTA A SISTEMAS TERCEROS ................ 31
+     2.7.4 REQUISITOS DE PARTICIPACIÓN EN PROCEDIMIENTOS CON LOTES ............................................. 32
+     2.7.5 ACREDITACIÓN MÚLTIPLE DE REQUISITOS DE PARTICIPACIÓN .................................................... 33
+     2.8     CRITERIOS DE ADJUDICACIÓN. ................................................................................................. 35
+     2.8.1 CARACTERÍSTICAS GENERALES............................................................................................... 35
+     2.8.2 CRITERIOS DE ADJUDICACIÓN EN PROCEDIMIENTOS POR LOTES. ............................................... 38
+     2.9     CONFIGURACIÓN DE SOBRES................................................................................................... 39
+     2.9.1 SEGURIDAD DE LOS SOBRES EN LA PLATAFORMA. ..................................................................... 39
+     2.9.2 CREACIÓN DE UN NUEVO SOBRE. ............................................................................................. 40
+     2.10    PUBLICACIÓN DEL ANUNCIO DE LICITACIÓN Y PLIEGOS. RECTIFICACIONES. ................................. 48
+     2.10.1     PUBLICACIÓN DE LA CONFIGURACIÓN DEL SISTEMA .............................................................. 48
+     2.10.2     RECTIFICACIONES Y ANULACIONES ...................................................................................... 48
+     2.11    PROCEDIMIENTOS POR INVITACIÓN. ......................................................................................... 49
+3.       GLOSARIO DE TÉRMINOS ......................................................................................................... 55
+4.       CONTÁCTENOS .......................................................................................................................... 56
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                                                                       Pág. 3 de 56
+CAMBIOS EN LA VERSIÓN
+
+SE MODIFICAN LAS IMÁGENES DE LAS PÁGINAS 8, 10 Y 24.
+
+
+
+
+Guía de Configuración de la Licitación v3.2            Pág. 4 de 56
+1. INTRODUCCIÓN
+
+El presente documento detalla los Servicios de Licitación Electrónica en la Plataforma de
+Contratación del Sector Público (en adelante Plataforma, o PLACSP) para usuarios de
+Órganos de Contratación.
+
+Básicamente, los servicios de Licitación Electrónica permiten la preparación y presentación
+de ofertas telemáticamente por el licitador, la custodia electrónica de las mismas por el sistema
+y la apertura y evaluación electrónica de la documentación por los miembros del órgano de
+asistencia. Para ello, es preciso que el usuario del órgano de contratación configure el
+procedimiento atendiendo a unas reglas que aplican a licitaciones de carácter
+electrónico.
+
+En concreto, en la presente guía se documenta cómo el órgano de contratación debe
+configurar el procedimiento para permitir la preparación de las licitaciones por el licitador
+mediante la herramienta de preparación y presentación de ofertas. Esta última es una
+aplicación que la Plataforma pone a disposición de las empresas para presentar las
+proposiciones de carácter electrónico.
+
+En lo que se refiere al empleo de estos servicios por el Órgano de Contratación, es
+requisito inexcusable tener alojado su perfil del contratante en la Plataforma de
+Contratación del Sector Público. En cuanto a los requisitos técnicos para su uso son muy
+simples: conexión a Internet, navegador web y certificado electrónico reconocido por la
+Administración General del Estado.
+
+Para la utilización de esta guía es necesario revisar lo especificado en la “Guía de Publicación
+de la Convocatoria de Licitación”, ya que en ésta se describe, en general, la creación del
+expediente de licitación.
+
+En la fase de licitación entra un nuevo actor en acción: los Órganos de Asistencia (OA). Éste
+actor realiza la apertura y calificación de la documentación y valora las ofertas.
+Adicionalmente, el sistema le permite realizar tareas de naturaleza eminentemente
+administrativa, como gestión de convocatorias, sesiones y actas. Se suma, por lo tanto, a los
+Órganos de Contratación (OC) y a los Operadores Económicos (UOE) como destinatarios de
+los servicios que ofrece la Plataforma de Contratación del Sector Público. Tanto los órganos
+de asistencia como los usuarios operadores económicos tienen su propia guía de uso del
+sistema de Licitación Electrónica.
+
+Como norma general se ha ilustrado el procedimiento electrónico para un abierto sin lotes, no
+obstante, se da cobertura a multitud de casuísticas, como procedimientos de adjudicación
+ordinarios y extraordinarios, lotes, concurrencia en UTE, órganos de asistencia permanentes
+(como Juntas de Contratación o Mesas de Contratación de Servicios Centrales) o por cada
+licitación, procedimientos mixtos (manual y/o electrónico), etc.
+
+Por último, cabe destacar que aquellos Órganos de Contratación que utilicen los Servicios de
+Licitación Electrónica de la Plataforma encontrarán automatizada las tareas a efectuar en
+relación con la propuesta de adjudicación dentro de la fase de resolución, con el consiguiente
+ahorro de trabajo.
+
+Existe una segunda parte de esta “Guía de Servicios de Licitación Electrónica para Órganos
+de Contratación”, que se centra en la propuesta de adjudicación y la fase de Resolución.
+
+
+
+Guía de Configuración de la Licitación v3.2                                       Pág. 5 de 56
+2. SERVICIOS     ORIENTADOS                                  AL          ÓRGANO                      DE
+      CONTRATACIÓN I
+2.1       Configuración de la licitación.
+
+La Configuración de la Licitación tiene como objeto registrar en la Plataforma la información
+relativa al procedimiento de contratación, para su publicidad en la convocatoria de licitación y
+en el anuncio de pliegos, de forma que el receptor de esa información, que es el candidato a
+licitar, pueda participar en el proceso.
+
+La publicación del anuncio pliegos genera la herramienta que permitirá a los licitadores
+preparar y presentar las ofertas.
+
+NOTA: la información que se registre en la configuración de la licitación por el usuario del órgano de
+contratación (publicador o editor) determinará la estructura que incorporará la herramienta de
+preparación y presentación de ofertas, en cuanto a requisitos previos de participación, criterios de
+adjudicación, formas de acreditar todos ellos y contenido y seguridad de sobres.
+
+La Configuración de la licitación es responsabilidad del órgano de contratación, a través de
+los siguientes roles:
+
+          PUBLICADOR(POC-PUB)
+          EDITOR(POC-ED)
+
+O en su defecto:
+
+          RESPONSABLE (ROC).
+          ADMINISTRADOR (AOC)
+
+Para una correcta definición de los roles indicados, consulte la “Guía de Administración” de la
+Plataforma de Contratación del Sector Público.
+
+Sin perjuicio de lo anterior, el órgano de asistencia podrá realizar actualizaciones en la
+configuración, si así le habilita el órgano de contratación, introduciendo, por ejemplo, la fecha
+en la que procederá a la apertura de los sobres. Esta funcionalidad se denomina “Activación
+del procedimiento para el OA”. Se detallará más adelante.
+
+En el presente apartado, se muestra la información exigida por los servicios de Licitación
+Electrónica para la Configuración de la Licitación, lo cual incluye:
+
+          Forma de presentación.
+          Asignación del Órgano de Asistencia.
+          Fecha de límite de presentación de ofertas.
+          Dependiendo del tipo de procedimiento, fechas de apertura de sobre económico o
+           fechas de presentación de solicitudes de participación.
+          Otros eventos de apertura.
+          Requisitos de participación.
+          Criterios de adjudicación.
+          Sobres: tipo, contenido y seguridad.
+
+Para conocer la introducción de los datos básicos del expediente, así como el anexo de los
+documentos pliegos, consulte la “Guía de Publicación de la Convocatoria de Licitación”.
+
+
+Guía de Configuración de la Licitación v3.2                                           Pág. 6 de 56
+La Configuración de la Licitación es responsabilidad del Órgano de Contratación (OC) y es la
+base sobre la que se sustenta el sistema de Licitación Electrónica, ya que lo que se configure
+y cómo se publique tiene un impacto directo sobre las fases subsiguientes (preparación y
+presentación de ofertas por el licitador, calificación y valoración de proposiciones por el órgano
+de asistencia). Es por ello que la configuración de la licitación debe ser reflejo en el mundo
+virtual de lo que representan los pliegos en el mundo físico.
+
+Para la creación de una nueva licitación y por consiguiente de un nuevo Espacio Virtual de
+Licitación (EVL) se seguirá lo establecido en la “Guía de Publicación de la Convocatoria de
+Licitación”, que en todo caso será:
+
+          Pestaña “Licitaciones” >> Botón Nuevo
+
+
+
+
+Ilustración: Creación de un nuevo procedimiento EVL
+
+Cumplimentar la información básica requerida incluyendo la selección de códigos CPV
+(Common Procurement Vocabulary). Si se pulsa sobre “Selección CPV” (Ilustración: Datos
+básicos del Expediente y Asignación CPV) se mostrará el asistente para la selección de
+Códigos CPV (Ilustración: Selección CPV). Para más información sobre este paso consulte la
+“Guía de Publicación de la Convocatoria de Licitación”.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                        Pág. 7 de 56
+Ilustración: Datos básicos del Expediente y Asignación CPV
+
+
+
+
+Ilustración: Selección CPV
+
+          Una vez Pulsado “Aceptar” (Ilustración: Datos básicos del Expediente y Asignación
+           CPV), el sistema muestra la página principal del Espacio Virtual de Licitación, con
+           el conjunto de pestañas (Ilustración EVL y sistema de pestañas). Si se hace clic en el
+           enlace “Expediente” se despliega el formulario con los datos básicos que se ha
+           introducido anteriormente.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                        Pág. 8 de 56
+Ilustración EVL y sistema de pestañas
+
+
+
+
+2.2     Configuración de la licitación a partir de una ya existente.
+
+Puede darse el caso de que se tenga que repetir de forma casi sistemática la publicación de
+licitaciones que varían muy poco unas de otras. Para estos casos puede resultar interesante
+aprovechar los datos de una licitación ya configurada, con el consiguiente ahorro de tiempo
+en la cumplimentación de los datos.
+
+En el apartado anterior hemos visto como configurar una licitación partiendo de cero. En este
+apartado se explicará cómo reutilizar los datos de configuración de una licitación ya creada
+para la configuración de un nuevo expediente de licitación.
+
+Como ya se ha explicado, se parte de una licitación ya existente. De ella se copiarán sus datos
+de configuración que, por las características de ésta, se adaptan o sirven (en parte o en su
+totalidad) a la nueva licitación que queremos configurar.
+
+Se puede copiar un expediente de licitación independientemente del estado en el cual se halle
+(creada, en evaluación, resuelta…).
+
+En un primer paso, el usuario ha de buscar sus licitaciones a través del buscador.
+
+
+
+
+Ilustración: Búsqueda de licitaciones del usuario
+
+Una vez listadas, y decidida la licitación de la que se desea copiar la configuración, se ha de
+pulsar el botón indicado en la siguiente ilustración.
+
+
+Guía de Configuración de la Licitación v3.2                                     Pág. 9 de 56
+Ilustración: Botón “copiar”
+
+Al pulsar el botón “copiar” se pasa a la ventana “copiar licitación” (Ilustración: Ventana “copiar
+licitación). En ella aparecen con fondo gris aquellos datos que han sido copiados de la
+licitación origen y que, de momento, no se pueden modificar. Las casillas que aparecen con
+fondo blanco son editables. Como es lógico, el nombre del expediente ha de ser nuevo y, por
+lo tanto, diferente al de la licitación origen.
+
+
+
+
+Ilustración: Ventana “copiar licitación
+
+Una vez rellenadas las casillas, se procede a aceptar la copia del expediente. Al pulsar el
+botón aceptar, automáticamente se regresa al listado de licitaciones donde ya aparecerá el
+nuevo expediente creado con el nombre que le hayamos asignado y en estado de “creada”.
+
+En este listado, pulsando sobre el nombre del expediente, ya tenemos acceso a la
+configuración de la licitación recién creada (EVL, espacio virtual de licitación).
+
+En el EVL encontraremos la nueva licitación tal y como fue configurada en su momento la
+licitación origen en el momento anterior a la primera publicación que se hiciera del anuncio
+previo o del anuncio de la licitación.
+
+Para poder adaptar los cambios necesarios al nuevo expediente, todos los datos y
+documentos heredados del expediente de licitación de origen son editables.
+
+
+
+2.3     Condiciones de Presentación de Oferta.
+
+La configuración de las condiciones de Presentación de la oferta es la clave para el proceso
+de contratación, ya que constituyen el conjunto de elementos que subordinan cómo será el
+procedimiento posterior de preparación y presentación de ofertas.
+
+
+Guía de Configuración de la Licitación v3.2                                       Pág. 10 de 56
+El acceso a las Condiciones de presentación de una oferta se efectúa haciendo clic en la
+pestaña “Resumen Licitación” >> “Condiciones Presentación Oferta”
+
+Una vez hecho clic se despliegan las opciones de presentación y nos dirige a la Ilustración:
+Condiciones de Presentación de Ofertas, que se muestra a continuación. Para más
+información sobre la navegabilidad consulte la “Guía de Publicación de la Convocatoria de
+Licitación”.
+
+
+
+
+Ilustración: Condiciones de Presentación de Ofertas
+
+2.3.1 Formas de Presentación
+
+La forma de presentación determinará cómo será el envío de la oferta / documentación del
+licitador y la custodia de la misma. En el siguiente cuadro se muestran las alternativas de
+presentación junto con los tipos de envío y custodia asociados a cada una.
+
+NOTA: por defecto, se muestra la opción “Electrónica”. Recuerde que para hacer uso de los servicios
+de Licitación Electrónica deberá seleccionar cualquiera de los valores “Electrónica” o “Manual y/o
+Electrónica”.
+2.3.1.1 Forma de Presentación electrónica
+
+La tramitación será íntegramente electrónica si la presentación de la oferta es
+exclusivamente telemática, utilizando la herramienta de preparación y presentación de ofertas,
+además, el sistema de Licitación Electrónica se encarga de custodiarla electrónicamente.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                        Pág. 11 de 56
+2.3.1.2 Forma de Presentación manual y/o electrónica
+
+La tramitación será manual y electrónica cuando unos sobres se presenten de forma
+electrónica y otros de forma manual, por la propia naturaleza del mismo. Se ha contemplado
+esta modalidad para los supuestos en que un sobre, sobre todo el técnico, no pueda ser
+entregado telemáticamente como en el caso de muestras, maquetas, etc.
+
+Se contempla un último caso, la posibilidad de tramitación manual o electrónica si el órgano
+de contratación permite que el licitador, discrecionalmente, decida presentar todos los sobres
+de la oferta de forma presencial o todos ellos telemáticamente. Podrán convivir las custodias
+físicas y electrónicas.
+
+En este último caso, además de escoger forma de presentación “manual y/o electrónica”, se
+deberá indicar en la configuración del sobre que éste tendrá un soporte físico y una
+presentación presencial (por ejemplo, el técnico). Esto se verá en el apartado “Configuración
+de sobres”.
+
+
+
+
+2.3.1.3 Forma de Presentación manual
+
+Cuando la tramitación sea manual, el licitador presentará la documentación en un registro
+físico, independientemente de que el soporte sea o no electrónico. La custodia de la
+documentación                  se                    realiza                 físicamente.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                    Pág. 12 de 56
+Ilustración; Forma de Presentación Manual
+
+
+
+2.3.1.4 Cuadro Resumen
+
+
+
+         Forma Presentación                   Envío                        Custodia
+
+         Electrónica                          Telemática                   Electrónica
+
+         Manual o Electrónica                 A discreción del licitador   Física y/o Electrónica
+
+         Manual y Electrónica*                Unos sobres de forma         Física y Electrónica
+                                              manual,         otros
+                                              electrónicos
+
+         Manual                               Presencial                   Física
+
+
+
+2.3.1.5 Reflejo en la plataforma
+
+Tal y como se detalla en la Ilustración: Selección de la Forma de Presentación para
+seleccionar la forma de presentación, se hará clic en la opción especificada del menú
+desplegable indicado.
+
+
+
+
+Ilustración: Selección de la Forma de Presentación
+
+Si la licitación incluye la forma de presentación “electrónica” o “manual y/o electrónica”, será
+preciso seleccionar si la presentación de la documentación, tal y como se aprecia en la
+Ilustración: Presentación de la documentación a través de Plataforma o a través de sistemas
+externos, se efectúa “A través de Plataforma” o “A través de Sistemas Externos”. Este último
+supuesto se emplea a efectos únicamente informativos o estadísticos, ya que el Órgano de
+Contratación dispondrá de un sistema propio para licitar electrónicamente, por lo que La
+Plataforma no generará la herramienta de preparación y presentación de ofertas.
+
+
+
+
+Ilustración: Presentación de la documentación a través de Plataforma o a través de sistemas externos
+
+2.3.2 Asignación de un Órgano de Asistencia
+
+
+Guía de Configuración de la Licitación v3.2                                                 Pág. 13 de 56
+Los Órganos de Asistencia sirven de apoyo a los Órganos de Contratación para evaluar las
+ofertas que éstos reciben sobre las licitaciones publicadas. Aun siendo preceptivos, su registro
+en Plataforma solo es obligatorio si la forma de presentación es “Electrónica” o “Manual y/o
+Electrónica”.
+
+NOTA: En procedimientos en que sea potestativo emplear órgano de asistencia, como en negociados
+sin publicidad, se deberá asignar uno, por ejemplo, un órgano de asistencia de carácter unipersonal,
+no colegiado, como puede ser un asesor técnico. Se detalla en la Guía de Servicios de Licitación
+Electrónica para Órganos de Asistencia.
+
+Dentro de la Plataforma para Asignar un Órgano de Asistencia se hace clic en el enlace
+“Asignar OA” como se muestra a continuación en la Ilustración: Asignar Órgano de Asistencia.
+
+
+
+
+Ilustración: Asignar Órgano de Asistencia
+
+El sistema mostrara como posibles órganos de asistencia aquellos que estén vinculados al
+órgano de contratación por pertenencia al mismo ámbito organizativo o en virtud del ámbito
+de actuación del órgano de asistencia. En todo caso, se mostrarán los órganos de asistencia
+propios (Ilustración: Órganos de asistencia sugeridos a un órgano de contratación).
+
+EJEMPLO 1: La Mesa de Contratación del Ministerio de Hacienda podrá asistir a todos los órganos de
+contratación del Ministerio, incluidos organismos autónomos (Interdepartamental – Ministerio de
+Hacienda).
+
+EJEMPLO 2: La mesa de contratación de la Dirección General del Patrimonio del Estado pueda asistir
+a todos los órganos de contratación que formen parte de la referida Dirección General (Departamental
+– Dirección General del Patrimonio del Estado)
+
+EJEMPLO 3: Las mesas de contratación del Sector Público Institucional no podrán asistir a ningún
+organismo fuera del organigrama de esa institución.
+
+EJEMPLO 4: La mesa de contratación de la Subdirección General de Coordinación de la Contratación
+Electrónica, creada ad-hoc para la apertura y valoración de los contratos basados en acuerdos marcos,
+tendrá el carácter de órgano de asistencia propio de ese órgano de contratación (Específico de OC -
+Subdirección General de Coordinación de la Contratación Electrónica).
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                          Pág. 14 de 56
+Ilustración: Órganos de asistencia sugeridos a un órgano de contratación
+
+NOTA: si la forma de presentación es “Electrónica” o “Manual y/o electrónica” “A través de Plataforma”
+es obligatorio asignar un órgano de asistencia, de otro modo no se podrá publicar la convocatoria de
+licitación y los pliegos.
+
+Además de asignar un órgano de asistencia ya definido, el órgano de contratación puede crear
+sus órganos de asistencia propios (que SÓLO le asisten a él).
+
+El órgano de contratación, mediante el usuario Administrador (AOC), podrá crear su propio
+órgano de asistencia a través de la pestaña “Administración  Gestión de Órganos de
+Asistencia”
+
+
+
+
+Ilustración: Pantalla de Gestión de Órganos de Asistencia
+
+Se pulsa el botón “Nuevo” y se rellena la información que se solicita en el formulario tal y como
+se muestra en la Ilustración: Creación de un órgano de asistencia por el órgano de
+contratación II. Una vez introducidos los datos, deberá pulsar “Aceptar”.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                          Pág. 15 de 56
+Ilustración: Creación de un órgano de asistencia por el órgano de contratación II
+
+Cabe destacar que el “Ámbito de Actuación” sólo puede ser “específico de OC (Órgano de
+Contratación)”.
+
+
+
+
+Ilustración: Determinación del ámbito de actuación
+Una vez creado el Órgano de Asistencia (Ilustración: Órgano de Asistencia creado), se ha de registrar
+un secretario (Ilustración: Pestañas Órganos de Asistencia e Ilustración: Nuevo Secretario), que será
+quien active dicho órgano. Puede encontrar más detalle en la Guía de Servicios de Licitación
+Electrónica para Órganos de Asistencia I.
+
+NOTA: recuerde que, si usted es administrador y secretario, si quiere gestionar las calves del órgano de asistencia
+para proceder a su activación, debe modificar el contexto de trabajo y cambiar de rol administrador a rol secretario.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                                       Pág. 16 de 56
+Ilustración: Órgano de Asistencia creado
+
+Se pulsa la pestaña “Usuarios”
+
+
+
+
+Ilustración: Pestañas Órganos de Asistencia
+
+Se pulsa el enlace nuevo en la línea correspondiente a secretario
+
+
+
+
+Ilustración: Nuevo Secretario
+
+Una vez creado el Órgano de Asistencia, es condición INDISPENSABLE para tramitar procedimientos
+electrónicos con ese órgano de asistencia que el Secretario lo active tal y como se especifica en la guía
+de Gestión de Órganos de Asistencia.
+
+
+Guía de Configuración de la Licitación v3.2                                             Pág. 17 de 56
+IMPORTANTE: No cree un órgano de asistencia por cada procedimiento. La naturaleza de
+los Órganos de Asistencia es permanente, no obstante, su composición es flexible y puede variar a lo
+largo del tiempo y no ser necesariamente la misma en cada sesión/reunión. Es por ello que a cada
+sesión pueden asistir miembros diferentes sin que sea necesario crear un Órgano de Asistencia para
+cada expediente o combinación de composición posible.
+
+NOTA: lo recomendado es que cada órgano de contratación no tenga más allá de dos o tres órganos
+de asistencia.
+
+Finalmente, tanto si ya estaba creado como si se acaba de crear el Órgano de Asistencia,
+éste se ha de seleccionar de la lista (Ilustración: Selección del órgano de asistencia en un
+procedimiento).
+
+
+
+
+Ilustración: Selección del órgano de asistencia en un procedimiento
+
+
+2.3.3 Fechas
+
+Las fechas de que dispone la Plataforma determinan, básicamente, límites para la
+presentación de la documentación y para la apertura de los sobres electrónicos. En concreto:
+
+“Fecha final de presentación de ofertas”: establece el límite para presentar las proposiciones.
+Transcurrido ese plazo la herramienta no estará disponible para preparar y presentar, pero sí
+para visualizar la oferta presentada.
+
+NOTA: si el licitador descarga la herramienta con anterioridad a esa fecha y presenta la oferta
+transcurrido ese plazo, el sistema permitirá la presentación de la documentación, pero informará que
+se ha presentado fuera de plazo.
+
+NOTA IMPORTANTE: Se ha de tener en cuenta que el soporte a usuarios de la plataforma es de lunes
+a jueves de 9 a 19 horas, y los viernes de 9 a 15 horas. Le recomendamos que establezca la fecha fin
+de presentación de ofertas dentro de ese horario, de otro modo, puede ocurrir que una empresa no
+
+
+
+Guía de Configuración de la Licitación v3.2                                         Pág. 18 de 56
+pueda presentar su oferta por falta de soporte, lo cual no será responsabilidad de la Plataforma de
+Contratación del Sector Público.
+
+En los procedimientos restringidos, negociados y establecimientos de sistemas dinámicos de
+adquisición se deberá tener en cuenta la “Fecha final de solicitudes de participación”.
+
+
+
+
+Ilustración: Fijación de fechas límites para presentación de sobres
+
+NOTA: la fecha final de solicitudes de participación se refiere a la presentación de, al menos, el sobre
+administrativo. La presentación de la oferta económica y/o técnica viene determinada por la “Fecha final
+de presentación de ofertas”.
+
+AVISO ESPECIAL PARA ÓRGANOS DE CONTRATACIÓN DE LAS ISLAS CANARIAS: recuerden que
+estas fechas, en especial la fecha final de presentación de ofertas, cuando se indiquen en la Plataforma
+serán de acuerdo al horario peninsular. (Ejemplo: si se desea que el plazo de presentación de ofertas
+finalice a las 14:00 horas según el horario de las Islas Canarias, en la configuración de la licitación se
+tendrá que poner las 15:00 horas)
+
+Una vez se hayan introducido los datos se ha de guardar la licitación pulsando en el botón
+Guardar Licitación que se encuentra arriba a la derecha, tal y como se muestra en la
+Ilustración: Selección del órgano de asistencia en un procedimiento.
+
+
+
+
+Ilustración: Botón Guardar Licitación
+
+2.3.4 Eventos
+
+Los eventos proporcionan información sobre los actos de apertura de los sobres. Pueden
+incluir información sobre fecha de apertura o una descripción genérica (Por ejemplo: se
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                              Pág. 19 de 56
+procederá a la apertura del sobre a los 15 días de la publicación en el BOE), así como datos sobre
+el lugar en el que se procederá a la apertura del sobre.
+
+Los eventos no suelen ser obligatorios, de hecho, en ocasiones, el órgano de contratación
+desconoce en el momento de la convocatoria de la licitación la fecha y el lugar en los que el
+órgano de asistencia procederá a la apertura de los sobres.
+
+Si desea que esa información figure en el anuncio, deberá registrarla antes de proceder a la
+publicidad de la convocatoria y los pliegos. Para ello, o la introduce él mismo o la Plataforma
+permite que el órgano de contratación, discrecionalmente, habilite la configuración de la
+licitación al órgano de asistencia y éste puede actualizar la información relativa a fechas y
+eventos.
+
+En la Ilustración: Activación de la Licitación al Órgano de Asistencia se muestra con una flecha
+roja el botón que hay que pulsar para que los “Órganos de Asistencia” puedan acceder a la
+configuración de la licitación y por ende puedan modificar los eventos.
+
+
+
+
+Ilustración: Activación de la Licitación al Órgano de Asistencia
+
+Para la configuración de los eventos de acuerdo a lo que marca la ley, la Plataforma, dentro
+del espacio de “Condiciones Presentación de Oferta”, muestra un enlace “Eventos” tal y como
+se aprecia en la Ilustración: Enlace para la definición de Eventos.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                       Pág. 20 de 56
+Ilustración: Enlace para la definición de Eventos
+
+Cuando se hace clic en el enlace “Eventos” de la Ilustración: Enlace para la definición de
+Eventos se muestran dos enlaces: “Evento de apertura de la oferta económica” cuyo
+formulario está desplegado por defecto y “Otros eventos”. En este último se pueden definir los
+actos de apertura del resto de sobres.
+2.3.4.1 Eventos de apertura de la oferta económica.
+
+En los procedimientos que así se requiera, se registra la fecha y lugar de apertura de la oferta
+económica. Si no, se puede marcar el selector “No se publica el acto de apertura económica.”
+
+
+
+
+Ilustración: Definición de Evento de apertura de oferta económica
+
+2.3.4.2 Otros Eventos
+
+Si se hace clic en “otros eventos” se despliega la opción donde se puede crear un “nuevo
+evento”, que podrá corresponder a actos de apertura de sobres de documentación general o
+
+
+
+Guía de Configuración de la Licitación v3.2                                     Pág. 21 de 56
+administrativo o sobres de criterios basados en un juicio de valor u oferta técnica. Si se pulsa
+el botón aparece el formulario de la Ilustración: Definición de Otros Eventos.
+
+
+
+
+Ilustración: Definición de Otros Eventos
+
+Mediante esta opción se puede establecer fecha y lugar de apertura de los restantes sobres
+de la oferta.
+
+          Si la fecha y la hora de los eventos se definen en la configuración de la licitación, en
+           la Agenda de Sesiones de los Órganos de Asistencia se recuperan como actos
+           (eventos con fecha) para su inclusión en el orden del día de una o varias sesiones.
+          Si no se han definido eventos en la configuración de la licitación, en la Planificación de
+           Sesiones de los Órganos de Asistencia aparecerán como tareas pendientes de
+           planificar, para la fijación de una fecha por el Órgano de Asistencia y su posterior
+           inclusión en el orden del día de una o varias sesiones.
+
+NOTA: los actos relativos a aperturas de sobres y las calificaciones / valoraciones de la documentación
+que contienen se generan en la Planificación del Órgano de Asistencia, aunque no se hayan definido
+eventos en la Plataforma. Simplemente, el sistema detecta la existencia de uno o varios sobres y, por
+tanto, la necesidad de abrirlos y calificar la documentación contenida.
+
+Una vez configurado todo lo expuesto en este apartado es muy IMPORTANTE volver a
+guardar mediante el botón “Guardar Licitación” situado en la parte superior derecha.
+
+
+
+
+Ilustración: Guardar Licitación
+
+2.4       Lotes
+
+
+
+Guía de Configuración de la Licitación v3.2                                           Pág. 22 de 56
+El sistema de Licitación Electrónica ofrece la posibilidad de licitar electrónicamente
+procedimientos en los cuales existe división del objeto del contrato en lotes. Para ello, es
+necesario establecer:
+
+          Si el licitador deberá ofertar a todos los lotes, un solo lote o uno o varios lotes. Esta
+           selección tiene su efecto en la herramienta, de tal forma que, si el licitador debe ofertas
+           a todos los lotes, la herramienta le obligará a presentar la documentación
+           correspondiente a todos ellos.
+          Si los requisitos de participación aplican a uno, varios o todos los lotes. Por ejemplo,
+           puede ocurrir que la clasificación sea diferente para cada lote. También se pueden
+           definir formas de acreditación distinta por lote. Esta determinación también aplica a los
+           criterios de adjudicación.
+
+En la siguiente ilustración se muestra la selección de ofertar a lotes (Ilustración: Ofertar a
+Lotes).
+
+
+
+
+Ilustración: Ofertar a Lotes
+
+El registro de lotes se realiza desde la pestaña PPT (Ilustración: Ofertar a Lotes).
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                           Pág. 23 de 56
+Ilustración: Creación de Lotes pestaña PPT
+
+Para mayor información, visualice la “Guía de Publicación de la Convocatoria de la Licitación”
+en el capítulo 3.2.1.2 “Configuración de lotes y entregables”.
+
+Los lotes se introducen uno a uno, definiéndose un número de lote, título del lote, descripción
+del lote, valor estimado del lote, importes y, si así se desea, un CPV por lote (Ilustración:
+Definición de Lotes)
+
+
+
+
+Ilustración: Definición de Lotes
+
+El conjunto de los lotes definidos se muestra en pantalla (Ilustración: Vista resumen de lotes).
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                     Pág. 24 de 56
+Ilustración: Vista resumen de lotes
+
+NOTA: Cada lote deberá estar asignado a los sobres que corresponda. Si algún sobre no tiene lote
+asignado aparecerá un mensaje de advertencia al guardar los sobres y al publicar la licitación.
+2.5       Ofertas Integradoras
+
+Si se cumplen las siguientes condiciones:
+
+      1. Existe una división del objeto del contrato en lotes.
+      2. Se puede ofertar a más de un lote.
+      3. Se puede adjudicar más de un lote al licitador.
+
+Se pueden presentar ofertas integradoras, esto es, presentar una oferta conjunta a varios
+lotes, siempre que se presenten las correspondientes ofertas individuales.
+
+Se puede seleccionar la opción desde la pestaña PPT (‘Permitir ofertas integradoras’) y crear
+todas las combinaciones que se deseen (Ilustración: Configurar ofertas integradoras).
+
+
+
+
+Ilustración: Configurar ofertas integradoras
+
+
+
+2.6       Información sobre financiación europea
+
+En apartado información sobre cláusulas administrativas de la pestaña PCAP es donde
+podremos seleccionar la opción de asignar la licitación a los fondos europeos asociados al
+plan de recuperación u otros. Para ello deberemos seleccionar:
+
+          Financiación europea: Si
+          Fuente de financiación europea: Se seleccionará el tipo de ayuda o fondo
+           correspondiente. En este ejemplo hemos elegido: Asociado al Plan de Recuperación,
+           Transformación y Resiliencia.
+          Programas UE-Localizador: Es un texto libre a rellenar con un código localizador que
+           deberá conocer el órgano de gestión.
+          Formula de revisión de precios: Es un texto libre, que no tiene que ver con la
+           financiación europea.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                     Pág. 25 de 56
+Ilustración: Información estructurada
+
+
+2.7     Requisitos de participación. Formas de acreditación.
+2.7.1 Características generales
+
+Los requisitos de participación constituyen las condiciones de aptitud precisas para poder
+contratar con el Sector Público. En los procedimientos electrónicos (forma de presentación
+“Electrónica” o “Manual y/o Electrónica”) es preciso configurar cada uno de ellos y la forma de
+acreditarlos, de otro modo, la herramienta de preparación y presentación de ofertas no
+solicitará la acreditación de un requisito concreto.
+
+Los requisitos de participación se mostrarán tanto en el anuncio de licitación como en el de
+pliegos, siempre que se hayan introducido de forma estructurada.
+
+La configuración de los requisitos previos de participación dentro de la plataforma se efectúa
+seleccionando la pestaña PCAP >> condiciones de admisión de candidatos (Ilustración:
+Configuración de los requisitos previos de participación desde la pestaña PCAP).
+
+
+
+
+Ilustración: Configuración de los requisitos previos de participación desde la pestaña PCAP
+
+Dentro de esta área se accede a Requisitos previos de participación.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                             Pág. 26 de 56
+Ilustración: Condiciones de admisión de candidatos
+
+Una vez seleccionado el enlace “Requisitos previos de participación” el sistema muestra la
+siguiente pantalla:
+
+
+
+
+Ilustración: Definición de los requisitos previos de participación
+
+Como se puede apreciar en la Ilustración: Definición de los requisitos previos de participación,
+la Plataforma muestra los Requisitos previos de participación organizados por grupos de ellos
+(capacidad de contratar, solvencias) o individuales (clasificación, habilitación empresarial o
+profesional, experiencia y empleados). Aunque la forma de cumplimentarlos difiere
+ligeramente en lo que respecta a la definición de los mismos (área roja, Ilustración: Elementos
+en la definición de los requisitos de participación), es igual en cuanto a la determinación de la
+forma de acreditación (área azul, Ilustración: Elementos en la definición de los requisitos de
+participación). Asociados a éstos hay una serie de características comunes para el registro de
+los requisitos:
+
+          Secciones dentro de la ventana
+
+
+
+
+Ilustración: Elementos en la definición de los requisitos de participación
+
+          La zona superior de Ilustración: Elementos en la definición de los requisitos de
+           participación marcada en rojo es variable según el tipo de requisito.
+          La zona inferior es fija y para que se pueda crear un nuevo requisito se ha de
+           seleccionar como mínimo una de tres formas de acreditación que se ofrece.
+               o El cumplimiento de los requisitos de participación se podrá acreditar mediante:
+                       Documento: por ejemplo, declaración responsable (o DEUC), copia
+                          autenticada del DNI, escritura de constitución., etc.
+                       Autorización para consulta a sistemas terceros (ROLECE, AEAT,
+                          TGSS, SVDI)
+                       Valor estructurado: por ejemplo, número de empleados.
+               o Si la forma de acreditación es la autorización para consulta a sistemas terceros,
+                  el sistema detecta automáticamente qué sistema es susceptible de consulta.
+
+
+
+Guía de Configuración de la Licitación v3.2                                        Pág. 27 de 56
+                o El órgano de contratación puede seleccionar una o más formas de acreditación
+                  para un solo requisito. En ese caso, el licitador podrá decidir por cuál de ellas
+                  opta.
+          Una vez se haya cumplimentado el formulario para cada requisito, se ha de guardar,
+           devolviendo el sistema a la pantalla general (o vista general de requisitos), que tiene
+           el aspecto que muestra la Ilustración: Vista general o resumen de los requisitos previos
+           de participación. A medida que se van registrando requisitos, la pantalla general o
+           resumen los va mostrando todos ellos, cada uno en una fila.
+
+También hay una zona referida a los lotes en caso de existir ver apartado 2.6.4
+
+NOTA: Los requisitos de participación deberán estar asignados al sobre administrativo. Si el sobre
+administrativo no tiene ningún requisito de participación aparecerá un mensaje de advertencia al
+guardar el sobre o intentar publicar el anuncio de licitación.
+
+
+
+
+Ilustración: Vista general o resumen de los requisitos previos de participación
+
+NOTA: Para acreditar varios requisitos de una sola vez, ver el apartado “Acreditación múltiple de
+requisitos de participación”. Esta es la forma de configuración recomendada, sobre todo si desea
+garantizar que todos o la mayoría de los requisitos se acrediten con el mismo documento, por ejemplo,
+el DEUC.
+2.7.2 Formas de acreditación: Documento
+
+Las formas de acreditación se refieren a los medios de justificación que tendrá que aportar el
+licitador para garantizar el cumplimiento de los requisitos exigidos en el sobre administrativo
+o de documentación general.
+
+Una de las formas de acreditación que se puede emplear, la más común de todas, es la
+aportación de documentos (Ilustración: Selección de forma de acreditación tipo documento ).
+
+
+
+
+Ilustración: Selección de forma de acreditación tipo documento
+
+Un único documento de declaración responsable, que se ajustará al formulario de documento
+europeo único de contratación (DEUC), puede constituir el contenido íntegro del sobre
+administrativo.
+
+Aunque también pueden ser precisos varios documentos para acreditar un único requisito, por
+ejemplo, la capacidad de obrar puede exigir la presentación de varios documentos diversos
+(DNI autenticado del representante, escritura de constitución, poderes, etc.)
+
+NOTA: le recomendamos que no solicite la presentación de documentación completa en la fase de
+licitación, por tanto, vincule el DEUC o declaración responsable en la definición de los requisitos de
+participación como tipos de documentos.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                           Pág. 28 de 56
+La acreditación mediante documento es la única que exige seleccionar o configurar el tipo de
+documento que se va a requerir al licitador, lo cual supone profundizar en una nueva pantalla
+(Ilustración: Registro de los tipos de documentos mediante catálogo o nuevo tipo ) para el
+registro (Nuevo Tipo de Documento) o selección (documento predefinido del catálogo) del tipo
+de documento.
+
+
+
+
+Ilustración: Registro de los tipos de documentos mediante catálogo o nuevo tipo
+
+Existe un catálogo de tipos de documentos a disposición del órgano de contratación para que
+no deba repetir la configuración del tipo de documento cada vez que licita (Ilustración:
+Selección de documentos del catálogo ). Para su selección debe pulsar el botón >> y
+trasladarlo al área derecha de la pantalla.
+
+
+
+
+Ilustración: Selección de documentos del catálogo
+
+El catálogo consta de tres entradas:
+
+          Documentos predefinidos DGPE: son unos modelos básicos que ofrece el sistema
+           para su adaptación a los que emplea el órgano de contratación. Las entradas en el
+           catálogo DGPE no se pueden borrar. Las crea y gestiona la Dirección General del
+           Patrimonio del Estado.
+          Documentos utilizados en el OC: son documentos que el usuario del órgano de
+           contratación crea ex novo o adapta a partir de otro existente (generalmente del
+           catálogo DGPE), modificando ciertas características como el tipo de formato o la firma,
+           pasando a formar parte del catálogo del órgano de contratación. Constituyen los
+           modelos tipo que manejará el órgano de contratación en la mayoría de los
+           procedimientos de contratación.
+
+
+
+Guía de Configuración de la Licitación v3.2                                        Pág. 29 de 56
+          Documentos usados en la Licitación: aquellos documentos que se empleen en una
+           licitación concreta formarán parte del catálogo exclusivo de ese procedimiento. Esto
+           resulta muy útil, por ejemplo, cuando un único documento, una declaración
+           responsable (o DEUC), constituye el contenido único del sobre administrativo.
+
+El catálogo es sensible al tipo de requisito, de tal forma que sólo muestra aquellos tipos de
+documentos vinculados con un requisito concreto. No obstante, se puede desactivar esa
+validación para que muestre el conjunto de todos ellos.
+
+Además del catálogo (Ilustración: Selección de documentos del catálogo Ilustración: Selección
+de documentos del catálogo), se pueden crear nuevos tipos de documentos (Ilustración:
+Selección de documentos del catálogo), en caso de que ninguno de ellos satisfaga lo exigido
+por el órgano de contratación.
+
+
+
+
+Ilustración: Selección de documentos del catálogo
+
+La creación de un nuevo tipo de documento (Ilustración: Creación de un nuevo tipo de
+documento) incluye:
+
+          Nombre.
+          Formato del documento: se podrá seleccionar un valor de una lista (pdf, doc, txt, xls,
+           otros, etc.).
+          Requerir firma electrónica del documento: (sí / no).
+          Plantilla para generar el documento (opcional).
+          Programa facilitador para generar el documento (opcional).
+          Texto de ayuda para el licitador (opcional). A pesar de su no obligatoriedad es
+           conveniente incluir textos de ayuda concisos, que serán visualizados por el licitador en
+           la herramienta de preparación de la oferta, facilitándole esta tarea.
+
+NOTA: recuerde que, si establece como obligatoria la firma electrónica, significa que los
+licitadores deberán firmar el documento haciendo uso de la Herramienta de la PLACSP, con
+independencia de que hayan subido el documento firmado por otros medios.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                        Pág. 30 de 56
+Ilustración Creación de un nuevo tipo de documento
+
+El órgano de contratación puede modificar las características de un tipo de documento,
+creando uno nuevo que se incorporará a su catálogo de documentos
+
+El órgano de contratación puede, asimismo, borrar tipos de documento. No se pueden borrar
+los tipos de documento predefinidos en ningún caso.
+
+La modificación o el borrado exigen que el tipo de documento afectado se encuentre en el
+grupo de selección derecho de la Ilustración: Selección de documentos del catálogo .
+2.7.3 Formas de acreditación: Autorización para consulta a sistemas terceros
+
+Otra forma de acreditación frecuente será la autorización para consultar los datos del
+candidato que obran en un sistema tercero.
+
+Los sistemas terceros susceptibles de consulta son:
+
+          ROLECE (Registro Oficial de Licitadores y Empresas Clasificadas del Estado): se
+           puede consultar, entre otros, la clasificación o la solvencia.
+          SVDI (Servicio de Verificación de Datos de Identidad): para consultar los datos de
+           identidad del representante de la empresa o del candidato en caso de que sea persona
+           física.
+          AEAT: para la comprobación del cumplimiento de las obligaciones tributarias.
+          TGSS: para la comprobación del cumplimiento de las obligaciones con la Seguridad
+           Social.
+
+NOTA: por causas ajenas a la Dirección General del Patrimonio del Estado, titular de la Plataforma de
+Contratación del Sector Público, no están operativas las consultas a los sistemas AEAT, TGSS y SVDI.
+
+Una vez se han configurado todos los requisitos es IMPRESCINDIBLE guardar la licitación.
+En ese momento, se muestra una pantalla que ofrece una vista general de todos ellos
+(Ilustración: Vista general de requisitos previos de participación).
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                          Pág. 31 de 56
+Ilustración: Vista general de requisitos previos de participación
+
+2.7.4 Requisitos de participación en procedimientos con lotes
+
+En los procedimientos para los que existe una división del objeto del contrato en lotes, el
+registro de los requisitos de participación tiene la particularidad de que es necesario indicar si
+los requisitos aplican a todos los lotes o sólo a varios. También, puede ocurrir que un requisito
+aplique a todos los lotes, sin embargo, el valor exigido para cada lote sea diferente, por
+ejemplo, la clasificación.
+En la parte superior de la pantalla de registro de los requisitos de participación se muestra un
+área para indicar si el requisito aplica a todos los lotes o sólo a uno / varios lotes (Ilustración:
+Indicación de la exigencia del requisito por lotes).
+
+
+
+
+Ilustración: Indicación de la exigencia del requisito por lotes
+
+Si el requisito sólo aplica a determinados lotes se deberá seleccionar la opción “Uno o varios
+Lotes”, mostrándose una ventana para la selección de los lotes. Se deberá pulsar el botón >>
+para la elección del lote o lotes (manteniendo pulsado CTRL) (Ilustración: Selección de lotes).
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                         Pág. 32 de 56
+Ilustración: Selección de lotes
+
+
+
+El sistema ofrece una vista general de los requisitos que aplican a todos los lotes (parte
+superior) y aquellos que sólo aplican a uno o varios lotes (parte inferior, con fila para cada lote
+individual) (Ilustración; Vista general de requisitos en caso de lotes).
+
+
+
+
+Ilustración: Vista general de requisitos en caso de lotes
+
+
+
+2.7.5 Acreditación múltiple de requisitos de participación
+Para facilitar la cumplimentación de los requisitos, la PLACSP permite que la forma
+de acreditación se defina una sola vez en lugar de tener que cumplimentarla por cada
+requisito. Esto resulta muy útil cuando todos o casi todos los requisitos de participación
+se acreditan con mismo documento (DEUC, declaración responsable, etc.).
+
+Esta funcionalidad se conoce como acreditación múltiple de requisitos, pudiéndose
+seleccionar, para los requisitos previamente definidos, la forma de acreditación una
+única vez, si es que ésta es común. Para ello seleccionaremos todos los requisitos
+que queremos acreditar de una vez y pincharemos en el botón “Forma de
+acreditación”.
+
+A continuación, seleccionaremos la forma de acreditación: documento, sistema
+tercero, etc. y daremos a “Guardar”. Y posteriormente guardaremos la licitación
+(Ilustración: Selección de todos los requisitos que comparten una misma forma de
+acreditación).
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                        Pág. 33 de 56
+Ilustración: Selección de todos los requisitos que comparten una misma forma de acreditación
+
+
+También podemos hacer una acreditación múltiple en el momento de crear los
+requisitos sólo para aquellos que tienen una sublista de valores, tales son: Capacidad
+de Obrar, Solvencia técnica y profesional y Solvencia económica y financiera.
+En este caso procederemos a seleccionar varios de la lista manteniendo pulsada la
+tecla CTRL (Ilustración: Selección de formas de acreditación común para varios requisitos
+dentro de una misma lista).
+
+
+
+
+Ilustración: Selección de formas de acreditación común para varios requisitos dentro de una misma lista
+
+
+Finalizaremos el proceso pulsando el botón “Guardar” y guardaremos la licitación
+pulsando en “Guardar Licitación”.
+
+En el caso de que el procedimiento tenga lotes, procederemos de la misma manera,
+seleccionando todos aquellos requisitos en los lotes que se quieran acreditar del
+mismo modo (Ilustración: Vista general de requisitos en caso de lotes).
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                            Pág. 34 de 56
+Ilustración: Vista general de requisitos en caso de lotes
+
+
+Finalizaremos el proceso pulsando el botón “Guardar” y guardaremos la licitación
+pulsando en “Guardar Licitación”.
+
+
+2.8       Criterios de adjudicación.
+2.8.1 Características Generales.
+
+Los criterios de adjudicación constituyen los elementos que se tendrán en cuenta a la hora de
+elegir al futuro adjudicatario, y se orientan a la identificación de la oferta que mejor satisface
+el interés público. La utilización de varios criterios es el principio general que se aplica por
+defecto. Sin embargo, existen procedimientos para los que se adjudica en virtud de un solo
+criterio, por lo general, el precio. Cuando se tome en consideración más de un criterio, deberá
+precisarse la ponderación relativa atribuida a cada uno de ellos.
+
+Por otro lado, los criterios de adjudicación deberán publicarse para garantizar la transparencia
+del procedimiento y el principio de igualdad de trato, evitándose la arbitrariedad en la
+adjudicación de los contratos. Es por ello que la Plataforma de Contratación del Sector
+Público informa de los criterios de adjudicación en todos sus anuncios, siempre que el órgano
+de contratación haya registrado los mismos al configurar la licitación. En el caso de
+licitaciones electrónicas será requisito inexcusable el registro de los criterios de
+adjudicación. En licitaciones manuales, no es obligatorio registrar los elementos que
+constituirán la base para la adjudicación del contrato, sin embargo, el órgano de contratación
+debe tener en cuenta el requisito legal de su publicidad.
+
+Existen dos tipos de criterios:
+
+          Criterios de valoración automáticos o evaluables mediante fórmula, que hacen
+           referencia a características del objeto del contrato que pueden valorarse mediante
+
+
+Guía de Configuración de la Licitación v3.2                                       Pág. 35 de 56
+           cifras o porcentajes obtenidos a través de la mera aplicación de las fórmulas
+           establecidas en los pliegos.
+          Criterios no evaluables de forma automática, es decir, dependientes de juicios de
+           valor.
+
+Para introducir toda esta información en la plataforma se ha de acceder dentro del Espacio
+Virtual de Licitación a:
+
+Pestaña PCAP >> Condiciones de Adjudicación >> Criterios de adjudicación
+
+
+
+
+Ilustración: Enlace a los criterios de adjudicación
+
+Una vez accedido a los criterios de adjudicación se mostrará la pantalla siguiente.
+
+
+
+
+Ilustración: Creación de los criterios de adjudicación
+
+En la anterior pantalla, pulsando sobre el botón “Nuevo criterio”, se accede al formulario que
+permite la creación de un nuevo criterio.
+
+Los datos que se tienen que introducir:
+
+          Tipo de criterio: sólo si se ha seleccionado “Todos” en la parte superior izquierda de la
+           Ilustración: Creación de los criterios de adjudicación.
+          Subtipo de criterio: para los cuantificables automáticamente (precio / otros).
+          Nombre del criterio.
+          Descripción o Texto de ayuda al licitador.
+          Casilla “El licitador deberá introducir un valor o un texto”: solicitud de valor estructurado
+           para el criterio. Facilita la posterior valoración del criterio.
+          Ponderación: porcentaje sobre el total (sin %).
+
+
+Guía de Configuración de la Licitación v3.2                                             Pág. 36 de 56
+          Mínimo y Máximo: puntuaciones mínima y máxima, respectivamente, que se pondrán
+           otorgar a los criterios.
+          Expresión: fórmula matemática que se aplicará para la valoración. Sólo aplicable a
+           criterios cuantificables automáticamente. Tiene un carácter meramente informativo y
+           no se emplea en ningún caso para que la Plataforma realice una valoración
+           automática.
+
+
+
+
+Ilustración: Datos para la creación de los criterios de adjudicación
+
+Una vez rellenado el formulario se pulsa guardar y el sistema muestra la lista de criterios de
+adjudicación (Ilustración: Vista resumen de los criterios de adjudicación).
+
+
+
+
+Ilustración: Vista resumen de los criterios de adjudicación
+
+Los criterios se pueden modificar, profundizando en ellos o borrarse mediante enlace
+Eliminar.
+
+NOTA: recuerde que no debe realizar modificaciones o eliminaciones si la licitación ya se encuentra en
+estado evaluación, bien porque haya publicado el anuncio de licitación y los pliegos o porque haya
+enviado la solicitud de oferta. Por ello, se recomienda que, antes de realizar cualquiera de las acciones
+que suponen poner a disposición de los candidatos la configuración de la licitación para que presenten
+sus ofertas, la revise cuidadosamente.
+
+
+
+
+Ilustración: Eliminar criterios de adjudicación
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                             Pág. 37 de 56
+Se puede apreciar en la parte superior derecha de las ilustraciones ‘Creación de los criterios
+de adjudicación’ y ‘Vista resumen de los criterios de adjudicación‘ los siguientes enlaces que
+permiten filtrar la información según el tipo de criterio.
+
+
+
+Ilustración: Filtros para los criterios de adjudicación
+
+Antes de finalizar, es muy IMPORTANTE guardar la licitación ya que, en caso contrario, se
+pierden los criterios creados.
+
+
+
+
+Ilustración: Guardar los criterios de adjudicación
+
+
+
+NOTA: Los criterios de adjudicación deberán estar asignados al sobre económico o técnico según
+correspondan. Si alguno de los sobres no tuviera ningún criterio asignado aparecerá un mensaje de
+advertencia al guardar los sobres o al intentar publicar la licitación.
+
+
+2.8.2 Criterios de adjudicación en procedimientos por lotes.
+
+En el caso de procedimientos por lotes, es posible indicar si los criterios de adjudicación
+aplican a todos los lotes o solo a uno o varios lotes (Ilustración: Elección de exigencia de
+criterio por lote o a todos los lotes), al igual que en el caso de requisitos previos de
+participación.
+
+
+
+
+Ilustración: Elección de exigencia de criterio por lote o a todos los lotes
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                      Pág. 38 de 56
+Si el criterio aplica sólo a uno o varios lotes del total, se deberá indicar cuáles son esos lotes,
+pulsando el botón >> uno a uno o marcando mediante CTRL todos ellos y pulsando una sola
+vez >>.
+
+
+
+
+Ilustración: Elección de exigencia de criterio por lote o a todos los lotes
+
+
+NOTA: la selección de criterios o requisitos de participación por lotes afecta al contenido del sobre. Se
+verá en el siguiente apartado.
+
+
+2.9       Configuración de sobres.
+
+Los sobres constituyen el contenedor donde se guarda la documentación administrativa y la
+oferta económica o, si hubiere, la propuesta técnica que presenta el candidato.
+
+Dependiendo de la tipología del procedimiento se podrán presentar todos ellos de forma
+simultánea (abiertos y simplificados), o diferirse la entrega de uno o varios de ellos hasta que
+el candidato no haya superado una fase de la valoración de su propuesta (restringidos,
+negociados y diálogos competitivos).
+
+Los sobres tienen que estar debidamente identificados, salvo en aquellas ofertas con carácter
+anónimo, y firmados por el representante o apoderado.
+
+El sobre, en virtud de la naturaleza de la documentación que contiene, tiene una tipología
+asociada. La más frecuente es su clasificación en sobre administrativo (sobre A o sobre 1),
+sobre técnico (sobre B o sobre 2) y sobre económico (sobre C o sobre 3). No obstante, se
+pueden denominar libremente.
+
+Pueden existir sobres con tipología mixta (criterios cuantificables automáticamente y criterios
+sometidos a juicio de valor en un mismo sobre) y otro tipo de sobres, como el requerimiento
+de documentación o los sobres de las comunicaciones genéricas.
+
+Los sobres se custodian para garantizar que la apertura no podrá realizarse antes de la fecha
+prevista ni por persona no autorizada. La apertura, salvo excepciones, se realiza en sesión,
+momento en cual la documentación queda disponible para su lectura.
+
+NOTA: independientemente de su tipología, los sobres comparten las mismas características en cuanto
+a definición y seguridad.
+2.9.1 Seguridad de los sobres en la plataforma.
+
+En el sistema de Licitación Electrónica, la custodia de los sobres se consigue mediante:
+
+          Control de acceso / usuario registrado. Sólo si es miembro de una mesa se puede
+           acceder al sistema.
+
+
+
+Guía de Configuración de la Licitación v3.2                                             Pág. 39 de 56
+          Sólo si se dan las circunstancias funcionales adecuadas se puede constatar que se ha
+           recibido la documentación. Por ejemplo, sesión convocada, mesa debidamente
+           constituida, sesión iniciada o acto en celebración, dependiendo del tipo de miembro.
+          La documentación existe, sin embargo, no está a disposición hasta que el sobre sea
+           descifrado.
+          Aun habiéndose descifrado el sobre, es preciso realizar la apertura por parte del
+           Secretario o el Presidente para acceder al contenido.
+          En el improbable caso de que se vulneren estas barreras, todas las operaciones que
+           se realizan son registradas y se puede trazar la actividad para detectar quién es el
+           responsable.
+
+
+
+2.9.2 Creación de un nuevo sobre.
+
+Se recomienda encarecidamente llevar a cabo la creación de los sobres solo después de
+haber completado los demás aspectos de la configuración de la licitación. Es decir, después
+de haber definido los lotes, los requisitos de participación, los criterios de adjudicación, etc.
+De este modo, al crear un nuevo sobre se incluirá automáticamente esta información.
+
+Tenga en cuenta que, si después de haber creado los sobres se modifica algún aspecto de la
+configuración, como definir un nuevo lote o establecer un nuevo requisito, esta información no
+se traslada a los sobres ya creados y deberá revisar la configuración de los mismos.
+
+Para la configuración de un sobre en el sistema se navega a la pestaña PCAP >>
+Configuración de los sobres >> Nuevo Sobre
+
+
+
+
+Ilustración: Creación del sobre
+
+El sistema navega al formulario de la ilustración: Datos Generales del sobre. En dicho
+formulario se cumplimenta:
+
+          Nombre.
+          Tipo de sobre.
+          Descripción de sobre.
+          Evento (puede asociarse un evento de apertura o no).
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                      Pág. 40 de 56
+Ilustración: Datos Generales del sobre
+
+Una vez se pulsa sobre el botón “guardar” aparecen nuevas pestañas con más opciones
+como se puede apreciar en la ilustración: Relación de pestañas del sobre administrativo.
+Como se detalla más adelante, las pestañas “Condiciones de presentación” y “Contenido
+del sobre” se muestran siempre independientemente de la tipología del sobre. Sin embargo,
+si el “Tipo de Sobre” es de Documentación Administrativa, se muestra la pestaña “Relación
+de requisitos previos para Contratar”. En el caso de sobres de criterios sometidos a juicio
+de valor y/o criterios cuantificables automáticamente se muestra la pestaña de “Criterios de
+Adjudicación”.
+
+
+
+
+Ilustración: Relación de pestañas del sobre administrativo
+
+          Condiciones de presentación
+
+Las opciones que se plantean en las condiciones de presentación y que están reflejadas en
+la Ilustración: Condiciones de seguridad del sobre son las siguientes:
+
+                o     Presentación del sobre:
+                           “Soporte físico y forma presencial”: Esta opción se utiliza en el caso
+                             de forma presentación Manual y Electrónica cuando por ejemplo se
+                             tienen que presentar maquetas, muestras, catálogos, etc.
+                           “Soporte electrónico y forma telemática”: Esta opción se utiliza en
+                             el caso de poder presentar toda la documentación de forma telemática.
+                             Es la opción por defecto cuando se configura un procedimiento
+                             “Electrónico” o “Manual y/o Electrónico”.
+                o     Firma y cifrado:
+                           “Firma (El sobre deberá estar firmado por el representante de la
+                             empresa)”: con la firma se garantiza la integridad y el no repudio de
+                             quien entrega el sobre.
+                           “El contenido del sobre se cifrará para preservar su
+                             confidencialidad”: con el cifrado se incrementa la seguridad,
+                             convirtiendo el almacenamiento de la documentación en custodia
+                             electrónica de la misma. De esta forma el sobre no podrá ser accedido
+                             a menos que se descifre. El cifrado es una acción transparente para el
+                             usuario y vinculada a la acción de presentar la oferta por parte del
+                             mismo.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                         Pág. 41 de 56
+                                “Se permitirá el descifrado del sobre antes de la reunión de la
+                                 mesa”: se permite al presidente o al secretario de la mesa descifrar el
+                                 sobre antes de la celebración de la sesión para aligerarla.
+                                “Se permitirá la apertura del sobre antes de la reunión de la mesa”:
+                                 se permite al presidente o al secretario de la mesa abrir el sobre antes
+                                 de la celebración de la sesión para aligerarla.
+                                “La documentación aportada no debe identificar al licitador. (El
+                                 sobre debe ser anónimo”: Con esta opción se garantiza la condición
+                                 de anónimo del Licitador, lo cual es necesario en determinados
+                                 procedimientos.
+
+
+
+
+Ilustración: Condiciones de seguridad del sobre
+
+
+
+RECOMENDACIONES:
+
+          Exigencia de firma para todos los sobres.
+          Exigencia de cifrado, al menos, para los sobres de oferta técnica y de proposición
+           económica.
+
+Aclaraciones sobre las diferencias entre firma y cifrado:
+
+                o     La firma del sobre garantiza la autenticidad del contenido y su integridad.
+                           Autenticidad: quién firma el sobre es quién dice ser
+                           Integridad: el contenido del sobre no ha sido alterado durante el
+                              procedimiento.
+                o     Además de sobres también se firman documentos: por ejemplo, la oferta
+                      económica ha sido firmada por el apoderado (autenticidad) y no ha sido
+                      modificada durante el proceso (integridad).
+                o     El cifrado proporciona confidencialidad a la oferta.
+                           Es uno de los niveles de seguridad que se emplea en la custodia de la
+                              documentación.
+                           El sobre cifrado no podrá ser descifrado a menos que se aporten los
+                              elementos criptográficos necesarios para ello.
+
+
+
+          Lotes asociados
+
+Si el objeto del contrato está dividido en lotes se puede indicar qué lotes estarán asociados al
+sobre que se está configurando. En el momento de crear el sobre nos aparecerá la pantalla
+de selección de lotes, pudiendo marcar la opción “Todos los lotes de la licitación” si queremos
+que el sobre se asocie a todos los lotes (Ilustración: Asociar todos los lotes), o bien marcar la
+
+
+Guía de Configuración de la Licitación v3.2                                               Pág. 42 de 56
+opción “Seleccionar lote” y marcar únicamente el lote o lotes que queremos asociar al sobre
+(Ilustración: Asociar algún/os lote/s).
+
+
+
+
+Ilustración: Asociar todos los lotes
+
+
+
+
+Ilustración: Asociar algún/os lote/s
+
+
+
+
+La asignación se puede cambiar pulsando “Modificar asignación de lotes”.
+
+
+
+
+Ilustración: Lotes asociados
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                 Pág. 43 de 56
+NOTA: En licitaciones con lotes, antes de publicar el anuncio de licitación, asegúrese de que cada
+sobre de preparación de la oferta esté asociado al menos a un lote. De no ser así, revise la configuración
+de los sobres. Recuerde que, si realiza modificaciones en la configuración de la licitación como definir
+un nuevo lote o cambiar los requisitos o criterios de adjudicación, estas modificaciones no se trasladan
+automáticamente a los sobres ya existentes.
+
+
+
+
+Ilustración: Listado de sobres de la licitación
+
+          Requisitos previos y criterios a acreditar
+
+Como ya se ha señalado dependiendo de la tipología del sobre se mostrarán opciones
+diferentes:
+
+                o     Conjunto de requisitos previos definidos (sobre administrativo).
+
+
+
+
+Ilustración: Vista pestañas sobre administrativo
+
+                o     Criterios cuantificables automáticamente (sobre económico).
+
+
+
+
+Ilustración: Vista pestañas sobre económico
+
+                o     Criterios sometidos a juicio de valor (sobre técnico).
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                              Pág. 44 de 56
+Ilustración: Vista pestañas sobre técnico
+
+Esta asignación facilita la tarea al órgano de contratación. El sistema no le obliga a asignar
+manualmente los requisitos/criterios a cada sobre. Sin embargo, puede existir algún caso en
+que esa asociación no sea válida, por ejemplo, en el caso que el órgano de contratación defina
+dos sobres de documentación general. El sistema permite que se pueda modificar el primero,
+eliminando requisitos, que se asociarán al segundo sobre administrativo
+
+La asociación por defecto se altera pulsando “Modificar Asignación”.
+
+          Contenido del sobre.
+
+En la descripción del contenido del sobre, el órgano de contratación establece el conjunto de
+documentos que deberá incorporar el candidato.
+
+                o     La documentación asociada al cumplimiento de requisitos previos (sobre
+                      administrativo).
+                o     La oferta o proposición (sobre económico y/o técnico).
+                o     Documentación complementaria no necesariamente vinculada al cumplimiento
+                      de los requisitos. Por ejemplo, una declaración responsable de dirección de
+                      correo electrónico única o el comprobante de haber depositado la garantía
+                      provisional.
+
+Automáticamente, y en virtud de la asociación de requisitos y criterios a sobres, el sistema de
+Licitación Electrónica incluye la documentación asociada a cada sobre sin necesidad de que
+el órgano de contratación tenga que incluir los documentos que previamente ha definido
+en el sistema
+
+
+
+
+Ilustración: Vista pestañas sobre administrativo
+
+
+
+
+Consideraciones sobre el tamaño de la oferta
+
+
+
+Guía de Configuración de la Licitación v3.2                                       Pág. 45 de 56
+A la hora de especificar los documentos que se pedirán en los sobres, hay que tener en cuenta
+que existe una limitación en el tamaño máximo de la oferta que pueden enviar los licitadores
+con la Herramienta de Presentación de Ofertas (HPO) de la PLACSP derivada de la
+tecnología Java en la que se ejecuta. Este valor de tamaño es orientativo: 30 MB. También
+hay que considerar que el tamaño de un sobre puede aumentar hasta en un 30% una vez que
+sea firmado y cifrado.
+
+En la siguiente imagen se puede ver el mensaje de advertencia que muestra la HPO cuando
+al adjuntar un documento a un sobre se supera los límites de tamaño total de la oferta:
+
+
+
+
+Particularidades del contenido del sobre administrativo
+
+                o     La vista que ofrece el sistema del contenido del sobre tipo administrativo se
+                      compone del conjunto de documentos que se han solicitado para el
+                      cumplimiento de los requisitos previos de participación. Es una representación
+                      en el mundo virtual de la descripción del contenido del sobre que figura en el
+                      pliego de cláusulas administrativas particulares.
+                o     Lo anterior no implica que no se tenga en cuenta otras formas de acreditación
+                      distintas de la documental. Sin embargo, esa consideración se incorpora en la
+                      vista Requisitos, y es equivalente a la relación de requisitos previos que figura
+                      en el pliego.
+                o     El contenido puede ser modificado:
+                           Se añade un nuevo documento, no vinculado a un requisito concreto
+                              que puede ser obligatorio u opcional. Por ejemplo, opcionalmente
+                              podemos configurar los documentos: Para las empresas extranjeras,
+                              declaración de sometimiento a la legislación española o el compromiso
+                              de constitución de UTE, de manera que los licitadores solo tengan que
+                              aportarlo cuando sea el caso.
+                           Se elimina del contenido uno varios documentos para su inclusión, por
+                              ejemplo, en otro sobre administrativo.
+
+Particularidades del contenido del sobre técnico/económico
+
+                o     La vista que ofrece cualquiera de estos tipos de sobre es, por defecto, el
+                      documento oferta. El sistema de Licitación Electrónica crea automáticamente
+                      un documento oferta técnica (sobre relativo a criterios sometidos a un juicio de
+
+
+Guía de Configuración de la Licitación v3.2                                            Pág. 46 de 56
+                      valor) y una oferta económica (sobre de criterios cuantificables
+                      automáticamente).
+                o     Los datos básicos de cada documento oferta son:
+                           Nombre de documento:
+                                    Oferta técnica.
+                                    Oferta económica.
+                           Requisito de firma electrónica.
+                o     La información anterior se puede modificar o, incluso, eliminar para dar de alta
+                      los documentos oferta con la nomenclatura propia del órgano de contratación.
+                      También se pueden modificar las características que vienen por defecto (exigir
+                      un tipo de formato concreto, poner a disposición una plantilla o un programa
+                      facilitador, añadir descripción).
+
+
+Particularidades del contenido del sobre económico con ofertas integradoras
+
+                o    En licitaciones donde haya ofertas integradoras se debe crear un único sobre
+                     económico por cada oferta integradora que incluya todos los lotes de la
+                     combinación seleccionada.
+                     La documentación a aportar por el licitador, se incluirá dentro del sobre como
+                     un documento más a añadir en la oferta económica:
+
+                                Aparecerá un nuevo botón "Añadir documentos oferta integradora"
+                                 en la pestaña "Contenido del sobre" de la configuración de sobres (solo
+                                 para sobres de tipo económico y en caso de existir oferta integradora).
+                                 Al pulsar este botón se incluirá tantos documentos como ofertas
+                                 integradoras correspondan al sobre. Ver Ilustración: Documentos
+                                 específicos de ofertas integradoras.
+                                Si una vez creados los documentos de la oferta integradora, se modifica
+                                 la asignación de lotes a sobres viéndose afectado algún lote que
+                                 componga alguna oferta integradora, se eliminará automáticamente el
+                                 documento.
+                                Si un sobre incluye lotes que forman parte de una oferta integradora,
+                                 no se podrá modificar la configuración de lotes para eliminar uno de
+                                 esos lotes que forman la oferta integradora.
+
+
+
+
+Ilustración: Documentos específicos de ofertas integradoras
+
+                           Ejemplos: En una licitación con 4 lotes y dos combinaciones de ofertas
+                           integradoras posibles, lotes 1 y 2 y lotes 3 y 4, a la hora de crear los sobres
+                           de documentación económica, la aplicación obligará a crear un sobre
+                           económico para los lotes 1 y 2 y otro para los sobres 3 y 4, o bien un sobre
+                           para todos los lotes. En ningún caso se podrá crear un sobre económico
+                           únicamente para el lote 1.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                               Pág. 47 de 56
+                              Si existiese una combinación de oferta integradora que incluyera lotes
+                              1, 2 y 3, y otra combinación que incluyera 1, 3 y 4, sería necesario
+                              configurar un sobre económico que incluyera todos los lotes, ya que
+                              todos los lotes que forman la oferta integradora tienen que ir en el mismo
+                              sobre.
+                o     Además, cuando se genere una oferta integradora, se creará automáticamente
+                      un criterio de tipo precio, que se llamará “Precio Oferta Integradora Lotes
+                      X_Y…”. El criterio se incluirá automáticamente en los sobres que incluyan esa
+                      oferta integradora, pero será transparente al usuario en la configuración.
+
+NOTA: Se recomienda que cada uno de los ficheros anexados no supere un tamaño máximo de 50
+MB. También que el conjunto de ficheros anexados no supere un tamaño de 200 MB. En cuanto al
+número de ficheros anexados se recomienda no anexar más de 10 ficheros.
+
+NOTA: Recuerde comprobar que los sobres tienen adecuadamente asignados los lotes, requisitos de
+participación y criterios de adjudicación. Si algún sobre no tuviera asignados los requisitos o criterios
+que le correspondan o, en su caso, no tuvieran algún lote asignado, se mostrará un mensaje de
+advertencia al guardar el sobre o intentar publicar la licitación.
+
+NOTA: Si al hacer una comunicación que requiriese respuesta, el sobre que se configura en la
+comunicación resultase estar vacío, aparecerá un mensaje de advertencia.
+
+
+2.10 Publicación del anuncio de licitación y pliegos. Rectificaciones.
+2.10.1 Publicación de la configuración del sistema
+
+La configuración del sistema se pone a disposición del licitador mediante la publicación del
+anuncio de licitación y los pliegos, salvo en procedimientos por invitación (negociados sin
+publicidad, contratos menores y derivados de acuerdo marco). Para estos, la herramienta de
+preparación y presentación de ofertas tiene la posibilidad de enviar la oferta no con la
+publicidad de un anuncio, sino con el envío de una invitación.
+
+La información que se registra en la configuración de la licitación y se publicita posteriormente
+va a tener dos objetivos en el caso de licitaciones electrónicas:
+
+          En todo caso, garantizar la transparencia y publicidad de los procedimientos de
+           contratación (al igual que en licitaciones manuales).
+          Generación de la herramienta de preparación y presentación de ofertas por parte de
+           los licitadores.
+
+Aunque la configuración de la licitación se hace pública en cuanto se publica la convocatoria
+de la licitación, la herramienta de preparación y presentación de ofertas no está
+disponible hasta que se publica el anuncio de pliegos.
+
+La operativa de publicación de anuncios, rectificaciones y anulaciones no ha sufrido ninguna
+alteración. Para mayor detalle se recomienda la lectura de la “Guía de Publicación de la
+Convocatoria de Licitación”
+
+2.10.2 Rectificaciones y anulaciones
+
+La Plataforma de Contratación del Sector Público dispone de un servicio de rectificaciones de
+anuncios o de anulaciones.
+
+
+
+Guía de Configuración de la Licitación v3.2                                             Pág. 48 de 56
+El IMPACTO DE RECTIFICACIONES se incrementa en caso de licitaciones electrónicas,
+teniendo en cuenta que la modificación en la configuración provoca la generación de una
+nueva versión de la herramienta.
+
+
+                 Preparación                  Presentación   Impacto Rectificación
+
+                 No                           No             No hay impacto
+
+                 Sí                           No             Si el cambio afecta a los
+                                                             sobres, el licitador no puede
+                                                             continuar la preparación.
+                                                             Debe iniciar una nueva tras
+                                                             la rectificación.
+
+                 Sí                           Sí             Se       pueden     rectificar
+                                                             anuncios     si   ya      hay
+                                                             presentaciones. Si el cambio
+                                                             no afecta a los sobres, el
+                                                             licitador no tendrá que
+                                                             realizar      una      nueva
+                                                             presentación.
+
+Considerando lo anterior, es ESENCIAL previsualizar los anuncios antes de publicarlos y ser
+conscientes de la puesta en marcha de un dispositivo o herramienta que determina la forma
+en que las ofertas serán confeccionadas por el candidato.
+
+IMPORTANTE: Si se rectifica el anuncio de licitación deben rectificar también el anuncio de
+pliegos (sobre todo en el caso de licitaciones por lotes).
+
+NOTA: Es muy importante mantener la consistencia de datos entre anuncio de licitación y anuncio
+pliegos, de tal forma que las rectificaciones se realicen en ambos para que contengan información
+idéntica.
+
+Las anulaciones deshabilitan el acceso a la herramienta por el licitador. Si se publica un
+anuncio pliegos posterior al anulado, se genera una nueva versión de la herramienta, ahora
+sí, disponible para el candidato.
+NOTA: Si en el momento de la publicación, resultase que alguno de los sobres configurados está vacío,
+es decir, sin criterios o requisitos asociados, aparecerá una advertencia indicándolo.
+
+
+
+2.11 Procedimientos por invitación.
+Los procedimientos de tipo “derivado (basado en) de acuerdo marco”, “contrato menor” y
+“negociado sin publicidad” se caracterizan por que no existe convocatoria de la licitación a
+modo de anuncio público, por lo que el licitador envía la proposición en virtud de una invitación
+que recibe del órgano de contratación / peticionario.
+
+El sistema de Licitación Electrónica, para satisfacer esta particularidad, permite que la pestaña
+“Licitadores”, sólo en estos casos, se habilite para el registro de los mismos, como paso previo
+al envío de la invitación.
+
+Después del registro de toda la información sobre el procedimiento, las condiciones de
+admisión de candidatos y los criterios, el usuario del órgano de contratación habrá de
+
+
+Guía de Configuración de la Licitación v3.2                                            Pág. 49 de 56
+introducir la información básica relativa a los licitadores (Razón Social, NIF, correo electrónico
+a efectos de comunicaciones, al menos) como paso previo al envío de la comunicación de
+invitación a licitar.
+
+NOTA: la pestaña Licitadores está inhabilitada para aquellos procedimientos en los que el envío de la
+proposición por el licitador se realiza a partir de la publicación de un anuncio de licitación / anuncio
+pliegos (abiertos, restringidos o negociados con publicidad, entre otros). En estos casos, la pestaña
+hereda la información que el operador económico informa en la herramienta de preparación y
+presentación de ofertas.
+
+Para registrar la información de Licitadores se ha de navegar a la pestaña “Licitadores”.
+
+          Pestaña “Licitadores” >> Botón Nuevo Licitador
+
+
+
+
+Ilustración: Creación de nuevo licitador en procedimientos electrónicos por invitación
+
+Se registran al menos los datos básicos (Nombre de la Empresa, NIF y correo electrónico a
+efectos de comunicaciones) (ilustración: Datos para crear licitadores en procedimientos
+electrónicos por invitación).
+
+
+
+
+Ilustración: Datos para crear licitadores en procedimientos electrónicos por invitación
+
+
+Una vez creados los licitadores, el sistema nos muestra la información de todos ellos en una
+vista resumen (ilustración: Visualización de los licitadores).
+
+
+Guía de Configuración de la Licitación v3.2                                               Pág. 50 de 56
+Ilustración: Visualización de los licitadores
+Una vez creados los licitadores, el siguiente paso es el envío de la invitación.
+
+
+          Pestaña “Comunicaciones” >> Enlace Invitación al proceso
+
+
+
+
+Ilustración: Selección de la comunicación en procedimientos electrónicos por invitación I
+
+
+
+
+Ilustración: Selección de la comunicación en procedimientos electrónicos por invitación II
+
+
+
+Una vez creados los licitadores a los que se va a invitar a presentar oferta, el último paso es
+el envío efectivo de la comunicación / invitación (ilustración: Configuración de la comunicación
+en procedimientos electrónicos por invitación). Con este fin, se deberá registrar la siguiente
+información:
+     Señalar los Licitadores a los que se enviará la invitación.
+     De forma opcional, se podrá anexar un documento que viajará en la comunicación.
+
+
+
+Guía de Configuración de la Licitación v3.2                                              Pág. 51 de 56
+          Igualmente, podrá indicar un texto de información adicional al licitador, por ejemplo,
+           para registrar alguna instrucción que deberá seguir la empresa.
+          Indicar los sobres que deberá remitir el licitador como respuesta a la comunicación.
+
+En cuanto a las acciones posibles:
+    Guardar: para enviar la comunicación más tarde pero no perder lo ya registrado.
+    Comunicar: para hacer efectivo el envío de la comunicación.
+    Volver: para regresar a la pantalla anterior sin enviar la comunicación.
+    Ver Correo: ofrece una vista del correo electrónico de aviso que recibirá el licitador.
+    Previsualizar: para ver el contenido de la invitación.
+
+
+
+
+Ilustración: Configuración de la comunicación en procedimientos electrónicos por invitación
+
+
+En esta vista también se informa al órgano de contratación si el licitador está registrado en la
+Plataforma (el correo electrónico a efectos de comunicaciones se corresponde a un usuario
+registrado en Plataforma) y si se le ha remitido o no alguna invitación anteriormente
+(ilustración: Información sobre registro en Plataforma y existencia o no de comunicaciones
+previas).
+
+
+
+
+Ilustración: Información sobre registro en Plataforma y existencia o no de comunicaciones previas
+
+Desde la opción de Búsqueda de Comunicaciones, (ilustración: Vista resumen de las
+comunicaciones) se puede realizar un seguimiento de las comunicaciones enviadas y de si
+han sido leídas o no. También se recupera información de la identidad de quién ha leído la
+comunicación.
+
+
+Guía de Configuración de la Licitación v3.2                                            Pág. 52 de 56
+Asimismo, es posible descargar el conjunto de las comunicaciones enviadas con su sello de
+tiempo, para poner a disposición de un tercero, por ejemplo, un interventor. De este modo, se
+justifica que se han enviado, al menos, el número mínimo de invitaciones que determina la
+ley.
+
+Desde esta pantalla no sólo se obtiene información de las invitaciones, también del resto de
+comunicaciones electrónicas que se realizan desde la Plataforma, a saber:
+    Admisión / Exclusión (Subsanación).
+    Requerimiento de documentación.
+    Notificación de adjudicación.
+    Otras comunicaciones.
+
+
+
+
+Ilustración: Vista resumen de las comunicaciones
+
+El órgano de contratación puede obtener dos tipos de acuse de lectura, desde el enlace “Ver”:
+      Acuse de lectura completo: además de la fecha y hora en que se procedió a leer la
+         comunicación, se identifica el NIF, nombre y apellidos de la persona que accedió a la
+         comunicación. El licitador accede al contenido de la comunicación haciendo uso de un
+         certificado electrónico (ilustración: Acuse de lectura con identificación de la persona).
+      Acuse de lectura sin identificación personal: en este caso, el licitador ha accedido al
+         contenido de la comunicación a través del correo de aviso recibido y sin necesidad de
+         autenticarse mediante certificado electrónico. Por ello, el sistema sólo puede ofrecer
+         información de la cuenta de correo desde la que se ha accedido (ilustración: Acuse de
+         lectura con identificación del correo electrónico).
+Nota: El usuario también puede descargar la copia íntegra de los documentos enviados por
+el licitador como respuesta a una comunicación desde la columna ‘Copia Íntegra’ de la tabla.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                       Pág. 53 de 56
+Ilustración: Acuse de lectura con identificación de la persona
+
+
+
+
+Ilustración: Acuse de lectura con identificación del correo electrónico
+A continuación, se muestra una vista del contenido de la comunicación que recibe el licitador.
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                    Pág. 54 de 56
+Ilustración: Vista contenido de la invitación / comunicación
+
+3. GLOSARIO DE TÉRMINOS
+
+
+
+           GLOSARIO DE TÉRMINOS
+
+  Plataforma           Plataforma de contratación del estado. http://contrataciondelestado.es/
+  PLACE
+                       Órgano de Contratación.
+  OC
+                       Operador económico.
+  OE
+                       Anuncio de Formalización.
+  AF
+                       Anuncio de Adjudicación.
+  AADJ
+                       Anuncio de Transparencia Previa Voluntaria
+  ATPV
+                       Pliego de Prescripciones Técnicas.
+  PPT
+                       Pliego de Cláusulas Administrativas Particulares.
+  PCAP
+                       Acrónimo de Vocabulario común de contratos públicos «common procurement vocabulary»
+                       (CPV). Esta clasificación trata de cubrir todas las necesidades de suministros, trabajos y
+  CPV                  servicios. Al estandarizar las referencias utilizadas por los órganos de contratación en la
+                       descripción del objeto de sus contratos, el CPV mejora la transparencia de los contratos
+
+
+
+Guía de Configuración de la Licitación v3.2                                                       Pág. 55 de 56
+                       públicos sujetos a las directivas comunitarias. CPV asocia a cada código numérico una
+                       descripción de un objeto de contrato.
+
+                       European Article Number (EAN) es un sistema de códigos de barras para identificar
+  EAN                  productos.
+
+                       Acrónimo francés de la Nomenclatura de las Unidades Territoriales Estadísticas (NUTS)
+  NUTS                 utilizada por la Unión Europea con fines estadísticos.
+
+                       Acuerdo de Contratación Pública.
+  ACP
+
+                       Fábrica Nacional de Moneda y Timbre
+  FNMT
+
+                       Registro Oficial de Licitadores y Empresas Clasificadas del Estado.
+  ROLECE               http://registrodelicitadores.gob.es
+
+                       Extensible Markup Language (Lenguaje de marcas extensible).
+  XML
+
+
+
+
+4. CONTÁCTENOS
+
+Para más información sobre los Servicios de Licitación Electrónica para Órganos de
+Contratación por favor, diríjase a la siguiente dirección de correo:
+
+                            licitacionEorganismos@hacienda.gob.es
+
+
+
+
+Guía de Configuración de la Licitación v3.2                                                  Pág. 56 de 56
+

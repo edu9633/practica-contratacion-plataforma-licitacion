@@ -25,4 +25,6 @@ Copia este archivo como `credenciales.local.md`, que git ignora, y rellénalo. *
 
 ## Certificado electrónico de pruebas
 - ¿Disponible en el navegador del agente? sí / no
+- ¿AutoFirma instalada? sí / no
+- ¿Java ≥ 1.8 en el navegador (herramienta de ofertas)? sí / no
 - Notas:

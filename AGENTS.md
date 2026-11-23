@@ -32,7 +32,7 @@ Este archivo es para el agente que ejecuta las prácticas en el entorno de forma
 
 No inventes datos que deban salir del pliego. Si un dato no aparece en el pliego y la Plataforma lo exige, usa un valor razonable y anótalo como **supuesto** en la entrega.
 
-Si falta el material didáctico (la carpeta solo tiene el README), avisa al usuario y sigue con los enunciados y lo que ves en pantalla, con más verificación.
+**Cómo usar las guías:** cada PDF tiene al lado su versión en texto en `material-didactico/texto/`. Busca ahí con `grep -rn -i "<término>" material-didactico/texto/`, por ejemplo «subsanación», «convocatoria», «criterios» o «formalización», y abre el PDF solo para ver las capturas de una pantalla concreta. No uses nada de `material-didactico/_version-anterior/`. Las guías de 2016 y 2017 (general y modificaciones) pueden no coincidir del todo con la pantalla actual; si chocan con una guía más reciente, manda la reciente. Faltan dos guías, la del Operador Económico y la del Órgano de Asistencia I; el README de la carpeta explica cómo suplirlas.
 
 ---
 
@@ -60,7 +60,11 @@ La Plataforma es una aplicación web antigua basada en formularios con estado de
 - **Espera las cargas.** Tras pulsar un botón, espera a que la página termine de cargar antes de la siguiente acción. Nunca hagas doble clic en «Publicar», «Enviar» o «Guardar».
 - **Las licitaciones se gestionan en su Espacio Virtual de Licitación (EVL).** Se crean desde la pestaña **Licitaciones** → botón **Nuevo**. Dentro del EVL hay pestañas como **Resumen Licitación**, la de configuración de datos y sobres, **PPT**, **PCAP**, **Anexo pliegos** y documentos. Los nombres exactos y el orden están en las guías. Anota el **identificador de la licitación** en cuanto la Plataforma lo asigne.
 - **Bloqueo por DOUE.** Al publicar un anuncio con envío al DOUE, la licitación queda **bloqueada hasta 30 minutos** mientras se simula la publicación. **No intentes editarla durante el bloqueo.** Espera, comprueba cada 5 minutos aproximadamente que el anuncio aparece publicado en el perfil de contratante y entonces sigue. Aprovecha la espera para avanzar en otra práctica.
-- **Certificado electrónico.** Presentar ofertas como operador económico y firmar el contrato requieren certificado electrónico; algunas firmas pueden requerir también AutoFirma. Si tu navegador no tiene un certificado disponible o salta un componente de firma que no puedes manejar, **para**, deja anotado el paso exacto en `practicas/ESTADO.md` y pide al usuario que lo haga él o que instale el certificado de pruebas que facilitan los tutores. No intentes saltarte la firma.
+- **Certificado electrónico y AutoFirma.** Según las guías, necesitan certificado reconocido por @firma y la aplicación **AutoFirma**:
+  - **Presentar ofertas** como operador económico, con la Herramienta de Preparación y Presentación de ofertas. Además requiere **Java ≥ 1.8** en el navegador (guía del licitador, §1.2).
+  - **Convocar y celebrar sesiones** de la mesa. Como mínimo el **secretario** necesita certificado (guía de celebración de sesiones, §2).
+  - **Firmar el contrato** de formalización (guía LE-OC-II, §2 y §3.6).
+  **Antes de empezar**, comprueba si tu entorno tiene certificado de pruebas, AutoFirma y Java, y anótalo en `credenciales.local.md`. Si no los tiene, todo lo demás lo haces tú, y en estos pasos **paras**: dejas preparado todo lo previo, anotas el paso exacto en `practicas/ESTADO.md` → «Pasos que necesitan al usuario» y le pides que lo haga él o que te facilite el certificado de pruebas de los tutores. No intentes saltarte la firma.
 - **Correos de aviso.** Los avisos al responsable de la licitación, como el de publicación o el de pregunta pendiente, llegan al correo del usuario, que no ves. No esperes a ese correo: comprueba el estado directamente en la Plataforma. Los avisos a los operadores ficticios sí puedes leerlos en maildrop (ver §5).
 - **Capturas de pantalla** como evidencia en cada hito (§7). No hagas capturas de la pantalla de inicio de sesión ni de nada donde se vea el NIF o la contraseña. Si aparece el NIF, recorta la captura o no la guardes.
 
@@ -81,6 +85,8 @@ Rellena y mantén `practicas/datos-comunes.md` con lo siguiente:
 ---
 
 ## 6. Prácticas a realizar
+
+**Antes de cada ejercicio, lee la guía que le corresponde.** La tabla «Qué guía usar en cada ejercicio» de `material-didactico/README.md` indica, ejercicio a ejercicio, qué guía y qué secciones leer.
 
 Plan general: deja hechas en paralelo las configuraciones y convocatorias del abierto y del simplificado, presenta las ofertas y, **cuando venza el plazo de presentación**, celebra las sesiones. Los sobres **no pueden abrirse antes de que venza el plazo**, así que el calendario manda (§6.4).
 
@@ -164,7 +170,11 @@ README.md                      ← descripción breve para humanos
 credenciales.local.example.md  ← plantilla; cópiala a credenciales.local.md (ignorado por git)
 instrucciones/                 ← acceso al entorno de prácticas (original .mhtml y versión .md)
 enunciados/                    ← enunciados en .txt; los originales en pdf/
-material-didactico/            ← guías de la PLACSP y temario del curso (las aporta el usuario)
+material-didactico/            ← guías de la PLACSP y temario; README.md = índice por ejercicio
+  01_general/ … 06_resolucion/ ← PDF por fase: general, contrato menor, configuración,
+                                 convocatoria y ofertas, mesa y sesiones, resolución
+  texto/                       ← las mismas guías en .txt para buscar con grep
+  _version-anterior/           ← guía de convocatoria obsoleta (no usar)
 practicas/
   ESTADO.md                    ← cuadro de mando
   datos-comunes.md             ← órgano de contratación, mesa, operadores ficticios, versión elegida
