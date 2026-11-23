@@ -23,6 +23,8 @@ En **PCAP → Condiciones de admisión de candidatos → Requisitos previos de p
 
 En **Sobre único → Contenido del sobre** se confirmó la declaración responsable asociada a los cuatro requisitos de capacidad y las entradas para los anexos III, IV y IX y la inscripción registral. Se guardaron y comprobaron al reabrir los textos de ayuda del Anexo IX (tres perfiles, incluida la coordinación, y acreditaciones mínimas) y del registro (certificado o acuse previo al cierre con la declaración exigida). También figura una entrada genérica «Oferta económica» junto al Anexo III específico. Queda pendiente comprobar cómo la presenta el simulador.
 
+En **PCAP → Condiciones de adjudicación → Garantías → Garantía definitiva** se guardó y comprobó al reabrir el **5 % del precio final ofertado sin IVA**, conforme al apartado 5.2 del Anexo I del PCAP. Queda configurada como porcentaje para la fase de adjudicación.
+
 **Texto para el Campus:**
 ```
 Órgano de contratación: OC_INAP_26_AVAN_SEPT_050
