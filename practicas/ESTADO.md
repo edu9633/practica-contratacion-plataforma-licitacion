@@ -30,11 +30,12 @@ El usuario indica que el Campus cierra el 23/11/2026. Los plazos posteriores que
 Recalcular el plazo del abierto a partir de la fecha efectiva de publicación.
 
 ## Pasos que necesitan al usuario
-- **Campus INAP.** Entregar el [contrato menor](00-contrato-menor/ENTREGA.md) con el texto y las evidencias que ya están preparados.
+- **Campus INAP.** Volver a iniciar sesión con la cuenta del curso y entregar el [contrato menor](00-contrato-menor/ENTREGA.md) con el texto y las evidencias ya preparados. El enlace de instrucciones del módulo 0 abrió la página de matriculación indicando que el acceso como invitado está restringido.
 - **Memoria del abierto.** En Chrome quedó abierto el formulario «Nueva Entrada Documentos» del expediente `INAP-050-AB-230278`. Seleccionar [memoria-justificativa.pdf](01-procedimiento-abierto/documentos/memoria-justificativa.pdf) con «Choose File», pulsar «Anexar» y después «Aceptar». Si caduca la sesión, reabrir el expediente y entrar en «Resumen Licitación» → «Otros documentos publicados» → «Memoria justificativa» → «adjuntar» → «Aceptar».
 - **Operadores económicos.** En la zona Empresas de preproducción, completar el CAPTCHA de alta de una cuenta de formación para el simplificado. Para las dos ofertas del abierto se necesitan dos cuentas de formación. También sirven cuentas ya activas. El plazo de oferta del simplificado termina el 28/11/2026 a las 20:00 en la Plataforma de formación.
 - Mesa del módulo 2: la incorporación está autorizada. El alta de presidencia y vocalías exige los identificadores de los usuarios de formación que ocuparán esos cargos.
 - **Firma en preproducción.** Facilitar el certificado de pruebas de los tutores por un canal privado o realizar la firma desde un equipo con las utilidades del curso. La primera firma pendiente es la oferta del simplificado. Los [modelos y el detalle del sobre](02-abierto-simplificado/documentos/borrador-oferta.md) están en el repositorio.
+- **AutoFirma para la mesa del simplificado.** Instalar [AutoFirma 1.9 para Windows de 64 bits](https://firmaelectronica.gob.es/descargas.html) desde una cuenta administradora, o usar un equipo que ya la tenga configurada. Se descargó el instalador oficial y se verificó su firma de la Secretaría General de Administración Digital. La cuenta empleada para la comprobación carece de privilegios de administrador.
 
 ## Diario
 - 23/11/2026. Contrato menor `INAP-050-CM-2026-01` publicado a las 16:40. Evidencia del órgano de contratación guardada. El usuario confirmó la referencia CNMC 230278 para el abierto.
