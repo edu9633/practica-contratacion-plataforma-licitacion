@@ -86,6 +86,12 @@ Identificador de la licitación:
 - [ ] Contrato firmado en la Plataforma (certificado)
 - [ ] Formalización publicada con DOUE y BOE; desbloqueo confirmado
 
+**Borrador del requerimiento de formación**
+
+> Expediente INAP-050-AB-230278. Tras la aceptación de la propuesta de la mesa, se requiere al licitador propuesto que presente la documentación justificativa del apartado 18 del PCAP. Deberá acreditar, en lo que proceda, la capacidad y representación, la solvencia y la documentación restante exigida en el pliego, incluida la garantía definitiva. El plazo previsto en el PCAP es de diez días hábiles desde el día siguiente al de recepción del requerimiento.
+
+Seleccionar como destinatario al licitador que figure en la propuesta efectiva de la mesa. El texto está preparado para el entorno de formación y queda pendiente de envío.
+
 **Texto para el Campus:**
 ```
 Perfil de contratante: 
@@ -95,6 +101,19 @@ Identificador de la licitación:
 ## Ejercicio 6 — Modificación de contrato (M6)
 - [ ] Modificación publicada (DOUE opcional)
 - [ ] Visible en el perfil (captura)
+
+**Datos de prueba para el anuncio**
+
+| Campo | Valor propuesto |
+|---|---|
+| Número | 1 |
+| Descripción | Incorporación, durante la ejecución simulada, de una actualización adicional del diccionario de datos y de una comprobación de coherencia de los registros mensuales. |
+| Duración | Sin variación. Se mantienen los 36 meses iniciales del expediente. |
+| Incremento sin IVA | 1.800,00 € de prueba. |
+| Importe resultante | Importe sin IVA del contrato formalizado más 1.800,00 €. Si la oferta adjudicada fuese la A del borrador, el total sería 181.800,00 € sin IVA y 219.978,00 € con IVA. |
+| Fecha | Usar la fecha que corresponda al acuerdo de modificación en formación una vez formalizado el contrato. |
+
+Estos datos describen un caso ficticio. La modificación no está registrada ni publicada.
 
 **Texto para el Campus:**
 ```

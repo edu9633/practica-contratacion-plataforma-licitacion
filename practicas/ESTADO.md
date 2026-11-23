@@ -14,8 +14,8 @@ El usuario indica que el Campus cierra el 23/11/2026. Los plazos posteriores que
 | 01 Abierto | 2 | Anuncio de licitación DOUE/BOE, pliegos, memoria (M4) | ⛔ | INAP-050-AB-230278 | Validación de Plataforma sin errores. El servicio DOUE falló al generar la previsualización. La convocatoria no se ha publicado. |
 | 01 Abierto | 3 | Pregunta/respuesta + ofertas (M4) | ⬜ | | |
 | 01 Abierto | 4 | Sesiones, apertura, subsanación, valoración, propuesta (M5) | ⛔ | INAP-050-AB-230278 | Sesión provisional `INAP-050-AB-M5-ADMIN` creada. La Plataforma exige publicar los sobres antes de incorporar el acto de apertura. Revisar la fecha tras publicar la licitación. |
-| 01 Abierto | 5 | Requerimiento, adjudicación, firma, formalización (M6) | ⬜ | | |
-| 01 Abierto | 6 | Modificación de contrato (M6) | ⬜ | | |
+| 01 Abierto | 5 | Requerimiento, adjudicación, firma, formalización (M6) | ⛔ | INAP-050-AB-230278 | Texto del requerimiento preparado. El envío exige una propuesta de adjudicación aceptada. |
+| 01 Abierto | 6 | Modificación de contrato (M6) | ⛔ | INAP-050-AB-230278 | Datos del caso de prueba preparados. El anuncio necesita un contrato formalizado. |
 | 02 Simplificado | 1 | Configuración (M3) | 🔄 | INAP-050-AS-2023-000277-PEA | Mesa, duración, tres criterios y sobre único con documentación cargados. Chrome recibió el lanzador JNLP, pero el simulador no se abrió. |
 | 02 Simplificado | 2 | Anuncio de licitación y pliegos + oferta (M4) | ⛔ | INAP-050-AS-2023-000277-PEA | Convocatoria y pliegos publicados y verificados en público con el PCAP, PPT y anexos III y IV. Queda presentar la oferta con un operador registrado y certificado de pruebas. |
 | 02 Simplificado | 3 | Apertura, valoración, propuesta + acto adicional (M5) | ⛔ | INAP-050-AS-2023-000277-PEA | Sesión `INAP-050-AS-M5-20261130` creada para el 30/11/2026 a las 13:00, con cuatro actos en agenda y texto de convocatoria guardado. El intento de envío falló en la conexión con AutoFirma. |
