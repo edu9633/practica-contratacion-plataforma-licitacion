@@ -15,7 +15,7 @@ Identificador de la licitación: `INAP-050-AS-2023-000277-PEA`
 - [ ] Requisitos, criterios y sobre(s) según el pliego
 - [ ] Simulador revisado (captura)
 
-Se creó el expediente con CPV 79419000, 28.452,10 € sin IVA y 34.427,04 € con IVA, cuatro meses de ejecución, tres criterios automáticos de 49, 25 y 26 puntos y un sobre único con declaración responsable y los documentos de oferta. Se fijó un plazo provisional del 27/11/2026 a las 14:00. Pendiente contrastar la acreditación de solvencia de los apartados 4.2 y 4.3 del Anexo I y el resultado del simulador.
+Se creó el expediente con CPV 79419000, 28.452,10 € sin IVA y 34.427,04 € con IVA, cuatro meses de ejecución, tres criterios automáticos de 49, 25 y 26 puntos y un sobre único con declaración responsable y los documentos de oferta. El plazo publicado vence el 28/11/2026 a las 20:00. Pendiente contrastar la acreditación de solvencia de los apartados 4.2 y 4.3 del Anexo I y el resultado del simulador.
 
 **Texto para el Campus:**
 ```
@@ -24,8 +24,11 @@ Identificador de la licitación:
 ```
 
 ## Ejercicio 2 — Convocatoria (M4)
-- [ ] Anuncio de licitación publicado
-- [ ] Anuncio de pliegos publicado
+- [x] Anuncio de licitación publicado el 23/11/2026 a las 19:17 ([captura](evidencias/ej02_convocatoria-publicada_20261123-1917.png)).
+- [x] Anuncio de pliegos publicado el 23/11/2026 a las 19:18 ([captura](evidencias/ej02_pliegos-publicados_20261123-1918.png)).
+
+Se comprobó sin iniciar sesión que ambos anuncios son visibles y que el anuncio de pliegos enlaza al PCAP, PPT y anexos III y IV. [Ficha de formación](https://preprod-contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=Ro4qJBr9kFfnSoTX3z%2F7wA%3D%3D).
+
 - [ ] Al menos una oferta presentada con un operador propio — fin de plazo: 
 
 **Texto para el Campus:**

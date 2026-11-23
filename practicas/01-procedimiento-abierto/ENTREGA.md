@@ -19,8 +19,8 @@ Perfil de contratante: `OC_INAP_26_AVAN_SEPT_050`
 
 **Supuestos:**
 
-- Se creó el expediente con CPV 72320000, 182.551,95 € sin IVA, 220.887,86 € con IVA y 304.253,25 € de valor estimado. Se cargaron 36 meses de ejecución y el plazo provisional del 27/11/2026 a las 14:00.
-- Se registraron la solvencia de 110.443,94 € y 51.540,50 €, los criterios de 8, 36, 5, 47 y 4 puntos, y los tres sobres del PCAP. Falta verificar el guardado global y el resultado del simulador antes de dar el ejercicio por listo.
+- Se creó el expediente con CPV 72320000, 182.551,95 € sin IVA, 220.887,86 € con IVA y 304.253,25 € de valor estimado. Se cargaron 36 meses de ejecución y el plazo provisional del 28/11/2026 a las 20:00.
+- Se registraron la solvencia de 110.443,94 € y 51.540,50 €, los criterios de 8, 36, 5, 47 y 4 puntos, y los tres sobres del PCAP. Se verificó el guardado de los tres sobres. Falta revisar el resultado del simulador.
 **Texto para el Campus:**
 ```
 Perfil de contratante: 
@@ -28,6 +28,9 @@ Identificador de la licitación:
 ```
 
 ## Ejercicio 2 — Convocatoria (M4)
+
+PCAP y PPT guardados mediante sus URL oficiales. La previsualización en Plataforma validó el anuncio sin errores. La previsualización del DOUE devolvió una [incidencia de la Plataforma](evidencias/ej02_error-previsualizacion-DOUE_20261123-1916.png). El anuncio sigue pendiente de publicación.
+
 - [ ] Fin de plazo ≥4 días tras la publicación y no excesivo — fecha: 
 - [ ] Anuncio de licitación previsualizado
 - [ ] Anuncio publicado con envío a DOUE y BOE; desbloqueo confirmado
