@@ -1,0 +1,100 @@
+CURSO INAP
+La Plataforma de Contratación del Sector
+Público como herramienta de transparencia
+
+
+
+
+           CASO PRÁCTICO
+
+      PROCEDIMIENTO ABIERTO
+          SIMPLIFICADO
+CASO PRÁCTICO: PROCEDIMIENTO ABIERTO SIMPLIFICADO
+
+Este documento contiene el guion para el desarrollo de la práctica correspondiente a un procedimiento
+abierto simplificado.
+
+La práctica consiste en llevar a cabo un procedimiento abierto simplificado. Se trata de una práctica obligatoria
+hasta la fase de resolución, siendo esta última opcional para el alumno:
+
+    1.   Configuración de la licitación.
+    2.   Convocatoria de licitación.
+    3.   Evaluación de la documentación presentada y propuesta de adjudicación.
+    4.   Resolución (opcional).
+
+Como las prácticas requieren la participación de licitadores, les aconsejamos que se creen al menos dos
+operadores económicos para, por ejemplo, realizar preguntas o presentar ofertas.
+
+La práctica se divide en 4 ejercicios de acuerdo al módulo en que se integran, de forma que se compone de
+los siguientes ejercicios:
+
+    •    Ejercicio 1 de configuración de la licitación (módulo 3).
+    •    Ejercicio 2 de convocatoria de licitación (módulo 4).
+    •    Ejercicio 3 de apertura de ofertas, evaluación y propuesta de adjudicación (módulo 5).
+    •    Ejercicio 4 de resolución de la licitación (módulo 6).
+
+EJERCICIO 1: Configuración de la licitación
+
+El objetivo de esta práctica es aprender a configurar una licitación electrónica a través de la Plataforma de
+Contratación del Sector Público con tipo de procedimiento ABIERTO SIMPLIFICADO.
+
+Le invitamos a que reproduzca el procedimiento Abierto Simplificado publicado en la Plataforma de
+contratación del Sector Público (http://contrataciondesestado.es) cuyo número de expediente es
+2023/000277-PEA de la Presidencia de la Diputación Provincial de Sevilla. Descargue los pliegos y trate de
+trasladar la información del pliego a los campos al efecto de la Plataforma.
+
+https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=et3SnI3v78
+Cqb7rCcv76BA%3D%3D
+
+Al configurar la licitación como “Electrónica a través de la Plataforma”, asigne como mesa de contratación el
+órgano de asistencia creado en el ejercicio del módulo 2.
+
+Recuerde que puede escoger un abierto simplificado con sobre único o configurar dos sobres. En el ejemplo
+que le hemos sugerido, el sobre es único, es decir tipo “documentación administrativa y criterios
+cuantificables automáticamente”.
+
+Recuerde que tiene a su disposición las guías de ayuda, en especial la del procedimiento abierto simplificado,
+así como del foro para plantear las dudas.
+
+Entregue la práctica indicando el nombre de su órgano de contratación y el identificador de la licitación.
+
+
+
+EJERCICIO 2: Convocatoria de la licitación
+Deberá publicar el anuncio de licitación y el de pliegos.
+
+Puede servirse de las guías anexadas y del foro del módulo 4 para resolver sus dudas.
+
+Realice alguna presentación de oferta con su propio operador económico.
+
+Entregue la práctica indicando el nombre de su órgano de contratación y el identificador de la licitación.
+
+EJERCICIO 3: Selección de licitadores
+
+Continuando con la licitación creada anteriormente, deberá tener en cuenta si ha creado uno o dos sobres.
+Si es el primer caso, deberá celebrar un único acto de apertura criterios cuantificables automáticamente (art.
+159) y el correspondiente de valoración. En caso de ser dos sobres, tendría que celebrar un primer acto de
+apertura criterios sometidos a juicio de valor (art. 159), el de valoración equivalente y, a continuación, el acto
+de apertura criterios cuantificables automáticamente (art. 159) y el de valoración. Finalmente, realice el acto
+de propuesta de adjudicación.
+
+Utilice las guías de ayuda y plantee las dudas en el foro del módulo 5.
+
+Entregue la práctica indicando el nombre de su órgano de contratación y el identificador de la licitación.
+
+Recuerde realizar algún acto diferente a los habituales de apertura, valoración y propuesta de adjudicación,
+como ruegos y preguntas, los relacionados con las comunicaciones genéricas o la aprobación del acta, entre
+otros.
+
+EJERCICIO 4: Resolución (opcional)
+
+Continúe la licitación en la fase de resolución:
+
+    1. Realice el requerimiento de documentación.
+    2. Publique la adjudicación y comuníquela a los participantes.
+    3. Publique la formalización.
+
+Sírvase de la ayuda de las guías y del foro del módulo 6.
+
+Entregue la práctica indicando el nombre de su órgano de contratación y el identificador de la licitación.
+

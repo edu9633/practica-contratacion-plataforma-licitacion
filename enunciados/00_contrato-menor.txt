@@ -1,0 +1,39 @@
+CURSO INAP
+La Plataforma de Contratación del Sector
+Público como herramienta de transparencia
+
+
+
+
+           CASO PRÁCTICO
+
+          CONTRATO MENOR
+CASO PRÁCTICO: CONTRATO MENOR
+
+El objetivo de este ejercicio consiste en realizar la publicación de un contrato menor y comprobar su
+visualización.
+
+Para llevar a cabo este ejercicio deberá:
+
+    1. Acceder al entorno de formación de la Plataforma (https://preprod-contrataciondelestado.es) con su
+       usuario del órgano de contratación que se le ha proporcionado para la realización del curso
+    2. Situarse en ventana de gestión de licitaciones (pestaña Licitaciones)
+
+EJERCICIO: Publicación de un CONTRATO MENOR
+
+La práctica consiste en:
+
+    •   la creación de un EVL correspondiente a un contrato menor
+    •   Configuración de los datos necesarios para la publicación de un contrato menor
+    •   Publicación del contrato menor.
+    •   Una vez publicado el contrato menor compruebe su visualización tanto como órgano de contratación
+        como usuario no registrado en la plataforma.
+
+Puede utilizar los datos que considere adecuados o buscar cualquier contrato menor publicado en la
+Plataforma de Contratación del Sector Público (http://contrataciondesestado.es) para reproducirlo. Como
+ejemplo, le sugerimos el contrato 1791/2025 de la Concejalía de Contratación del Ayuntamiento de Ondara
+(https://contrataciondelestado.es/wps/poc?uri=deeplink:detalle_licitacion&idEvl=ErJhxE%2BzK6U
+%2Bk2oCbDosIw%3D%3D)
+
+Realice la entrega del ejercicio indicando el nombre del perfil de contratante y el identificador de la licitación.
+

@@ -1,0 +1,177 @@
+CURSO INAP
+La Plataforma de Contratación del Sector
+Público como herramienta de transparencia
+
+
+
+
+           CASO PRÁCTICO
+
+      PROCEDIMIENTO ABIERTO
+CASO PRÁCTICO: PROCEDIMIENTO ABIERTO
+
+Este documento contiene el guion para el desarrollo de la práctica correspondiente al procedimiento abierto
+tramitado electrónicamente a través de la Plataforma de Contratación del Sector Público.
+
+Para la realización de esta práctica le proponemos que reproduzca el procedimiento abierto 23/45496 del
+Rectorado de la Universidad de Sevilla publicado en la Plataforma de Contratación del Sector Público.
+Recuerde descargar los pliegos desde https://contrataciondelestado.es y hacer uso de él para crear el Espacio
+Virtual de Licitación.
+
+Para llevar a cabo este ejercicio deberá:
+
+    1. Acceder al entorno de formación de la Plataforma (https://preprod-contrataciondelestado.es) con su
+       usuario del órgano de contratación que se le ha proporcionado para la realización del curso.
+    2. Situarse en la pestaña de Licitaciones (botón Nuevo).
+
+Como las prácticas requieren la participación de licitadores, les aconsejamos que se creen al menos dos
+operadores económicos para, por ejemplo, realizar preguntas o presentar ofertas.
+
+No olvide que debe emplear un certificado electrónico. Si no dispone de él, por favor, contacte con los
+tutores y le facilitarán uno de pruebas.
+
+Recuerde que la mayor parte de las recomendaciones que se ofrecen en esta guía valen para otros
+procedimientos que quiera realizar de manera opcional.
+
+Este ejercicio del procedimiento abierto es el único que es obligatorio en todas sus fases, es decir, desde la
+configuración hasta la resolución. El abierto simplificado es obligatorio hasta la selección de licitadores. En
+cuanto al resto de procedimientos, pueden hacer los que quieran y llegar hasta la fase que deseen.
+
+AVISO IMPORTANTE: Cuando cree sus propios usuarios operadores económicos NO USE DIRECCIÓN
+DE CORREO ELECTRÓNICO AUTÉNTICAS DE EMPRESAS. Le sugerimos que use alguna particular suya
+o mailinator (ejemplo:azulejosperez@mailinator.com), que le permitirá consultar las notificaciones
+escribiendo mailinator.com en la dirección url y, a continuación, el correo en la casilla que se habilita. En
+nuestro caso, azulejosperez.
+
+PRÁCTICAS DEL MÓDULO 3
+
+El objetivo de este ejercicio es crear una nueva licitación con tipo de procedimiento Abierto y proceder a su
+configuración como “Electrónica” a través de la Plataforma.
+
+EJERCICIO 1: Configuración de la licitación del procedimiento ABIERTO
+
+Cree los datos básicos del expediente registrando la información que figura en el pliego.
+
+Como condiciones de presentación de ofertas: configure la licitación como “Electrónica a través de la
+Plataforma” y asigne como mesa de contratación el órgano de asistencia creado en el ejercicio del módulo
+2.
+
+Configure el procedimiento siguiendo las instrucciones que figuran en el pliego. Tenga en cuenta que tiene
+que registrar, al menos, los requisitos de participación, los criterios de adjudicación y configurar los sobres
+electrónicos.
+
+Utilice fecha de presentación de ofertas futura próxima, no la del pliego.
+Previsualice la herramienta de presentación de ofertas con el simulador disponible en la pestaña “Resumen
+Licitación” para asegurarse de que la configuración realizada es correcta. Si no lo es, proceda a su corrección.
+
+Realice la entrega del ejercicio indicando el nombre del perfil de contratante y el identificador de la licitación
+para que el tutor proceda a su evaluación.
+
+PRÁCTICAS DEL MÓDULO 4
+
+Los objetivos de este ejercicio son:
+
+    •    Realizar la convocatoria de la licitación.
+    •    Aprender cómo se publican otros documentos asociados a la licitación de obligada publicación.
+    •    Responder a una pregunta de un licitador para hacerlas públicas.
+
+Compruebe la fecha de presentación de ofertas asegurándose de dejar al menos 4 días para que dé tiempo a
+realizar la espera para la publicación en el DOUE y de dejar margen para la presentación de la documentación
+por parte del operador económico. No indique un plazo demasiado amplio ya que los sobres no pueden
+abrirse si no ha vencido la fecha de presentación de ofertas.
+
+EJERCICIO 2: Publicación de la convocatoria de la licitación del procedimiento ABIERTO
+
+Previsualice y posteriormente publique el anuncio de licitación con envío para su publicación en el Diario
+Oficial de la Unión Europea (DOUE) y en el Boletín Oficial del Estado (BOE). La licitación se quedará
+bloqueada en espera de que se publique en el DOUE en un máximo de 30 minutos. Deberá por tanto esperar
+a ello. Como responsable de la licitación, recibirá un correo electrónico en el momento que se produzca la
+publicación en el perfil de contratante. Una vez se haya publicado el anuncio en el perfil de contratante, la
+licitación se desbloquea.
+
+Adjunte los pliegos y los anexos a los pliegos del procedimiento en las pestañas PPT, PCAP y Anexo pliegos.
+Proceda a la publicación del anuncio de pliegos.
+
+Escoja algún documento para publicar en la pestaña Resumen, del tipo memoria justificativa.
+
+Realice la entrega del ejercicio indicando el nombre del perfil de contratante y el identificador de la licitación
+para que el tutor proceda a su evaluación.
+
+EJERCICIO 3: Pregunta/Respuesta en procedimiento ABIERTO
+
+Actúe como operador económico y realice una pregunta que usted deberá responder cuando reciba el
+correo electrónico aviso de que tiene una pregunta pendiente.
+
+Realice alguna presentación de oferta con su propio operador económico.
+
+Entregue el ejercicio indicando el nombre del perfil de contratante y el identificador de la licitación para que
+el tutor proceda a su evaluación.
+
+PRÁCTICAS DEL MÓDULO 5
+
+Los objetivos de este ejercicio son:
+
+    •    Familiarizarse con la gestión de sesiones, creando diferentes sesiones y convocándolas.
+    •    Aprender cómo se celebran las sesiones de apertura y valoración de ofertas hasta alcanzar la
+         propuesta de adjudicación.
+    •    Conocer la existencia de otros actos que permiten una gestión integral de los órganos de asistencia,
+         como la aprobación del acta, las comunicaciones genéricas o la posibilidad de generar diversos
+         informes.
+
+EJERCICIO 4: Selección de licitadores en procedimiento ABIERTO
+
+En este ejercicio deberá celebrar sesiones de tal modo que pueda realizar la apertura de los sobres de las
+ofertas, valorarlas y proponer el adjudicatario.
+
+No olvide acceder con su usuario de órgano de asistencia (secretario) para crear las sesiones y convocarlas,
+como paso previo a la celebración de la sesión.
+
+Para celebrar la sesión, indique como presentes al resto de miembros del órgano de asistencia.
+
+El primer acto que debe configurar es el de apertura y calificación administrativa. Cuando realice la calificación
+de los licitadores recuerde definir uno de ellos como admitido provisionalmente para pedirle que subsane.
+
+Una vez que celebre el acto de subsanación, podrá llevar a cabo la apertura del siguiente sobre. No olvide
+que los actos de apertura y valoración los crea automáticamente la Plataforma, por lo que sólo tendrá que
+incorporarlos al orden del día de la sesión. Sin embargo, la propuesta de adjudicación debe crearla usted
+mismo.
+
+No olvide generar los diferentes informes que le proporciona la Plataforma, como la lista de licitadores, el
+informe de apertura o el de propuesta de adjudicación. También, le recomendamos que se familiarice con las
+comunicaciones genéricas, así que realice una solicitud de aclaración a la oferta técnica o una solicitud de
+justificación anormalmente baja a la oferta de criterios cuantificables automáticamente.
+
+Sería recomendable que gestionara el acta de, al menos una de las sesiones.
+
+PRÁCTICAS DEL MÓDULO 6
+
+Los objetivos de este ejercicio son que el alumno se familiarice con la funcionalidad que ofrece la Plataforma
+de Contratación del Sector Público posterior a la selección de licitadores:
+
+    -   Requerimiento de documentación al licitador propuesto como adjudicatario.
+    -   Publicación de la adjudicación y su comunicación a todas las empresas.
+    -   Firma del contrato a través de la Plataforma.
+    -   Publicación de la formalización del contrato en diarios oficiales y su envío a los diarios oficiales.
+
+EJERCICIO 5: Resolución del procedimiento ABIERTO
+
+Una vez que el órgano de asistencia ha realizado la propuesta de adjudicación proceda a realizar las siguientes
+acciones:
+
+    -   Envíe el requerimiento de documentación al licitador propuesto como adjudicatario.
+    -   Configure la adjudicación y proceda a su publicación y posterior comunicación a todas las empresas.
+    -   Realice la firma del contrato a través de la Plataforma.
+    -   Publique la formalización del contrato. En el módulo 4 se estudió el envío a diarios a oficiales del
+        anuncio, marque envío a DOUE y BOE. Al igual que en el anuncio de licitación la licitación quedará
+        bloqueada hasta su publicación en el DOUE en aproximadamente 30 minutos.
+
+Realice la entrega del ejercicio indicando el nombre del perfil de contratante y el identificador de la licitación
+para que el tutor proceda a su evaluación.
+EJERCICIO 6: Publicación de Modificación de Contrato
+
+Publique una modificación de contrato. En este caso también puede marcar envió a DOUE del anuncio. En
+este caso la licitación no quedará bloqueada esperando su publicación en dicho diario.
+
+Realice la entrega del ejercicio indicando el nombre del perfil de contratante y el identificador de la licitación
+para que el tutor proceda a su evaluación.
+

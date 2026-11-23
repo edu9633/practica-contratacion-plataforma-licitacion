@@ -1,0 +1,8 @@
+# Credenciales: nunca al repo (es público)
+credenciales.local.md
+*.local.md
+# Descargas a medias y basura del sistema
+*.crdownload
+*.part
+.DS_Store
+Thumbs.db
