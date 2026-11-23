@@ -31,6 +31,8 @@ Identificador de la licitación: INAP-050-AB-230278
 
 PCAP y PPT guardados mediante sus URL oficiales. La previsualización en Plataforma validó el anuncio sin errores. La previsualización del DOUE devolvió una [incidencia de la Plataforma](evidencias/ej02_error-previsualizacion-DOUE_20261123-1916.png). El anuncio sigue pendiente de publicación.
 
+La memoria justificativa está en `documentos/memoria-justificativa.pdf`. La acción independiente de publicación abre un selector de archivos y no ofrece un campo de URL. El navegador perdió la conexión al seleccionar el PDF. Antes de reintentar, comprobar si la memoria figura adjunta en el resumen del expediente.
+
 - [ ] Fin de plazo ≥4 días tras la publicación y no excesivo — fecha: 
 - [ ] Anuncio de licitación previsualizado
 - [ ] Anuncio publicado con envío a DOUE y BOE; desbloqueo confirmado
